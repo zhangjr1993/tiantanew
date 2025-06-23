@@ -54,7 +54,6 @@ jobs:
       - name: Print Environment Info
         run: |
           echo "============= Environment Variables ============="
-          echo "SWIFT_VERSION = 5.0" >> ios/Runner.xcodeproj/project.pbxproj
           echo "GITHUB_WORKSPACE: $GITHUB_WORKSPACE"
           FLUTTER_ROOT=$(which flutter | xargs dirname | xargs dirname)
           echo "FLUTTER_ROOT: $FLUTTER_ROOT"
