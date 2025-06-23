@@ -623,8 +623,8 @@
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YY9VHMCUK4;
 				ENABLE_BITCODE = NO;
-				FLUTTER_APPLICATION_PATH = /Users/tmp/Desktop/tianta;
-				FLUTTER_ROOT = /Users/tmp/Desktop/flutter;
+				FLUTTER_APPLICATION_PATH = /Users/runner/work/tiantanew/tiantanew;
+				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.24.4-stable/arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -765,8 +765,8 @@
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YY9VHMCUK4;
 				ENABLE_BITCODE = NO;
-				FLUTTER_APPLICATION_PATH = /Users/tmp/Desktop/tianta;
-				FLUTTER_ROOT = /Users/tmp/Desktop/flutter;
+				FLUTTER_APPLICATION_PATH = /Users/runner/work/tiantanew/tiantanew;
+				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.24.4-stable/arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -802,8 +802,8 @@
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YY9VHMCUK4;
 				ENABLE_BITCODE = NO;
-				FLUTTER_APPLICATION_PATH = /Users/tmp/Desktop/tianta;
-				FLUTTER_ROOT = /Users/tmp/Desktop/flutter;
+				FLUTTER_APPLICATION_PATH = /Users/runner/work/tiantanew/tiantanew;
+				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.24.4-stable/arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
