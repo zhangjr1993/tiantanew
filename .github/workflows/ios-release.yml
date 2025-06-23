@@ -24,7 +24,10 @@ jobs:
       # 添加 Xcode 版本选择
       - name: Select Xcode 16.2
         run: sudo xcode-select -s /Applications/Xcode_16.2.app
-
+        
+      # 选择Swift版本
+      - name: Select Swift 5
+        run: xcodebuild -version 'Swift 5'
     
       - name: Setup Flutter Environment
         run: |
