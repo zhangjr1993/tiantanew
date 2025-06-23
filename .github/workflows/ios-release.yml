@@ -86,7 +86,7 @@ jobs:
 
        # 添加检查步骤
       - name: 检查构建文件
-         run: |
+          run: |
            echo "检查 build/ios/ipa 目录内容："
            ls -la build/ios/ipa/
            echo "检查 build/ios 目录内容："
