@@ -221,7 +221,7 @@ extension ProfileViewController: UITableViewDelegate {
 }
 
 // MARK: - EditProfileViewControllerDelegate
-extension ProfileViewController: EditProfileViewControllerDelegate {
+extension ProfileViewController: @preconcurrency EditProfileViewControllerDelegate {
     func didUpdateUserProfile() {
         // 用户资料更新后刷新显示
         loadUserData()

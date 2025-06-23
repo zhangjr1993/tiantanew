@@ -26,8 +26,8 @@ jobs:
         run: sudo xcode-select -s /Applications/Xcode_16.2.app
         
       # 选择Swift版本
-      - name: Select Swift 5
-        run: xcodebuild -version 'Swift 5'
+#      - name: Select Swift 5
+#        run: sudo xcode-select -s -version 'Swift 5'
     
       - name: Setup Flutter Environment
         run: |

@@ -45,7 +45,7 @@ struct ZhipuAIUsage: Codable {
 
 // MARK: - ZhipuAI Service
 class ZhipuAIService {
-    static let shared = ZhipuAIService()
+    @MainActor static let shared = ZhipuAIService()
     
     private let apiKey = "ee15acc310bd4ff08dcf1eb3a8b067ad.iuWqi4cnQDkMTtgR"
     private let baseURL = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
