@@ -24,11 +24,7 @@ jobs:
       # 添加 Xcode 版本选择
       - name: Select Xcode 16.2
         run: sudo xcode-select -s /Applications/Xcode_16.2.app
-        
-      # 选择Swift版本
-#      - name: Select Swift 5
-#        run: sudo xcode-select -s -version 'Swift 5'
-    
+
       - name: Setup Flutter Environment
         run: |
           flutter clean
@@ -41,13 +37,7 @@ jobs:
           rm -rf ~/Library/Developer/Xcode/iOS\ DeviceSupport
           rm -rf ~/Library/Developer/Xcode/Archives
           rm -rf ~/Library/Developer/Xcode/Products
-#      # 设置 CocoaPods
-#       - name: Setup CocoaPods
-#         run: |
-#           cd ios
-#           pod install
-#           rm -rf Pods
-#           rm -f Podfile.lock
+
       - name: Setup CocoaPods
         run: |
             cd ios
