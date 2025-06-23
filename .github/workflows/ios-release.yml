@@ -45,9 +45,10 @@ jobs:
        - name: Setup CocoaPods
          run: |
            cd ios
-      #     rm -rf Pods
-      #     rm -f Podfile.lock
            pod install
+#           rm -rf Pods
+#           rm -f Podfile.lock
+           
           
 #       添加详细的环境信息调试步骤
       - name: Print Environment Info
