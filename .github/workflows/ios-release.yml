@@ -42,17 +42,18 @@ jobs:
           rm -rf ~/Library/Developer/Xcode/Archives
           rm -rf ~/Library/Developer/Xcode/Products
       # 设置 CocoaPods
-      # - name: Setup CocoaPods
-      #   run: |
-      #     cd ios
+       - name: Setup CocoaPods
+         run: |
+           cd ios
       #     rm -rf Pods
       #     rm -f Podfile.lock
-      #     pod install --repo-update
+           pod install
           
 #       添加详细的环境信息调试步骤
       - name: Print Environment Info
         run: |
           echo "============= Environment Variables ============="
+          echo "SWIFT_VERSION = 5.0" >> ios/Runner.xcodeproj/project.pbxproj
           echo "GITHUB_WORKSPACE: $GITHUB_WORKSPACE"
           FLUTTER_ROOT=$(which flutter | xargs dirname | xargs dirname)
           echo "FLUTTER_ROOT: $FLUTTER_ROOT"
