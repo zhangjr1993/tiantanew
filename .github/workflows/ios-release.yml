@@ -52,6 +52,7 @@ jobs:
         run: |
             cd ios
             pod install
+            cd ..
           
 #       添加详细的环境信息调试步骤
       - name: Print Environment Info
@@ -83,13 +84,13 @@ jobs:
 
           keychain-password: 111111
 
-      # # 添加检查步骤
-      # - name: 检查构建文件
-      #   run: |
-      #     echo "检查 build/ios/ipa 目录内容："
-      #     ls -la build/ios/ipa/
-      #     echo "检查 build/ios 目录内容："
-      #     ls -la build/ios/
+       # 添加检查步骤
+       - name: 检查构建文件
+         run: |
+           echo "检查 build/ios/ipa 目录内容："
+           ls -la build/ios/ipa/
+           echo "检查 build/ios 目录内容："
+           ls -la build/ios/
 
       - name: Archive IPA
         uses: actions/upload-artifact@v4
@@ -97,28 +98,28 @@ jobs:
           name: release-ipa
           path: build/ios/ipa
           
-#      - name: Check IPA Path
-#        run: |
-#          echo "=================== IPA Location Check ==================="
-#          echo "Checking build/ios directory:"
-#          ls -R build/ios/
-#          
-#          echo "\nChecking for IPA files in build directory:"
-#          find build -name "*.ipa" -type f
-#          
-#          echo "\nChecking specific paths:"
-#          for path in \
-#            "build/ios/ipa" \
-#            "build/ios/archive/Runner.xcarchive/Products/Applications" \
-#            "build/ios/Release-iphoneos"
-#          do
-#            echo "\nChecking $path:"
-#            if [ -d "$path" ]; then
-#              ls -la "$path"
-#            else
-#              echo "Directory does not exist: $path"
-#            fi
-#          done
+      - name: Check IPA Path
+        run: |
+          echo "=================== IPA Location Check ==================="
+          echo "Checking build/ios directory:"
+          ls -R build/ios/
+          
+          echo "\nChecking for IPA files in build directory:"
+          find build -name "*.ipa" -type f
+          
+          echo "\nChecking specific paths:"
+          for path in \
+            "build/ios/ipa" \
+            "build/ios/archive/Runner.xcarchive/Products/Applications" \
+            "build/ios/Release-iphoneos"
+          do
+            echo "\nChecking $path:"
+            if [ -d "$path" ]; then
+              ls -la "$path"
+            else
+              echo "Directory does not exist: $path"
+            fi
+          done
 
           
       # - name: Upload using iTMSTransporter
