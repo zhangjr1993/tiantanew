@@ -11,15 +11,15 @@ jobs:
     runs-on: macos-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-      - uses: subosito/flutter-action@v1
+      - uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.24.4'
           
-      - uses: swift-actions/setup-swift@v2
-        with:
-          swift-version: "5.0"  # 指定具体版本
+#      - uses: swift-actions/setup-swift@v2
+#        with:
+#          swift-version: "5.0"  # 指定具体版本
       
           
       # 打印可用的 Xcode 版本
@@ -28,7 +28,7 @@ jobs:
 
       # 添加 Xcode 版本选择
       - name: Select Xcode 16.2
-        run: sudo xcode-select -s /Applications/Xcode_16.1.app
+        run: sudo xcode-select -s /Applications/Xcode_16.2.app
 
       - name: Setup Flutter Environment
         run: |
