@@ -60,7 +60,6 @@
 		AEC1587F2E0A50B2002B1B23 /* Suprenova.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC158402E0A50B2002B1B23 /* Suprenova.mp3 */; };
 		AEC158802E0A50B2002B1B23 /* ThroughDustWithGrace.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC158412E0A50B2002B1B23 /* ThroughDustWithGrace.mp3 */; };
 		AEC158812E0A50B2002B1B23 /* Triggered.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC158422E0A50B2002B1B23 /* Triggered.mp3 */; };
-		AEC158822E0A50B2002B1B23 /* WhenTheWeightGets Heavy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC158432E0A50B2002B1B23 /* WhenTheWeightGets Heavy.mp3 */; };
 		AEC158842E0A50B2002B1B23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEC1584A2E0A50B2002B1B23 /* LaunchScreen.storyboard */; };
 		AEC158852E0A50B2002B1B23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEC1584C2E0A50B2002B1B23 /* Main.storyboard */; };
 /* End PBXBuildFile section */
@@ -137,7 +136,6 @@
 		AEC158402E0A50B2002B1B23 /* Suprenova.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Suprenova.mp3; sourceTree = "<group>"; };
 		AEC158412E0A50B2002B1B23 /* ThroughDustWithGrace.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ThroughDustWithGrace.mp3; sourceTree = "<group>"; };
 		AEC158422E0A50B2002B1B23 /* Triggered.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Triggered.mp3; sourceTree = "<group>"; };
-		AEC158432E0A50B2002B1B23 /* WhenTheWeightGets Heavy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "WhenTheWeightGets Heavy.mp3"; sourceTree = "<group>"; };
 		AEC158452E0A50B2002B1B23 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AEC158462E0A50B2002B1B23 /* GeneratedPluginRegistrant.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GeneratedPluginRegistrant.h; sourceTree = "<group>"; };
 		AEC158472E0A50B2002B1B23 /* GeneratedPluginRegistrant.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GeneratedPluginRegistrant.m; sourceTree = "<group>"; };
@@ -353,7 +351,6 @@
 				AEC158402E0A50B2002B1B23 /* Suprenova.mp3 */,
 				AEC158412E0A50B2002B1B23 /* ThroughDustWithGrace.mp3 */,
 				AEC158422E0A50B2002B1B23 /* Triggered.mp3 */,
-				AEC158432E0A50B2002B1B23 /* WhenTheWeightGets Heavy.mp3 */,
 			);
 			path = Resource;
 			sourceTree = "<group>";
@@ -461,7 +458,6 @@
 				AEC1587F2E0A50B2002B1B23 /* Suprenova.mp3 in Resources */,
 				AEC158802E0A50B2002B1B23 /* ThroughDustWithGrace.mp3 in Resources */,
 				AEC158812E0A50B2002B1B23 /* Triggered.mp3 in Resources */,
-				AEC158822E0A50B2002B1B23 /* WhenTheWeightGets Heavy.mp3 in Resources */,
 				AEC158842E0A50B2002B1B23 /* LaunchScreen.storyboard in Resources */,
 				AEC158852E0A50B2002B1B23 /* Main.storyboard in Resources */,
 			);
@@ -667,7 +663,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YY9VHMCUK4;
 				ENABLE_BITCODE = NO;
@@ -809,7 +805,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YY9VHMCUK4;
 				ENABLE_BITCODE = NO;
@@ -846,7 +842,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YY9VHMCUK4;
 				ENABLE_BITCODE = NO;

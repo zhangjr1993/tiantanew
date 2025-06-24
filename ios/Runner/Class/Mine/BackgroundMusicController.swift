@@ -19,7 +19,6 @@ let backgroundMusicList = [
     "Suprenova",
     "ThroughDustWithGrace",
     "Triggered",
-    "WhenTheWeightGets Heavy"
 ]
 
 class BackgroundMusicController: BaseController, UITableViewDelegate, UITableViewDataSource {
