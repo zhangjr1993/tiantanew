@@ -38,11 +38,11 @@ jobs:
           rm -rf ~/Library/Developer/Xcode/Archives
           rm -rf ~/Library/Developer/Xcode/Products
 
-      - name: Setup CocoaPods
-        run: |
-            cd ios
-            pod install
-            cd ..
+#      - name: Setup CocoaPods
+#        run: |
+#            cd ios
+#            pod install
+#            cd ..
           
 #       添加详细的环境信息调试步骤
       - name: Print Environment Info
