@@ -668,7 +668,7 @@
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YY9VHMCUK4;
 				ENABLE_BITCODE = NO;
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/tiantanew/tiantanew;
-				FLUTTER_ROOT = " /Users/runner/hostedtoolcache/flutter/3.24.4-stable/arm64";
+				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/stable-3.24.4-arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -685,7 +685,7 @@
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -810,7 +810,7 @@
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YY9VHMCUK4;
 				ENABLE_BITCODE = NO;
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/tiantanew/tiantanew;
-				FLUTTER_ROOT = " /Users/runner/hostedtoolcache/flutter/3.24.4-stable/arm64";
+				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/stable-3.24.4-arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -828,7 +828,7 @@
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -847,7 +847,7 @@
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YY9VHMCUK4;
 				ENABLE_BITCODE = NO;
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/tiantanew/tiantanew;
-				FLUTTER_ROOT = " /Users/runner/hostedtoolcache/flutter/3.24.4-stable/arm64";
+				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/stable-3.24.4-arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -864,7 +864,7 @@
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};

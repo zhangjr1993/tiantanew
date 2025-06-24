@@ -2,7 +2,7 @@ import Foundation
 import AVFoundation
 
 class BackgroundMusicManager {
-    static let shared = BackgroundMusicManager()
+    @MainActor static let shared = BackgroundMusicManager()
     private var player: AVAudioPlayer?
     private(set) var currentMusic: String?
     private(set) var isPlaying = false

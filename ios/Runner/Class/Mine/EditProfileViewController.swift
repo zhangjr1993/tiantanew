@@ -204,7 +204,7 @@ class EditProfileViewController: BaseController {
 }
 
 // MARK: - UIImagePickerControllerDelegate
-extension EditProfileViewController: PhotoPickerControllerDelegate {
+extension EditProfileViewController: @preconcurrency PhotoPickerControllerDelegate {
     func pickerController(_ pickerController: PhotoPickerController, didFinishSelection result: PickerResult) {
         pickerController.dismiss(true) {
             guard let asset = result.photoAssets.first else { return }

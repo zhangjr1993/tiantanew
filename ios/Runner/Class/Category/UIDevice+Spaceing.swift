@@ -8,8 +8,10 @@
 import Foundation
 import UIKit
 
+@MainActor
 public let safeAreaBottom: CGFloat = (isIPhoneX ? 34 : 0 )
 
+@MainActor
 extension UIDevice {
     static let deviceWidth = UIScreen.main.bounds.size.width
     static let deviceHeight = UIScreen.main.bounds.size.height
@@ -29,6 +31,7 @@ extension UIDevice {
     }
 }
 
+@MainActor
 var isIPhoneX: Bool {
     if #available(iOS 11.0, *) {
         guard let w = UIApplication.shared.delegate?.window, let unwrapedWindow = w else {

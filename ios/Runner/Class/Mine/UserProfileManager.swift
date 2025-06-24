@@ -10,7 +10,7 @@ class UserProfile: Object {
 }
 
 class UserProfileManager {
-    static let shared = UserProfileManager()
+    @MainActor static let shared = UserProfileManager()
     
     private var realm: Realm?
     

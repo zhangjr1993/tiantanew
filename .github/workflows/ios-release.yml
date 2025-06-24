@@ -17,14 +17,6 @@ jobs:
         with:
           flutter-version: '3.24.4'
           
-#      - uses: swift-actions/setup-swift@v2
-#        with:
-#          swift-version: "5.0"  # 指定具体版本
-      
-          
-      # 打印可用的 Xcode 版本
-      - name: List Available Xcode Versions
-        run: ls -la /Applications/ | grep "Xcode"
 
       # 添加 Xcode 版本选择
       - name: Select Xcode 16.2
@@ -72,7 +64,7 @@ jobs:
           echo "Xcode Path: $(xcode-select -p)"
           swift --version
           
-      - uses: cedvdb/action-flutter-build-ios@v2
+      - uses: cedvdb/action-flutter-build-ios@v1
         with:
           build-cmd: |
             flutter build ipa --release --export-options-plist=ios/ExportOptions.plist --no-tree-shake-icons
@@ -123,16 +115,16 @@ jobs:
 #          done
 
    
-#      - name: Upload to App Store using altool
-#        env:
-#          IPA_PATH: "build/ios/ipa/tianta.ipa"
-#          APPLE_ID: "jsdpx5170@outlook.com"
-#          APP_SPECIFIC_PASSWORD: "airs-lyxf-boib-dpml"
-#        run: |
-#          xcrun altool --upload-app -f "$IPA_PATH" \
-#            -t ios \
-#            -u "$APPLE_ID" \
-#            -p "$APP_SPECIFIC_PASSWORD" \
-#            --verbose
+      - name: Upload to App Store using altool
+        env:
+          IPA_PATH: "build/ios/ipa/tianta.ipa"
+          APPLE_ID: "jsdpx5170@outlook.com"
+          APP_SPECIFIC_PASSWORD: "airs-lyxf-boib-dpml"
+        run: |
+          xcrun altool --upload-app -f "$IPA_PATH" \
+            -t ios \
+            -u "$APPLE_ID" \
+            -p "$APP_SPECIFIC_PASSWORD" \
+            --verbose
 
 

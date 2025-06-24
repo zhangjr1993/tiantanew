@@ -8,7 +8,7 @@
 import UIKit
 
 class RunUserManager: NSObject {
-    static let shared = RunUserManager()
+    @MainActor static let shared = RunUserManager()
 
     var aiList: [AICharacterInfoModel] = []
     

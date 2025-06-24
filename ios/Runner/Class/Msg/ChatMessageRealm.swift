@@ -29,7 +29,7 @@ class ChatMessageRealm: Object {
 
 // MARK: - Chat Message Manager
 class ChatMessageManager {
-    static let shared = ChatMessageManager()
+    nonisolated(unsafe) static let shared = ChatMessageManager()
     
     private var realm: Realm?
     
