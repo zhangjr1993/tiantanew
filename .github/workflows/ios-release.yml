@@ -41,8 +41,6 @@ jobs:
       - name: Setup CocoaPods
         run: |
             cd ios
-            rm -rf Pods
-            rm -f Podfile.lock
             pod install
             cd ..
           
