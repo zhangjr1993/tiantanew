@@ -35,18 +35,14 @@ jobs:
           rm -rf ~/Library/Developer/Xcode/Archives
           rm -rf ~/Library/Developer/Xcode/Products
 
-#      - name: Setup CocoaPods
-#        run: |
-#            cd ios
-#            rm -rf Pods
-#            rm -f Podfile.lock
-#            pod install --repo-update
-#            cd ..
+      - name: Setup CocoaPods
+        run: |
+            cd ios
+            rm -rf Pods
+            rm -f Podfile.lock
+            pod install --repo-update
+            cd ..
         
-#      - name: Set Xcode Build Settings
-#        run: |
-#            echo "SWIFT_VERSION=5.0" >> $GITHUB_ENV
-#            echo "GCC_TREAT_WARNINGS_AS_ERRORS=NO" >> $GITHUB_ENV
     
 #       添加详细的环境信息调试步骤
       - name: Print Environment Info
