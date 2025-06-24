@@ -72,7 +72,7 @@ jobs:
           echo "Xcode Path: $(xcode-select -p)"
           swift --version
           
-      - uses: cedvdb/action-flutter-build-ios@v1
+      - uses: cedvdb/action-flutter-build-ios@v2
         with:
           build-cmd: |
             flutter build ipa --release --export-options-plist=ios/ExportOptions.plist --no-tree-shake-icons
