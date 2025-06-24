@@ -36,9 +36,9 @@ class AppDelegate: FlutterAppDelegate {
         }
         
         window?.makeKeyAndVisible()
-        
         return super.application(application, didFinishLaunchingWithOptions: launchOptions)
     }
+  
     
     private func setupIQConfig() {
 

@@ -65,3 +65,13 @@ extension UIView {
         }
     }
 }
+
+extension UIApplication {
+    static var keyWindow: UIWindow? {
+        return UIApplication.shared
+            .connectedScenes
+            .filter { $0.activationState == .foregroundActive && $0 is UIWindowScene }
+            .compactMap { $0 as? UIWindowScene }.first?.windows
+            .filter { $0.isKeyWindow }.first
+    }
+}

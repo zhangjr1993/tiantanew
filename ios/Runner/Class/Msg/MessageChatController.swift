@@ -77,9 +77,9 @@ class MessageChatController: BaseController {
         return textView
     }()
     
-    private lazy var videoCallButton: UIButton = {
+    private lazy var sendMsgButton: UIButton = {
         let button = UIButton(type: .custom)
-        button.setImage(UIImage(named: "btn_chat_video"), for: .normal)
+        button.setImage(UIImage(named: "btn_chat_send"), for: .normal)
         return button
     }()
     
@@ -130,13 +130,13 @@ class MessageChatController: BaseController {
         
         inputContainerView.addSubview(textBgView)
         textBgView.addSubview(textView)
-        inputContainerView.addSubview(videoCallButton)
+        inputContainerView.addSubview(sendMsgButton)
         
         // 添加点击手势来收起键盘
         let tapGesture = UITapGestureRecognizer(target: self, action: #selector(handleTap))
         tableView.addGestureRecognizer(tapGesture)
         
-        videoCallButton.addTarget(self, action: #selector(videoButtonTapped), for: .touchUpInside)
+        sendMsgButton.addTarget(self, action: #selector(sendButtonTapped), for: .touchUpInside)
     }
     
     private func setupConstraints() {
@@ -177,7 +177,7 @@ class MessageChatController: BaseController {
             make.leading.equalToSuperview().offset(12)
             make.top.equalToSuperview().offset(8)
             make.height.greaterThanOrEqualTo(42)
-            make.trailing.equalTo(videoCallButton.snp.leading).offset(-12)
+            make.trailing.equalTo(sendMsgButton.snp.leading).offset(-12)
         }
         
         // TextView
@@ -187,7 +187,7 @@ class MessageChatController: BaseController {
         }
         
         // Video Call Button
-        videoCallButton.snp.makeConstraints { make in
+        sendMsgButton.snp.makeConstraints { make in
             make.trailing.equalToSuperview().offset(-12)
             make.centerY.equalTo(textView)
             make.size.equalTo(CGSize(width: 26, height: 24))
@@ -288,52 +288,53 @@ class MessageChatController: BaseController {
             }
         }
     }
-    
+  
     private func pushMsgCallVideo() {
-        guard let dataModel else { return }
-        let callController = MessageCallVideoController()
-        callController.aiNickname = dataModel.nick
-        callController.aiAvatarImage = UIImage(named: dataModel.cover)
-        callController.mid = dataModel.mid
-        callController.bgImage = UIImage(named: dataModel.cover)
-        navigationController?.pushViewController(callController, animated: true)
+        self.sendMessage()
+//        guard let dataModel else { return }
+//        let callController = MessageCallVideoController()
+//        callController.aiNickname = dataModel.nick
+//        callController.aiAvatarImage = UIImage(named: dataModel.cover)
+//        callController.mid = dataModel.mid
+//        callController.bgImage = UIImage(named: dataModel.cover)
+//        navigationController?.pushViewController(callController, animated: true)
     }
     
-    @objc private func videoButtonTapped() {
-        let audioSession = AVAudioSession.sharedInstance()
-        switch audioSession.recordPermission {
-        case .granted:
-            pushMsgCallVideo()
-        case .denied:
-            let alert = UIAlertController(title: "麦克风权限未开启", message: "请在设置中允许麦克风权限，以进行视频通话。", preferredStyle: .alert)
-            alert.addAction(UIAlertAction(title: "取消", style: .cancel))
-            alert.addAction(UIAlertAction(title: "去设置", style: .default) { _ in
-                if let url = URL(string: UIApplication.openSettingsURLString), UIApplication.shared.canOpenURL(url) {
-                    UIApplication.shared.open(url)
-                }
-            })
-            present(alert, animated: true)
-        case .undetermined:
-            audioSession.requestRecordPermission { [weak self] granted in
-                DispatchQueue.main.async {
-                    if granted {
-                        self?.pushMsgCallVideo()
-                    } else {
-                        let alert = UIAlertController(title: "麦克风权限未开启", message: "请在设置中允许麦克风权限，以进行视频通话。", preferredStyle: .alert)
-                        alert.addAction(UIAlertAction(title: "取消", style: .cancel))
-                        alert.addAction(UIAlertAction(title: "去设置", style: .default) { _ in
-                            if let url = URL(string: UIApplication.openSettingsURLString), UIApplication.shared.canOpenURL(url) {
-                                UIApplication.shared.open(url)
-                            }
-                        })
-                        self?.present(alert, animated: true)
-                    }
-                }
-            }
-        @unknown default:
-            break
-        }
-    }
+//    @objc private func videoButtonTapped() {
+//        let audioSession = AVAudioSession.sharedInstance()
+//        switch audioSession.recordPermission {
+//        case .granted:
+//            pushMsgCallVideo()
+//        case .denied:
+//            let alert = UIAlertController(title: "麦克风权限未开启", message: "请在设置中允许麦克风权限，以进行视频通话。", preferredStyle: .alert)
+//            alert.addAction(UIAlertAction(title: "取消", style: .cancel))
+//            alert.addAction(UIAlertAction(title: "去设置", style: .default) { _ in
+//                if let url = URL(string: UIApplication.openSettingsURLString), UIApplication.shared.canOpenURL(url) {
+//                    UIApplication.shared.open(url)
+//                }
+//            })
+//            present(alert, animated: true)
+//        case .undetermined:
+//            audioSession.requestRecordPermission { [weak self] granted in
+//                DispatchQueue.main.async {
+//                    if granted {
+//                        self?.pushMsgCallVideo()
+//                    } else {
+//                        let alert = UIAlertController(title: "麦克风权限未开启", message: "请在设置中允许麦克风权限，以进行视频通话。", preferredStyle: .alert)
+//                        alert.addAction(UIAlertAction(title: "取消", style: .cancel))
+//                        alert.addAction(UIAlertAction(title: "去设置", style: .default) { _ in
+//                            if let url = URL(string: UIApplication.openSettingsURLString), UIApplication.shared.canOpenURL(url) {
+//                                UIApplication.shared.open(url)
+//                            }
+//                        })
+//                        self?.present(alert, animated: true)
+//                    }
+//                }
+//            }
+//        @unknown default:
+//            break
+//        }
+//    }
     
     private func sendMessage() {
         guard let text = textView.text?.trimmingCharacters(in: .whitespacesAndNewlines), !text.isEmpty else { return }
@@ -423,7 +424,7 @@ class MessageChatController: BaseController {
             make.leading.equalToSuperview().offset(12)
             make.top.equalToSuperview().offset(8)
             make.height.greaterThanOrEqualTo(42)
-            make.trailing.equalTo(videoCallButton.snp.leading).offset(-12)
+            make.trailing.equalTo(sendMsgButton.snp.leading).offset(-12)
         }
         
         UIView.animate(withDuration: 0.2) {

@@ -55,6 +55,7 @@ class ProfileViewController: BaseController {
     
     // MARK: - Properties
     private let menuItems = [
+        ("背景音乐", "music"),
         ("意见反馈", "feedback"),
         ("用户协议", "user_agreement"),
         ("隐私协议", "privacy_policy"),
@@ -208,6 +209,9 @@ extension ProfileViewController: UITableViewDelegate {
         case "about_app":
             let aboutAppVC = AboutAppViewController()
             navigationController?.pushViewController(aboutAppVC, animated: true)
+        case "music":
+            let musicVC = BackgroundMusicController()
+            navigationController?.pushViewController(musicVC, animated: true)
         default:
             break
         }
