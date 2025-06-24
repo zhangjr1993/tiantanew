@@ -17,6 +17,11 @@ jobs:
         with:
           flutter-version: '3.24.4'
           
+      - uses: swift-actions/setup-swift@v2
+        with:
+          swift-version: "5.0"  # 指定具体版本
+      
+          
       # 打印可用的 Xcode 版本
       - name: List Available Xcode Versions
         run: ls -la /Applications/ | grep "Xcode"
@@ -38,18 +43,18 @@ jobs:
           rm -rf ~/Library/Developer/Xcode/Archives
           rm -rf ~/Library/Developer/Xcode/Products
 
-      - name: Setup CocoaPods
-        run: |
-            cd ios
-            rm -rf Pods
-            rm -f Podfile.lock
-            pod install --repo-update
-            cd ..
+#      - name: Setup CocoaPods
+#        run: |
+#            cd ios
+#            rm -rf Pods
+#            rm -f Podfile.lock
+#            pod install --repo-update
+#            cd ..
         
-      - name: Set Xcode Build Settings
-        run: |
-            echo "SWIFT_VERSION=5.0" >> $GITHUB_ENV
-            echo "GCC_TREAT_WARNINGS_AS_ERRORS=NO" >> $GITHUB_ENV
+#      - name: Set Xcode Build Settings
+#        run: |
+#            echo "SWIFT_VERSION=5.0" >> $GITHUB_ENV
+#            echo "GCC_TREAT_WARNINGS_AS_ERRORS=NO" >> $GITHUB_ENV
     
 #       添加详细的环境信息调试步骤
       - name: Print Environment Info
