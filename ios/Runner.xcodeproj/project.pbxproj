@@ -9,59 +9,63 @@
 /* Begin PBXBuildFile section */
 		3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */; };
 		A4BAAB4F06A7611B59C06738 /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DD1C241684AF40339082412 /* Pods_Runner.framework */; };
-		AEC1584F2E0A50B2002B1B23 /* BaseController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158052E0A50B2002B1B23 /* BaseController.swift */; };
-		AEC158502E0A50B2002B1B23 /* BaseNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158062E0A50B2002B1B23 /* BaseNavigationController.swift */; };
-		AEC158512E0A50B2002B1B23 /* UIColor+HEX.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158082E0A50B2002B1B23 /* UIColor+HEX.swift */; };
-		AEC158522E0A50B2002B1B23 /* UIDevice+Spaceing.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158092E0A50B2002B1B23 /* UIDevice+Spaceing.swift */; };
-		AEC158532E0A50B2002B1B23 /* UIView+Frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1580A2E0A50B2002B1B23 /* UIView+Frame.swift */; };
-		AEC158542E0A50B2002B1B23 /* ExploreCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1580C2E0A50B2002B1B23 /* ExploreCollectionViewCell.swift */; };
-		AEC158552E0A50B2002B1B23 /* ExploreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1580E2E0A50B2002B1B23 /* ExploreViewController.swift */; };
-		AEC158562E0A50B2002B1B23 /* AIAboutCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158102E0A50B2002B1B23 /* AIAboutCell.swift */; };
-		AEC158572E0A50B2002B1B23 /* AIPhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158112E0A50B2002B1B23 /* AIPhotoCell.swift */; };
-		AEC158582E0A50B2002B1B23 /* AIProfileCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158122E0A50B2002B1B23 /* AIProfileCell.swift */; };
-		AEC158592E0A50B2002B1B23 /* HomeAICharacterCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158132E0A50B2002B1B23 /* HomeAICharacterCell.swift */; };
-		AEC1585A2E0A50B2002B1B23 /* AICharacterController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158152E0A50B2002B1B23 /* AICharacterController.swift */; };
-		AEC1585B2E0A50B2002B1B23 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158162E0A50B2002B1B23 /* HomeViewController.swift */; };
-		AEC1585C2E0A50B2002B1B23 /* ReportAIController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158172E0A50B2002B1B23 /* ReportAIController.swift */; };
-		AEC1585D2E0A50B2002B1B23 /* MenuTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158192E0A50B2002B1B23 /* MenuTableViewCell.swift */; };
-		AEC1585E2E0A50B2002B1B23 /* AboutAppViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1581B2E0A50B2002B1B23 /* AboutAppViewController.swift */; };
-		AEC1585F2E0A50B2002B1B23 /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1581C2E0A50B2002B1B23 /* AboutUsViewController.swift */; };
-		AEC158602E0A50B2002B1B23 /* BackgroundMusicController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1581D2E0A50B2002B1B23 /* BackgroundMusicController.swift */; };
-		AEC158612E0A50B2002B1B23 /* BackgroundMusicManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1581E2E0A50B2002B1B23 /* BackgroundMusicManager.swift */; };
-		AEC158622E0A50B2002B1B23 /* EditProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1581F2E0A50B2002B1B23 /* EditProfileViewController.swift */; };
-		AEC158632E0A50B2002B1B23 /* MusicFloatingButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158202E0A50B2002B1B23 /* MusicFloatingButton.swift */; };
-		AEC158642E0A50B2002B1B23 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158212E0A50B2002B1B23 /* ProfileViewController.swift */; };
-		AEC158652E0A50B2002B1B23 /* UserProfileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158222E0A50B2002B1B23 /* UserProfileManager.swift */; };
-		AEC158662E0A50B2002B1B23 /* AIMessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158242E0A50B2002B1B23 /* AIMessageCell.swift */; };
-		AEC158672E0A50B2002B1B23 /* AICharacterInfoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158262E0A50B2002B1B23 /* AICharacterInfoModel.swift */; };
-		AEC158682E0A50B2002B1B23 /* ChatMessageRealm.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158272E0A50B2002B1B23 /* ChatMessageRealm.swift */; };
-		AEC158692E0A50B2002B1B23 /* MessageCallVideoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158282E0A50B2002B1B23 /* MessageCallVideoController.swift */; };
-		AEC1586A2E0A50B2002B1B23 /* MessageChatController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158292E0A50B2002B1B23 /* MessageChatController.swift */; };
-		AEC1586B2E0A50B2002B1B23 /* MessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1582A2E0A50B2002B1B23 /* MessageViewController.swift */; };
-		AEC1586C2E0A50B2002B1B23 /* ZhipuAIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1582B2E0A50B2002B1B23 /* ZhipuAIService.swift */; };
-		AEC1586D2E0A50B2002B1B23 /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1582D2E0A50B2002B1B23 /* CustomTabBar.swift */; };
-		AEC1586E2E0A50B2002B1B23 /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1582E2E0A50B2002B1B23 /* MainTabBarController.swift */; };
-		AEC1586F2E0A50B2002B1B23 /* TermsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1582F2E0A50B2002B1B23 /* TermsViewController.swift */; };
-		AEC158702E0A50B2002B1B23 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158302E0A50B2002B1B23 /* WebViewController.swift */; };
-		AEC158712E0A50B2002B1B23 /* RunUserManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158332E0A50B2002B1B23 /* RunUserManager.swift */; };
-		AEC158722E0A50B2002B1B23 /* ImportPods.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158382E0A50B2002B1B23 /* ImportPods.swift */; };
-		AEC158732E0A50B2002B1B23 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC158452E0A50B2002B1B23 /* AppDelegate.swift */; };
-		AEC158742E0A50B2002B1B23 /* GeneratedPluginRegistrant.m in Sources */ = {isa = PBXBuildFile; fileRef = AEC158472E0A50B2002B1B23 /* GeneratedPluginRegistrant.m */; };
-		AEC158752E0A50B2002B1B23 /* aiList.geojson in Resources */ = {isa = PBXBuildFile; fileRef = AEC158352E0A50B2002B1B23 /* aiList.geojson */; };
-		AEC158762E0A50B2002B1B23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEC158362E0A50B2002B1B23 /* Assets.xcassets */; };
-		AEC158772E0A50B2002B1B23 /* Freestyle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC158372E0A50B2002B1B23 /* Freestyle.mp3 */; };
-		AEC158782E0A50B2002B1B23 /* Paradise_faraway.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC158392E0A50B2002B1B23 /* Paradise_faraway.mp3 */; };
-		AEC158792E0A50B2002B1B23 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = AEC1583A2E0A50B2002B1B23 /* PrivacyInfo.xcprivacy */; };
-		AEC1587A2E0A50B2002B1B23 /* Pulse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC1583B2E0A50B2002B1B23 /* Pulse.mp3 */; };
-		AEC1587B2E0A50B2002B1B23 /* Radiant_Pulse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC1583C2E0A50B2002B1B23 /* Radiant_Pulse.mp3 */; };
-		AEC1587C2E0A50B2002B1B23 /* RiverofHope.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC1583D2E0A50B2002B1B23 /* RiverofHope.mp3 */; };
-		AEC1587D2E0A50B2002B1B23 /* Silence.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC1583E2E0A50B2002B1B23 /* Silence.mp3 */; };
-		AEC1587E2E0A50B2002B1B23 /* Stay_Close_Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC1583F2E0A50B2002B1B23 /* Stay_Close_Me.mp3 */; };
-		AEC1587F2E0A50B2002B1B23 /* Suprenova.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC158402E0A50B2002B1B23 /* Suprenova.mp3 */; };
-		AEC158802E0A50B2002B1B23 /* ThroughDustWithGrace.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC158412E0A50B2002B1B23 /* ThroughDustWithGrace.mp3 */; };
-		AEC158812E0A50B2002B1B23 /* Triggered.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC158422E0A50B2002B1B23 /* Triggered.mp3 */; };
-		AEC158842E0A50B2002B1B23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEC1584A2E0A50B2002B1B23 /* LaunchScreen.storyboard */; };
-		AEC158852E0A50B2002B1B23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEC1584C2E0A50B2002B1B23 /* Main.storyboard */; };
+		AEC159A52E0BCAEC002B1B23 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AEC159A42E0BCAEC002B1B23 /* StoreKit.framework */; };
+		AEC15AFF2E0BDCAC002B1B23 /* BaseController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AB22E0BDCAC002B1B23 /* BaseController.swift */; };
+		AEC15B002E0BDCAC002B1B23 /* BaseNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AB32E0BDCAC002B1B23 /* BaseNavigationController.swift */; };
+		AEC15B012E0BDCAC002B1B23 /* UIColor+HEX.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AB52E0BDCAC002B1B23 /* UIColor+HEX.swift */; };
+		AEC15B022E0BDCAC002B1B23 /* UIDevice+Spaceing.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AB62E0BDCAC002B1B23 /* UIDevice+Spaceing.swift */; };
+		AEC15B032E0BDCAC002B1B23 /* UIView+Frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AB72E0BDCAC002B1B23 /* UIView+Frame.swift */; };
+		AEC15B042E0BDCAC002B1B23 /* ExploreCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AB92E0BDCAC002B1B23 /* ExploreCollectionViewCell.swift */; };
+		AEC15B052E0BDCAC002B1B23 /* ExploreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ABB2E0BDCAC002B1B23 /* ExploreViewController.swift */; };
+		AEC15B062E0BDCAC002B1B23 /* AIAboutCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ABD2E0BDCAC002B1B23 /* AIAboutCell.swift */; };
+		AEC15B072E0BDCAC002B1B23 /* AIPhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ABE2E0BDCAC002B1B23 /* AIPhotoCell.swift */; };
+		AEC15B082E0BDCAC002B1B23 /* AIProfileCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ABF2E0BDCAC002B1B23 /* AIProfileCell.swift */; };
+		AEC15B092E0BDCAC002B1B23 /* HomeAICharacterCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AC02E0BDCAC002B1B23 /* HomeAICharacterCell.swift */; };
+		AEC15B0A2E0BDCAC002B1B23 /* AICharacterController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AC22E0BDCAC002B1B23 /* AICharacterController.swift */; };
+		AEC15B0B2E0BDCAC002B1B23 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AC32E0BDCAC002B1B23 /* HomeViewController.swift */; };
+		AEC15B0C2E0BDCAC002B1B23 /* ReportAIController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AC42E0BDCAC002B1B23 /* ReportAIController.swift */; };
+		AEC15B0D2E0BDCAC002B1B23 /* MenuTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AC62E0BDCAC002B1B23 /* MenuTableViewCell.swift */; };
+		AEC15B0E2E0BDCAC002B1B23 /* AboutAppViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AC82E0BDCAC002B1B23 /* AboutAppViewController.swift */; };
+		AEC15B0F2E0BDCAC002B1B23 /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AC92E0BDCAC002B1B23 /* AboutUsViewController.swift */; };
+		AEC15B102E0BDCAC002B1B23 /* BackgroundMusicController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ACA2E0BDCAC002B1B23 /* BackgroundMusicController.swift */; };
+		AEC15B112E0BDCAC002B1B23 /* BackgroundMusicManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ACB2E0BDCAC002B1B23 /* BackgroundMusicManager.swift */; };
+		AEC15B122E0BDCAC002B1B23 /* EditProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ACC2E0BDCAC002B1B23 /* EditProfileViewController.swift */; };
+		AEC15B132E0BDCAC002B1B23 /* MemberController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ACD2E0BDCAC002B1B23 /* MemberController.swift */; };
+		AEC15B142E0BDCAC002B1B23 /* MusicFloatingButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ACE2E0BDCAC002B1B23 /* MusicFloatingButton.swift */; };
+		AEC15B152E0BDCAC002B1B23 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ACF2E0BDCAC002B1B23 /* ProfileViewController.swift */; };
+		AEC15B162E0BDCAC002B1B23 /* UserProfileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AD02E0BDCAC002B1B23 /* UserProfileManager.swift */; };
+		AEC15B172E0BDCAC002B1B23 /* AIMessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AD22E0BDCAC002B1B23 /* AIMessageCell.swift */; };
+		AEC15B182E0BDCAC002B1B23 /* AICharacterInfoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AD42E0BDCAC002B1B23 /* AICharacterInfoModel.swift */; };
+		AEC15B192E0BDCAC002B1B23 /* ChatMessageRealm.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AD52E0BDCAC002B1B23 /* ChatMessageRealm.swift */; };
+		AEC15B1A2E0BDCAC002B1B23 /* MessageCallVideoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AD62E0BDCAC002B1B23 /* MessageCallVideoController.swift */; };
+		AEC15B1B2E0BDCAC002B1B23 /* MessageChatController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AD72E0BDCAC002B1B23 /* MessageChatController.swift */; };
+		AEC15B1C2E0BDCAC002B1B23 /* MessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AD82E0BDCAC002B1B23 /* MessageViewController.swift */; };
+		AEC15B1D2E0BDCAC002B1B23 /* ZhipuAIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AD92E0BDCAC002B1B23 /* ZhipuAIService.swift */; };
+		AEC15B1E2E0BDCAC002B1B23 /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ADB2E0BDCAC002B1B23 /* CustomTabBar.swift */; };
+		AEC15B1F2E0BDCAC002B1B23 /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ADC2E0BDCAC002B1B23 /* MainTabBarController.swift */; };
+		AEC15B202E0BDCAC002B1B23 /* TermsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ADD2E0BDCAC002B1B23 /* TermsViewController.swift */; };
+		AEC15B212E0BDCAC002B1B23 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15ADE2E0BDCAC002B1B23 /* WebViewController.swift */; };
+		AEC15B222E0BDCAC002B1B23 /* IAPManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AE12E0BDCAC002B1B23 /* IAPManager.swift */; };
+		AEC15B232E0BDCAC002B1B23 /* RunUserManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AE22E0BDCAC002B1B23 /* RunUserManager.swift */; };
+		AEC15B242E0BDCAC002B1B23 /* UserVipManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AE32E0BDCAC002B1B23 /* UserVipManager.swift */; };
+		AEC15B252E0BDCAC002B1B23 /* ImportPods.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AE82E0BDCAC002B1B23 /* ImportPods.swift */; };
+		AEC15B262E0BDCAC002B1B23 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AF42E0BDCAC002B1B23 /* AppDelegate.swift */; };
+		AEC15B272E0BDCAC002B1B23 /* GeneratedPluginRegistrant.m in Sources */ = {isa = PBXBuildFile; fileRef = AEC15AF62E0BDCAC002B1B23 /* GeneratedPluginRegistrant.m */; };
+		AEC15B282E0BDCAC002B1B23 /* aiList.geojson in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AE52E0BDCAC002B1B23 /* aiList.geojson */; };
+		AEC15B292E0BDCAC002B1B23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AE62E0BDCAC002B1B23 /* Assets.xcassets */; };
+		AEC15B2A2E0BDCAC002B1B23 /* Freestyle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AE72E0BDCAC002B1B23 /* Freestyle.mp3 */; };
+		AEC15B2B2E0BDCAC002B1B23 /* Paradise_faraway.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AE92E0BDCAC002B1B23 /* Paradise_faraway.mp3 */; };
+		AEC15B2C2E0BDCAC002B1B23 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AEA2E0BDCAC002B1B23 /* PrivacyInfo.xcprivacy */; };
+		AEC15B2D2E0BDCAC002B1B23 /* Pulse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AEB2E0BDCAC002B1B23 /* Pulse.mp3 */; };
+		AEC15B2E2E0BDCAC002B1B23 /* Radiant_Pulse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AEC2E0BDCAC002B1B23 /* Radiant_Pulse.mp3 */; };
+		AEC15B2F2E0BDCAC002B1B23 /* RiverofHope.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AED2E0BDCAC002B1B23 /* RiverofHope.mp3 */; };
+		AEC15B302E0BDCAC002B1B23 /* Silence.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AEE2E0BDCAC002B1B23 /* Silence.mp3 */; };
+		AEC15B312E0BDCAC002B1B23 /* Stay_Close_Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AEF2E0BDCAC002B1B23 /* Stay_Close_Me.mp3 */; };
+		AEC15B322E0BDCAC002B1B23 /* Suprenova.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AF02E0BDCAC002B1B23 /* Suprenova.mp3 */; };
+		AEC15B332E0BDCAC002B1B23 /* ThroughDustWithGrace.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AF12E0BDCAC002B1B23 /* ThroughDustWithGrace.mp3 */; };
+		AEC15B342E0BDCAC002B1B23 /* Triggered.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AF22E0BDCAC002B1B23 /* Triggered.mp3 */; };
+		AEC15B362E0BDCAC002B1B23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AF92E0BDCAC002B1B23 /* LaunchScreen.storyboard */; };
+		AEC15B372E0BDCAC002B1B23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEC15AFB2E0BDCAC002B1B23 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -87,62 +91,67 @@
 		9740EEB31CF90195004384FC /* Generated.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Generated.xcconfig; path = Flutter/Generated.xcconfig; sourceTree = "<group>"; };
 		97C146EE1CF9000F007C117D /* Runner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Runner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FE4F29F41C6778CBC85ED5E /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
-		AEC158052E0A50B2002B1B23 /* BaseController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseController.swift; sourceTree = "<group>"; };
-		AEC158062E0A50B2002B1B23 /* BaseNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseNavigationController.swift; sourceTree = "<group>"; };
-		AEC158082E0A50B2002B1B23 /* UIColor+HEX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+HEX.swift"; sourceTree = "<group>"; };
-		AEC158092E0A50B2002B1B23 /* UIDevice+Spaceing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIDevice+Spaceing.swift"; sourceTree = "<group>"; };
-		AEC1580A2E0A50B2002B1B23 /* UIView+Frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Frame.swift"; sourceTree = "<group>"; };
-		AEC1580C2E0A50B2002B1B23 /* ExploreCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreCollectionViewCell.swift; sourceTree = "<group>"; };
-		AEC1580E2E0A50B2002B1B23 /* ExploreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreViewController.swift; sourceTree = "<group>"; };
-		AEC158102E0A50B2002B1B23 /* AIAboutCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIAboutCell.swift; sourceTree = "<group>"; };
-		AEC158112E0A50B2002B1B23 /* AIPhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIPhotoCell.swift; sourceTree = "<group>"; };
-		AEC158122E0A50B2002B1B23 /* AIProfileCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIProfileCell.swift; sourceTree = "<group>"; };
-		AEC158132E0A50B2002B1B23 /* HomeAICharacterCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeAICharacterCell.swift; sourceTree = "<group>"; };
-		AEC158152E0A50B2002B1B23 /* AICharacterController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AICharacterController.swift; sourceTree = "<group>"; };
-		AEC158162E0A50B2002B1B23 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
-		AEC158172E0A50B2002B1B23 /* ReportAIController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportAIController.swift; sourceTree = "<group>"; };
-		AEC158192E0A50B2002B1B23 /* MenuTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableViewCell.swift; sourceTree = "<group>"; };
-		AEC1581B2E0A50B2002B1B23 /* AboutAppViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutAppViewController.swift; sourceTree = "<group>"; };
-		AEC1581C2E0A50B2002B1B23 /* AboutUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
-		AEC1581D2E0A50B2002B1B23 /* BackgroundMusicController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMusicController.swift; sourceTree = "<group>"; };
-		AEC1581E2E0A50B2002B1B23 /* BackgroundMusicManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMusicManager.swift; sourceTree = "<group>"; };
-		AEC1581F2E0A50B2002B1B23 /* EditProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileViewController.swift; sourceTree = "<group>"; };
-		AEC158202E0A50B2002B1B23 /* MusicFloatingButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicFloatingButton.swift; sourceTree = "<group>"; };
-		AEC158212E0A50B2002B1B23 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
-		AEC158222E0A50B2002B1B23 /* UserProfileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileManager.swift; sourceTree = "<group>"; };
-		AEC158242E0A50B2002B1B23 /* AIMessageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIMessageCell.swift; sourceTree = "<group>"; };
-		AEC158262E0A50B2002B1B23 /* AICharacterInfoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AICharacterInfoModel.swift; sourceTree = "<group>"; };
-		AEC158272E0A50B2002B1B23 /* ChatMessageRealm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatMessageRealm.swift; sourceTree = "<group>"; };
-		AEC158282E0A50B2002B1B23 /* MessageCallVideoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageCallVideoController.swift; sourceTree = "<group>"; };
-		AEC158292E0A50B2002B1B23 /* MessageChatController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageChatController.swift; sourceTree = "<group>"; };
-		AEC1582A2E0A50B2002B1B23 /* MessageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageViewController.swift; sourceTree = "<group>"; };
-		AEC1582B2E0A50B2002B1B23 /* ZhipuAIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZhipuAIService.swift; sourceTree = "<group>"; };
-		AEC1582D2E0A50B2002B1B23 /* CustomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
-		AEC1582E2E0A50B2002B1B23 /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
-		AEC1582F2E0A50B2002B1B23 /* TermsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TermsViewController.swift; sourceTree = "<group>"; };
-		AEC158302E0A50B2002B1B23 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
-		AEC158332E0A50B2002B1B23 /* RunUserManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunUserManager.swift; sourceTree = "<group>"; };
-		AEC158352E0A50B2002B1B23 /* aiList.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = aiList.geojson; sourceTree = "<group>"; };
-		AEC158362E0A50B2002B1B23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		AEC158372E0A50B2002B1B23 /* Freestyle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Freestyle.mp3; sourceTree = "<group>"; };
-		AEC158382E0A50B2002B1B23 /* ImportPods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportPods.swift; sourceTree = "<group>"; };
-		AEC158392E0A50B2002B1B23 /* Paradise_faraway.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Paradise_faraway.mp3; sourceTree = "<group>"; };
-		AEC1583A2E0A50B2002B1B23 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		AEC1583B2E0A50B2002B1B23 /* Pulse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pulse.mp3; sourceTree = "<group>"; };
-		AEC1583C2E0A50B2002B1B23 /* Radiant_Pulse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Radiant_Pulse.mp3; sourceTree = "<group>"; };
-		AEC1583D2E0A50B2002B1B23 /* RiverofHope.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = RiverofHope.mp3; sourceTree = "<group>"; };
-		AEC1583E2E0A50B2002B1B23 /* Silence.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Silence.mp3; sourceTree = "<group>"; };
-		AEC1583F2E0A50B2002B1B23 /* Stay_Close_Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Stay_Close_Me.mp3; sourceTree = "<group>"; };
-		AEC158402E0A50B2002B1B23 /* Suprenova.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Suprenova.mp3; sourceTree = "<group>"; };
-		AEC158412E0A50B2002B1B23 /* ThroughDustWithGrace.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ThroughDustWithGrace.mp3; sourceTree = "<group>"; };
-		AEC158422E0A50B2002B1B23 /* Triggered.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Triggered.mp3; sourceTree = "<group>"; };
-		AEC158452E0A50B2002B1B23 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		AEC158462E0A50B2002B1B23 /* GeneratedPluginRegistrant.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GeneratedPluginRegistrant.h; sourceTree = "<group>"; };
-		AEC158472E0A50B2002B1B23 /* GeneratedPluginRegistrant.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GeneratedPluginRegistrant.m; sourceTree = "<group>"; };
-		AEC158482E0A50B2002B1B23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AEC158492E0A50B2002B1B23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		AEC1584B2E0A50B2002B1B23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		AEC1584D2E0A50B2002B1B23 /* Runner-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runner-Bridging-Header.h"; sourceTree = "<group>"; };
+		AEC159A42E0BCAEC002B1B23 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		AEC15AB22E0BDCAC002B1B23 /* BaseController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseController.swift; sourceTree = "<group>"; };
+		AEC15AB32E0BDCAC002B1B23 /* BaseNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseNavigationController.swift; sourceTree = "<group>"; };
+		AEC15AB52E0BDCAC002B1B23 /* UIColor+HEX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+HEX.swift"; sourceTree = "<group>"; };
+		AEC15AB62E0BDCAC002B1B23 /* UIDevice+Spaceing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIDevice+Spaceing.swift"; sourceTree = "<group>"; };
+		AEC15AB72E0BDCAC002B1B23 /* UIView+Frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Frame.swift"; sourceTree = "<group>"; };
+		AEC15AB92E0BDCAC002B1B23 /* ExploreCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreCollectionViewCell.swift; sourceTree = "<group>"; };
+		AEC15ABB2E0BDCAC002B1B23 /* ExploreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreViewController.swift; sourceTree = "<group>"; };
+		AEC15ABD2E0BDCAC002B1B23 /* AIAboutCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIAboutCell.swift; sourceTree = "<group>"; };
+		AEC15ABE2E0BDCAC002B1B23 /* AIPhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIPhotoCell.swift; sourceTree = "<group>"; };
+		AEC15ABF2E0BDCAC002B1B23 /* AIProfileCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIProfileCell.swift; sourceTree = "<group>"; };
+		AEC15AC02E0BDCAC002B1B23 /* HomeAICharacterCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeAICharacterCell.swift; sourceTree = "<group>"; };
+		AEC15AC22E0BDCAC002B1B23 /* AICharacterController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AICharacterController.swift; sourceTree = "<group>"; };
+		AEC15AC32E0BDCAC002B1B23 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		AEC15AC42E0BDCAC002B1B23 /* ReportAIController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportAIController.swift; sourceTree = "<group>"; };
+		AEC15AC62E0BDCAC002B1B23 /* MenuTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableViewCell.swift; sourceTree = "<group>"; };
+		AEC15AC82E0BDCAC002B1B23 /* AboutAppViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutAppViewController.swift; sourceTree = "<group>"; };
+		AEC15AC92E0BDCAC002B1B23 /* AboutUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
+		AEC15ACA2E0BDCAC002B1B23 /* BackgroundMusicController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMusicController.swift; sourceTree = "<group>"; };
+		AEC15ACB2E0BDCAC002B1B23 /* BackgroundMusicManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMusicManager.swift; sourceTree = "<group>"; };
+		AEC15ACC2E0BDCAC002B1B23 /* EditProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileViewController.swift; sourceTree = "<group>"; };
+		AEC15ACD2E0BDCAC002B1B23 /* MemberController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemberController.swift; sourceTree = "<group>"; };
+		AEC15ACE2E0BDCAC002B1B23 /* MusicFloatingButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicFloatingButton.swift; sourceTree = "<group>"; };
+		AEC15ACF2E0BDCAC002B1B23 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		AEC15AD02E0BDCAC002B1B23 /* UserProfileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileManager.swift; sourceTree = "<group>"; };
+		AEC15AD22E0BDCAC002B1B23 /* AIMessageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIMessageCell.swift; sourceTree = "<group>"; };
+		AEC15AD42E0BDCAC002B1B23 /* AICharacterInfoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AICharacterInfoModel.swift; sourceTree = "<group>"; };
+		AEC15AD52E0BDCAC002B1B23 /* ChatMessageRealm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatMessageRealm.swift; sourceTree = "<group>"; };
+		AEC15AD62E0BDCAC002B1B23 /* MessageCallVideoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageCallVideoController.swift; sourceTree = "<group>"; };
+		AEC15AD72E0BDCAC002B1B23 /* MessageChatController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageChatController.swift; sourceTree = "<group>"; };
+		AEC15AD82E0BDCAC002B1B23 /* MessageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageViewController.swift; sourceTree = "<group>"; };
+		AEC15AD92E0BDCAC002B1B23 /* ZhipuAIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZhipuAIService.swift; sourceTree = "<group>"; };
+		AEC15ADB2E0BDCAC002B1B23 /* CustomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
+		AEC15ADC2E0BDCAC002B1B23 /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
+		AEC15ADD2E0BDCAC002B1B23 /* TermsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TermsViewController.swift; sourceTree = "<group>"; };
+		AEC15ADE2E0BDCAC002B1B23 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
+		AEC15AE12E0BDCAC002B1B23 /* IAPManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IAPManager.swift; sourceTree = "<group>"; };
+		AEC15AE22E0BDCAC002B1B23 /* RunUserManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunUserManager.swift; sourceTree = "<group>"; };
+		AEC15AE32E0BDCAC002B1B23 /* UserVipManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserVipManager.swift; sourceTree = "<group>"; };
+		AEC15AE52E0BDCAC002B1B23 /* aiList.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = aiList.geojson; sourceTree = "<group>"; };
+		AEC15AE62E0BDCAC002B1B23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AEC15AE72E0BDCAC002B1B23 /* Freestyle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Freestyle.mp3; sourceTree = "<group>"; };
+		AEC15AE82E0BDCAC002B1B23 /* ImportPods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportPods.swift; sourceTree = "<group>"; };
+		AEC15AE92E0BDCAC002B1B23 /* Paradise_faraway.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Paradise_faraway.mp3; sourceTree = "<group>"; };
+		AEC15AEA2E0BDCAC002B1B23 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		AEC15AEB2E0BDCAC002B1B23 /* Pulse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pulse.mp3; sourceTree = "<group>"; };
+		AEC15AEC2E0BDCAC002B1B23 /* Radiant_Pulse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Radiant_Pulse.mp3; sourceTree = "<group>"; };
+		AEC15AED2E0BDCAC002B1B23 /* RiverofHope.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = RiverofHope.mp3; sourceTree = "<group>"; };
+		AEC15AEE2E0BDCAC002B1B23 /* Silence.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Silence.mp3; sourceTree = "<group>"; };
+		AEC15AEF2E0BDCAC002B1B23 /* Stay_Close_Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Stay_Close_Me.mp3; sourceTree = "<group>"; };
+		AEC15AF02E0BDCAC002B1B23 /* Suprenova.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Suprenova.mp3; sourceTree = "<group>"; };
+		AEC15AF12E0BDCAC002B1B23 /* ThroughDustWithGrace.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ThroughDustWithGrace.mp3; sourceTree = "<group>"; };
+		AEC15AF22E0BDCAC002B1B23 /* Triggered.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Triggered.mp3; sourceTree = "<group>"; };
+		AEC15AF42E0BDCAC002B1B23 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		AEC15AF52E0BDCAC002B1B23 /* GeneratedPluginRegistrant.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GeneratedPluginRegistrant.h; sourceTree = "<group>"; };
+		AEC15AF62E0BDCAC002B1B23 /* GeneratedPluginRegistrant.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GeneratedPluginRegistrant.m; sourceTree = "<group>"; };
+		AEC15AF72E0BDCAC002B1B23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEC15AF82E0BDCAC002B1B23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AEC15AFA2E0BDCAC002B1B23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AEC15AFC2E0BDCAC002B1B23 /* Runner-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runner-Bridging-Header.h"; sourceTree = "<group>"; };
+		AEC15AFD2E0BDCAC002B1B23 /* RunnerDebug.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RunnerDebug.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4BAAB4F06A7611B59C06738 /* Pods_Runner.framework in Frameworks */,
+				AEC159A52E0BCAEC002B1B23 /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -182,7 +192,7 @@
 			isa = PBXGroup;
 			children = (
 				9740EEB11CF90186004384FC /* Flutter */,
-				AEC1584E2E0A50B2002B1B23 /* Runner */,
+				AEC15AFE2E0BDCAC002B1B23 /* Runner */,
 				97C146EF1CF9000F007C117D /* Products */,
 				922A9F83EDF3A3F49CC37B72 /* Pods */,
 				D0175F60841DB6FCC55E7D53 /* Frameworks */,
@@ -197,177 +207,181 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		AEC158072E0A50B2002B1B23 /* Base */ = {
+		AEC15AB42E0BDCAC002B1B23 /* Base */ = {
 			isa = PBXGroup;
 			children = (
-				AEC158052E0A50B2002B1B23 /* BaseController.swift */,
-				AEC158062E0A50B2002B1B23 /* BaseNavigationController.swift */,
+				AEC15AB22E0BDCAC002B1B23 /* BaseController.swift */,
+				AEC15AB32E0BDCAC002B1B23 /* BaseNavigationController.swift */,
 			);
 			path = Base;
 			sourceTree = "<group>";
 		};
-		AEC1580B2E0A50B2002B1B23 /* Category */ = {
+		AEC15AB82E0BDCAC002B1B23 /* Category */ = {
 			isa = PBXGroup;
 			children = (
-				AEC158082E0A50B2002B1B23 /* UIColor+HEX.swift */,
-				AEC158092E0A50B2002B1B23 /* UIDevice+Spaceing.swift */,
-				AEC1580A2E0A50B2002B1B23 /* UIView+Frame.swift */,
+				AEC15AB52E0BDCAC002B1B23 /* UIColor+HEX.swift */,
+				AEC15AB62E0BDCAC002B1B23 /* UIDevice+Spaceing.swift */,
+				AEC15AB72E0BDCAC002B1B23 /* UIView+Frame.swift */,
 			);
 			path = Category;
 			sourceTree = "<group>";
 		};
-		AEC1580D2E0A50B2002B1B23 /* View */ = {
+		AEC15ABA2E0BDCAC002B1B23 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				AEC1580C2E0A50B2002B1B23 /* ExploreCollectionViewCell.swift */,
+				AEC15AB92E0BDCAC002B1B23 /* ExploreCollectionViewCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		AEC1580F2E0A50B2002B1B23 /* Discovery */ = {
+		AEC15ABC2E0BDCAC002B1B23 /* Discovery */ = {
 			isa = PBXGroup;
 			children = (
-				AEC1580D2E0A50B2002B1B23 /* View */,
-				AEC1580E2E0A50B2002B1B23 /* ExploreViewController.swift */,
+				AEC15ABA2E0BDCAC002B1B23 /* View */,
+				AEC15ABB2E0BDCAC002B1B23 /* ExploreViewController.swift */,
 			);
 			path = Discovery;
 			sourceTree = "<group>";
 		};
-		AEC158142E0A50B2002B1B23 /* View */ = {
+		AEC15AC12E0BDCAC002B1B23 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				AEC158102E0A50B2002B1B23 /* AIAboutCell.swift */,
-				AEC158112E0A50B2002B1B23 /* AIPhotoCell.swift */,
-				AEC158122E0A50B2002B1B23 /* AIProfileCell.swift */,
-				AEC158132E0A50B2002B1B23 /* HomeAICharacterCell.swift */,
+				AEC15ABD2E0BDCAC002B1B23 /* AIAboutCell.swift */,
+				AEC15ABE2E0BDCAC002B1B23 /* AIPhotoCell.swift */,
+				AEC15ABF2E0BDCAC002B1B23 /* AIProfileCell.swift */,
+				AEC15AC02E0BDCAC002B1B23 /* HomeAICharacterCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		AEC158182E0A50B2002B1B23 /* Home */ = {
+		AEC15AC52E0BDCAC002B1B23 /* Home */ = {
 			isa = PBXGroup;
 			children = (
-				AEC158142E0A50B2002B1B23 /* View */,
-				AEC158152E0A50B2002B1B23 /* AICharacterController.swift */,
-				AEC158162E0A50B2002B1B23 /* HomeViewController.swift */,
-				AEC158172E0A50B2002B1B23 /* ReportAIController.swift */,
+				AEC15AC12E0BDCAC002B1B23 /* View */,
+				AEC15AC22E0BDCAC002B1B23 /* AICharacterController.swift */,
+				AEC15AC32E0BDCAC002B1B23 /* HomeViewController.swift */,
+				AEC15AC42E0BDCAC002B1B23 /* ReportAIController.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
 		};
-		AEC1581A2E0A50B2002B1B23 /* View */ = {
+		AEC15AC72E0BDCAC002B1B23 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				AEC158192E0A50B2002B1B23 /* MenuTableViewCell.swift */,
+				AEC15AC62E0BDCAC002B1B23 /* MenuTableViewCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		AEC158232E0A50B2002B1B23 /* Mine */ = {
+		AEC15AD12E0BDCAC002B1B23 /* Mine */ = {
 			isa = PBXGroup;
 			children = (
-				AEC1581A2E0A50B2002B1B23 /* View */,
-				AEC1581B2E0A50B2002B1B23 /* AboutAppViewController.swift */,
-				AEC1581C2E0A50B2002B1B23 /* AboutUsViewController.swift */,
-				AEC1581D2E0A50B2002B1B23 /* BackgroundMusicController.swift */,
-				AEC1581E2E0A50B2002B1B23 /* BackgroundMusicManager.swift */,
-				AEC1581F2E0A50B2002B1B23 /* EditProfileViewController.swift */,
-				AEC158202E0A50B2002B1B23 /* MusicFloatingButton.swift */,
-				AEC158212E0A50B2002B1B23 /* ProfileViewController.swift */,
-				AEC158222E0A50B2002B1B23 /* UserProfileManager.swift */,
+				AEC15AC72E0BDCAC002B1B23 /* View */,
+				AEC15AC82E0BDCAC002B1B23 /* AboutAppViewController.swift */,
+				AEC15AC92E0BDCAC002B1B23 /* AboutUsViewController.swift */,
+				AEC15ACA2E0BDCAC002B1B23 /* BackgroundMusicController.swift */,
+				AEC15ACB2E0BDCAC002B1B23 /* BackgroundMusicManager.swift */,
+				AEC15ACC2E0BDCAC002B1B23 /* EditProfileViewController.swift */,
+				AEC15ACD2E0BDCAC002B1B23 /* MemberController.swift */,
+				AEC15ACE2E0BDCAC002B1B23 /* MusicFloatingButton.swift */,
+				AEC15ACF2E0BDCAC002B1B23 /* ProfileViewController.swift */,
+				AEC15AD02E0BDCAC002B1B23 /* UserProfileManager.swift */,
 			);
 			path = Mine;
 			sourceTree = "<group>";
 		};
-		AEC158252E0A50B2002B1B23 /* View */ = {
+		AEC15AD32E0BDCAC002B1B23 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				AEC158242E0A50B2002B1B23 /* AIMessageCell.swift */,
+				AEC15AD22E0BDCAC002B1B23 /* AIMessageCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		AEC1582C2E0A50B2002B1B23 /* Msg */ = {
+		AEC15ADA2E0BDCAC002B1B23 /* Msg */ = {
 			isa = PBXGroup;
 			children = (
-				AEC158252E0A50B2002B1B23 /* View */,
-				AEC158262E0A50B2002B1B23 /* AICharacterInfoModel.swift */,
-				AEC158272E0A50B2002B1B23 /* ChatMessageRealm.swift */,
-				AEC158282E0A50B2002B1B23 /* MessageCallVideoController.swift */,
-				AEC158292E0A50B2002B1B23 /* MessageChatController.swift */,
-				AEC1582A2E0A50B2002B1B23 /* MessageViewController.swift */,
-				AEC1582B2E0A50B2002B1B23 /* ZhipuAIService.swift */,
+				AEC15AD32E0BDCAC002B1B23 /* View */,
+				AEC15AD42E0BDCAC002B1B23 /* AICharacterInfoModel.swift */,
+				AEC15AD52E0BDCAC002B1B23 /* ChatMessageRealm.swift */,
+				AEC15AD62E0BDCAC002B1B23 /* MessageCallVideoController.swift */,
+				AEC15AD72E0BDCAC002B1B23 /* MessageChatController.swift */,
+				AEC15AD82E0BDCAC002B1B23 /* MessageViewController.swift */,
+				AEC15AD92E0BDCAC002B1B23 /* ZhipuAIService.swift */,
 			);
 			path = Msg;
 			sourceTree = "<group>";
 		};
-		AEC158312E0A50B2002B1B23 /* Root */ = {
+		AEC15ADF2E0BDCAC002B1B23 /* Root */ = {
 			isa = PBXGroup;
 			children = (
-				AEC1582D2E0A50B2002B1B23 /* CustomTabBar.swift */,
-				AEC1582E2E0A50B2002B1B23 /* MainTabBarController.swift */,
-				AEC1582F2E0A50B2002B1B23 /* TermsViewController.swift */,
-				AEC158302E0A50B2002B1B23 /* WebViewController.swift */,
+				AEC15ADB2E0BDCAC002B1B23 /* CustomTabBar.swift */,
+				AEC15ADC2E0BDCAC002B1B23 /* MainTabBarController.swift */,
+				AEC15ADD2E0BDCAC002B1B23 /* TermsViewController.swift */,
+				AEC15ADE2E0BDCAC002B1B23 /* WebViewController.swift */,
 			);
 			path = Root;
 			sourceTree = "<group>";
 		};
-		AEC158322E0A50B2002B1B23 /* Class */ = {
+		AEC15AE02E0BDCAC002B1B23 /* Class */ = {
 			isa = PBXGroup;
 			children = (
-				AEC158072E0A50B2002B1B23 /* Base */,
-				AEC1580B2E0A50B2002B1B23 /* Category */,
-				AEC1580F2E0A50B2002B1B23 /* Discovery */,
-				AEC158182E0A50B2002B1B23 /* Home */,
-				AEC158232E0A50B2002B1B23 /* Mine */,
-				AEC1582C2E0A50B2002B1B23 /* Msg */,
-				AEC158312E0A50B2002B1B23 /* Root */,
+				AEC15AB42E0BDCAC002B1B23 /* Base */,
+				AEC15AB82E0BDCAC002B1B23 /* Category */,
+				AEC15ABC2E0BDCAC002B1B23 /* Discovery */,
+				AEC15AC52E0BDCAC002B1B23 /* Home */,
+				AEC15AD12E0BDCAC002B1B23 /* Mine */,
+				AEC15ADA2E0BDCAC002B1B23 /* Msg */,
+				AEC15ADF2E0BDCAC002B1B23 /* Root */,
 			);
 			path = Class;
 			sourceTree = "<group>";
 		};
-		AEC158342E0A50B2002B1B23 /* Manager */ = {
+		AEC15AE42E0BDCAC002B1B23 /* Manager */ = {
 			isa = PBXGroup;
 			children = (
-				AEC158332E0A50B2002B1B23 /* RunUserManager.swift */,
+				AEC15AE12E0BDCAC002B1B23 /* IAPManager.swift */,
+				AEC15AE22E0BDCAC002B1B23 /* RunUserManager.swift */,
+				AEC15AE32E0BDCAC002B1B23 /* UserVipManager.swift */,
 			);
 			path = Manager;
 			sourceTree = "<group>";
 		};
-		AEC158442E0A50B2002B1B23 /* Resource */ = {
+		AEC15AF32E0BDCAC002B1B23 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
-				AEC158352E0A50B2002B1B23 /* aiList.geojson */,
-				AEC158362E0A50B2002B1B23 /* Assets.xcassets */,
-				AEC158372E0A50B2002B1B23 /* Freestyle.mp3 */,
-				AEC158382E0A50B2002B1B23 /* ImportPods.swift */,
-				AEC158392E0A50B2002B1B23 /* Paradise_faraway.mp3 */,
-				AEC1583A2E0A50B2002B1B23 /* PrivacyInfo.xcprivacy */,
-				AEC1583B2E0A50B2002B1B23 /* Pulse.mp3 */,
-				AEC1583C2E0A50B2002B1B23 /* Radiant_Pulse.mp3 */,
-				AEC1583D2E0A50B2002B1B23 /* RiverofHope.mp3 */,
-				AEC1583E2E0A50B2002B1B23 /* Silence.mp3 */,
-				AEC1583F2E0A50B2002B1B23 /* Stay_Close_Me.mp3 */,
-				AEC158402E0A50B2002B1B23 /* Suprenova.mp3 */,
-				AEC158412E0A50B2002B1B23 /* ThroughDustWithGrace.mp3 */,
-				AEC158422E0A50B2002B1B23 /* Triggered.mp3 */,
+				AEC15AE52E0BDCAC002B1B23 /* aiList.geojson */,
+				AEC15AE62E0BDCAC002B1B23 /* Assets.xcassets */,
+				AEC15AE72E0BDCAC002B1B23 /* Freestyle.mp3 */,
+				AEC15AE82E0BDCAC002B1B23 /* ImportPods.swift */,
+				AEC15AE92E0BDCAC002B1B23 /* Paradise_faraway.mp3 */,
+				AEC15AEA2E0BDCAC002B1B23 /* PrivacyInfo.xcprivacy */,
+				AEC15AEB2E0BDCAC002B1B23 /* Pulse.mp3 */,
+				AEC15AEC2E0BDCAC002B1B23 /* Radiant_Pulse.mp3 */,
+				AEC15AED2E0BDCAC002B1B23 /* RiverofHope.mp3 */,
+				AEC15AEE2E0BDCAC002B1B23 /* Silence.mp3 */,
+				AEC15AEF2E0BDCAC002B1B23 /* Stay_Close_Me.mp3 */,
+				AEC15AF02E0BDCAC002B1B23 /* Suprenova.mp3 */,
+				AEC15AF12E0BDCAC002B1B23 /* ThroughDustWithGrace.mp3 */,
+				AEC15AF22E0BDCAC002B1B23 /* Triggered.mp3 */,
 			);
 			path = Resource;
 			sourceTree = "<group>";
 		};
-		AEC1584E2E0A50B2002B1B23 /* Runner */ = {
+		AEC15AFE2E0BDCAC002B1B23 /* Runner */ = {
 			isa = PBXGroup;
 			children = (
-				AEC158322E0A50B2002B1B23 /* Class */,
-				AEC158342E0A50B2002B1B23 /* Manager */,
-				AEC158442E0A50B2002B1B23 /* Resource */,
-				AEC158452E0A50B2002B1B23 /* AppDelegate.swift */,
-				AEC158462E0A50B2002B1B23 /* GeneratedPluginRegistrant.h */,
-				AEC158472E0A50B2002B1B23 /* GeneratedPluginRegistrant.m */,
-				AEC158482E0A50B2002B1B23 /* Info.plist */,
-				AEC1584A2E0A50B2002B1B23 /* LaunchScreen.storyboard */,
-				AEC1584C2E0A50B2002B1B23 /* Main.storyboard */,
-				AEC1584D2E0A50B2002B1B23 /* Runner-Bridging-Header.h */,
+				AEC15AE02E0BDCAC002B1B23 /* Class */,
+				AEC15AE42E0BDCAC002B1B23 /* Manager */,
+				AEC15AF32E0BDCAC002B1B23 /* Resource */,
+				AEC15AF42E0BDCAC002B1B23 /* AppDelegate.swift */,
+				AEC15AF52E0BDCAC002B1B23 /* GeneratedPluginRegistrant.h */,
+				AEC15AF62E0BDCAC002B1B23 /* GeneratedPluginRegistrant.m */,
+				AEC15AF72E0BDCAC002B1B23 /* Info.plist */,
+				AEC15AF92E0BDCAC002B1B23 /* LaunchScreen.storyboard */,
+				AEC15AFB2E0BDCAC002B1B23 /* Main.storyboard */,
+				AEC15AFC2E0BDCAC002B1B23 /* Runner-Bridging-Header.h */,
+				AEC15AFD2E0BDCAC002B1B23 /* RunnerDebug.entitlements */,
 			);
 			path = Runner;
 			sourceTree = "<group>";
@@ -375,6 +389,7 @@
 		D0175F60841DB6FCC55E7D53 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				AEC159A42E0BCAEC002B1B23 /* StoreKit.framework */,
 				2DD1C241684AF40339082412 /* Pods_Runner.framework */,
 			);
 			name = Frameworks;
@@ -445,21 +460,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */,
-				AEC158752E0A50B2002B1B23 /* aiList.geojson in Resources */,
-				AEC158762E0A50B2002B1B23 /* Assets.xcassets in Resources */,
-				AEC158772E0A50B2002B1B23 /* Freestyle.mp3 in Resources */,
-				AEC158782E0A50B2002B1B23 /* Paradise_faraway.mp3 in Resources */,
-				AEC158792E0A50B2002B1B23 /* PrivacyInfo.xcprivacy in Resources */,
-				AEC1587A2E0A50B2002B1B23 /* Pulse.mp3 in Resources */,
-				AEC1587B2E0A50B2002B1B23 /* Radiant_Pulse.mp3 in Resources */,
-				AEC1587C2E0A50B2002B1B23 /* RiverofHope.mp3 in Resources */,
-				AEC1587D2E0A50B2002B1B23 /* Silence.mp3 in Resources */,
-				AEC1587E2E0A50B2002B1B23 /* Stay_Close_Me.mp3 in Resources */,
-				AEC1587F2E0A50B2002B1B23 /* Suprenova.mp3 in Resources */,
-				AEC158802E0A50B2002B1B23 /* ThroughDustWithGrace.mp3 in Resources */,
-				AEC158812E0A50B2002B1B23 /* Triggered.mp3 in Resources */,
-				AEC158842E0A50B2002B1B23 /* LaunchScreen.storyboard in Resources */,
-				AEC158852E0A50B2002B1B23 /* Main.storyboard in Resources */,
+				AEC15B282E0BDCAC002B1B23 /* aiList.geojson in Resources */,
+				AEC15B292E0BDCAC002B1B23 /* Assets.xcassets in Resources */,
+				AEC15B2A2E0BDCAC002B1B23 /* Freestyle.mp3 in Resources */,
+				AEC15B2B2E0BDCAC002B1B23 /* Paradise_faraway.mp3 in Resources */,
+				AEC15B2C2E0BDCAC002B1B23 /* PrivacyInfo.xcprivacy in Resources */,
+				AEC15B2D2E0BDCAC002B1B23 /* Pulse.mp3 in Resources */,
+				AEC15B2E2E0BDCAC002B1B23 /* Radiant_Pulse.mp3 in Resources */,
+				AEC15B2F2E0BDCAC002B1B23 /* RiverofHope.mp3 in Resources */,
+				AEC15B302E0BDCAC002B1B23 /* Silence.mp3 in Resources */,
+				AEC15B312E0BDCAC002B1B23 /* Stay_Close_Me.mp3 in Resources */,
+				AEC15B322E0BDCAC002B1B23 /* Suprenova.mp3 in Resources */,
+				AEC15B332E0BDCAC002B1B23 /* ThroughDustWithGrace.mp3 in Resources */,
+				AEC15B342E0BDCAC002B1B23 /* Triggered.mp3 in Resources */,
+				AEC15B362E0BDCAC002B1B23 /* LaunchScreen.storyboard in Resources */,
+				AEC15B372E0BDCAC002B1B23 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -543,62 +558,65 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AEC1584F2E0A50B2002B1B23 /* BaseController.swift in Sources */,
-				AEC158502E0A50B2002B1B23 /* BaseNavigationController.swift in Sources */,
-				AEC158512E0A50B2002B1B23 /* UIColor+HEX.swift in Sources */,
-				AEC158522E0A50B2002B1B23 /* UIDevice+Spaceing.swift in Sources */,
-				AEC158532E0A50B2002B1B23 /* UIView+Frame.swift in Sources */,
-				AEC158542E0A50B2002B1B23 /* ExploreCollectionViewCell.swift in Sources */,
-				AEC158552E0A50B2002B1B23 /* ExploreViewController.swift in Sources */,
-				AEC158562E0A50B2002B1B23 /* AIAboutCell.swift in Sources */,
-				AEC158572E0A50B2002B1B23 /* AIPhotoCell.swift in Sources */,
-				AEC158582E0A50B2002B1B23 /* AIProfileCell.swift in Sources */,
-				AEC158592E0A50B2002B1B23 /* HomeAICharacterCell.swift in Sources */,
-				AEC1585A2E0A50B2002B1B23 /* AICharacterController.swift in Sources */,
-				AEC1585B2E0A50B2002B1B23 /* HomeViewController.swift in Sources */,
-				AEC1585C2E0A50B2002B1B23 /* ReportAIController.swift in Sources */,
-				AEC1585D2E0A50B2002B1B23 /* MenuTableViewCell.swift in Sources */,
-				AEC1585E2E0A50B2002B1B23 /* AboutAppViewController.swift in Sources */,
-				AEC1585F2E0A50B2002B1B23 /* AboutUsViewController.swift in Sources */,
-				AEC158602E0A50B2002B1B23 /* BackgroundMusicController.swift in Sources */,
-				AEC158612E0A50B2002B1B23 /* BackgroundMusicManager.swift in Sources */,
-				AEC158622E0A50B2002B1B23 /* EditProfileViewController.swift in Sources */,
-				AEC158632E0A50B2002B1B23 /* MusicFloatingButton.swift in Sources */,
-				AEC158642E0A50B2002B1B23 /* ProfileViewController.swift in Sources */,
-				AEC158652E0A50B2002B1B23 /* UserProfileManager.swift in Sources */,
-				AEC158662E0A50B2002B1B23 /* AIMessageCell.swift in Sources */,
-				AEC158672E0A50B2002B1B23 /* AICharacterInfoModel.swift in Sources */,
-				AEC158682E0A50B2002B1B23 /* ChatMessageRealm.swift in Sources */,
-				AEC158692E0A50B2002B1B23 /* MessageCallVideoController.swift in Sources */,
-				AEC1586A2E0A50B2002B1B23 /* MessageChatController.swift in Sources */,
-				AEC1586B2E0A50B2002B1B23 /* MessageViewController.swift in Sources */,
-				AEC1586C2E0A50B2002B1B23 /* ZhipuAIService.swift in Sources */,
-				AEC1586D2E0A50B2002B1B23 /* CustomTabBar.swift in Sources */,
-				AEC1586E2E0A50B2002B1B23 /* MainTabBarController.swift in Sources */,
-				AEC1586F2E0A50B2002B1B23 /* TermsViewController.swift in Sources */,
-				AEC158702E0A50B2002B1B23 /* WebViewController.swift in Sources */,
-				AEC158712E0A50B2002B1B23 /* RunUserManager.swift in Sources */,
-				AEC158722E0A50B2002B1B23 /* ImportPods.swift in Sources */,
-				AEC158732E0A50B2002B1B23 /* AppDelegate.swift in Sources */,
-				AEC158742E0A50B2002B1B23 /* GeneratedPluginRegistrant.m in Sources */,
+				AEC15AFF2E0BDCAC002B1B23 /* BaseController.swift in Sources */,
+				AEC15B002E0BDCAC002B1B23 /* BaseNavigationController.swift in Sources */,
+				AEC15B012E0BDCAC002B1B23 /* UIColor+HEX.swift in Sources */,
+				AEC15B022E0BDCAC002B1B23 /* UIDevice+Spaceing.swift in Sources */,
+				AEC15B032E0BDCAC002B1B23 /* UIView+Frame.swift in Sources */,
+				AEC15B042E0BDCAC002B1B23 /* ExploreCollectionViewCell.swift in Sources */,
+				AEC15B052E0BDCAC002B1B23 /* ExploreViewController.swift in Sources */,
+				AEC15B062E0BDCAC002B1B23 /* AIAboutCell.swift in Sources */,
+				AEC15B072E0BDCAC002B1B23 /* AIPhotoCell.swift in Sources */,
+				AEC15B082E0BDCAC002B1B23 /* AIProfileCell.swift in Sources */,
+				AEC15B092E0BDCAC002B1B23 /* HomeAICharacterCell.swift in Sources */,
+				AEC15B0A2E0BDCAC002B1B23 /* AICharacterController.swift in Sources */,
+				AEC15B0B2E0BDCAC002B1B23 /* HomeViewController.swift in Sources */,
+				AEC15B0C2E0BDCAC002B1B23 /* ReportAIController.swift in Sources */,
+				AEC15B0D2E0BDCAC002B1B23 /* MenuTableViewCell.swift in Sources */,
+				AEC15B0E2E0BDCAC002B1B23 /* AboutAppViewController.swift in Sources */,
+				AEC15B0F2E0BDCAC002B1B23 /* AboutUsViewController.swift in Sources */,
+				AEC15B102E0BDCAC002B1B23 /* BackgroundMusicController.swift in Sources */,
+				AEC15B112E0BDCAC002B1B23 /* BackgroundMusicManager.swift in Sources */,
+				AEC15B122E0BDCAC002B1B23 /* EditProfileViewController.swift in Sources */,
+				AEC15B132E0BDCAC002B1B23 /* MemberController.swift in Sources */,
+				AEC15B142E0BDCAC002B1B23 /* MusicFloatingButton.swift in Sources */,
+				AEC15B152E0BDCAC002B1B23 /* ProfileViewController.swift in Sources */,
+				AEC15B162E0BDCAC002B1B23 /* UserProfileManager.swift in Sources */,
+				AEC15B172E0BDCAC002B1B23 /* AIMessageCell.swift in Sources */,
+				AEC15B182E0BDCAC002B1B23 /* AICharacterInfoModel.swift in Sources */,
+				AEC15B192E0BDCAC002B1B23 /* ChatMessageRealm.swift in Sources */,
+				AEC15B1A2E0BDCAC002B1B23 /* MessageCallVideoController.swift in Sources */,
+				AEC15B1B2E0BDCAC002B1B23 /* MessageChatController.swift in Sources */,
+				AEC15B1C2E0BDCAC002B1B23 /* MessageViewController.swift in Sources */,
+				AEC15B1D2E0BDCAC002B1B23 /* ZhipuAIService.swift in Sources */,
+				AEC15B1E2E0BDCAC002B1B23 /* CustomTabBar.swift in Sources */,
+				AEC15B1F2E0BDCAC002B1B23 /* MainTabBarController.swift in Sources */,
+				AEC15B202E0BDCAC002B1B23 /* TermsViewController.swift in Sources */,
+				AEC15B212E0BDCAC002B1B23 /* WebViewController.swift in Sources */,
+				AEC15B222E0BDCAC002B1B23 /* IAPManager.swift in Sources */,
+				AEC15B232E0BDCAC002B1B23 /* RunUserManager.swift in Sources */,
+				AEC15B242E0BDCAC002B1B23 /* UserVipManager.swift in Sources */,
+				AEC15B252E0BDCAC002B1B23 /* ImportPods.swift in Sources */,
+				AEC15B262E0BDCAC002B1B23 /* AppDelegate.swift in Sources */,
+				AEC15B272E0BDCAC002B1B23 /* GeneratedPluginRegistrant.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		AEC1584A2E0A50B2002B1B23 /* LaunchScreen.storyboard */ = {
+		AEC15AF92E0BDCAC002B1B23 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				AEC158492E0A50B2002B1B23 /* Base */,
+				AEC15AF82E0BDCAC002B1B23 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		AEC1584C2E0A50B2002B1B23 /* Main.storyboard */ = {
+		AEC15AFB2E0BDCAC002B1B23 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				AEC1584B2E0A50B2002B1B23 /* Base */,
+				AEC15AFA2E0BDCAC002B1B23 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -663,19 +681,21 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YY9VHMCUK4;
 				ENABLE_BITCODE = NO;
-				FLUTTER_APPLICATION_PATH = /Users/runner/work/tiantanew/tiantanew;
-				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/stable-3.24.4-arm64";
+				FLUTTER_APPLICATION_PATH = /Users/tmp/Desktop/tianta;
+				FLUTTER_BUILD_NAME = 1.1.0;
+				FLUTTER_BUILD_NUMBER = 2;
+				FLUTTER_ROOT = /Users/tmp/Desktop/flutter;
 				INFOPLIST_FILE = Runner/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.huanban.chatsapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = tian_dis;
@@ -804,20 +824,23 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/RunnerDebug.entitlements;
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YY9VHMCUK4;
 				ENABLE_BITCODE = NO;
-				FLUTTER_APPLICATION_PATH = /Users/runner/work/tiantanew/tiantanew;
-				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/stable-3.24.4-arm64";
+				FLUTTER_APPLICATION_PATH = /Users/tmp/Desktop/tianta;
+				FLUTTER_BUILD_NAME = 1.1.0;
+				FLUTTER_BUILD_NUMBER = 2;
+				FLUTTER_ROOT = /Users/tmp/Desktop/flutter;
 				INFOPLIST_FILE = Runner/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.huanban.chatsapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -842,19 +865,21 @@
 				CLANG_ENABLE_MODULES = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YY9VHMCUK4;
 				ENABLE_BITCODE = NO;
-				FLUTTER_APPLICATION_PATH = /Users/runner/work/tiantanew/tiantanew;
-				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/stable-3.24.4-arm64";
+				FLUTTER_APPLICATION_PATH = /Users/tmp/Desktop/tianta;
+				FLUTTER_BUILD_NAME = 1.1.0;
+				FLUTTER_BUILD_NUMBER = 2;
+				FLUTTER_ROOT = /Users/tmp/Desktop/flutter;
 				INFOPLIST_FILE = Runner/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.huanban.chatsapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = tian_dis;

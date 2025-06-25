@@ -336,10 +336,28 @@ class MessageChatController: BaseController {
 //        }
 //    }
     
+    private func canSendMessage() -> Bool {
+        if UserVipManager.shared.isVip { return true }
+        return UserVipManager.shared.diamondBalance >= 5
+    }
+    
     private func sendMessage() {
         guard let text = textView.text?.trimmingCharacters(in: .whitespacesAndNewlines), !text.isEmpty else { return }
         guard let dataModel = dataModel else { return }
-        
+        guard canSendMessage() else {
+            let alert = UIAlertController(title: "钻石不足", message: "请充值钻石或开通会员后再发送消息。", preferredStyle: .alert)
+            alert.addAction(UIAlertAction(title: "去充值", style: .default) { [weak self] _ in
+                let memberVC = MemberController()
+                self?.navigationController?.pushViewController(memberVC, animated: true)
+            })
+            alert.addAction(UIAlertAction(title: "取消", style: .cancel))
+            present(alert, animated: true)
+            return
+        }
+        // 非会员扣除钻石
+        if !UserVipManager.shared.isVip {
+            _ = UserVipManager.shared.costDiamond(5)
+        }
         // 保存用户消息到数据库
         let userMessage = ChatMessageRealm(
             chatId: chatId,
@@ -349,14 +367,11 @@ class MessageChatController: BaseController {
         )
         ChatMessageManager.shared.saveMessage(userMessage)
         messages.append(userMessage)
-        
         // 清空输入框
         textView.text = ""
-        
         // 刷新UI
         tableView.reloadData()
         scrollToBottom(animated: true)
-        
         // 调用智普AI
         callZhipuAI(userMessage: text)
     }
