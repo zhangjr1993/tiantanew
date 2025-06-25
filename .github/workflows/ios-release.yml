@@ -47,7 +47,7 @@ jobs:
         run: |
             cd ios
             rm -rf Pods
-            rm -f Podfile.lock
+            rm -rf Podfile.lock
             pod install --repo-update
             cd ..
 
