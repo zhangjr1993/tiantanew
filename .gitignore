@@ -1,0 +1,4 @@
+.dart_tool/
+.xcuserdatad
+.DS_Store
+.xcconfig
