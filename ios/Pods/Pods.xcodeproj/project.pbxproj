@@ -15,7 +15,6 @@
 			dependencies = (
 			);
 			name = Flutter;
-			productName = Flutter;
 		};
 /* End PBXAggregateTarget section */
 
@@ -37,7 +36,7 @@
 		052B066ADA61E0A3E1B1F3209A878727 /* ConstraintView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737C2F2241E4F9FB5231E141C97AD76A /* ConstraintView+Extensions.swift */; };
 		05FF3C4D106E2DEF83CA2F7E76CB2E6F /* RLMArray.h in Copy . Public Headers */ = {isa = PBXBuildFile; fileRef = BA8A72D3DCED383E639C57E1AA089F35 /* RLMArray.h */; };
 		060D1681108AA609D517FB3AA4B14BB5 /* PhotoAsset+Equatable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21ABBE667B4B2360DC7A9B8C8CCC9256 /* PhotoAsset+Equatable.swift */; };
-		06EC579860CC68D7557726CE2396C1E8 /* IQKeyboardCore.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6E897F35E5E27028AC58B14B552FBC8D /* IQKeyboardCore.bundle */; };
+		06EC579860CC68D7557726CE2396C1E8 /* IQKeyboardCore-IQKeyboardCore in Resources */ = {isa = PBXBuildFile; fileRef = 6E897F35E5E27028AC58B14B552FBC8D /* IQKeyboardCore-IQKeyboardCore */; };
 		0737414BD18FE336C3323163B4BB97D7 /* Realm.h in Copy . Public Headers */ = {isa = PBXBuildFile; fileRef = 0E565F04E4D0694C30840ED804BB46B1 /* Realm.h */; };
 		074E860262B03E9C95D6770A8F30ED8F /* Patcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5F1B396BBC07395D94A5F457688553 /* Patcher.swift */; };
 		074F0F5D5EF567ABC6E2A359CC5B4B85 /* ProgressHUD+CircleArcDotSpin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B7681BF81B98D60FADC9AF356F4E32 /* ProgressHUD+CircleArcDotSpin.swift */; };
@@ -141,7 +140,7 @@
 		289EB8FFC3022D0B96D564B906753083 /* IQKeyboardManager+Resign.swift in Sources */ = {isa = PBXBuildFile; fileRef = E785DCE601EBC8569AA27055F461C6F0 /* IQKeyboardManager+Resign.swift */; };
 		28D36BA5B066A2E0F2460E1305250F55 /* RLMCollection.mm in Sources */ = {isa = PBXBuildFile; fileRef = 78CCBBAA7A8F770B6D5DF7E4FB318CC6 /* RLMCollection.mm */; settings = {COMPILER_FLAGS = "-DREALM_HAVE_CONFIG -DREALM_COCOA_VERSION='@\"20.0.3\"' -D__ASSERTMACROS__"; }; };
 		292469BF6B69D861EC73FDE26B76C00C /* RLMArray_Private.h in Copy . Private Headers */ = {isa = PBXBuildFile; fileRef = 30CA560C666B74CB2D00B38E5942D2DD /* RLMArray_Private.h */; };
-		29B9F0CC424ED25186E4B8D9CFAF805F /* IQKeyboardToolbar.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A16FD016E18EACCF6B23F219F2E236FE /* IQKeyboardToolbar.bundle */; };
+		29B9F0CC424ED25186E4B8D9CFAF805F /* IQKeyboardToolbar-IQKeyboardToolbar in Resources */ = {isa = PBXBuildFile; fileRef = A16FD016E18EACCF6B23F219F2E236FE /* IQKeyboardToolbar-IQKeyboardToolbar */; };
 		2A705948753A9E51BA16A81020AE98D4 /* RLMSchema_Private.h in Copy . Private Headers */ = {isa = PBXBuildFile; fileRef = 95E426A69C965E8683C3E1BB4A2ACC13 /* RLMSchema_Private.h */; };
 		2AAB8702B552CBEBC89B60158BB1B7CD /* RLMRealmConfiguration_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 41A4ED202BC411B7E45702F51892D624 /* RLMRealmConfiguration_Private.h */; };
 		2ABF48C5156190B801B44294319105FE /* EditorView+PhotoTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265C097053879651DE0F6879FD86258A /* EditorView+PhotoTools.swift */; };
@@ -174,7 +173,7 @@
 		3317272CD6152539D3806E7F7865AD1E /* RLMObjectId.mm in Sources */ = {isa = PBXBuildFile; fileRef = 1B9CE818F7F78F8C601CB9FB4E34533D /* RLMObjectId.mm */; settings = {COMPILER_FLAGS = "-DREALM_HAVE_CONFIG -DREALM_COCOA_VERSION='@\"20.0.3\"' -D__ASSERTMACROS__"; }; };
 		33E2AE09F67364C0817C7FABEE366BA3 /* EditorPlayAuido.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005A6B7CA5325E3A0629F9074581FA90 /* EditorPlayAuido.swift */; };
 		33ED660D5A97B777B47A438E4B81F0FA /* IQDeepResponderContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37002F80FB56DDFD6BD55786057C4FC /* IQDeepResponderContainerView.swift */; };
-		3466A37B64ECFD185CE33E0DD6473889 /* HXPhotoPicker_Privacy.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 07FCAF745F3EEC27684AB03948F3A3EE /* HXPhotoPicker_Privacy.bundle */; };
+		3466A37B64ECFD185CE33E0DD6473889 /* HXPhotoPicker-HXPhotoPicker_Privacy in Resources */ = {isa = PBXBuildFile; fileRef = 07FCAF745F3EEC27684AB03948F3A3EE /* HXPhotoPicker-HXPhotoPicker_Privacy */; };
 		34CF166FB3B5349627297888C8522281 /* EditorViewController+Filters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C34428B4BBA02CA2C3B53881FD41DC /* EditorViewController+Filters.swift */; };
 		34D5C1299F0E806F69D983ABC5CE8FDD /* EmbeddedObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BA16E5FB6F5019947BBCC26B0CB113 /* EmbeddedObject.swift */; };
 		34ED8A3AD5F2B61811AC046FC1A328CD /* RLMObject_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 6CB866587886BC370E50B9FC1A378BF8 /* RLMObject_Private.h */; };
@@ -198,7 +197,7 @@
 		3B11DB8E57C47F0F4A50F99D2BCB1465 /* EditorViewController+EditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C24536E0EDB5191EDFBC4D9BAC09289E /* EditorViewController+EditorView.swift */; };
 		3BF64C697E9D8A5C603D7D0CB3B1DEFF /* PhotosUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BBBE212446AFB00181015312F4A5E2E /* PhotosUI.framework */; };
 		3CBE4D34154CB6642C231C2F525A3ADA /* RLMSchema.h in Headers */ = {isa = PBXBuildFile; fileRef = 0560E6D8E5F144AD78BCB2E3B127EC68 /* RLMSchema.h */; };
-		3CC5F76F3439F4934CA27788235A304E /* IQKeyboardReturnManager.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 110BD425B6CAD6801539E2C6AB6E0662 /* IQKeyboardReturnManager.bundle */; };
+		3CC5F76F3439F4934CA27788235A304E /* IQKeyboardReturnManager-IQKeyboardReturnManager in Resources */ = {isa = PBXBuildFile; fileRef = 110BD425B6CAD6801539E2C6AB6E0662 /* IQKeyboardReturnManager-IQKeyboardReturnManager */; };
 		3D14E6859A2335414F0A5163A1205EFF /* UIViewController+ParentContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1E916D7C0A48564F8D38FF9767678AB /* UIViewController+ParentContainer.swift */; };
 		3D167B166FBC9B40E6E79A31D375A6A2 /* RLMSectionedResults.h in Copy . Public Headers */ = {isa = PBXBuildFile; fileRef = 7C47B670AFFABF64BB06D6CC0FDF9EAD /* RLMSectionedResults.h */; };
 		3D2FF1C2A2A73A88FB3FC5830EE0015D /* PhotoPickerView+Asset.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03FCA5CC7BCB051B426E4CDE6333D59 /* PhotoPickerView+Asset.swift */; };
@@ -301,7 +300,7 @@
 		5B7FDEE8366C586A8309E69C8A872C91 /* PhotoPickerView+Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C855A567BD87E96317A7D83C094C6925 /* PhotoPickerView+Cell.swift */; };
 		5C68535028EC23B9BD881AD965ACE10B /* Transformer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B156717A8000453DB7273001209A13 /* Transformer.swift */; };
 		5C70D35F614534C47C055F07B261916A /* _SpecialTreatmentEncoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650BCCF88DF6123BEE2D7833098CE4C9 /* _SpecialTreatmentEncoder.swift */; };
-		5CB1E5A9CEBFC3E163A8C68BF494B69E /* IQKeyboardToolbarManager.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 80A40EDA3AF0499BDBCFF09467BB49AD /* IQKeyboardToolbarManager.bundle */; };
+		5CB1E5A9CEBFC3E163A8C68BF494B69E /* IQKeyboardToolbarManager-IQKeyboardToolbarManager in Resources */ = {isa = PBXBuildFile; fileRef = 80A40EDA3AF0499BDBCFF09467BB49AD /* IQKeyboardToolbarManager-IQKeyboardToolbarManager */; };
 		5CB9E2C1A60E0433A86A1BFFD3DA5F72 /* Core+UITableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF7E7C4FADA629E2E0E955B56F7F39A /* Core+UITableView.swift */; };
 		5CCA78654B26295707780AA7BED652BF /* SmartCoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB039AA4EF6D9CDF49E07B0CB96B61A2 /* SmartCoding.swift */; };
 		5D22F4D1D1CC9151C801EBF4BE012A20 /* ProgressHUD+TriangleDotShift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B9BA97BCC2CDBB3E124F33BD0EE56BF /* ProgressHUD+TriangleDotShift.swift */; };
@@ -350,7 +349,7 @@
 		692C5EFD63FC3CC6B868714C4DE94356 /* ProgressHUD+CircleBarSpinFade.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85C92863A26A8286DF59A72621C88F97 /* ProgressHUD+CircleBarSpinFade.swift */; };
 		6988EAD660B57F4DF98BED27E0ACCD7E /* EditorChartletViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52BB82381F1E09951BF3D5D022D5E97 /* EditorChartletViewController.swift */; };
 		69B901DE2ED80BD6D090E5CE9DDECCCC /* RLMMigration.h in Headers */ = {isa = PBXBuildFile; fileRef = FB246AF5EC01A8F75CB639EF7776BA38 /* RLMMigration.h */; };
-		6A3112C85D4A12A7DD0F3F4A0CF45043 /* realm_objc_privacy.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1AFC594BA8F7A6BF67C9A715020849EE /* realm_objc_privacy.bundle */; };
+		6A3112C85D4A12A7DD0F3F4A0CF45043 /* Realm-realm_objc_privacy in Resources */ = {isa = PBXBuildFile; fileRef = 1AFC594BA8F7A6BF67C9A715020849EE /* Realm-realm_objc_privacy */; };
 		6B26DB9CB19BEA178AD55FF7D221B64A /* Query.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD87B6F9048B14D7D8633EC43276BB9 /* Query.swift */; };
 		6BBDC0227CBB659493A8BDFD7AB0EB7E /* IndicatorType.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17714586D1016C4DB8BE25177C12A34 /* IndicatorType.swift */; };
 		6BF70F16517086344384AB518D5D3066 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B9EF0A269C2DA631CFEB58B8EA36D27 /* Foundation.framework */; };
@@ -559,7 +558,7 @@
 		A9147EF1ABAC613C8E5647B5074F63FC /* Picker+PhotoManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6A2A727FEFFD960CC95C29EE269C68 /* Picker+PhotoManager.swift */; };
 		A9698B0B57D89A0B95493498B534C8A1 /* RLMSwiftObject.h in Copy . Public Headers */ = {isa = PBXBuildFile; fileRef = 8908A71A831ED4C8A043358C400704BB /* RLMSwiftObject.h */; };
 		A9C05423E335E8EE36EAEE79B257B9CE /* RLMObjectBase_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F387CFF21C302B54F887374B7C92A9C /* RLMObjectBase_Private.h */; };
-		A9F6AB173C198CB46149BD879E275AF4 /* IQTextView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 847044E56CBBCE1235A6F3CEF3F9F607 /* IQTextView.bundle */; };
+		A9F6AB173C198CB46149BD879E275AF4 /* IQTextView-IQTextView in Resources */ = {isa = PBXBuildFile; fileRef = 847044E56CBBCE1235A6F3CEF3F9F607 /* IQTextView-IQTextView */; };
 		AAA6A03A7DEA2A20FDC4178F3B267ED1 /* EditorModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF2E9AD339A8115F8B0AE2049C078F7 /* EditorModels.swift */; };
 		AAAA40AE599CD089DD6E35FEAC003EED /* ConstraintRelatableTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = C341CC5C4C4EEBDE929D64B2717F66B0 /* ConstraintRelatableTarget.swift */; };
 		AAC92A7B6A9C9FC00C35E761ACB9E174 /* ImageEditedResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691478E7F2AF55E0B59F807E3E45D978 /* ImageEditedResult.swift */; };
@@ -635,7 +634,7 @@
 		C0872EF8C77F41CDA6E56B246E52FB4F /* RLMSwiftProperty.h in Copy . Private Headers */ = {isa = PBXBuildFile; fileRef = 038F57F7B8027B3D9C0D73B50ADDC1FD /* RLMSwiftProperty.h */; };
 		C0F85A94754410249405B23CF4002789 /* RLMUtil.mm in Sources */ = {isa = PBXBuildFile; fileRef = 44F3F0F43920BB24B5DF27DB06B01B2A /* RLMUtil.mm */; settings = {COMPILER_FLAGS = "-DREALM_HAVE_CONFIG -DREALM_COCOA_VERSION='@\"20.0.3\"' -D__ASSERTMACROS__"; }; };
 		C124C530B3D014DB0BC6942E14F3E43D /* EditorViewController+Chartlet.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF030E5662777C57C01E9936BB823944 /* EditorViewController+Chartlet.swift */; };
-		C13DC5B8BE7C29E7570369116593C53A /* realm_swift_privacy.bundle in Resources */ = {isa = PBXBuildFile; fileRef = AC70800BBC39EB966B610857C5D5404A /* realm_swift_privacy.bundle */; };
+		C13DC5B8BE7C29E7570369116593C53A /* RealmSwift-realm_swift_privacy in Resources */ = {isa = PBXBuildFile; fileRef = AC70800BBC39EB966B610857C5D5404A /* RealmSwift-realm_swift_privacy */; };
 		C174EA8D60BEEACF9F478ADD83B6945E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB9182F0A598ECC6DE0A5FDCB681F9FE /* UIKit.framework */; };
 		C1D4B42CBF17EAF182AD719560858829 /* AssetError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F4765ED194DBBE901950BB7AF0D4138 /* AssetError.swift */; };
 		C276E8A6B63815B63924BE7BC04A73C4 /* EditorChartletViewListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFF50811F19A269FD7455816808893FD /* EditorChartletViewListCell.swift */; };
@@ -651,7 +650,7 @@
 		C542D8450B9ED0FE271C7A5AFB161750 /* ProgressHUD+SemiRingRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808193E0AD85F3DF9C07EC13FEB4198B /* ProgressHUD+SemiRingRotation.swift */; };
 		C5453B1D4AC1BA979728ED40221362A6 /* EditorAdjusterView+Rotate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1234D4411BA6DCCA72A6A36FC584C2E /* EditorAdjusterView+Rotate.swift */; };
 		C55E284B2D80916BE54CA179D41EE171 /* PlayButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0767BAB06263947029E9CF539CBC3C6 /* PlayButton.swift */; };
-		C5B017ACA9F36AFC239E7CB4B4D161A3 /* IQKeyboardNotification.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 120BD4C670EF00F4D5A40AA4B863A7AE /* IQKeyboardNotification.bundle */; };
+		C5B017ACA9F36AFC239E7CB4B4D161A3 /* IQKeyboardNotification-IQKeyboardNotification in Resources */ = {isa = PBXBuildFile; fileRef = 120BD4C670EF00F4D5A40AA4B863A7AE /* IQKeyboardNotification-IQKeyboardNotification */; };
 		C5F2ADE847CF17112100083C376D6B1E /* IQBarButtonItemConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ABD049220243123D7B135113512E2B6 /* IQBarButtonItemConfiguration.swift */; };
 		C5F5F243977569D0610876DF170D6896 /* UIView+ParentObjc.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE598F355B9C958FFBBE72F21568725 /* UIView+ParentObjc.swift */; };
 		C6042D5C118CE280046F6A160F38457B /* ProgressHUD+ActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9975363D86BB6F0ADCF8D0E86784881 /* ProgressHUD+ActivityIndicator.swift */; };
@@ -756,7 +755,7 @@
 		E78FE7B64DD24FFD6E4EC26F25124278 /* UIView+Hierarchy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 244BF6203ABEC964C96DC51D84F749B8 /* UIView+Hierarchy.swift */; };
 		E84DD0CF8189023438F297FDC9097891 /* PhotoPickerDataStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = D13D30880AC4115B6FE267941AD934F7 /* PhotoPickerDataStatus.swift */; };
 		E8D25B32CF460F17ACC905A15017C045 /* PhotoAlbumCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F36D8CA752E50BD8AFB64807A7D58FC0 /* PhotoAlbumCollectionViewCell.swift */; };
-		E9D674F27593604C79DAF41EF86DFD85 /* IQTextInputViewNotification.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F956E149F5B195BB7833F97FC6211AE8 /* IQTextInputViewNotification.bundle */; };
+		E9D674F27593604C79DAF41EF86DFD85 /* IQTextInputViewNotification-IQTextInputViewNotification in Resources */ = {isa = PBXBuildFile; fileRef = F956E149F5B195BB7833F97FC6211AE8 /* IQTextInputViewNotification-IQTextInputViewNotification */; };
 		EA35095AD48C4FCDB0821FC38EB7D560 /* List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600B037005EA42B7BD24929B9E46F917 /* List.swift */; };
 		EB9AA9056177226E613F223AF0EF1059 /* ImageResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3033F2A4965811DE67ABAA8E8AB9E5AF /* ImageResource.swift */; };
 		EBE6CC8979410D91B7E297423EAD36EA /* PhotoEditorFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE84265E56765654E4A551A29C523C2B /* PhotoEditorFilter.swift */; };
@@ -767,7 +766,7 @@
 		ECC05D8CE64C907EF411EB2431FE5B22 /* EmptyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CEB68FF1FA1E9D78DC258C2ABA1DE7 /* EmptyView.swift */; };
 		ECD04A2F2CC68BE0A66B25A4F0073014 /* PhotoAsset.swift in Sources */ = {isa = PBXBuildFile; fileRef = E07923B4B048AFF3E40419384F61B0EB /* PhotoAsset.swift */; };
 		ECEA095E3CB9D0055047301CBE42599D /* Core+CGFloat.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB72BA7CEE8B19ABFBC849E3C748C3B0 /* Core+CGFloat.swift */; };
-		ED63C6FF5B31985C4A7CBD9CE65F16E2 /* SnapKit_Privacy.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B9DCB5EC0B1CDADD221717CADDF62359 /* SnapKit_Privacy.bundle */; };
+		ED63C6FF5B31985C4A7CBD9CE65F16E2 /* SnapKit-SnapKit_Privacy in Resources */ = {isa = PBXBuildFile; fileRef = B9DCB5EC0B1CDADD221717CADDF62359 /* SnapKit-SnapKit_Privacy */; };
 		ED76505EE0094D65DD4DC5F448962D56 /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C43D191BA736661D864D13D07A4A675 /* ProgressView.swift */; };
 		ED9D5200B60D875C13785B360078D983 /* ObjectiveCSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E26E7B55207B1D9134EBC6FE263FE48 /* ObjectiveCSupport.swift */; };
 		EDA8ACD4B0CC284C1D612EAB0F486FD8 /* PhotoPreviewSelectedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D476E46FB46B72738CF9169E01F33C /* PhotoPreviewSelectedView.swift */; };
@@ -811,7 +810,7 @@
 		FA1E99A21BC6153FD9C29E8DE9AA4842 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 348BAFE5719FD33A2CDA64FEB41BE1AC /* PrivacyInfo.xcprivacy */; };
 		FA36AC7A54561261EE2819776E41D727 /* Core+UICollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6714EB09F40502B9BC250537A2EF527 /* Core+UICollectionView.swift */; };
 		FA64BC4B4615FA75DC34C7AB316C5C1D /* URLTransformer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655EEC79E52D123560A757F62998A1A7 /* URLTransformer.swift */; };
-		FA882283B3129ED461C6E004AAE5F3C1 /* IQKeyboardManagerSwift.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 8D8069D3964814114ACEC3084C010B59 /* IQKeyboardManagerSwift.bundle */; };
+		FA882283B3129ED461C6E004AAE5F3C1 /* IQKeyboardManagerSwift-IQKeyboardManagerSwift in Resources */ = {isa = PBXBuildFile; fileRef = 8D8069D3964814114ACEC3084C010B59 /* IQKeyboardManagerSwift-IQKeyboardManagerSwift */; };
 		FA90972D31DB276F5B4F75BC7EB6342E /* ProgressHUD+CirclePulseMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFFA98A07EF4CD194709872C8ABDDA0 /* ProgressHUD+CirclePulseMultiple.swift */; };
 		FABCAC813A2A71670E46AD2A1367DE78 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B9EF0A269C2DA631CFEB58B8EA36D27 /* Foundation.framework */; };
 		FB29C1D44CC964064B3180913EB0283E /* PhotoSplitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EFCC4D0C198E2D18A8630DA8362474F /* PhotoSplitViewController.swift */; };
@@ -1176,12 +1175,12 @@
 /* Begin PBXFileReference section */
 		005A6B7CA5325E3A0629F9074581FA90 /* EditorPlayAuido.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorPlayAuido.swift; path = Sources/HXPhotoPicker/Editor/Model/EditorPlayAuido.swift; sourceTree = "<group>"; };
 		01260AC463CF19A051BC610910B82998 /* DecodingError+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DecodingError+Extension.swift"; path = "Sources/SmartCodable/Core/JSONDecoder/Decoder/DecodingError+Extension.swift"; sourceTree = "<group>"; };
-		021906C22E2EFFADEF555F12B04203B1 /* RLMRealmConfiguration.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMRealmConfiguration.mm; path = Realm/RLMRealmConfiguration.mm; sourceTree = "<group>"; };
+		021906C22E2EFFADEF555F12B04203B1 /* RLMRealmConfiguration.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMRealmConfiguration.mm; path = Realm/RLMRealmConfiguration.mm; sourceTree = "<group>"; };
 		02A15C1036869CDF4165FD60F434D21E /* IQTextInputViewInfoModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQTextInputViewInfoModel.swift; path = IQKeyboardReturnManager/Classes/IQTextInputViewInfoModel.swift; sourceTree = "<group>"; };
 		030C18677A300D13CC09C135B9EB2BD5 /* LayoutConstraintItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LayoutConstraintItem.swift; path = Sources/LayoutConstraintItem.swift; sourceTree = "<group>"; };
 		038F57F7B8027B3D9C0D73B50ADDC1FD /* RLMSwiftProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSwiftProperty.h; path = include/RLMSwiftProperty.h; sourceTree = "<group>"; };
 		039EC53D85B7D2E6874664E5259A8C0D /* CollectionAccess.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CollectionAccess.swift; path = RealmSwift/Impl/CollectionAccess.swift; sourceTree = "<group>"; };
-		03B9E49B6C4E12162470AC208AFB78CE /* RLMLogger.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMLogger.mm; path = Realm/RLMLogger.mm; sourceTree = "<group>"; };
+		03B9E49B6C4E12162470AC208AFB78CE /* RLMLogger.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMLogger.mm; path = Realm/RLMLogger.mm; sourceTree = "<group>"; };
 		03E66B85418CA40DD4397731155C2A67 /* EditorScaleView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorScaleView.swift; path = Sources/HXPhotoPicker/Editor/View/CropSize/EditorScaleView.swift; sourceTree = "<group>"; };
 		03EA4DD1C54298F1109CB9BB62FF4E31 /* PhotoPickerListAssets.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerListAssets.swift; path = Sources/HXPhotoPicker/Picker/Protocol/UI/PhotoList/PhotoPickerListAssets.swift; sourceTree = "<group>"; };
 		0480A1E870ECE7661CA6C1182DBE1A38 /* AssetManager+ImageURL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "AssetManager+ImageURL.swift"; path = "Sources/HXPhotoPicker/Picker/Util/AssetManager+ImageURL.swift"; sourceTree = "<group>"; };
@@ -1195,10 +1194,10 @@
 		05CCE1BFF3854D7E4EA7705EAB4BD134 /* ThreadSafeReference.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ThreadSafeReference.swift; path = RealmSwift/ThreadSafeReference.swift; sourceTree = "<group>"; };
 		05F280C3D8FB2700DFB9ADD18C83649B /* ConstraintOffsetTarget.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintOffsetTarget.swift; path = Sources/ConstraintOffsetTarget.swift; sourceTree = "<group>"; };
 		06B9856831A9E9E15CD2EA3F0AE2C362 /* SnapKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SnapKit.modulemap; sourceTree = "<group>"; };
-		06E5B413FEA5A600D76636DA132F8FB9 /* IQTextInputViewNotification.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IQTextInputViewNotification.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		06E5B413FEA5A600D76636DA132F8FB9 /* IQTextInputViewNotification */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IQTextInputViewNotification; path = IQTextInputViewNotification.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		07A9A75591E942768CE34E03F7CD4654 /* CameraPreviewView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CameraPreviewView.swift; path = Sources/HXPhotoPicker/Camera/View/CameraPreviewView.swift; sourceTree = "<group>"; };
 		07E0C2B904C0C02348DC3602AF93D6CD /* IQKeyboardManager+Appearance_Deprecated.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQKeyboardManager+Appearance_Deprecated.swift"; path = "IQKeyboardManagerSwift/Appearance/IQKeyboardManager+Appearance_Deprecated.swift"; sourceTree = "<group>"; };
-		07FCAF745F3EEC27684AB03948F3A3EE /* HXPhotoPicker_Privacy.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HXPhotoPicker_Privacy.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		07FCAF745F3EEC27684AB03948F3A3EE /* HXPhotoPicker-HXPhotoPicker_Privacy */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "HXPhotoPicker-HXPhotoPicker_Privacy"; path = HXPhotoPicker_Privacy.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		08027B2670FB2CBAC105290D29047CD3 /* JSONValue+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "JSONValue+Extension.swift"; path = "Sources/SmartCodable/Core/JSONValue/JSONValue+Extension.swift"; sourceTree = "<group>"; };
 		08B0F7A6C411616D068D85331AE76A9B /* Geospatial.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Geospatial.swift; path = RealmSwift/Geospatial.swift; sourceTree = "<group>"; };
 		08CB2DFA77CC80E246EDFA6417293B39 /* IQKeyboardManagerSwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = IQKeyboardManagerSwift.release.xcconfig; sourceTree = "<group>"; };
@@ -1215,16 +1214,16 @@
 		0BE4018BA76D1F15FFEBD16245A777B5 /* Realm.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Realm.swift; path = RealmSwift/Realm.swift; sourceTree = "<group>"; };
 		0C58B274538744AA12B1079353B9EF95 /* RLMRealmConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMRealmConfiguration.h; path = include/RLMRealmConfiguration.h; sourceTree = "<group>"; };
 		0C7CD6E2E4D867173D5ED4330D57D760 /* AssetManager+Asset.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "AssetManager+Asset.swift"; path = "Sources/HXPhotoPicker/Picker/Util/AssetManager+Asset.swift"; sourceTree = "<group>"; };
-		0C85D4A31FDDE19723AA04CEC71009B2 /* RLMSectionedResults.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSectionedResults.mm; path = Realm/RLMSectionedResults.mm; sourceTree = "<group>"; };
+		0C85D4A31FDDE19723AA04CEC71009B2 /* RLMSectionedResults.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMSectionedResults.mm; path = Realm/RLMSectionedResults.mm; sourceTree = "<group>"; };
 		0C9CA1B2606C9D81E5ADCBEA7566951B /* EditorMusicViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorMusicViewCell.swift; path = Sources/HXPhotoPicker/Editor/View/Video/EditorMusicViewCell.swift; sourceTree = "<group>"; };
 		0CB784C87CE0A833956017151412232A /* PhotoBrowserAnimationTransitioning.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoBrowserAnimationTransitioning.swift; path = Sources/HXPhotoPicker/Picker/Protocol/Transition/PhotoBrowserAnimationTransitioning.swift; sourceTree = "<group>"; };
-		0D3287058D2F13BD484A454154BEA62B /* ProgressHUD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ProgressHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D3287058D2F13BD484A454154BEA62B /* ProgressHUD */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ProgressHUD; path = ProgressHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D42802CF42CCA6A9464690D48C7994C /* EditorToolsView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorToolsView.swift; path = Sources/HXPhotoPicker/Editor/View/EditorToolsView.swift; sourceTree = "<group>"; };
-		0D578F4B920B23A8997C38187BCE8405 /* RLMSwiftCollectionBase.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSwiftCollectionBase.mm; path = Realm/RLMSwiftCollectionBase.mm; sourceTree = "<group>"; };
+		0D578F4B920B23A8997C38187BCE8405 /* RLMSwiftCollectionBase.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMSwiftCollectionBase.mm; path = Realm/RLMSwiftCollectionBase.mm; sourceTree = "<group>"; };
 		0D8D345DB98FA81CF4D3D250CE4A9BFA /* IQKeyboardToolbarManager-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IQKeyboardToolbarManager-umbrella.h"; sourceTree = "<group>"; };
 		0D966F995826EC329156B9FE975BD9C8 /* DataTransformer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DataTransformer.swift; path = Sources/SmartCodable/Core/Transformer/DataTransformer.swift; sourceTree = "<group>"; };
 		0DA1D221D02394230AA4686A5A1EAF03 /* IQKeyboardToolbar.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = IQKeyboardToolbar.modulemap; sourceTree = "<group>"; };
-		0DFD4541FF9DAA31A2FC2A7F6D03ED22 /* IQTextView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IQTextView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DFD4541FF9DAA31A2FC2A7F6D03ED22 /* IQTextView */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IQTextView; path = IQTextView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E333EDD593A0D12398B5E3FA1632A62 /* IQTextView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = IQTextView.modulemap; sourceTree = "<group>"; };
 		0E565F04E4D0694C30840ED804BB46B1 /* Realm.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Realm.h; path = include/Realm.h; sourceTree = "<group>"; };
 		0F6305B6CD9F542642FF2DB60B744851 /* AssetManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AssetManager.swift; path = Sources/HXPhotoPicker/Picker/Util/AssetManager.swift; sourceTree = "<group>"; };
@@ -1234,13 +1233,13 @@
 		1023D3E7B885FA1445DB4D0AC8452C61 /* AlbumListConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AlbumListConfiguration.swift; path = Sources/HXPhotoPicker/Picker/Config/AlbumListConfiguration.swift; sourceTree = "<group>"; };
 		10604631D3C0DCD42B2B62EF4BC26518 /* PhotoFetchAsset.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoFetchAsset.swift; path = Sources/HXPhotoPicker/Picker/Protocol/Fetch/PhotoFetchAsset.swift; sourceTree = "<group>"; };
 		10B8FEDA84AAF115AC6B2ED0600776BF /* ProgressCricleJoinView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProgressCricleJoinView.swift; path = Sources/HXPhotoPicker/Core/View/ProgressHUD/ProgressCricleJoinView.swift; sourceTree = "<group>"; };
-		110BD425B6CAD6801539E2C6AB6E0662 /* IQKeyboardReturnManager.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IQKeyboardReturnManager.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		110BD425B6CAD6801539E2C6AB6E0662 /* IQKeyboardReturnManager-IQKeyboardReturnManager */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "IQKeyboardReturnManager-IQKeyboardReturnManager"; path = IQKeyboardReturnManager.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		118CC4BC5E7B2AC3BBBDC6FD130A562C /* ResourceBundle-realm_objc_privacy-Realm-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-realm_objc_privacy-Realm-Info.plist"; sourceTree = "<group>"; };
-		11A484E4B38A08544BA6AA6162F67EE2 /* RLMGeospatial.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMGeospatial.mm; path = Realm/RLMGeospatial.mm; sourceTree = "<group>"; };
-		120BD4C670EF00F4D5A40AA4B863A7AE /* IQKeyboardNotification.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IQKeyboardNotification.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		11A484E4B38A08544BA6AA6162F67EE2 /* RLMGeospatial.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMGeospatial.mm; path = Realm/RLMGeospatial.mm; sourceTree = "<group>"; };
+		120BD4C670EF00F4D5A40AA4B863A7AE /* IQKeyboardNotification-IQKeyboardNotification */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "IQKeyboardNotification-IQKeyboardNotification"; path = IQKeyboardNotification.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		122A7C8201ED92D3AE9D835022A957EC /* IQTextInputViewNotification-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "IQTextInputViewNotification-dummy.m"; sourceTree = "<group>"; };
 		1279F406C34525B248FF960066E97F06 /* ResourceBundle-SnapKit_Privacy-SnapKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-SnapKit_Privacy-SnapKit-Info.plist"; sourceTree = "<group>"; };
-		1322CE133DF782F3B31D022ECFB1449B /* RLMManagedArray.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMManagedArray.mm; path = Realm/RLMManagedArray.mm; sourceTree = "<group>"; };
+		1322CE133DF782F3B31D022ECFB1449B /* RLMManagedArray.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMManagedArray.mm; path = Realm/RLMManagedArray.mm; sourceTree = "<group>"; };
 		13863C386E3C6C8EAD2F1D1CB74628DE /* SwiftUI.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftUI.swift; path = RealmSwift/SwiftUI.swift; sourceTree = "<group>"; };
 		138ADE29A728601818FFC8D90D76A70D /* PhotoPreviewSelectedViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPreviewSelectedViewCell.swift; path = Sources/HXPhotoPicker/Picker/View/ToolBar/PhotoPreviewSelectedViewCell.swift; sourceTree = "<group>"; };
 		138CF272279A2C7F1C83665D04B37CA1 /* IQKeyboardManager+Deprecated.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQKeyboardManager+Deprecated.swift"; path = "IQKeyboardManagerSwift/IQKeyboardManager/Deprecated/IQKeyboardManager+Deprecated.swift"; sourceTree = "<group>"; };
@@ -1255,7 +1254,7 @@
 		152C9DF55A9DBD0203B73A6B3E6A5B2F /* IQKeyboardToolbar-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IQKeyboardToolbar-prefix.pch"; sourceTree = "<group>"; };
 		153954B5FC3CD390F0FB516F51F496B5 /* EditorViewProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorViewProtocol.swift; path = "Sources/HXPhotoPicker/Editor+View/View/EditorViewProtocol.swift"; sourceTree = "<group>"; };
 		155397367B6156C66040342F64818E3B /* RLMGeospatial.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMGeospatial.h; path = include/RLMGeospatial.h; sourceTree = "<group>"; };
-		15848DEC7727A809830E7F6FC1B6CE0F /* IQKeyboardReturnManager.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IQKeyboardReturnManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		15848DEC7727A809830E7F6FC1B6CE0F /* IQKeyboardReturnManager */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IQKeyboardReturnManager; path = IQKeyboardReturnManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		15C74C40D83504E21A983A0911414EF5 /* Photos.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Photos.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.0.sdk/System/Library/Frameworks/Photos.framework; sourceTree = DEVELOPER_DIR; };
 		15CDBAE76C029F6FF73B1E50ED42643F /* CameraRenderer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CameraRenderer.swift; path = Sources/HXPhotoPicker/Camera/Model/CameraRenderer.swift; sourceTree = "<group>"; };
 		166F4BB3AD0790135F6391D68050EAC7 /* IQKeyboardManager+Appearance.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQKeyboardManager+Appearance.swift"; path = "IQKeyboardManagerSwift/Appearance/IQKeyboardManager+Appearance.swift"; sourceTree = "<group>"; };
@@ -1271,8 +1270,8 @@
 		19AC824441C79AE7665284AEC9A122E1 /* IQKeyboardToolbar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = IQKeyboardToolbar.debug.xcconfig; sourceTree = "<group>"; };
 		1A26F2DC0E8387C3D444CF3641DD3E17 /* ResourceBundle-IQKeyboardReturnManager-IQKeyboardReturnManager-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-IQKeyboardReturnManager-IQKeyboardReturnManager-Info.plist"; sourceTree = "<group>"; };
 		1A68DFC8158CC363B6A19B39B7683FF1 /* PhotoBrowserInteractiveAnimator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoBrowserInteractiveAnimator.swift; path = Sources/HXPhotoPicker/Picker/Transition/PhotoBrowserInteractiveAnimator.swift; sourceTree = "<group>"; };
-		1AFC594BA8F7A6BF67C9A715020849EE /* realm_objc_privacy.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = realm_objc_privacy.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		1B9CE818F7F78F8C601CB9FB4E34533D /* RLMObjectId.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMObjectId.mm; path = Realm/RLMObjectId.mm; sourceTree = "<group>"; };
+		1AFC594BA8F7A6BF67C9A715020849EE /* Realm-realm_objc_privacy */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Realm-realm_objc_privacy"; path = realm_objc_privacy.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B9CE818F7F78F8C601CB9FB4E34533D /* RLMObjectId.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMObjectId.mm; path = Realm/RLMObjectId.mm; sourceTree = "<group>"; };
 		1BB06183B834BB88CD30C96E182BCECC /* ImageContentType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImageContentType.swift; path = Sources/HXPhotoPicker/Core/Model/ImageContentType.swift; sourceTree = "<group>"; };
 		1CE23AD5F7DFA7CEA026DDD2D6D00205 /* Property.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Property.swift; path = RealmSwift/Property.swift; sourceTree = "<group>"; };
 		1D13F6F74908AA2CE8269CE34ECF6B29 /* IQKeyboardToolbarManager.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = IQKeyboardToolbarManager.modulemap; sourceTree = "<group>"; };
@@ -1281,7 +1280,7 @@
 		1DF7E7C4FADA629E2E0E955B56F7F39A /* Core+UITableView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+UITableView.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+UITableView.swift"; sourceTree = "<group>"; };
 		1E5ED53FA1B484FE0C6195D63D4D1586 /* VideoPlayerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VideoPlayerView.swift; path = Sources/HXPhotoPicker/Core/View/VideoPlayer/VideoPlayerView.swift; sourceTree = "<group>"; };
 		1E7C026AC6E35CF2C16CCED8752476B3 /* EditorVideoCompositor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorVideoCompositor.swift; path = "Sources/HXPhotoPicker/Editor+View/Model/EditorVideoCompositor.swift"; sourceTree = "<group>"; };
-		1EBFA615BCFDB3548EFD7D553D8B84BC /* RLMArray.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMArray.mm; path = Realm/RLMArray.mm; sourceTree = "<group>"; };
+		1EBFA615BCFDB3548EFD7D553D8B84BC /* RLMArray.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMArray.mm; path = Realm/RLMArray.mm; sourceTree = "<group>"; };
 		1F6F0D7BF0C176A3CBE97E5FBDD239B6 /* SmartPublished.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmartPublished.swift; path = Sources/SmartCodable/Core/PropertyWrapper/SmartPublished.swift; sourceTree = "<group>"; };
 		208266FF2BE1BB14E155706FE10E520D /* PropertyWrapperProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PropertyWrapperProtocol.swift; path = Sources/SmartCodable/Core/PropertyWrapper/PropertyWrapperProtocol.swift; sourceTree = "<group>"; };
 		20C4E930227F191412E63D3F60ADDD6D /* VideoEditedResult.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VideoEditedResult.swift; path = "Sources/HXPhotoPicker/Editor+View/VideoEditedResult.swift"; sourceTree = "<group>"; };
@@ -1299,7 +1298,7 @@
 		244BF6203ABEC964C96DC51D84F749B8 /* UIView+Hierarchy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Hierarchy.swift"; path = "IQKeyboardCore/Classes/UIKitExtensions/UIView+Hierarchy.swift"; sourceTree = "<group>"; };
 		24991D32D7B419054408CD991A66E1FD /* EditorMaskListViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorMaskListViewController.swift; path = Sources/HXPhotoPicker/Editor/Controller/EditorMaskListViewController.swift; sourceTree = "<group>"; };
 		24C0CB3965CF1813C5DBC0D81210892D /* PickerTransition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PickerTransition.swift; path = Sources/HXPhotoPicker/Picker/Transition/PickerTransition.swift; sourceTree = "<group>"; };
-		24DDD4A0849B06C0942057220E1E81B2 /* HXPhotoPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HXPhotoPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		24DDD4A0849B06C0942057220E1E81B2 /* HXPhotoPicker */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = HXPhotoPicker; path = HXPhotoPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		25432EB34A253F99276144D0AF27E56C /* ObjectSchema.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ObjectSchema.swift; path = RealmSwift/ObjectSchema.swift; sourceTree = "<group>"; };
 		255326BCB76252D6D969A5596712890B /* PhotoPreviewContentLivePhotoView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPreviewContentLivePhotoView.swift; path = Sources/HXPhotoPicker/Picker/View/PhotoPreviewContentLivePhotoView.swift; sourceTree = "<group>"; };
 		256B3C0BCD0B14A6117F5A16CDB0C72E /* IQKeyboardToolbarManager.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = IQKeyboardToolbarManager.release.xcconfig; sourceTree = "<group>"; };
@@ -1354,7 +1353,7 @@
 		33A6289DDDBC9C679741CEE17C77E31D /* PhotoPickerViewController+Preview.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoPickerViewController+Preview.swift"; path = "Sources/HXPhotoPicker/Picker/Controller/Picker/PhotoPickerViewController+Preview.swift"; sourceTree = "<group>"; };
 		33ADAE9C5B56A7E545EA2270EA2721B7 /* EditorFilterEditView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorFilterEditView.swift; path = Sources/HXPhotoPicker/Editor/View/Filter/EditorFilterEditView.swift; sourceTree = "<group>"; };
 		345C58BA3D9287B7651FA6FE3F28AC3C /* ProgressHUD+Enums.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+Enums.swift"; path = "ProgressHUD/Sources/ProgressHUD+Enums.swift"; sourceTree = "<group>"; };
-		348BAFE5719FD33A2CDA64FEB41BE1AC /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = IQTextInputViewNotification/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		348BAFE5719FD33A2CDA64FEB41BE1AC /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = IQTextInputViewNotification/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		34C2FC41DE33CECB4A4FC1F59DC33766 /* Core+UIView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+UIView.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+UIView.swift"; sourceTree = "<group>"; };
 		34C9216DDC2499B7792585E5AABE8A22 /* RealmSwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RealmSwift-umbrella.h"; sourceTree = "<group>"; };
 		34C9710525FDA90CA9A7741FD40C5647 /* EditorCollectionView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorCollectionView.swift; path = Sources/HXPhotoPicker/Editor/View/EditorCollectionView.swift; sourceTree = "<group>"; };
@@ -1366,7 +1365,7 @@
 		367EDAFD994EC5E7F71E463584D16334 /* PhotoHUDProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoHUDProtocol.swift; path = Sources/HXPhotoPicker/Core/Config/PhotoHUDProtocol.swift; sourceTree = "<group>"; };
 		368DFF4DBCE0177B34F7FB523392DD6F /* DeviceOrientationHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DeviceOrientationHelper.swift; path = Sources/HXPhotoPicker/Camera/Model/DeviceOrientationHelper.swift; sourceTree = "<group>"; };
 		36C970763C6535B7F7016C2DCC4047C6 /* PhotoAsset+URL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoAsset+URL.swift"; path = "Sources/HXPhotoPicker/Picker/Model/PhotoAsset/PhotoAsset+URL.swift"; sourceTree = "<group>"; };
-		37E30401D198FFB5B1A9A9488C3761A2 /* RLMDictionary.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMDictionary.mm; path = Realm/RLMDictionary.mm; sourceTree = "<group>"; };
+		37E30401D198FFB5B1A9A9488C3761A2 /* RLMDictionary.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMDictionary.mm; path = Realm/RLMDictionary.mm; sourceTree = "<group>"; };
 		37E4F113125466DD56024B4C74DD99F5 /* ConstraintMakerFinalizable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintMakerFinalizable.swift; path = Sources/ConstraintMakerFinalizable.swift; sourceTree = "<group>"; };
 		37E5867A0CE64C22B116A15C434F5C1A /* RLMProperty_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMProperty_Private.h; path = include/RLMProperty_Private.h; sourceTree = "<group>"; };
 		37E6E1CC3EB9510689B8B8FA9F1702BB /* RealmKeyedCollection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RealmKeyedCollection.swift; path = RealmSwift/RealmKeyedCollection.swift; sourceTree = "<group>"; };
@@ -1382,19 +1381,19 @@
 		3B83E9A06EFFEF55BF181FACA6996724 /* AlbumTitleViewConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AlbumTitleViewConfiguration.swift; path = Sources/HXPhotoPicker/Picker/Config/AlbumTitleViewConfiguration.swift; sourceTree = "<group>"; };
 		3B8B7A16EBA73E0BB9C5C77C7F5AD02B /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.0.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
 		3B90D61E2DCA5CCBDDA1460013F8B446 /* PhotoPickerListFectchCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerListFectchCell.swift; path = Sources/HXPhotoPicker/Picker/Protocol/UI/PhotoList/PhotoPickerListFectchCell.swift; sourceTree = "<group>"; };
-		3BC5D22C093F3A130F0926940B629B11 /* RLMClassInfo.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMClassInfo.mm; path = Realm/RLMClassInfo.mm; sourceTree = "<group>"; };
+		3BC5D22C093F3A130F0926940B629B11 /* RLMClassInfo.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMClassInfo.mm; path = Realm/RLMClassInfo.mm; sourceTree = "<group>"; };
 		3C3292058D7163AC2C0F40D0B6E9252B /* SmartAnyImpl.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmartAnyImpl.swift; path = Sources/SmartCodable/Core/PropertyWrapper/SmartAny/SmartAnyImpl.swift; sourceTree = "<group>"; };
-		3C72179EB7B9E74120965016F86BFA32 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = IQKeyboardCore/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		3C72179EB7B9E74120965016F86BFA32 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = IQKeyboardCore/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		3CABE416E2907DED0AB9EF2D407B2490 /* HXPhotoPicker.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HXPhotoPicker.debug.xcconfig; sourceTree = "<group>"; };
 		3D2021B4ED4D3C9EDE5027506FB8C4AD /* SmartJSONDecoder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmartJSONDecoder.swift; path = Sources/SmartCodable/Core/JSONDecoder/Decoder/SmartJSONDecoder.swift; sourceTree = "<group>"; };
 		3D5CED0E6ADBB0C0876D53D3CF5033B1 /* PhotoPickerNavigationTitle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerNavigationTitle.swift; path = Sources/HXPhotoPicker/Picker/Protocol/UI/PhotoList/PhotoPickerNavigationTitle.swift; sourceTree = "<group>"; };
 		3D6B12E9B7EB0D4B6788266A3A1C5425 /* IQKeyboardToolbar-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "IQKeyboardToolbar-Info.plist"; sourceTree = "<group>"; };
 		3E26E7B55207B1D9134EBC6FE263FE48 /* ObjectiveCSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ObjectiveCSupport.swift; path = RealmSwift/ObjectiveCSupport.swift; sourceTree = "<group>"; };
-		3E623AAE662B463FDDE8B268BDEA3E7B /* SmartCodable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SmartCodable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3F0AF9AAB1E6FE4E0701DEFCBDF5D0CC /* RLMScheduler.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMScheduler.mm; path = Realm/RLMScheduler.mm; sourceTree = "<group>"; };
+		3E623AAE662B463FDDE8B268BDEA3E7B /* SmartCodable */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SmartCodable; path = SmartCodable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F0AF9AAB1E6FE4E0701DEFCBDF5D0CC /* RLMScheduler.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMScheduler.mm; path = Realm/RLMScheduler.mm; sourceTree = "<group>"; };
 		3F4CA9EEA0831EAA0880DE1D78B30278 /* Core+URL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+URL.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+URL.swift"; sourceTree = "<group>"; };
 		3FF1D0082492EE6E3C326A41F23EB64F /* PhotoPickerController+Transitioning.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoPickerController+Transitioning.swift"; path = "Sources/HXPhotoPicker/Picker/Controller/Photo/PhotoPickerController+Transitioning.swift"; sourceTree = "<group>"; };
-		3FF451DB7B5F1354A5B63B90DC13951C /* RLMMigration.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMMigration.mm; path = Realm/RLMMigration.mm; sourceTree = "<group>"; };
+		3FF451DB7B5F1354A5B63B90DC13951C /* RLMMigration.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMMigration.mm; path = Realm/RLMMigration.mm; sourceTree = "<group>"; };
 		40214360B81064A6E7B30D2B500C21EA /* PhotoBrowser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoBrowser.swift; path = Sources/HXPhotoPicker/Picker/Controller/Browser/PhotoBrowser.swift; sourceTree = "<group>"; };
 		407A3F00AD8A322E18D0D0D69663A6B8 /* EditorTransition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorTransition.swift; path = Sources/HXPhotoPicker/Editor/Transition/EditorTransition.swift; sourceTree = "<group>"; };
 		408FF4B07630353EFFD03F7EB4FBB1BB /* Core+UIViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+UIViewController.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+UIViewController.swift"; sourceTree = "<group>"; };
@@ -1407,31 +1406,31 @@
 		428007DD2D554A130832D69901FF2B98 /* JSONDecoderImpl.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = JSONDecoderImpl.swift; path = Sources/SmartCodable/Core/JSONDecoder/Decoder/Impl/JSONDecoderImpl.swift; sourceTree = "<group>"; };
 		42F0524FB1ACFD7A2BE98DBE2DB6DA1A /* IQKeyboardExtended.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQKeyboardExtended.swift; path = IQKeyboardCore/Classes/IQKeyboardExtended.swift; sourceTree = "<group>"; };
 		42F86A9264EBD0C532FA92E394F8A485 /* IQRootControllerConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQRootControllerConfiguration.swift; path = IQKeyboardManagerSwift/IQKeyboardManager/Configuration/IQRootControllerConfiguration.swift; sourceTree = "<group>"; };
-		437919EE08EC6BFCCBAC3BD346309742 /* RealmSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RealmSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		437919EE08EC6BFCCBAC3BD346309742 /* RealmSwift */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = RealmSwift; path = RealmSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		43C9E87E2FF59F8C158CEA55FFF27E5A /* HXPhotoPicker-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HXPhotoPicker-dummy.m"; sourceTree = "<group>"; };
 		448D66F77E08B26417AA8266D3D73495 /* AssetURLResult.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AssetURLResult.swift; path = Sources/HXPhotoPicker/Picker/AssetURLResult.swift; sourceTree = "<group>"; };
 		44B1A760B0A59D5875C00DF99A7A79B0 /* IQTextInputViewInfo.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQTextInputViewInfo.swift; path = IQTextInputViewNotification/Classes/IQTextInputViewInfo.swift; sourceTree = "<group>"; };
-		44F3F0F43920BB24B5DF27DB06B01B2A /* RLMUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMUtil.mm; path = Realm/RLMUtil.mm; sourceTree = "<group>"; };
-		454BB39068D3A29FAA64E937115201E6 /* RLMQueryUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMQueryUtil.mm; path = Realm/RLMQueryUtil.mm; sourceTree = "<group>"; };
+		44F3F0F43920BB24B5DF27DB06B01B2A /* RLMUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMUtil.mm; path = Realm/RLMUtil.mm; sourceTree = "<group>"; };
+		454BB39068D3A29FAA64E937115201E6 /* RLMQueryUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMQueryUtil.mm; path = Realm/RLMQueryUtil.mm; sourceTree = "<group>"; };
 		45CFCDA4E04E78BCBB3C74576F4E84A9 /* PhotoPreviewContentPhotoView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPreviewContentPhotoView.swift; path = Sources/HXPhotoPicker/Picker/View/PhotoPreviewContentPhotoView.swift; sourceTree = "<group>"; };
 		45E5AAD07322BFC99A22FE6A2CE9AD3A /* PreviewViewConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PreviewViewConfiguration.swift; path = Sources/HXPhotoPicker/Picker/Config/PreviewViewConfiguration.swift; sourceTree = "<group>"; };
 		4618B387662A2B2CDE14F0F4EBEB49B8 /* ResourceBundle-IQKeyboardManagerSwift-IQKeyboardManagerSwift-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-IQKeyboardManagerSwift-IQKeyboardManagerSwift-Info.plist"; sourceTree = "<group>"; };
 		4623BD72B3840789BAD97C6A5E2EDE33 /* ProgressHUD+CircleDotSpinFade.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+CircleDotSpinFade.swift"; path = "ProgressHUD/Sources/Animations/ProgressHUD+CircleDotSpinFade.swift"; sourceTree = "<group>"; };
 		463AB06786DB9C12DA36C42CBE2E1916 /* AssetManager+LivePhoto.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "AssetManager+LivePhoto.swift"; path = "Sources/HXPhotoPicker/Picker/Util/AssetManager+LivePhoto.swift"; sourceTree = "<group>"; };
 		4648078743B3C8130F40B67955E06F24 /* PickerInteractiveTransition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PickerInteractiveTransition.swift; path = Sources/HXPhotoPicker/Picker/Transition/PickerInteractiveTransition.swift; sourceTree = "<group>"; };
-		468B4E3E4CA5A769A6F65A3065362EB5 /* realm-monorepo.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = "realm-monorepo.xcframework"; path = "core/realm-monorepo.xcframework"; sourceTree = "<group>"; };
+		468B4E3E4CA5A769A6F65A3065362EB5 /* realm-monorepo.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = "realm-monorepo.xcframework"; path = "core/realm-monorepo.xcframework"; sourceTree = "<group>"; };
 		46E7F8CB6E7AA8644E5794E57FDD8948 /* Realm-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Realm-Info.plist"; sourceTree = "<group>"; };
 		46FE9E2AE561CBD2BAFFFF4A7E948D9D /* LinkingObjects.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LinkingObjects.swift; path = RealmSwift/LinkingObjects.swift; sourceTree = "<group>"; };
 		47143886D8D74DC20BA8DD9BAE628110 /* PreviewMetalView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PreviewMetalView.swift; path = Sources/HXPhotoPicker/Camera/View/PreviewMetalView.swift; sourceTree = "<group>"; };
 		47D188E4138394C7E2AD86FB5447F426 /* RLMResults_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMResults_Private.h; path = include/RLMResults_Private.h; sourceTree = "<group>"; };
 		47E3F0C25DAA2819B8D8BF53D10B4908 /* EditorViewController+Processing.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorViewController+Processing.swift"; path = "Sources/HXPhotoPicker/Editor/Controller/EditorViewController+Processing.swift"; sourceTree = "<group>"; };
-		4804B9097C7FB63F2FD71A041DFDB232 /* RLMAsyncTask.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMAsyncTask.mm; path = Realm/RLMAsyncTask.mm; sourceTree = "<group>"; };
+		4804B9097C7FB63F2FD71A041DFDB232 /* RLMAsyncTask.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMAsyncTask.mm; path = Realm/RLMAsyncTask.mm; sourceTree = "<group>"; };
 		48280BA0633AF195F412BEFD4816A24B /* IQKeyboardReturnManager-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IQKeyboardReturnManager-umbrella.h"; sourceTree = "<group>"; };
 		494BCD5F7A16CCCD1DD055F209F021EF /* EditorVideoTool.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorVideoTool.swift; path = "Sources/HXPhotoPicker/Editor+View/Util/EditorVideoTool.swift"; sourceTree = "<group>"; };
 		499D827942F1D4C9B6AE78FE7E965B9C /* PhotoPickerController+PHPhotoLibrary.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoPickerController+PHPhotoLibrary.swift"; path = "Sources/HXPhotoPicker/Picker/Controller/Photo/PhotoPickerController+PHPhotoLibrary.swift"; sourceTree = "<group>"; };
 		49DBE5444355E62577057D51B970A257 /* Core+UIImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+UIImage.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+UIImage.swift"; sourceTree = "<group>"; };
-		4A76F2172BBC0D96E35A0BF5552BFAE0 /* RLMSet.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSet.mm; path = Realm/RLMSet.mm; sourceTree = "<group>"; };
-		4AC108BEAA47FA6C06DE1734EFB1F1D6 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = IQTextView/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		4A76F2172BBC0D96E35A0BF5552BFAE0 /* RLMSet.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMSet.mm; path = Realm/RLMSet.mm; sourceTree = "<group>"; };
+		4AC108BEAA47FA6C06DE1734EFB1F1D6 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = IQTextView/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		4BCD06E0B360D40E1F46A9731803DFFC /* UIView+IQKeyboardExtensionObjc.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+IQKeyboardExtensionObjc.swift"; path = "IQKeyboardToolbar/Classes/IQKeyboardExtension/UIView+IQKeyboardExtensionObjc.swift"; sourceTree = "<group>"; };
 		4C3AEB8011AAB2551DCCE57C0DEE3E69 /* RLMObjectBase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMObjectBase.h; path = include/RLMObjectBase.h; sourceTree = "<group>"; };
 		4D178F28E672E923434847FF9834D32E /* RLMResults.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMResults.h; path = include/RLMResults.h; sourceTree = "<group>"; };
@@ -1441,7 +1440,7 @@
 		4E771E8DC8EBE33C8B92A101980C429D /* EditorView+Public.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorView+Public.swift"; path = "Sources/HXPhotoPicker/Editor+View/View/EditorView+Public.swift"; sourceTree = "<group>"; };
 		4E86B6A90416BC35FAE715BAB73A9181 /* Migration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Migration.swift; path = RealmSwift/Migration.swift; sourceTree = "<group>"; };
 		4EA6EC33CFFA0027170D898CEE3CD03F /* Realm-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Realm-dummy.m"; sourceTree = "<group>"; };
-		4F1C36DADFEA6F243633927FC456F62B /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = IQKeyboardToolbarManager/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		4F1C36DADFEA6F243633927FC456F62B /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = IQKeyboardToolbarManager/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		4F4765ED194DBBE901950BB7AF0D4138 /* AssetError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AssetError.swift; path = Sources/HXPhotoPicker/Picker/Model/AssetError.swift; sourceTree = "<group>"; };
 		4F53B3520C6606D200091D1149AAB133 /* IQKeyboardToolbarManager+Toolbar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQKeyboardToolbarManager+Toolbar.swift"; path = "IQKeyboardToolbarManager/Classes/Toolbar/IQKeyboardToolbarManager+Toolbar.swift"; sourceTree = "<group>"; };
 		4F5BB1ACEEB9FFA1CFEC25262E3DF43E /* AssetManager+LivePhotoURL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "AssetManager+LivePhotoURL.swift"; path = "Sources/HXPhotoPicker/Picker/Util/AssetManager+LivePhotoURL.swift"; sourceTree = "<group>"; };
@@ -1510,7 +1509,7 @@
 		62C732AD9233A2BB4B854A46ADAC7433 /* RLMDecimal128.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMDecimal128.h; path = include/RLMDecimal128.h; sourceTree = "<group>"; };
 		62D1EB02CB61F81378A5F0A87250508C /* IQTextInputViewNotification.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = IQTextInputViewNotification.debug.xcconfig; sourceTree = "<group>"; };
 		62D697E069E017C3473FE8AF952BE5F8 /* SelectBoxConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SelectBoxConfiguration.swift; path = Sources/HXPhotoPicker/Core/Config/SelectBoxConfiguration.swift; sourceTree = "<group>"; };
-		62FAB412BF4404E99CEB5E265DC19FD0 /* RLMObjectSchema.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMObjectSchema.mm; path = Realm/RLMObjectSchema.mm; sourceTree = "<group>"; };
+		62FAB412BF4404E99CEB5E265DC19FD0 /* RLMObjectSchema.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMObjectSchema.mm; path = Realm/RLMObjectSchema.mm; sourceTree = "<group>"; };
 		6352CA306EE6D03F9A3A3FB8B7A4E10F /* IQTextView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = IQTextView.debug.xcconfig; sourceTree = "<group>"; };
 		63724C8AE4DAD1E96147D92314794A40 /* PhotoPickerControllerInteractiveTransition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerControllerInteractiveTransition.swift; path = Sources/HXPhotoPicker/Picker/Protocol/Transition/PhotoPickerControllerInteractiveTransition.swift; sourceTree = "<group>"; };
 		6480238AB42BE4AC2B7AEE34B8622AED /* IQScrollViewConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQScrollViewConfiguration.swift; path = IQKeyboardManagerSwift/IQKeyboardManager/Configuration/IQScrollViewConfiguration.swift; sourceTree = "<group>"; };
@@ -1525,7 +1524,7 @@
 		65D9EABFBE20458ECBCD624B29A933FD /* PhotoManager+Download.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoManager+Download.swift"; path = "Sources/HXPhotoPicker/Core/Util/PhotoManager+Download.swift"; sourceTree = "<group>"; };
 		65F253CDDBEDBD51E95B37454D356675 /* PhotoAlbumControllerConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoAlbumControllerConfiguration.swift; path = Sources/HXPhotoPicker/Picker/Config/PhotoAlbumControllerConfiguration.swift; sourceTree = "<group>"; };
 		667DFFF439D600E885188424FCF5CCCC /* LogCache.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LogCache.swift; path = Sources/SmartCodable/Core/Sentinel/LogCache.swift; sourceTree = "<group>"; };
-		669E8F25E1897672BDB80B7EB784DA24 /* Pods_Runner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		669E8F25E1897672BDB80B7EB784DA24 /* Pods-Runner */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-Runner"; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		66B84F601732C79464BEE27EF9F982DF /* CameraBottomView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CameraBottomView.swift; path = Sources/HXPhotoPicker/Camera/View/CameraBottomView.swift; sourceTree = "<group>"; };
 		66C2549B4665174CA8627D3443B7F31C /* UIView+IQKeyboardExtensionDeprecated.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+IQKeyboardExtensionDeprecated.swift"; path = "IQKeyboardToolbar/Classes/IQKeyboardExtension/UIView+IQKeyboardExtensionDeprecated.swift"; sourceTree = "<group>"; };
 		66DA3C378E8D71837B984C717A564E6C /* JSONDecoderImpl+UnkeyedContainer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "JSONDecoderImpl+UnkeyedContainer.swift"; path = "Sources/SmartCodable/Core/JSONDecoder/Decoder/Impl/JSONDecoderImpl+UnkeyedContainer.swift"; sourceTree = "<group>"; };
@@ -1539,7 +1538,7 @@
 		6856B0911B2FF8FE79066F854159DC51 /* ProgressHUD-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ProgressHUD-Info.plist"; sourceTree = "<group>"; };
 		68D4C8E636140FA0E32969B22CAC5E9D /* SmartKeyDecodingStrategy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmartKeyDecodingStrategy.swift; path = Sources/SmartCodable/Core/JSONDecoder/Decoder/SmartKeyDecodingStrategy.swift; sourceTree = "<group>"; };
 		691478E7F2AF55E0B59F807E3E45D978 /* ImageEditedResult.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImageEditedResult.swift; path = "Sources/HXPhotoPicker/Editor+View/ImageEditedResult.swift"; sourceTree = "<group>"; };
-		69ED791039805C74C8C71033A34A184B /* RLMObjectBase.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMObjectBase.mm; path = Realm/RLMObjectBase.mm; sourceTree = "<group>"; };
+		69ED791039805C74C8C71033A34A184B /* RLMObjectBase.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMObjectBase.mm; path = Realm/RLMObjectBase.mm; sourceTree = "<group>"; };
 		6A0ED07CC065B7CDF4D7D4327AAC6CDA /* AnyRealmValue.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnyRealmValue.swift; path = RealmSwift/AnyRealmValue.swift; sourceTree = "<group>"; };
 		6A1DBF2A4805570354256CCD8499E9E4 /* UIView+Responders.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Responders.swift"; path = "IQKeyboardToolbarManager/Classes/UIKitExtensions/UIView+Responders.swift"; sourceTree = "<group>"; };
 		6AA60257C0017F256917FDAFE72F2211 /* ArrowView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ArrowView.swift; path = Sources/HXPhotoPicker/Picker/View/Kit/ArrowView.swift; sourceTree = "<group>"; };
@@ -1549,11 +1548,11 @@
 		6BD199E22A21570505BCC89E89B37B45 /* ResourceBundle-realm_swift_privacy-RealmSwift-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-realm_swift_privacy-RealmSwift-Info.plist"; sourceTree = "<group>"; };
 		6C43D191BA736661D864D13D07A4A675 /* ProgressView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProgressView.swift; path = ProgressHUD/Sources/ProgressView.swift; sourceTree = "<group>"; };
 		6CB866587886BC370E50B9FC1A378BF8 /* RLMObject_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMObject_Private.h; path = include/RLMObject_Private.h; sourceTree = "<group>"; };
-		6D2CED40F8C9243B7C722CAE1F6F602F /* RLMSchema.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSchema.mm; path = Realm/RLMSchema.mm; sourceTree = "<group>"; };
+		6D2CED40F8C9243B7C722CAE1F6F602F /* RLMSchema.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMSchema.mm; path = Realm/RLMSchema.mm; sourceTree = "<group>"; };
 		6D6743CC534B6F17A0FD71FEB97B53A0 /* PhotoPickerControllerProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerControllerProtocol.swift; path = Sources/HXPhotoPicker/Picker/Controller/Photo/PhotoPickerControllerProtocol.swift; sourceTree = "<group>"; };
 		6E0B8A1E6EB07F31065D8491B3BA550B /* JSONEncoderImpl.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = JSONEncoderImpl.swift; path = Sources/SmartCodable/Core/JSONEncoder/Impl/JSONEncoderImpl.swift; sourceTree = "<group>"; };
 		6E4A37A842463F16052111F22ABC0E94 /* IQKeyboardManager+Position.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQKeyboardManager+Position.swift"; path = "IQKeyboardManagerSwift/IQKeyboardManager/IQKeyboardManager+Position.swift"; sourceTree = "<group>"; };
-		6E897F35E5E27028AC58B14B552FBC8D /* IQKeyboardCore.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IQKeyboardCore.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E897F35E5E27028AC58B14B552FBC8D /* IQKeyboardCore-IQKeyboardCore */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "IQKeyboardCore-IQKeyboardCore"; path = IQKeyboardCore.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EFCC4D0C198E2D18A8630DA8362474F /* PhotoSplitViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoSplitViewController.swift; path = Sources/HXPhotoPicker/Picker/Controller/Photo/PhotoSplitViewController.swift; sourceTree = "<group>"; };
 		6F1C20C6C46A3BFE829970C4FBE878A2 /* ProgressHUD.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProgressHUD.swift; path = ProgressHUD/Sources/ProgressHUD.swift; sourceTree = "<group>"; };
 		6F3488D49F583CA0A64392A0F30D54DA /* RLMSet.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSet.h; path = include/RLMSet.h; sourceTree = "<group>"; };
@@ -1577,14 +1576,14 @@
 		762D10DBBB38FFDE7F0AFFD47B4213DD /* ProgressHUD+HorizontalBarScaling.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+HorizontalBarScaling.swift"; path = "ProgressHUD/Sources/Animations/ProgressHUD+HorizontalBarScaling.swift"; sourceTree = "<group>"; };
 		765E17E2E4CA2A815860018068838C58 /* Picker+UIViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Picker+UIViewController.swift"; path = "Sources/HXPhotoPicker/Picker/Extension/Picker+UIViewController.swift"; sourceTree = "<group>"; };
 		766640F705E26BFF5D86500B3344F631 /* ConstraintDescription.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintDescription.swift; path = Sources/ConstraintDescription.swift; sourceTree = "<group>"; };
-		76C5916F7B65E26C01ABF827259CB326 /* RLMManagedDictionary.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMManagedDictionary.mm; path = Realm/RLMManagedDictionary.mm; sourceTree = "<group>"; };
+		76C5916F7B65E26C01ABF827259CB326 /* RLMManagedDictionary.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMManagedDictionary.mm; path = Realm/RLMManagedDictionary.mm; sourceTree = "<group>"; };
 		76DBD8E8489C0BAE175A5A71A3AFC226 /* VideoPlaySliderView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VideoPlaySliderView.swift; path = Sources/HXPhotoPicker/Core/View/VideoPlayer/VideoPlaySliderView.swift; sourceTree = "<group>"; };
 		774901B4D80C9D45EC4E4703458F4C96 /* EditorDrawTool.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorDrawTool.swift; path = "Sources/HXPhotoPicker/Editor+View/Util/EditorDrawTool.swift"; sourceTree = "<group>"; };
 		777ED58E187866CF411505506D2078AF /* IQKeyboardCore-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "IQKeyboardCore-dummy.m"; sourceTree = "<group>"; };
 		77C780DB2C08D4A07266DA0AFB572C9E /* IQKeyboardToolbarConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQKeyboardToolbarConfiguration.swift; path = IQKeyboardToolbarManager/Classes/Configuration/IQKeyboardToolbarConfiguration.swift; sourceTree = "<group>"; };
 		781BEDD919555D5A34EA417AD185A79A /* IQKeyboardReturnManager-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "IQKeyboardReturnManager-Info.plist"; sourceTree = "<group>"; };
 		78BA6AC086E8BF93BA78D8529FEC9D3E /* HXPhotoPicker.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HXPhotoPicker.swift; path = Sources/HXPhotoPicker/Core/HXPhotoPicker.swift; sourceTree = "<group>"; };
-		78CCBBAA7A8F770B6D5DF7E4FB318CC6 /* RLMCollection.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMCollection.mm; path = Realm/RLMCollection.mm; sourceTree = "<group>"; };
+		78CCBBAA7A8F770B6D5DF7E4FB318CC6 /* RLMCollection.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMCollection.mm; path = Realm/RLMCollection.mm; sourceTree = "<group>"; };
 		78F438F676B717C8612D668C14A9CD04 /* RealmSwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RealmSwift.release.xcconfig; sourceTree = "<group>"; };
 		790FDC9466EA5BA1267975DE6769342E /* PhotoAsset+Video.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoAsset+Video.swift"; path = "Sources/HXPhotoPicker/Picker/Model/PhotoAsset/PhotoAsset+Video.swift"; sourceTree = "<group>"; };
 		795A93A73428B7A6B2607F5FBC862762 /* EditorViewControllerDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorViewControllerDelegate.swift; path = Sources/HXPhotoPicker/Editor/Controller/EditorViewControllerDelegate.swift; sourceTree = "<group>"; };
@@ -1605,18 +1604,18 @@
 		7EB9A4E025ECF0C21CE4DD83B36BFCD6 /* Picker+UIImageView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Picker+UIImageView.swift"; path = "Sources/HXPhotoPicker/Picker/Extension/Picker+UIImageView.swift"; sourceTree = "<group>"; };
 		7EBB2C1B752E79F2B4BA2C0CA9F324E4 /* RLMSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RLMSupport.swift; path = Realm/Swift/RLMSupport.swift; sourceTree = "<group>"; };
 		7EE3714A16950FA710939834E097B6F5 /* EditorViewController+Ratio.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorViewController+Ratio.swift"; path = "Sources/HXPhotoPicker/Editor/Controller/EditorViewController+Ratio.swift"; sourceTree = "<group>"; };
-		7F645C592CEDF5AA130865A2C717BBD4 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = RealmSwift/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		800D9B96E2B1F3E69DB6E519BC7A6522 /* RLMManagedSet.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMManagedSet.mm; path = Realm/RLMManagedSet.mm; sourceTree = "<group>"; };
+		7F645C592CEDF5AA130865A2C717BBD4 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = RealmSwift/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		800D9B96E2B1F3E69DB6E519BC7A6522 /* RLMManagedSet.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMManagedSet.mm; path = Realm/RLMManagedSet.mm; sourceTree = "<group>"; };
 		8047B228B916D8C8E32C6D77B1202F70 /* ConstraintConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintConfig.swift; path = Sources/ConstraintConfig.swift; sourceTree = "<group>"; };
 		80686E399E985F500F963BCFFDB74255 /* IQKeyboardReturnManager-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "IQKeyboardReturnManager-dummy.m"; sourceTree = "<group>"; };
 		808193E0AD85F3DF9C07EC13FEB4198B /* ProgressHUD+SemiRingRotation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+SemiRingRotation.swift"; path = "ProgressHUD/Sources/Animations/ProgressHUD+SemiRingRotation.swift"; sourceTree = "<group>"; };
 		809F3586E2CDF1AD75BB0A3D0701AECC /* EditorChartletListProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorChartletListProtocol.swift; path = Sources/HXPhotoPicker/Editor/Protocol/EditorChartletListProtocol.swift; sourceTree = "<group>"; };
-		80A40EDA3AF0499BDBCFF09467BB49AD /* IQKeyboardToolbarManager.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IQKeyboardToolbarManager.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		80A40EDA3AF0499BDBCFF09467BB49AD /* IQKeyboardToolbarManager-IQKeyboardToolbarManager */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "IQKeyboardToolbarManager-IQKeyboardToolbarManager"; path = IQKeyboardToolbarManager.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		81C0E847E374122B15F4981FEE0DA256 /* PhotoPickerControllerAnimationTransitioning.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerControllerAnimationTransitioning.swift; path = Sources/HXPhotoPicker/Picker/Protocol/Transition/PhotoPickerControllerAnimationTransitioning.swift; sourceTree = "<group>"; };
 		81D938AE7743233835DFCCE8DD30D88E /* SmartCodable.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SmartCodable.release.xcconfig; sourceTree = "<group>"; };
 		82523D69F52E4A1AE27ACC736B59A4CE /* PhotoTools+Alert.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoTools+Alert.swift"; path = "Sources/HXPhotoPicker/Core/Util/PhotoTools+Alert.swift"; sourceTree = "<group>"; };
 		83746F860FF4879F1465958EA9CB9DC3 /* PhotoPickerControllerInteractiveAnimator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerControllerInteractiveAnimator.swift; path = Sources/HXPhotoPicker/Picker/Transition/PhotoPickerControllerInteractiveAnimator.swift; sourceTree = "<group>"; };
-		847044E56CBBCE1235A6F3CEF3F9F607 /* IQTextView.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IQTextView.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		847044E56CBBCE1235A6F3CEF3F9F607 /* IQTextView-IQTextView */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "IQTextView-IQTextView"; path = IQTextView.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		85104A6296618F39A5D5D8791C405C59 /* Picker+PhotoTools.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Picker+PhotoTools.swift"; path = "Sources/HXPhotoPicker/Picker/Util/Picker+PhotoTools.swift"; sourceTree = "<group>"; };
 		8590E4C574B757B3A07DAF74D06E12B1 /* PhotoPermissionPromptView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPermissionPromptView.swift; path = Sources/HXPhotoPicker/Picker/View/ToolBar/PhotoPermissionPromptView.swift; sourceTree = "<group>"; };
 		85A43D9057A4EDB3BFE2D7DB23453313 /* EditorView+AVAsset.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorView+AVAsset.swift"; path = "Sources/HXPhotoPicker/Editor+View/Extension/EditorView+AVAsset.swift"; sourceTree = "<group>"; };
@@ -1627,7 +1626,7 @@
 		86E8B913BEE41C8115CCA7596E26C434 /* ProgressHUD+PacmanProgress.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+PacmanProgress.swift"; path = "ProgressHUD/Sources/Animations/ProgressHUD+PacmanProgress.swift"; sourceTree = "<group>"; };
 		87212DC9640870A8E03DBB46F4864CE1 /* ProgressImageView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProgressImageView.swift; path = Sources/HXPhotoPicker/Core/View/ProgressHUD/ProgressImageView.swift; sourceTree = "<group>"; };
 		8755FCF064DF5F900A2EBF923EBFF5AE /* EditorFrameView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorFrameView.swift; path = "Sources/HXPhotoPicker/Editor+View/View/EditorFrameView.swift"; sourceTree = "<group>"; };
-		876DB7E3B7006FB17403E58417482FE4 /* RLMUUID.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMUUID.mm; path = Realm/RLMUUID.mm; sourceTree = "<group>"; };
+		876DB7E3B7006FB17403E58417482FE4 /* RLMUUID.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMUUID.mm; path = Realm/RLMUUID.mm; sourceTree = "<group>"; };
 		87909805AFBBF25738C200F3991A810C /* SnapKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SnapKit.release.xcconfig; sourceTree = "<group>"; };
 		87CDE0F4BD7E1C3CA0206B1794AD3DDD /* HXPhotoPicker-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "HXPhotoPicker-Info.plist"; sourceTree = "<group>"; };
 		88914B2913A2C606EB8711E367DC1DDC /* BasicTypes.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BasicTypes.swift; path = RealmSwift/Impl/BasicTypes.swift; sourceTree = "<group>"; };
@@ -1645,36 +1644,36 @@
 		8C19F98EC01807614D89AA0F712CC2ED /* RealmProperty.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RealmProperty.swift; path = RealmSwift/RealmProperty.swift; sourceTree = "<group>"; };
 		8C5CF7A2148956CDC8312734E5B1EF39 /* ProgressIndefiniteView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProgressIndefiniteView.swift; path = Sources/HXPhotoPicker/Core/View/ProgressHUD/ProgressIndefiniteView.swift; sourceTree = "<group>"; };
 		8C7CFF3BAAFF3307292431E2E7051F63 /* EditorViewController+LoadAsset.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorViewController+LoadAsset.swift"; path = "Sources/HXPhotoPicker/Editor/Controller/EditorViewController+LoadAsset.swift"; sourceTree = "<group>"; };
-		8D0F2306ACF6160A24A5A33DD20C83E2 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = IQKeyboardManagerSwift/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		8D8069D3964814114ACEC3084C010B59 /* IQKeyboardManagerSwift.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IQKeyboardManagerSwift.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D0F2306ACF6160A24A5A33DD20C83E2 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = IQKeyboardManagerSwift/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		8D8069D3964814114ACEC3084C010B59 /* IQKeyboardManagerSwift-IQKeyboardManagerSwift */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "IQKeyboardManagerSwift-IQKeyboardManagerSwift"; path = IQKeyboardManagerSwift.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D89EB02762BF1A711D7BDE05030319C /* PhotoPickerListCondition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerListCondition.swift; path = Sources/HXPhotoPicker/Picker/Protocol/UI/PhotoList/PhotoPickerListCondition.swift; sourceTree = "<group>"; };
 		8D9D335D1AA041C8597A97AEF36F7BED /* EditorViewController+Action.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorViewController+Action.swift"; path = "Sources/HXPhotoPicker/Editor/Controller/EditorViewController+Action.swift"; sourceTree = "<group>"; };
 		8DA83737A5DD884D19C92D9531DE6979 /* EditorChartletViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorChartletViewCell.swift; path = Sources/HXPhotoPicker/Editor/View/Chartlet/EditorChartletViewCell.swift; sourceTree = "<group>"; };
 		8DDD5F72A686D81A45BB545ADA516162 /* Picker+PHAsset.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Picker+PHAsset.swift"; path = "Sources/HXPhotoPicker/Picker/Extension/Picker+PHAsset.swift"; sourceTree = "<group>"; };
 		8DFE943C6F9064A3162F4BDF7154B349 /* ProgressHUD+Banner.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+Banner.swift"; path = "ProgressHUD/Sources/ProgressHUD+Banner.swift"; sourceTree = "<group>"; };
 		8E3A8842BEC0EE75D45FB213E8A8BA7D /* UITableView+IndexPaths.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UITableView+IndexPaths.swift"; path = "IQKeyboardManagerSwift/IQKeyboardManager/UIKitExtensions/UITableView+IndexPaths.swift"; sourceTree = "<group>"; };
-		8E6F7D5B6FB987535DE04BC206D573E4 /* RLMThreadSafeReference.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMThreadSafeReference.mm; path = Realm/RLMThreadSafeReference.mm; sourceTree = "<group>"; };
+		8E6F7D5B6FB987535DE04BC206D573E4 /* RLMThreadSafeReference.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMThreadSafeReference.mm; path = Realm/RLMThreadSafeReference.mm; sourceTree = "<group>"; };
 		8E92BBABEAF26D8369DBD4975C46DA02 /* SafeDictionary.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SafeDictionary.swift; path = Sources/SmartCodable/Core/Sentinel/SafeDictionary.swift; sourceTree = "<group>"; };
 		8E94C4BDF689B6665368E46ED26D3FEA /* CameraViewController+Result.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CameraViewController+Result.swift"; path = "Sources/HXPhotoPicker/Camera/Controller/CameraViewController+Result.swift"; sourceTree = "<group>"; };
 		8F00EC70D459F094EE66FD055384F4DB /* ExpandButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpandButton.swift; path = Sources/HXPhotoPicker/Editor/View/ExpandButton.swift; sourceTree = "<group>"; };
 		8F3FB0CBE3546DC8583A3D5744A59D9B /* ResourceBundle-IQKeyboardNotification-IQKeyboardNotification-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-IQKeyboardNotification-IQKeyboardNotification-Info.plist"; sourceTree = "<group>"; };
 		8F467BBB8AFAEB033E2F7B1536C3AA30 /* PhotoAsset+FileSize.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoAsset+FileSize.swift"; path = "Sources/HXPhotoPicker/Picker/Model/PhotoAsset/PhotoAsset+FileSize.swift"; sourceTree = "<group>"; };
 		8FC71E9C382FA09DBCADFC298852FB8F /* Core+UIViewRTLFrame.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+UIViewRTLFrame.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+UIViewRTLFrame.swift"; sourceTree = "<group>"; };
-		8FCD1E491245169951A2D3054B4B7E8F /* RLMDecimal128.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMDecimal128.mm; path = Realm/RLMDecimal128.mm; sourceTree = "<group>"; };
+		8FCD1E491245169951A2D3054B4B7E8F /* RLMDecimal128.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMDecimal128.mm; path = Realm/RLMDecimal128.mm; sourceTree = "<group>"; };
 		8FE5DD2EC379EC877A27EECFE4DC7844 /* PhotoPickerView+Function.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoPickerView+Function.swift"; path = "Sources/HXPhotoPicker/Picker/PickerView/PhotoPickerView+Function.swift"; sourceTree = "<group>"; };
 		907BA1559A980465DF099BEBC339F91A /* ProgressHUD-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ProgressHUD-umbrella.h"; sourceTree = "<group>"; };
 		90F87FF617DFA79B0563C3E4A77C862D /* UICollectionView+IndexPaths.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UICollectionView+IndexPaths.swift"; path = "IQKeyboardManagerSwift/IQKeyboardManager/UIKitExtensions/UICollectionView+IndexPaths.swift"; sourceTree = "<group>"; };
 		915B75A95E8E3FD9CB32A32FD1C4E777 /* ConstraintMakerRelatable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintMakerRelatable.swift; path = Sources/ConstraintMakerRelatable.swift; sourceTree = "<group>"; };
 		91A5828397479B155114932511FF3978 /* HXLog.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HXLog.swift; path = Sources/HXPhotoPicker/Core/Model/HXLog.swift; sourceTree = "<group>"; };
 		91C6A545DFE61439E02598467D4694CF /* PhotoPreviewViewController+CollectionView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoPreviewViewController+CollectionView.swift"; path = "Sources/HXPhotoPicker/Picker/Controller/Preview/PhotoPreviewViewController+CollectionView.swift"; sourceTree = "<group>"; };
-		921BE4A82C4A7A5C72A0C6F8B8FEF200 /* Realm.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Realm.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		921BE4A82C4A7A5C72A0C6F8B8FEF200 /* Realm */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Realm; path = Realm.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		927FA0756D80DF9AC0D7435B6658B130 /* ConstraintMakerRelatable+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ConstraintMakerRelatable+Extensions.swift"; path = "Sources/ConstraintMakerRelatable+Extensions.swift"; sourceTree = "<group>"; };
 		938A36C695F603F893E2E920B1616412 /* AlbumSectionHeaderView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AlbumSectionHeaderView.swift; path = Sources/HXPhotoPicker/Picker/View/Album/AlbumSectionHeaderView.swift; sourceTree = "<group>"; };
 		939F45D64BA971DC86A79C7E614618C8 /* ProgressHUD+SquareCircuitSnake.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+SquareCircuitSnake.swift"; path = "ProgressHUD/Sources/Animations/ProgressHUD+SquareCircuitSnake.swift"; sourceTree = "<group>"; };
 		93B308253F1552B976620BD858E99555 /* RLMAccessor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMAccessor.h; path = include/RLMAccessor.h; sourceTree = "<group>"; };
 		942741E4D3D1B133DACE3676CCAF96C5 /* Core+UIApplication.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+UIApplication.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+UIApplication.swift"; sourceTree = "<group>"; };
 		946C6340E4B5F4F4DB8385AD45913935 /* PhotoLoadingView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoLoadingView.swift; path = Sources/HXPhotoPicker/Picker/View/Cell/PhotoLoadingView.swift; sourceTree = "<group>"; };
-		94DA11A420D9CA28B8CC6FBCDD652DB4 /* RLMObjectStore.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMObjectStore.mm; path = Realm/RLMObjectStore.mm; sourceTree = "<group>"; };
+		94DA11A420D9CA28B8CC6FBCDD652DB4 /* RLMObjectStore.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMObjectStore.mm; path = Realm/RLMObjectStore.mm; sourceTree = "<group>"; };
 		95312472DBB844EF550934588A835753 /* CameraController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CameraController.swift; path = Sources/HXPhotoPicker/Camera/Controller/CameraController.swift; sourceTree = "<group>"; };
 		95550ACF3D7587A1D5A43801222EFF89 /* RealmSwift-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "RealmSwift-Info.plist"; sourceTree = "<group>"; };
 		95B5D6D06F3242F6BB9DAE489E4C5CB8 /* RLMLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMLogger.h; path = include/RLMLogger.h; sourceTree = "<group>"; };
@@ -1684,7 +1683,7 @@
 		96A8B1A216D6472EB94AB926056634CD /* ConstraintConstantTarget.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintConstantTarget.swift; path = Sources/ConstraintConstantTarget.swift; sourceTree = "<group>"; };
 		96BF45FBE2BC9AD7B2D7E56D01B5EE46 /* Pods-Runner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Runner-umbrella.h"; sourceTree = "<group>"; };
 		977D77E1C5F7CC11CC55C812BDA9F2DD /* EditorMusicView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorMusicView.swift; path = Sources/HXPhotoPicker/Editor/View/Video/EditorMusicView.swift; sourceTree = "<group>"; };
-		979486118B3E90C08386079D57962701 /* SnapKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		979486118B3E90C08386079D57962701 /* SnapKit */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SnapKit; path = SnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9795A16059D8DFB4E53495FC9BA2D340 /* CaptureVideoPreviewView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CaptureVideoPreviewView.swift; path = Sources/HXPhotoPicker/Picker/View/CaptureVideoPreviewView.swift; sourceTree = "<group>"; };
 		97A0706397F058893A055C5F732FF066 /* EditorViewController+Music.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorViewController+Music.swift"; path = "Sources/HXPhotoPicker/Editor/Controller/EditorViewController+Music.swift"; sourceTree = "<group>"; };
 		97D36F5E4AFE1995AB6E523DC2E6A125 /* PhotoMyAlbumViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoMyAlbumViewController.swift; path = Sources/HXPhotoPicker/Picker/Controller/Album/PhotoMyAlbumViewController.swift; sourceTree = "<group>"; };
@@ -1699,7 +1698,7 @@
 		9A34A70BFD72778B01A727C6A8E4FD1D /* HXPhotoPicker-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HXPhotoPicker-umbrella.h"; sourceTree = "<group>"; };
 		9A3DF8EDBC8E6BFDE6832FEA3AD34280 /* Core+Bundle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+Bundle.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+Bundle.swift"; sourceTree = "<group>"; };
 		9A587785820CB5ADFA0B57213ACF1FFC /* IQKeyboardManagerSwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IQKeyboardManagerSwift-umbrella.h"; sourceTree = "<group>"; };
-		9A660B785C0E214CCC3E5116CE736647 /* Flutter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = Flutter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9A660B785C0E214CCC3E5116CE736647 /* Flutter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Flutter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9ABF80EF8306E2E38EE04C96C8FE1F8C /* CameraViewController+Preview.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CameraViewController+Preview.swift"; path = "Sources/HXPhotoPicker/Camera/Controller/CameraViewController+Preview.swift"; sourceTree = "<group>"; };
 		9AF64115A772417AC70335A3568E3125 /* NotAuthorizedConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NotAuthorizedConfiguration.swift; path = Sources/HXPhotoPicker/Picker/Config/NotAuthorizedConfiguration.swift; sourceTree = "<group>"; };
 		9B9BA97BCC2CDBB3E124F33BD0EE56BF /* ProgressHUD+TriangleDotShift.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+TriangleDotShift.swift"; path = "ProgressHUD/Sources/Animations/ProgressHUD+TriangleDotShift.swift"; sourceTree = "<group>"; };
@@ -1712,13 +1711,13 @@
 		9CCE63B836FE1CA67AB7B13C410FF0D6 /* AssetPermissionsUtil.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AssetPermissionsUtil.swift; path = Sources/HXPhotoPicker/Core/Util/AssetPermissionsUtil.swift; sourceTree = "<group>"; };
 		9D86D50498F7C4E006B4E1DC37BA0F8C /* IQTextInputViewNotification.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = IQTextInputViewNotification.modulemap; sourceTree = "<group>"; };
 		9D93188C1EE7E1514802080049C695C5 /* PhotoNavigationItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoNavigationItem.swift; path = Sources/HXPhotoPicker/Picker/Protocol/UI/PhotoNavigationItem.swift; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DA50A0D052042B99688219BC478B04C /* PhotoPreviewViewController+NavigationController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoPreviewViewController+NavigationController.swift"; path = "Sources/HXPhotoPicker/Picker/Controller/Preview/PhotoPreviewViewController+NavigationController.swift"; sourceTree = "<group>"; };
 		9DA8EAF355B4392BE031DB7C81A5A40F /* PhotoPickerBaseViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerBaseViewCell.swift; path = Sources/HXPhotoPicker/Picker/View/Cell/PhotoPickerBaseViewCell.swift; sourceTree = "<group>"; };
 		9E459738824941D6439658C7AAE79121 /* PhotoThumbnailView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoThumbnailView.swift; path = Sources/HXPhotoPicker/Picker/View/PhotoThumbnailView.swift; sourceTree = "<group>"; };
 		9EA2AACE13D50B59803A58E9A283F62D /* PhotoFetchAssetCollection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoFetchAssetCollection.swift; path = Sources/HXPhotoPicker/Picker/Protocol/Fetch/PhotoFetchAssetCollection.swift; sourceTree = "<group>"; };
 		9EC7201C968F228E7F39C7D0CBE4EC6A /* ProgressHUD+CircleRippleSingle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+CircleRippleSingle.swift"; path = "ProgressHUD/Sources/Animations/ProgressHUD+CircleRippleSingle.swift"; sourceTree = "<group>"; };
-		9ED774E8BF8EEB9F6D1B46234481EF85 /* RLMSwiftValueStorage.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSwiftValueStorage.mm; path = Realm/RLMSwiftValueStorage.mm; sourceTree = "<group>"; };
+		9ED774E8BF8EEB9F6D1B46234481EF85 /* RLMSwiftValueStorage.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMSwiftValueStorage.mm; path = Realm/RLMSwiftValueStorage.mm; sourceTree = "<group>"; };
 		9F665531CBF090A56D9D927CC8D01717 /* PhotoPreviewViewController+Toolbar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoPreviewViewController+Toolbar.swift"; path = "Sources/HXPhotoPicker/Picker/Controller/Preview/PhotoPreviewViewController+Toolbar.swift"; sourceTree = "<group>"; };
 		9F79F8269DC34AC56BB3D1D9652C0D86 /* Pods-Runner.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.profile.xcconfig"; sourceTree = "<group>"; };
 		A02DDD797ABA2713BD7261EEF8EEB031 /* RealmConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RealmConfiguration.swift; path = RealmSwift/RealmConfiguration.swift; sourceTree = "<group>"; };
@@ -1726,7 +1725,7 @@
 		A0767BAB06263947029E9CF539CBC3C6 /* PlayButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PlayButton.swift; path = Sources/HXPhotoPicker/Core/View/VideoPlayer/PlayButton.swift; sourceTree = "<group>"; };
 		A1234D4411BA6DCCA72A6A36FC584C2E /* EditorAdjusterView+Rotate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorAdjusterView+Rotate.swift"; path = "Sources/HXPhotoPicker/Editor+View/View/EditorAdjusterView+Rotate.swift"; sourceTree = "<group>"; };
 		A1347039C574E3269FA41F4F66E1AB7E /* ProgressHUD+HorizontalDotScaling.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+HorizontalDotScaling.swift"; path = "ProgressHUD/Sources/Animations/ProgressHUD+HorizontalDotScaling.swift"; sourceTree = "<group>"; };
-		A16FD016E18EACCF6B23F219F2E236FE /* IQKeyboardToolbar.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IQKeyboardToolbar.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		A16FD016E18EACCF6B23F219F2E236FE /* IQKeyboardToolbar-IQKeyboardToolbar */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "IQKeyboardToolbar-IQKeyboardToolbar"; path = IQKeyboardToolbar.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1728ECAAC61768B3F2732BE475114BB /* ResourceBundle-IQKeyboardToolbar-IQKeyboardToolbar-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-IQKeyboardToolbar-IQKeyboardToolbar-Info.plist"; sourceTree = "<group>"; };
 		A18F6C4BC9B4EF249944CB6A8A902DB1 /* IQKeyboardToolbarManager+Internal.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQKeyboardToolbarManager+Internal.swift"; path = "IQKeyboardToolbarManager/Classes/IQKeyboardToolbarManager+Internal.swift"; sourceTree = "<group>"; };
 		A1B2D5789AE122B0D0F6C34510DACC4F /* ConstraintLayoutGuide+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ConstraintLayoutGuide+Extensions.swift"; path = "Sources/ConstraintLayoutGuide+Extensions.swift"; sourceTree = "<group>"; };
@@ -1753,16 +1752,16 @@
 		A748EF179228C6CCB7DACC190B7E5A9D /* RLMObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMObject.h; path = include/RLMObject.h; sourceTree = "<group>"; };
 		A85EDFFD96F15D97F0B86B2BE2DE6924 /* SnapKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SnapKit-dummy.m"; sourceTree = "<group>"; };
 		A88003E5A8F6F6E118F0AF756FA8A3CC /* RLMCollection_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMCollection_Private.h; path = include/RLMCollection_Private.h; sourceTree = "<group>"; };
-		A8E950A16D00F649C54FFB30F81D7842 /* IQKeyboardManagerSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IQKeyboardManagerSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A8E950A16D00F649C54FFB30F81D7842 /* IQKeyboardManagerSwift */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IQKeyboardManagerSwift; path = IQKeyboardManagerSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9483A2D010E8DE6C8312592E7AC8696 /* PhotoPickerListViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerListViewController.swift; path = Sources/HXPhotoPicker/Picker/Controller/Picker/PhotoPickerListViewController.swift; sourceTree = "<group>"; };
-		AA1C3FBCDD20068B578B74554FB59B00 /* RLMValue.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMValue.mm; path = Realm/RLMValue.mm; sourceTree = "<group>"; };
+		AA1C3FBCDD20068B578B74554FB59B00 /* RLMValue.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMValue.mm; path = Realm/RLMValue.mm; sourceTree = "<group>"; };
 		AA37050D9C9B0467E7EBE36641B7E674 /* EditorStickerTextViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorStickerTextViewController.swift; path = Sources/HXPhotoPicker/Editor/Controller/EditorStickerTextViewController.swift; sourceTree = "<group>"; };
 		AA7F6B1F04F6CBA8F76D9A86AC934176 /* IQTextView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IQTextView-prefix.pch"; sourceTree = "<group>"; };
 		AACD7F47BAC166BF2CA2E912A9B167A4 /* EditorChartlet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorChartlet.swift; path = Sources/HXPhotoPicker/Editor/Model/EditorChartlet.swift; sourceTree = "<group>"; };
 		AB344D6CF327802748244D5A741CA9DB /* Core+AVAsset.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+AVAsset.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+AVAsset.swift"; sourceTree = "<group>"; };
 		ABAC3A754AE8ADBE05473C1F0E287C42 /* ArrowViewConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ArrowViewConfiguration.swift; path = Sources/HXPhotoPicker/Picker/Config/ArrowViewConfiguration.swift; sourceTree = "<group>"; };
 		ABE232E311ADCE18D3F60DF409D9FD97 /* IQKeyboardManager+Internal.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQKeyboardManager+Internal.swift"; path = "IQKeyboardManagerSwift/IQKeyboardManager/IQKeyboardManager+Internal.swift"; sourceTree = "<group>"; };
-		AC70800BBC39EB966B610857C5D5404A /* realm_swift_privacy.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = realm_swift_privacy.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC70800BBC39EB966B610857C5D5404A /* RealmSwift-realm_swift_privacy */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "RealmSwift-realm_swift_privacy"; path = realm_swift_privacy.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD9D9E9A37D0CD6E5D95173743B587DF /* ProgressHUD+BarSweepToggle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+BarSweepToggle.swift"; path = "ProgressHUD/Sources/Animations/ProgressHUD+BarSweepToggle.swift"; sourceTree = "<group>"; };
 		ADD87B6F9048B14D7D8633EC43276BB9 /* Query.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Query.swift; path = RealmSwift/Query.swift; sourceTree = "<group>"; };
 		AE196917A88A0912774BA5D70C0695A3 /* Core+LayerRTLFrame.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+LayerRTLFrame.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+LayerRTLFrame.swift"; sourceTree = "<group>"; };
@@ -1780,26 +1779,26 @@
 		B2EB5EFF553BDA28CA7B06C54F9AAC29 /* Core+UIDevice.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+UIDevice.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+UIDevice.swift"; sourceTree = "<group>"; };
 		B377CBA11B7B7329078BD4D75A631B7A /* PhotoAlbumCollectionCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoAlbumCollectionCell.swift; path = Sources/HXPhotoPicker/Picker/View/Cell/Album/PhotoAlbumCollectionCell.swift; sourceTree = "<group>"; };
 		B44EAA7D600311EB06A72662B5B7DEFD /* AlbumListView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AlbumListView.swift; path = Sources/HXPhotoPicker/Picker/View/Album/AlbumListView.swift; sourceTree = "<group>"; };
-		B4B1A58096F15199A14069C5D6AA1C99 /* IQKeyboardToolbar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IQKeyboardToolbar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B4B1A58096F15199A14069C5D6AA1C99 /* IQKeyboardToolbar */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IQKeyboardToolbar; path = IQKeyboardToolbar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4F392BAA6AE66054649E2C1419D7C25 /* SectionedResults.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SectionedResults.swift; path = RealmSwift/SectionedResults.swift; sourceTree = "<group>"; };
 		B57EE0D56CB4874DE7825C34D7BBCB01 /* ConstraintRelation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintRelation.swift; path = Sources/ConstraintRelation.swift; sourceTree = "<group>"; };
 		B58EE6E2638035D8E1188F3CC2D328D4 /* EditorContentView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorContentView.swift; path = "Sources/HXPhotoPicker/Editor+View/View/EditorContentView.swift"; sourceTree = "<group>"; };
 		B5CEB68FF1FA1E9D78DC258C2ABA1DE7 /* EmptyView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EmptyView.swift; path = Sources/HXPhotoPicker/Picker/View/Kit/EmptyView.swift; sourceTree = "<group>"; };
 		B6F419B98716FD3CB9F510CE2AB53396 /* PhotoAsset+Request.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoAsset+Request.swift"; path = "Sources/HXPhotoPicker/Picker/Model/PhotoAsset/PhotoAsset+Request.swift"; sourceTree = "<group>"; };
-		B80BA0196891AB3DEA7415C34B1F8CB7 /* RLMRealm.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMRealm.mm; path = Realm/RLMRealm.mm; sourceTree = "<group>"; };
-		B87770C5B6257FD9316BAAD7E40E6963 /* RLMAccessor.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMAccessor.mm; path = Realm/RLMAccessor.mm; sourceTree = "<group>"; };
+		B80BA0196891AB3DEA7415C34B1F8CB7 /* RLMRealm.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMRealm.mm; path = Realm/RLMRealm.mm; sourceTree = "<group>"; };
+		B87770C5B6257FD9316BAAD7E40E6963 /* RLMAccessor.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMAccessor.mm; path = Realm/RLMAccessor.mm; sourceTree = "<group>"; };
 		B89246771D107088543B586BE42577A8 /* EditedResult.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditedResult.swift; path = Sources/HXPhotoPicker/Editor/EditedResult.swift; sourceTree = "<group>"; };
 		B944D56507383092D9A2DD4A777791B4 /* ResourceBundle-IQKeyboardCore-IQKeyboardCore-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-IQKeyboardCore-IQKeyboardCore-Info.plist"; sourceTree = "<group>"; };
 		B97CE44336C3AC4F62035163B0BCC563 /* Picker+PHAssetCollection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Picker+PHAssetCollection.swift"; path = "Sources/HXPhotoPicker/Picker/Extension/Picker+PHAssetCollection.swift"; sourceTree = "<group>"; };
 		B9975363D86BB6F0ADCF8D0E86784881 /* ProgressHUD+ActivityIndicator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+ActivityIndicator.swift"; path = "ProgressHUD/Sources/Animations/ProgressHUD+ActivityIndicator.swift"; sourceTree = "<group>"; };
 		B9A147020FFA7F2820CD9ADC4C246676 /* Patcher+Provider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Patcher+Provider.swift"; path = "Sources/SmartCodable/Core/JSONDecoder/Patcher/Patcher+Provider.swift"; sourceTree = "<group>"; };
-		B9DCB5EC0B1CDADD221717CADDF62359 /* SnapKit_Privacy.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SnapKit_Privacy.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9DCB5EC0B1CDADD221717CADDF62359 /* SnapKit-SnapKit_Privacy */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "SnapKit-SnapKit_Privacy"; path = SnapKit_Privacy.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA6C8F6BB1B7A2DFAFD908BDE6E1A2F0 /* ResourceBundle-IQKeyboardToolbarManager-IQKeyboardToolbarManager-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-IQKeyboardToolbarManager-IQKeyboardToolbarManager-Info.plist"; sourceTree = "<group>"; };
 		BA8A72D3DCED383E639C57E1AA089F35 /* RLMArray.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMArray.h; path = include/RLMArray.h; sourceTree = "<group>"; };
 		BADEE5494B8023CF8B75641E04BF599D /* Picker+ConfigExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Picker+ConfigExtension.swift"; path = "Sources/HXPhotoPicker/Picker/Extension/Picker+ConfigExtension.swift"; sourceTree = "<group>"; };
 		BB5F1B396BBC07395D94A5F457688553 /* Patcher.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Patcher.swift; path = Sources/SmartCodable/Core/JSONDecoder/Patcher/Patcher.swift; sourceTree = "<group>"; };
 		BB72BA7CEE8B19ABFBC849E3C748C3B0 /* Core+CGFloat.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+CGFloat.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+CGFloat.swift"; sourceTree = "<group>"; };
-		BB8B78A7A99C90B25E5DC1B00CE1F3EC /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = IQKeyboardReturnManager/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		BB8B78A7A99C90B25E5DC1B00CE1F3EC /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = IQKeyboardReturnManager/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		BBBE1E40DB59B127C487A0EC7E12847D /* RLMSet_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSet_Private.h; path = include/RLMSet_Private.h; sourceTree = "<group>"; };
 		BBD26102FDA314E42E2A213EAB959EFC /* RLMAsyncTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMAsyncTask.h; path = include/RLMAsyncTask.h; sourceTree = "<group>"; };
 		BBD808E64CAC47C474434180BAB0D868 /* PhotoPreviewVideoView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPreviewVideoView.swift; path = Sources/HXPhotoPicker/Picker/View/PhotoPreviewVideoView.swift; sourceTree = "<group>"; };
@@ -1808,10 +1807,10 @@
 		BC61C1292E476637723ACD2FBBF046C3 /* ProgressHUD+CircleStrokeSpin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ProgressHUD+CircleStrokeSpin.swift"; path = "ProgressHUD/Sources/Animations/ProgressHUD+CircleStrokeSpin.swift"; sourceTree = "<group>"; };
 		BCE6B9D376AF82C7A503E4241C8B4FA8 /* RLMEmbeddedObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMEmbeddedObject.h; path = include/RLMEmbeddedObject.h; sourceTree = "<group>"; };
 		BD0EF7E0377B8294267AA7BF0E3744BE /* PhotoAsset+Editor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoAsset+Editor.swift"; path = "Sources/HXPhotoPicker/Picker/Model/PhotoAsset/PhotoAsset+Editor.swift"; sourceTree = "<group>"; };
-		BD87A789F5B128BC56DBF9C510588CB5 /* RLMRealmUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMRealmUtil.mm; path = Realm/RLMRealmUtil.mm; sourceTree = "<group>"; };
+		BD87A789F5B128BC56DBF9C510588CB5 /* RLMRealmUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMRealmUtil.mm; path = Realm/RLMRealmUtil.mm; sourceTree = "<group>"; };
 		BDB86C7750856A3FF2A82CB4955F9603 /* PhotoPickerViewController+Camera.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoPickerViewController+Camera.swift"; path = "Sources/HXPhotoPicker/Picker/Controller/Picker/PhotoPickerViewController+Camera.swift"; sourceTree = "<group>"; };
 		BDDE7EDE0A3845C72B887BF14E3D317E /* IQKeyboardManager+ActiveConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQKeyboardManager+ActiveConfiguration.swift"; path = "IQKeyboardManagerSwift/IQKeyboardManager/IQKeyboardManager+ActiveConfiguration.swift"; sourceTree = "<group>"; };
-		BDF0586F4B771BFD0DCC101DC1FB974B /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = IQKeyboardNotification/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		BDF0586F4B771BFD0DCC101DC1FB974B /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = IQKeyboardNotification/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		BE1EDA9F96CCDB488842CD3213321CE1 /* MutableSet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MutableSet.swift; path = RealmSwift/MutableSet.swift; sourceTree = "<group>"; };
 		BE84265E56765654E4A551A29C523C2B /* PhotoEditorFilter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoEditorFilter.swift; path = Sources/HXPhotoPicker/Editor/Model/PhotoEditorFilter.swift; sourceTree = "<group>"; };
 		BED36D3D625576708ADC9E7BE33C8ED7 /* SmartKeyEncodingStrategy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmartKeyEncodingStrategy.swift; path = Sources/SmartCodable/Core/JSONEncoder/SmartKeyEncodingStrategy.swift; sourceTree = "<group>"; };
@@ -1861,7 +1860,7 @@
 		CC6D684CE00B696B212A1889DD2ED5F3 /* Realm.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Realm.release.xcconfig; sourceTree = "<group>"; };
 		CC91263E491CB91E05AAC8ACA40D1F57 /* PhotoToolBarView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoToolBarView.swift; path = Sources/HXPhotoPicker/Picker/View/ToolBar/PhotoToolBarView.swift; sourceTree = "<group>"; };
 		CCB032054B837562B9A3054BF0E2FF27 /* IQKeyboardToolbarManager-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "IQKeyboardToolbarManager-Info.plist"; sourceTree = "<group>"; };
-		CD4D03057958F80DBDCE412CC8E4FC43 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = Sources/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		CD4D03057958F80DBDCE412CC8E4FC43 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = Sources/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		CD89151562348FE56602401530CEBC35 /* EditorDrawView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorDrawView.swift; path = "Sources/HXPhotoPicker/Editor+View/View/EditorDrawView.swift"; sourceTree = "<group>"; };
 		CD975EFDCBC0DE159308160D90733DEE /* Cachable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Cachable.swift; path = Sources/SmartCodable/Core/Cache/Cachable.swift; sourceTree = "<group>"; };
 		CDAECCF4B5E08124ED410F09FD5A5DF9 /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
@@ -1871,7 +1870,7 @@
 		CF334CA8B0E62286DF0687078293D27F /* IQKeyboardCore.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = IQKeyboardCore.modulemap; sourceTree = "<group>"; };
 		CF54D5DAA5DE5CF0DB397483DC6CBF18 /* ConstraintInsets.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintInsets.swift; path = Sources/ConstraintInsets.swift; sourceTree = "<group>"; };
 		CF75BAF396EB9C593E9DF32FC6267170 /* EditorStickersContentView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorStickersContentView.swift; path = "Sources/HXPhotoPicker/Editor+View/View/EditorStickersContentView.swift"; sourceTree = "<group>"; };
-		CFB4A55039E60C23A797B1D8723F6CF5 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = Realm/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		CFB4A55039E60C23A797B1D8723F6CF5 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = Realm/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		CFCE6C370228872154C9AF14E5D5B300 /* Realm.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Realm.debug.xcconfig; sourceTree = "<group>"; };
 		D003168E100B9ED1B6FD8F4ECD66E8BD /* PhotoControllerEvent.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoControllerEvent.swift; path = Sources/HXPhotoPicker/Picker/Protocol/UI/PhotoControllerEvent.swift; sourceTree = "<group>"; };
 		D0077BF8D80F101FBC7543792F8A3473 /* ConstraintMakerPrioritizable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintMakerPrioritizable.swift; path = Sources/ConstraintMakerPrioritizable.swift; sourceTree = "<group>"; };
@@ -1882,7 +1881,7 @@
 		D1D36675DB4BD8C6E51F55C4BD001B7F /* PhotoPickerViewController+FetchAsset.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoPickerViewController+FetchAsset.swift"; path = "Sources/HXPhotoPicker/Picker/Controller/Picker/PhotoPickerViewController+FetchAsset.swift"; sourceTree = "<group>"; };
 		D1E916D7C0A48564F8D38FF9767678AB /* UIViewController+ParentContainer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIViewController+ParentContainer.swift"; path = "IQKeyboardManagerSwift/IQKeyboardManager/UIKitExtensions/UIViewController+ParentContainer.swift"; sourceTree = "<group>"; };
 		D26F69A61BA06E412C546A85F39ADD8E /* EditorAdjusterView+ScrollView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorAdjusterView+ScrollView.swift"; path = "Sources/HXPhotoPicker/Editor+View/View/EditorAdjusterView+ScrollView.swift"; sourceTree = "<group>"; };
-		D27C835B8E698B78E355DC6273149D4E /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = IQKeyboardToolbar/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		D27C835B8E698B78E355DC6273149D4E /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = IQKeyboardToolbar/Assets/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		D2E013A08B95AE967A1A821A29EE9848 /* EditorAdjusterView+ContentView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorAdjusterView+ContentView.swift"; path = "Sources/HXPhotoPicker/Editor+View/View/EditorAdjusterView+ContentView.swift"; sourceTree = "<group>"; };
 		D2FA70CA298C392CB8332ADEEDD1CE85 /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
 		D2FCA74BC08F99A07678C788F12B02AA /* EditorAdjusterView+Croper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorAdjusterView+Croper.swift"; path = "Sources/HXPhotoPicker/Editor+View/View/EditorAdjusterView+Croper.swift"; sourceTree = "<group>"; };
@@ -1897,8 +1896,8 @@
 		D8C5423D6D1C3BF46683A964253833D2 /* Map.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Map.swift; path = RealmSwift/Map.swift; sourceTree = "<group>"; };
 		D9D13310ADE5C919378C9552A205C8D9 /* RealmCollection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RealmCollection.swift; path = RealmSwift/RealmCollection.swift; sourceTree = "<group>"; };
 		D9F2B4CB813B4BDC4D164C6E0868930A /* Pods-Runner-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Runner-acknowledgements.plist"; sourceTree = "<group>"; };
-		DA0400EFFCDAAA9952748A9B99B58682 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = Sources/HXPhotoPicker/Resources/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		DA2D48E79BACEE04FFB6BA11E3405C23 /* RLMObject.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMObject.mm; path = Realm/RLMObject.mm; sourceTree = "<group>"; };
+		DA0400EFFCDAAA9952748A9B99B58682 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = Sources/HXPhotoPicker/Resources/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		DA2D48E79BACEE04FFB6BA11E3405C23 /* RLMObject.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMObject.mm; path = Realm/RLMObject.mm; sourceTree = "<group>"; };
 		DA3F2AD5F72F18716AEB120431C5E3BA /* Aliases.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Aliases.swift; path = RealmSwift/Aliases.swift; sourceTree = "<group>"; };
 		DA9EF45BF5E4CD35D4F0126651619C0C /* Core+Data.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Core+Data.swift"; path = "Sources/HXPhotoPicker/Core/Extension/Core+Data.swift"; sourceTree = "<group>"; };
 		DAE598F355B9C958FFBBE72F21568725 /* UIView+ParentObjc.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+ParentObjc.swift"; path = "IQKeyboardManagerSwift/IQKeyboardManager/UIKitExtensions/UIView+ParentObjc.swift"; sourceTree = "<group>"; };
@@ -1934,10 +1933,10 @@
 		E411DD98E9D54D60F16C57CD310E3972 /* PhotoBrowserAnimator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoBrowserAnimator.swift; path = Sources/HXPhotoPicker/Picker/Transition/PhotoBrowserAnimator.swift; sourceTree = "<group>"; };
 		E4589C02B67330D3397B51D024019BF2 /* PhotoPickerView+Camera.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PhotoPickerView+Camera.swift"; path = "Sources/HXPhotoPicker/Picker/PickerView/PhotoPickerView+Camera.swift"; sourceTree = "<group>"; };
 		E4769F06F79302D68605AF4A3FEC577C /* HXBaseViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HXBaseViewController.swift; path = Sources/HXPhotoPicker/Core/Controller/HXBaseViewController.swift; sourceTree = "<group>"; };
-		E4A0C58CE3A85278F94A2F121F986BD6 /* RLMError.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMError.mm; path = Realm/RLMError.mm; sourceTree = "<group>"; };
+		E4A0C58CE3A85278F94A2F121F986BD6 /* RLMError.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMError.mm; path = Realm/RLMError.mm; sourceTree = "<group>"; };
 		E5800D6FCB68EF3E8158B7FD21D4AF83 /* IQKeyboardReturnManager+UITextFieldDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQKeyboardReturnManager+UITextFieldDelegate.swift"; path = "IQKeyboardReturnManager/Classes/Delegates/IQKeyboardReturnManager+UITextFieldDelegate.swift"; sourceTree = "<group>"; };
 		E5B716B0350B79DCE70BEDE165137DC1 /* RealmSwift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RealmSwift-dummy.m"; sourceTree = "<group>"; };
-		E63B6826D0349A10F65C6AC5BF111AEB /* RLMEmbeddedObject.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMEmbeddedObject.mm; path = Realm/RLMEmbeddedObject.mm; sourceTree = "<group>"; };
+		E63B6826D0349A10F65C6AC5BF111AEB /* RLMEmbeddedObject.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMEmbeddedObject.mm; path = Realm/RLMEmbeddedObject.mm; sourceTree = "<group>"; };
 		E6FC4E793A8AF7E3994B7106301303AC /* IQKeyboardManager+ToolbarManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQKeyboardManager+ToolbarManager.swift"; path = "IQKeyboardManagerSwift/IQKeyboardToolbarManager/IQKeyboardManager+ToolbarManager.swift"; sourceTree = "<group>"; };
 		E71FE2F53BF8DFE9C75B173F7A890966 /* PhotoPickerData.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerData.swift; path = Sources/HXPhotoPicker/Picker/Data/PhotoPickerData.swift; sourceTree = "<group>"; };
 		E738B6F8AB7BF776652DB48AF3963A5C /* EditorMaskListViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorMaskListViewCell.swift; path = Sources/HXPhotoPicker/Editor/View/CropSize/EditorMaskListViewCell.swift; sourceTree = "<group>"; };
@@ -1984,8 +1983,8 @@
 		F49C32B3B8CF59AB437BFD7314674868 /* Pods-Runner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Runner.modulemap"; sourceTree = "<group>"; };
 		F56C469379A1284655044CDE616B6D85 /* PhotoPanGestureRecognizer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPanGestureRecognizer.swift; path = Sources/HXPhotoPicker/Core/Model/PhotoPanGestureRecognizer.swift; sourceTree = "<group>"; };
 		F5E618ADE17FBF9352E4B59C111DB3CF /* Realm-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Realm-prefix.pch"; sourceTree = "<group>"; };
-		F5EBDA9F516A5C91746067F291DF703F /* PassThrough.metal */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.metal; name = PassThrough.metal; path = Sources/HXPhotoPicker/Camera/View/PassThrough.metal; sourceTree = "<group>"; };
-		F61CA1A6CB755EE0F40BA589D00B085E /* RLMProperty.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMProperty.mm; path = Realm/RLMProperty.mm; sourceTree = "<group>"; };
+		F5EBDA9F516A5C91746067F291DF703F /* PassThrough.metal */ = {isa = PBXFileReference; includeInIndex = 1; name = PassThrough.metal; path = Sources/HXPhotoPicker/Camera/View/PassThrough.metal; sourceTree = "<group>"; };
+		F61CA1A6CB755EE0F40BA589D00B085E /* RLMProperty.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMProperty.mm; path = Realm/RLMProperty.mm; sourceTree = "<group>"; };
 		F623B690408459AA200E5650BE931908 /* PhotoPickerControllerFectch.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerControllerFectch.swift; path = Sources/HXPhotoPicker/Picker/Protocol/UI/PhotoPickerControllerFectch.swift; sourceTree = "<group>"; };
 		F6CBE256E88B8E7C1882946544668821 /* PhotoPickerLimitCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerLimitCell.swift; path = Sources/HXPhotoPicker/Picker/View/Cell/PhotoPickerLimitCell.swift; sourceTree = "<group>"; };
 		F6F88725835BC0BBC4F0B23D20CF7950 /* HXPhotoPicker.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HXPhotoPicker.release.xcconfig; sourceTree = "<group>"; };
@@ -1994,28 +1993,28 @@
 		F7BB4D845C463A14774994194AF57D02 /* SmartSentinel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmartSentinel.swift; path = Sources/SmartCodable/Core/Sentinel/SmartSentinel.swift; sourceTree = "<group>"; };
 		F86B83B3F91FC3D9F44E3241510A748F /* PropertyAccessors.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PropertyAccessors.swift; path = RealmSwift/Impl/PropertyAccessors.swift; sourceTree = "<group>"; };
 		F8BCF0EFB7D844EA2B70EDE6080B1D74 /* ConstraintPriority.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintPriority.swift; path = Sources/ConstraintPriority.swift; sourceTree = "<group>"; };
-		F956E149F5B195BB7833F97FC6211AE8 /* IQTextInputViewNotification.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IQTextInputViewNotification.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		F956E149F5B195BB7833F97FC6211AE8 /* IQTextInputViewNotification-IQTextInputViewNotification */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "IQTextInputViewNotification-IQTextInputViewNotification"; path = IQTextInputViewNotification.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		F95F6FE87BB3D39897A940B2CF8F5928 /* PhotoPickerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoPickerView.swift; path = Sources/HXPhotoPicker/Picker/PickerView/PhotoPickerView.swift; sourceTree = "<group>"; };
 		F96A7CE63B63E2A9E7A063CA5768365B /* IQKeyboardManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQKeyboardManager.swift; path = IQKeyboardManagerSwift/IQKeyboardManager/IQKeyboardManager.swift; sourceTree = "<group>"; };
 		F97DEE491056A8EA72791CCEFE5D56A4 /* EditorVideoControlMaskView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorVideoControlMaskView.swift; path = Sources/HXPhotoPicker/Editor/View/Video/EditorVideoControlMaskView.swift; sourceTree = "<group>"; };
 		F99B46C14952FA0031BB49BC4CDA6E97 /* EditorView+UIView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorView+UIView.swift"; path = "Sources/HXPhotoPicker/Editor+View/Extension/EditorView+UIView.swift"; sourceTree = "<group>"; };
-		F9BB5F70C7289FAB0602BA98ACE5611C /* RLMPredicateUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMPredicateUtil.mm; path = Realm/RLMPredicateUtil.mm; sourceTree = "<group>"; };
+		F9BB5F70C7289FAB0602BA98ACE5611C /* RLMPredicateUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMPredicateUtil.mm; path = Realm/RLMPredicateUtil.mm; sourceTree = "<group>"; };
 		FA058E054FEE51AD3FAECD2E482BD45F /* UIView+Parent.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Parent.swift"; path = "IQKeyboardManagerSwift/IQKeyboardManager/UIKitExtensions/UIView+Parent.swift"; sourceTree = "<group>"; };
-		FA727BF5D9541C98C22C9ECC911576E2 /* IQKeyboardToolbarManager.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IQKeyboardToolbarManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FAA8CA9BB8770A5BA885FD35547BA65E /* RLMObservation.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMObservation.mm; path = Realm/RLMObservation.mm; sourceTree = "<group>"; };
+		FA727BF5D9541C98C22C9ECC911576E2 /* IQKeyboardToolbarManager */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IQKeyboardToolbarManager; path = IQKeyboardToolbarManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAA8CA9BB8770A5BA885FD35547BA65E /* RLMObservation.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMObservation.mm; path = Realm/RLMObservation.mm; sourceTree = "<group>"; };
 		FB13C90268681A154EB70DB3D4453E23 /* PickerCameraViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PickerCameraViewCell.swift; path = Sources/HXPhotoPicker/Picker/View/Cell/PickerCameraViewCell.swift; sourceTree = "<group>"; };
 		FB2222BE4198218890D4FF2A6EEE01BC /* RealmSwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = RealmSwift.modulemap; sourceTree = "<group>"; };
 		FB246AF5EC01A8F75CB639EF7776BA38 /* RLMMigration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMMigration.h; path = include/RLMMigration.h; sourceTree = "<group>"; };
 		FC79A969969EDF536A2204AFBEC901BE /* RLMConstants.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMConstants.h; path = include/RLMConstants.h; sourceTree = "<group>"; };
-		FC7F0CF2EA5DF59C59D9995890DA5C47 /* IQKeyboardCore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IQKeyboardCore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC7F0CF2EA5DF59C59D9995890DA5C47 /* IQKeyboardCore */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IQKeyboardCore; path = IQKeyboardCore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC81EFE44BF1C0EF66298E24BE473319 /* IQPlaceholderable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQPlaceholderable.swift; path = IQKeyboardToolbar/Placeholderable/IQPlaceholderable.swift; sourceTree = "<group>"; };
 		FC9C9A5C233567F60BC8DEFC62E4151E /* ComplexTypes.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ComplexTypes.swift; path = RealmSwift/Impl/ComplexTypes.swift; sourceTree = "<group>"; };
 		FD3817F12FA4439E7E002E46953732BC /* CameraNormalPreviewView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CameraNormalPreviewView.swift; path = Sources/HXPhotoPicker/Camera/View/CameraNormalPreviewView.swift; sourceTree = "<group>"; };
-		FD72E5A6EB7895F1ABB1543557A5E90C /* RLMResults.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMResults.mm; path = Realm/RLMResults.mm; sourceTree = "<group>"; };
+		FD72E5A6EB7895F1ABB1543557A5E90C /* RLMResults.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMResults.mm; path = Realm/RLMResults.mm; sourceTree = "<group>"; };
 		FDDEC1E735D625F6FC599EF0B522CEE3 /* IQKeyboardToolbarManager.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = IQKeyboardToolbarManager.debug.xcconfig; sourceTree = "<group>"; };
 		FE58277DD9B5A9CC783E3942AF828D25 /* EditorAudioAnimationView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EditorAudioAnimationView.swift; path = "Sources/HXPhotoPicker/Editor+View/View/EditorAudioAnimationView.swift"; sourceTree = "<group>"; };
 		FEC5BE560B272046067392FD10C7BE41 /* EditorStickerTextView+Draw.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorStickerTextView+Draw.swift"; path = "Sources/HXPhotoPicker/Editor/View/Text/EditorStickerTextView+Draw.swift"; sourceTree = "<group>"; };
-		FEF9AC89E9C4BD37AC0AB78B535D1CFC /* IQKeyboardNotification.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IQKeyboardNotification.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEF9AC89E9C4BD37AC0AB78B535D1CFC /* IQKeyboardNotification */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IQKeyboardNotification; path = IQKeyboardNotification.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF030E5662777C57C01E9936BB823944 /* EditorViewController+Chartlet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorViewController+Chartlet.swift"; path = "Sources/HXPhotoPicker/Editor/Controller/EditorViewController+Chartlet.swift"; sourceTree = "<group>"; };
 		FF99F6CC9C565DDB649AAAAEA8604D08 /* EditorViewController+Text.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EditorViewController+Text.swift"; path = "Sources/HXPhotoPicker/Editor/Controller/EditorViewController+Text.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -2324,6 +2323,7 @@
 				EDE87892C549E3C8C56F0D6097B8F953 /* Resources */,
 				43A79A665A3690AB48F17E6E25ADE593 /* Support Files */,
 			);
+			name = Realm;
 			path = Realm;
 			sourceTree = "<group>";
 		};
@@ -2611,6 +2611,7 @@
 				F4F393A65F5EF8AF0C6FC892CD5AC2FF /* Resources */,
 				DA715E52278B0F625E61DCFC5B9BD805 /* Support Files */,
 			);
+			name = IQKeyboardToolbar;
 			path = IQKeyboardToolbar;
 			sourceTree = "<group>";
 		};
@@ -2633,6 +2634,7 @@
 				700E24B29C80333BECFF0BA38E5B6286 /* Resources */,
 				35F199235F170E7B957980823B2A250C /* Support Files */,
 			);
+			name = IQKeyboardCore;
 			path = IQKeyboardCore;
 			sourceTree = "<group>";
 		};
@@ -2753,6 +2755,7 @@
 				36A25ACF9D49618323A61590B7023D9D /* Resources */,
 				0247785736B44B423A51305099162CB5 /* Support Files */,
 			);
+			name = IQTextInputViewNotification;
 			path = IQTextInputViewNotification;
 			sourceTree = "<group>";
 		};
@@ -2819,6 +2822,7 @@
 				6C43D191BA736661D864D13D07A4A675 /* ProgressView.swift */,
 				421D1F52457175781BF1A8870F45B970 /* Support Files */,
 			);
+			name = ProgressHUD;
 			path = ProgressHUD;
 			sourceTree = "<group>";
 		};
@@ -2832,6 +2836,7 @@
 				2095D43AF2F35F2E5BFCC4A57A35CFF7 /* Resources */,
 				338E08302522F3EF445D93F737E071C8 /* Support Files */,
 			);
+			name = IQKeyboardReturnManager;
 			path = IQKeyboardReturnManager;
 			sourceTree = "<group>";
 		};
@@ -3001,33 +3006,33 @@
 		72CD6A8BC06D2E20D15280E63C02C956 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				24DDD4A0849B06C0942057220E1E81B2 /* HXPhotoPicker.framework */,
-				07FCAF745F3EEC27684AB03948F3A3EE /* HXPhotoPicker_Privacy.bundle */,
-				FC7F0CF2EA5DF59C59D9995890DA5C47 /* IQKeyboardCore.framework */,
-				6E897F35E5E27028AC58B14B552FBC8D /* IQKeyboardCore.bundle */,
-				A8E950A16D00F649C54FFB30F81D7842 /* IQKeyboardManagerSwift.framework */,
-				8D8069D3964814114ACEC3084C010B59 /* IQKeyboardManagerSwift.bundle */,
-				FEF9AC89E9C4BD37AC0AB78B535D1CFC /* IQKeyboardNotification.framework */,
-				120BD4C670EF00F4D5A40AA4B863A7AE /* IQKeyboardNotification.bundle */,
-				15848DEC7727A809830E7F6FC1B6CE0F /* IQKeyboardReturnManager.framework */,
-				110BD425B6CAD6801539E2C6AB6E0662 /* IQKeyboardReturnManager.bundle */,
-				B4B1A58096F15199A14069C5D6AA1C99 /* IQKeyboardToolbar.framework */,
-				A16FD016E18EACCF6B23F219F2E236FE /* IQKeyboardToolbar.bundle */,
-				FA727BF5D9541C98C22C9ECC911576E2 /* IQKeyboardToolbarManager.framework */,
-				80A40EDA3AF0499BDBCFF09467BB49AD /* IQKeyboardToolbarManager.bundle */,
-				06E5B413FEA5A600D76636DA132F8FB9 /* IQTextInputViewNotification.framework */,
-				F956E149F5B195BB7833F97FC6211AE8 /* IQTextInputViewNotification.bundle */,
-				0DFD4541FF9DAA31A2FC2A7F6D03ED22 /* IQTextView.framework */,
-				847044E56CBBCE1235A6F3CEF3F9F607 /* IQTextView.bundle */,
-				669E8F25E1897672BDB80B7EB784DA24 /* Pods_Runner.framework */,
-				0D3287058D2F13BD484A454154BEA62B /* ProgressHUD.framework */,
-				921BE4A82C4A7A5C72A0C6F8B8FEF200 /* Realm.framework */,
-				1AFC594BA8F7A6BF67C9A715020849EE /* realm_objc_privacy.bundle */,
-				437919EE08EC6BFCCBAC3BD346309742 /* RealmSwift.framework */,
-				AC70800BBC39EB966B610857C5D5404A /* realm_swift_privacy.bundle */,
-				3E623AAE662B463FDDE8B268BDEA3E7B /* SmartCodable.framework */,
-				979486118B3E90C08386079D57962701 /* SnapKit.framework */,
-				B9DCB5EC0B1CDADD221717CADDF62359 /* SnapKit_Privacy.bundle */,
+				24DDD4A0849B06C0942057220E1E81B2 /* HXPhotoPicker */,
+				07FCAF745F3EEC27684AB03948F3A3EE /* HXPhotoPicker-HXPhotoPicker_Privacy */,
+				FC7F0CF2EA5DF59C59D9995890DA5C47 /* IQKeyboardCore */,
+				6E897F35E5E27028AC58B14B552FBC8D /* IQKeyboardCore-IQKeyboardCore */,
+				A8E950A16D00F649C54FFB30F81D7842 /* IQKeyboardManagerSwift */,
+				8D8069D3964814114ACEC3084C010B59 /* IQKeyboardManagerSwift-IQKeyboardManagerSwift */,
+				FEF9AC89E9C4BD37AC0AB78B535D1CFC /* IQKeyboardNotification */,
+				120BD4C670EF00F4D5A40AA4B863A7AE /* IQKeyboardNotification-IQKeyboardNotification */,
+				15848DEC7727A809830E7F6FC1B6CE0F /* IQKeyboardReturnManager */,
+				110BD425B6CAD6801539E2C6AB6E0662 /* IQKeyboardReturnManager-IQKeyboardReturnManager */,
+				B4B1A58096F15199A14069C5D6AA1C99 /* IQKeyboardToolbar */,
+				A16FD016E18EACCF6B23F219F2E236FE /* IQKeyboardToolbar-IQKeyboardToolbar */,
+				FA727BF5D9541C98C22C9ECC911576E2 /* IQKeyboardToolbarManager */,
+				80A40EDA3AF0499BDBCFF09467BB49AD /* IQKeyboardToolbarManager-IQKeyboardToolbarManager */,
+				06E5B413FEA5A600D76636DA132F8FB9 /* IQTextInputViewNotification */,
+				F956E149F5B195BB7833F97FC6211AE8 /* IQTextInputViewNotification-IQTextInputViewNotification */,
+				0DFD4541FF9DAA31A2FC2A7F6D03ED22 /* IQTextView */,
+				847044E56CBBCE1235A6F3CEF3F9F607 /* IQTextView-IQTextView */,
+				669E8F25E1897672BDB80B7EB784DA24 /* Pods-Runner */,
+				0D3287058D2F13BD484A454154BEA62B /* ProgressHUD */,
+				921BE4A82C4A7A5C72A0C6F8B8FEF200 /* Realm */,
+				1AFC594BA8F7A6BF67C9A715020849EE /* Realm-realm_objc_privacy */,
+				437919EE08EC6BFCCBAC3BD346309742 /* RealmSwift */,
+				AC70800BBC39EB966B610857C5D5404A /* RealmSwift-realm_swift_privacy */,
+				3E623AAE662B463FDDE8B268BDEA3E7B /* SmartCodable */,
+				979486118B3E90C08386079D57962701 /* SnapKit */,
+				B9DCB5EC0B1CDADD221717CADDF62359 /* SnapKit-SnapKit_Privacy */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -3176,6 +3181,7 @@
 				0ED5FBCD3E2CE70C0E055A6460CCF7E8 /* Core */,
 				7CF134FC0C4E129140FFAD819B214DA2 /* Support Files */,
 			);
+			name = SmartCodable;
 			path = SmartCodable;
 			sourceTree = "<group>";
 		};
@@ -3207,6 +3213,7 @@
 				97793422FFCC62BA1B28FD5BF4C57961 /* Resources */,
 				09BA39CBEE9EE6B944449FBA70CCAAE3 /* Support Files */,
 			);
+			name = IQKeyboardManagerSwift;
 			path = IQKeyboardManagerSwift;
 			sourceTree = "<group>";
 		};
@@ -3218,6 +3225,7 @@
 				ACC179DD2F76B9059DB5159F945ECA88 /* Resources */,
 				6A850A69F1B329F026B5F3830ADE56E6 /* Support Files */,
 			);
+			name = IQTextView;
 			path = IQTextView;
 			sourceTree = "<group>";
 		};
@@ -3305,6 +3313,7 @@
 				8A0A93F214A6CA38679D0D374AA4E766 /* Resources */,
 				6A5E500EFE9A84F53B56DBD9B9CD083B /* Support Files */,
 			);
+			name = IQKeyboardNotification;
 			path = IQKeyboardNotification;
 			sourceTree = "<group>";
 		};
@@ -3358,6 +3367,7 @@
 				BD33743B3F4BBF2BC21F08025940422E /* Resources */,
 				CEE9DDFC0A9FC3C02E5B4D076DEF5247 /* Support Files */,
 			);
+			name = IQKeyboardToolbarManager;
 			path = IQKeyboardToolbarManager;
 			sourceTree = "<group>";
 		};
@@ -3372,6 +3382,7 @@
 				DF682EB9DA0083BF0E69E5E8642F02E7 /* Resources */,
 				619328C0A1177E76B7E93437E1B6AB75 /* Support Files */,
 			);
+			name = HXPhotoPicker;
 			path = HXPhotoPicker;
 			sourceTree = "<group>";
 		};
@@ -3583,6 +3594,7 @@
 				AA7661948B9A97459A17CCD86D0936DF /* Resources */,
 				BB4CEC1486A9843CA80A0CC2A0A6A327 /* Support Files */,
 			);
+			name = RealmSwift;
 			path = RealmSwift;
 			sourceTree = "<group>";
 		};
@@ -3629,6 +3641,7 @@
 				A13B9B96908F8259C73B4DBB726FDBE3 /* Resources */,
 				F76926E27AD1D68647B041E687674FBD /* Support Files */,
 			);
+			name = SnapKit;
 			path = SnapKit;
 			sourceTree = "<group>";
 		};
@@ -3836,7 +3849,7 @@
 			);
 			name = IQKeyboardToolbarManager;
 			productName = IQKeyboardToolbarManager;
-			productReference = FA727BF5D9541C98C22C9ECC911576E2 /* IQKeyboardToolbarManager.framework */;
+			productReference = FA727BF5D9541C98C22C9ECC911576E2 /* IQKeyboardToolbarManager */;
 			productType = "com.apple.product-type.framework";
 		};
 		022D0373DF61EE4E133BADB43CE7ED57 /* ProgressHUD */ = {
@@ -3854,7 +3867,7 @@
 			);
 			name = ProgressHUD;
 			productName = ProgressHUD;
-			productReference = 0D3287058D2F13BD484A454154BEA62B /* ProgressHUD.framework */;
+			productReference = 0D3287058D2F13BD484A454154BEA62B /* ProgressHUD */;
 			productType = "com.apple.product-type.framework";
 		};
 		0981F89DB5DA3FFCFFEBDE1F56287054 /* IQKeyboardReturnManager */ = {
@@ -3874,7 +3887,7 @@
 			);
 			name = IQKeyboardReturnManager;
 			productName = IQKeyboardReturnManager;
-			productReference = 15848DEC7727A809830E7F6FC1B6CE0F /* IQKeyboardReturnManager.framework */;
+			productReference = 15848DEC7727A809830E7F6FC1B6CE0F /* IQKeyboardReturnManager */;
 			productType = "com.apple.product-type.framework";
 		};
 		12890DE3ABBC2CA295E108358D85EE69 /* IQTextView */ = {
@@ -3894,7 +3907,7 @@
 			);
 			name = IQTextView;
 			productName = IQTextView;
-			productReference = 0DFD4541FF9DAA31A2FC2A7F6D03ED22 /* IQTextView.framework */;
+			productReference = 0DFD4541FF9DAA31A2FC2A7F6D03ED22 /* IQTextView */;
 			productType = "com.apple.product-type.framework";
 		};
 		19622742EBA51E823D6DAE3F8CDBFAD4 /* SnapKit */ = {
@@ -3913,7 +3926,7 @@
 			);
 			name = SnapKit;
 			productName = SnapKit;
-			productReference = 979486118B3E90C08386079D57962701 /* SnapKit.framework */;
+			productReference = 979486118B3E90C08386079D57962701 /* SnapKit */;
 			productType = "com.apple.product-type.framework";
 		};
 		283C1F2EA88CD4413165801A6748A48E /* IQTextInputViewNotification */ = {
@@ -3933,7 +3946,7 @@
 			);
 			name = IQTextInputViewNotification;
 			productName = IQTextInputViewNotification;
-			productReference = 06E5B413FEA5A600D76636DA132F8FB9 /* IQTextInputViewNotification.framework */;
+			productReference = 06E5B413FEA5A600D76636DA132F8FB9 /* IQTextInputViewNotification */;
 			productType = "com.apple.product-type.framework";
 		};
 		2B8FF445A5162845FAB9EC00FC92B694 /* IQKeyboardNotification-IQKeyboardNotification */ = {
@@ -3950,7 +3963,7 @@
 			);
 			name = "IQKeyboardNotification-IQKeyboardNotification";
 			productName = IQKeyboardNotification;
-			productReference = 120BD4C670EF00F4D5A40AA4B863A7AE /* IQKeyboardNotification.bundle */;
+			productReference = 120BD4C670EF00F4D5A40AA4B863A7AE /* IQKeyboardNotification-IQKeyboardNotification */;
 			productType = "com.apple.product-type.bundle";
 		};
 		4502C7427440BEB17A50C0BF6E638A85 /* IQTextInputViewNotification-IQTextInputViewNotification */ = {
@@ -3967,7 +3980,7 @@
 			);
 			name = "IQTextInputViewNotification-IQTextInputViewNotification";
 			productName = IQTextInputViewNotification;
-			productReference = F956E149F5B195BB7833F97FC6211AE8 /* IQTextInputViewNotification.bundle */;
+			productReference = F956E149F5B195BB7833F97FC6211AE8 /* IQTextInputViewNotification-IQTextInputViewNotification */;
 			productType = "com.apple.product-type.bundle";
 		};
 		4A04CD391AA4051BA344312125D5AAD5 /* HXPhotoPicker-HXPhotoPicker_Privacy */ = {
@@ -3984,7 +3997,7 @@
 			);
 			name = "HXPhotoPicker-HXPhotoPicker_Privacy";
 			productName = HXPhotoPicker_Privacy;
-			productReference = 07FCAF745F3EEC27684AB03948F3A3EE /* HXPhotoPicker_Privacy.bundle */;
+			productReference = 07FCAF745F3EEC27684AB03948F3A3EE /* HXPhotoPicker-HXPhotoPicker_Privacy */;
 			productType = "com.apple.product-type.bundle";
 		};
 		68494F30B4A13F8E5E88BCCAEC25B0A4 /* Realm */ = {
@@ -4007,7 +4020,7 @@
 			);
 			name = Realm;
 			productName = Realm;
-			productReference = 921BE4A82C4A7A5C72A0C6F8B8FEF200 /* Realm.framework */;
+			productReference = 921BE4A82C4A7A5C72A0C6F8B8FEF200 /* Realm */;
 			productType = "com.apple.product-type.framework";
 		};
 		782725687624F8665247B84AB581BEB1 /* RealmSwift */ = {
@@ -4027,7 +4040,7 @@
 			);
 			name = RealmSwift;
 			productName = RealmSwift;
-			productReference = 437919EE08EC6BFCCBAC3BD346309742 /* RealmSwift.framework */;
+			productReference = 437919EE08EC6BFCCBAC3BD346309742 /* RealmSwift */;
 			productType = "com.apple.product-type.framework";
 		};
 		7C5613175BBC4BF67E36DB4FBEBC01D0 /* IQKeyboardToolbarManager-IQKeyboardToolbarManager */ = {
@@ -4044,7 +4057,7 @@
 			);
 			name = "IQKeyboardToolbarManager-IQKeyboardToolbarManager";
 			productName = IQKeyboardToolbarManager;
-			productReference = 80A40EDA3AF0499BDBCFF09467BB49AD /* IQKeyboardToolbarManager.bundle */;
+			productReference = 80A40EDA3AF0499BDBCFF09467BB49AD /* IQKeyboardToolbarManager-IQKeyboardToolbarManager */;
 			productType = "com.apple.product-type.bundle";
 		};
 		88810798DA63A2F6611B0970EA276DEC /* IQKeyboardReturnManager-IQKeyboardReturnManager */ = {
@@ -4061,7 +4074,7 @@
 			);
 			name = "IQKeyboardReturnManager-IQKeyboardReturnManager";
 			productName = IQKeyboardReturnManager;
-			productReference = 110BD425B6CAD6801539E2C6AB6E0662 /* IQKeyboardReturnManager.bundle */;
+			productReference = 110BD425B6CAD6801539E2C6AB6E0662 /* IQKeyboardReturnManager-IQKeyboardReturnManager */;
 			productType = "com.apple.product-type.bundle";
 		};
 		8A8DB685241263AFDF5E6B20FE67B93A /* SnapKit-SnapKit_Privacy */ = {
@@ -4078,7 +4091,7 @@
 			);
 			name = "SnapKit-SnapKit_Privacy";
 			productName = SnapKit_Privacy;
-			productReference = B9DCB5EC0B1CDADD221717CADDF62359 /* SnapKit_Privacy.bundle */;
+			productReference = B9DCB5EC0B1CDADD221717CADDF62359 /* SnapKit-SnapKit_Privacy */;
 			productType = "com.apple.product-type.bundle";
 		};
 		8B74B458B450D74B75744B87BD747314 /* Pods-Runner */ = {
@@ -4111,7 +4124,7 @@
 			);
 			name = "Pods-Runner";
 			productName = Pods_Runner;
-			productReference = 669E8F25E1897672BDB80B7EB784DA24 /* Pods_Runner.framework */;
+			productReference = 669E8F25E1897672BDB80B7EB784DA24 /* Pods-Runner */;
 			productType = "com.apple.product-type.framework";
 		};
 		982A68D37F5DCBC1FC1FDC0BB2F0EB8E /* IQKeyboardManagerSwift-IQKeyboardManagerSwift */ = {
@@ -4128,7 +4141,7 @@
 			);
 			name = "IQKeyboardManagerSwift-IQKeyboardManagerSwift";
 			productName = IQKeyboardManagerSwift;
-			productReference = 8D8069D3964814114ACEC3084C010B59 /* IQKeyboardManagerSwift.bundle */;
+			productReference = 8D8069D3964814114ACEC3084C010B59 /* IQKeyboardManagerSwift-IQKeyboardManagerSwift */;
 			productType = "com.apple.product-type.bundle";
 		};
 		A26E6FD851C20D652B2755C1464A9990 /* IQKeyboardNotification */ = {
@@ -4147,7 +4160,7 @@
 			);
 			name = IQKeyboardNotification;
 			productName = IQKeyboardNotification;
-			productReference = FEF9AC89E9C4BD37AC0AB78B535D1CFC /* IQKeyboardNotification.framework */;
+			productReference = FEF9AC89E9C4BD37AC0AB78B535D1CFC /* IQKeyboardNotification */;
 			productType = "com.apple.product-type.framework";
 		};
 		A6602BCAA6F4F932A586C41D0B7E019C /* IQTextView-IQTextView */ = {
@@ -4164,7 +4177,7 @@
 			);
 			name = "IQTextView-IQTextView";
 			productName = IQTextView;
-			productReference = 847044E56CBBCE1235A6F3CEF3F9F607 /* IQTextView.bundle */;
+			productReference = 847044E56CBBCE1235A6F3CEF3F9F607 /* IQTextView-IQTextView */;
 			productType = "com.apple.product-type.bundle";
 		};
 		A6CEC262606E26A9A4D370183283DC78 /* RealmSwift-realm_swift_privacy */ = {
@@ -4181,7 +4194,7 @@
 			);
 			name = "RealmSwift-realm_swift_privacy";
 			productName = realm_swift_privacy;
-			productReference = AC70800BBC39EB966B610857C5D5404A /* realm_swift_privacy.bundle */;
+			productReference = AC70800BBC39EB966B610857C5D5404A /* RealmSwift-realm_swift_privacy */;
 			productType = "com.apple.product-type.bundle";
 		};
 		B247F77A0CD5E19C8187A9BA1EB58C09 /* IQKeyboardToolbar-IQKeyboardToolbar */ = {
@@ -4198,7 +4211,7 @@
 			);
 			name = "IQKeyboardToolbar-IQKeyboardToolbar";
 			productName = IQKeyboardToolbar;
-			productReference = A16FD016E18EACCF6B23F219F2E236FE /* IQKeyboardToolbar.bundle */;
+			productReference = A16FD016E18EACCF6B23F219F2E236FE /* IQKeyboardToolbar-IQKeyboardToolbar */;
 			productType = "com.apple.product-type.bundle";
 		};
 		B490E7485944099E16C9CBD79119D1D4 /* IQKeyboardManagerSwift */ = {
@@ -4222,7 +4235,7 @@
 			);
 			name = IQKeyboardManagerSwift;
 			productName = IQKeyboardManagerSwift;
-			productReference = A8E950A16D00F649C54FFB30F81D7842 /* IQKeyboardManagerSwift.framework */;
+			productReference = A8E950A16D00F649C54FFB30F81D7842 /* IQKeyboardManagerSwift */;
 			productType = "com.apple.product-type.framework";
 		};
 		BD33823B9D08265B6F1D35EC259EE307 /* SmartCodable */ = {
@@ -4240,7 +4253,7 @@
 			);
 			name = SmartCodable;
 			productName = SmartCodable;
-			productReference = 3E623AAE662B463FDDE8B268BDEA3E7B /* SmartCodable.framework */;
+			productReference = 3E623AAE662B463FDDE8B268BDEA3E7B /* SmartCodable */;
 			productType = "com.apple.product-type.framework";
 		};
 		D8F7D719B6671C5E3A6851AFBAF78574 /* Realm-realm_objc_privacy */ = {
@@ -4257,7 +4270,7 @@
 			);
 			name = "Realm-realm_objc_privacy";
 			productName = realm_objc_privacy;
-			productReference = 1AFC594BA8F7A6BF67C9A715020849EE /* realm_objc_privacy.bundle */;
+			productReference = 1AFC594BA8F7A6BF67C9A715020849EE /* Realm-realm_objc_privacy */;
 			productType = "com.apple.product-type.bundle";
 		};
 		EEE261386011CDF271BE289F73FF5959 /* IQKeyboardCore-IQKeyboardCore */ = {
@@ -4274,7 +4287,7 @@
 			);
 			name = "IQKeyboardCore-IQKeyboardCore";
 			productName = IQKeyboardCore;
-			productReference = 6E897F35E5E27028AC58B14B552FBC8D /* IQKeyboardCore.bundle */;
+			productReference = 6E897F35E5E27028AC58B14B552FBC8D /* IQKeyboardCore-IQKeyboardCore */;
 			productType = "com.apple.product-type.bundle";
 		};
 		F4FE17428FD0E607723A44F17231B7A1 /* IQKeyboardToolbar */ = {
@@ -4294,7 +4307,7 @@
 			);
 			name = IQKeyboardToolbar;
 			productName = IQKeyboardToolbar;
-			productReference = B4B1A58096F15199A14069C5D6AA1C99 /* IQKeyboardToolbar.framework */;
+			productReference = B4B1A58096F15199A14069C5D6AA1C99 /* IQKeyboardToolbar */;
 			productType = "com.apple.product-type.framework";
 		};
 		F8051AA643C524FA4E210DD0E6E62332 /* HXPhotoPicker */ = {
@@ -4313,7 +4326,7 @@
 			);
 			name = HXPhotoPicker;
 			productName = HXPhotoPicker;
-			productReference = 24DDD4A0849B06C0942057220E1E81B2 /* HXPhotoPicker.framework */;
+			productReference = 24DDD4A0849B06C0942057220E1E81B2 /* HXPhotoPicker */;
 			productType = "com.apple.product-type.framework";
 		};
 		F9A1BF709B7BA4C24A83664EB1E1C7D4 /* IQKeyboardCore */ = {
@@ -4332,7 +4345,7 @@
 			);
 			name = IQKeyboardCore;
 			productName = IQKeyboardCore;
-			productReference = FC7F0CF2EA5DF59C59D9995890DA5C47 /* IQKeyboardCore.framework */;
+			productReference = FC7F0CF2EA5DF59C59D9995890DA5C47 /* IQKeyboardCore */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -4353,6 +4366,8 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			minimizedProjectReferenceProxies = 0;
+			preferredProjectObjectVersion = 77;
 			productRefGroup = 72CD6A8BC06D2E20D15280E63C02C956 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -4425,7 +4440,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5CB1E5A9CEBFC3E163A8C68BF494B69E /* IQKeyboardToolbarManager.bundle in Resources */,
+				5CB1E5A9CEBFC3E163A8C68BF494B69E /* IQKeyboardToolbarManager-IQKeyboardToolbarManager in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4465,7 +4480,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA882283B3129ED461C6E004AAE5F3C1 /* IQKeyboardManagerSwift.bundle in Resources */,
+				FA882283B3129ED461C6E004AAE5F3C1 /* IQKeyboardManagerSwift-IQKeyboardManagerSwift in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4473,7 +4488,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A3112C85D4A12A7DD0F3F4A0CF45043 /* realm_objc_privacy.bundle in Resources */,
+				6A3112C85D4A12A7DD0F3F4A0CF45043 /* Realm-realm_objc_privacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4498,7 +4513,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7BAAC7278FBA386E0586824EAC86FCF /* HXPhotoPicker.bundle in Resources */,
-				3466A37B64ECFD185CE33E0DD6473889 /* HXPhotoPicker_Privacy.bundle in Resources */,
+				3466A37B64ECFD185CE33E0DD6473889 /* HXPhotoPicker-HXPhotoPicker_Privacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4514,7 +4529,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C5B017ACA9F36AFC239E7CB4B4D161A3 /* IQKeyboardNotification.bundle in Resources */,
+				C5B017ACA9F36AFC239E7CB4B4D161A3 /* IQKeyboardNotification-IQKeyboardNotification in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4522,7 +4537,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C13DC5B8BE7C29E7570369116593C53A /* realm_swift_privacy.bundle in Resources */,
+				C13DC5B8BE7C29E7570369116593C53A /* RealmSwift-realm_swift_privacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4530,7 +4545,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9D674F27593604C79DAF41EF86DFD85 /* IQTextInputViewNotification.bundle in Resources */,
+				E9D674F27593604C79DAF41EF86DFD85 /* IQTextInputViewNotification-IQTextInputViewNotification in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4538,7 +4553,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A9F6AB173C198CB46149BD879E275AF4 /* IQTextView.bundle in Resources */,
+				A9F6AB173C198CB46149BD879E275AF4 /* IQTextView-IQTextView in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4569,7 +4584,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				29B9F0CC424ED25186E4B8D9CFAF805F /* IQKeyboardToolbar.bundle in Resources */,
+				29B9F0CC424ED25186E4B8D9CFAF805F /* IQKeyboardToolbar-IQKeyboardToolbar in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4584,7 +4599,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED63C6FF5B31985C4A7CBD9CE65F16E2 /* SnapKit_Privacy.bundle in Resources */,
+				ED63C6FF5B31985C4A7CBD9CE65F16E2 /* SnapKit-SnapKit_Privacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4592,7 +4607,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				06EC579860CC68D7557726CE2396C1E8 /* IQKeyboardCore.bundle in Resources */,
+				06EC579860CC68D7557726CE2396C1E8 /* IQKeyboardCore-IQKeyboardCore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4600,7 +4615,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3CC5F76F3439F4934CA27788235A304E /* IQKeyboardReturnManager.bundle in Resources */,
+				3CC5F76F3439F4934CA27788235A304E /* IQKeyboardReturnManager-IQKeyboardReturnManager in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -6606,7 +6621,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -7467,7 +7482,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
