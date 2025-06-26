@@ -13,7 +13,6 @@ struct IAPProduct {
 class MemberController: BaseController, @preconcurrency IAPManagerDelegate {
     private let tableView = UITableView(frame: .zero, style: .plain)
     private var products: [IAPProduct] = []
-    private var skProducts: [SKProduct] = []
     private let descLabel = UILabel()
     private let productCollectionView: UICollectionView = {
         let layout = UICollectionViewFlowLayout()
@@ -41,18 +40,16 @@ class MemberController: BaseController, @preconcurrency IAPManagerDelegate {
         loadProducts()
         IAPManager.shared.delegate = self
         IAPManager.shared.start(productIds: products.map { $0.productId })
-        IAPManager.shared.updateProductList = { [weak self] list in
-            guard let `self` = self else { return }
-            DispatchQueue.main.async {
-                self.skProducts = list
-                self.tableView.reloadData()
-                if list.isEmpty {
-                    let alert = UIAlertController(title: "商品信息获取失败", message: "无法获取商品信息，请检查网络或稍后重试。", preferredStyle: .alert)
-                    alert.addAction(UIAlertAction(title: "确定", style: .default))
-                    self.present(alert, animated: true)
-                }
-            }
-        }
+        
+        NotificationCenter.default.addObserver(self, selector: #selector(didUpdateList), name: NSNotification.Name("DID_SKProducts_List"), object: nil)
+    }
+    
+    @objc private func didUpdateList() {
+        self.iapProductsDidUpdate(self.skProducts())
+    }
+    
+    private func skProducts() -> [SKProduct] {
+        return IAPManager.shared.products
     }
     
     private func setupTableView() {
@@ -88,7 +85,7 @@ class MemberController: BaseController, @preconcurrency IAPManagerDelegate {
             .init(name: "3070钻石", productId: "com.huanban.chatsapp3070", price: "268元", isVip: false, days: 0, diamond: 3070),
             .init(name: "3600钻石", productId: "com.huanban.chatsapp3600", price: "298元", isVip: false, days: 0, diamond: 3600),
             .init(name: "首充月会员", productId: "com.huanban.chatsapp0", price: "88元", isVip: true, days: 30, diamond: 0),
-            .init(name: "月会员", productId: "ai_honey_month", price: "98元", isVip: true, days: 30, diamond: 0),
+            .init(name: "月会员", productId: "com.huanban.chatsapp1", price: "98元", isVip: true, days: 30, diamond: 0),
             .init(name: "季会员", productId: "com.huanban.chatsapp2", price: "268元", isVip: true, days: 90, diamond: 0)
         ]
     }
@@ -96,7 +93,6 @@ class MemberController: BaseController, @preconcurrency IAPManagerDelegate {
     // MARK: - IAPManagerDelegate
     func iapProductsDidUpdate(_ products: [SKProduct]) {
         DispatchQueue.main.async {
-            self.skProducts = products
             self.tableView.reloadData()
             if products.isEmpty {
                 let alert = UIAlertController(title: "商品信息获取失败", message: "无法获取商品信息，请检查网络或稍后重试。", preferredStyle: .alert)
@@ -389,13 +385,13 @@ extension MemberController: UICollectionViewDataSource, UICollectionViewDelegate
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "MemberProductGridCell", for: indexPath) as! MemberProductGridCell
         let product = products[indexPath.item]
-        let sk = skProducts.first(where: { $0.productIdentifier == product.productId })
+        let sk = skProducts().first(where: { $0.productIdentifier == product.productId })
         cell.config(product: product, skProduct: sk)
         return cell
     }
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         let product = products[indexPath.item]
-        let sk = skProducts.first(where: { $0.productIdentifier == product.productId })
+        let sk = skProducts().first(where: { $0.productIdentifier == product.productId })
         guard let sk = sk else {
             let alert = UIAlertController(title: "商品信息获取失败", message: "无法获取商品信息，请稍后重试。", preferredStyle: .alert)
             alert.addAction(UIAlertAction(title: "确定", style: .default))

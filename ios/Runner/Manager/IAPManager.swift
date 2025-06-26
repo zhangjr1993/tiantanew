@@ -11,14 +11,17 @@ protocol IAPManagerDelegate: AnyObject, Sendable {
 
 class IAPManager: NSObject {
     nonisolated(unsafe) static let shared = IAPManager()
-    var updateProductList: ((_ list: [SKProduct]) -> Void)?
-    weak var delegate: IAPManagerDelegate?
-    private var products: [SKProduct] = []
+    nonisolated(unsafe) weak var delegate: IAPManagerDelegate?
+    var products: [SKProduct] = []
     private var productIds: Set<String> = []
     
-    func start(productIds: [String]) {
+    @MainActor func start(productIds: [String]) {
         self.productIds = Set(productIds)
         SKPaymentQueue.default().add(self)
+        ProgressHUD.animate(interaction: false)
+        DispatchQueue.main.asyncAfter(deadline: .now()+2, execute: {
+            ProgressHUD.dismiss()
+        })
         requestProducts()
     }
     
@@ -42,13 +45,13 @@ class IAPManager: NSObject {
     }
 }
 
-@MainActor
 extension IAPManager: SKProductsRequestDelegate {
-    nonisolated func productsRequest(_ request: SKProductsRequest, didReceive response: SKProductsResponse) {
+    func productsRequest(_ request: SKProductsRequest, didReceive response: SKProductsResponse) {
         self.products = response.products
+//        delegate?.iapProductsDidUpdate(self.products)
     }
-    nonisolated func request(_ request: SKRequest, didFailWithError error: Error) {
-        delegate?.iapProductsDidUpdate([])
+    func request(_ request: SKRequest, didFailWithError error: Error) {
+//        delegate?.iapProductsDidUpdate([])
     }
 }
 
