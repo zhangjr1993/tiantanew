@@ -26,10 +26,6 @@ jobs:
         run: |
           cd ios/Pods/TXLiteAVSDK_Professional/TXLiteAVSDK_Professional
           unzip TXLiteAVSDK_Professional.framework.zip
-          cd ..
-          cd ..
-          cd ..
-          cd ..
 
       - name: Setup Flutter Environment
         run: |
@@ -43,13 +39,14 @@ jobs:
           rm -rf ~/Library/Developer/Xcode/iOS\ DeviceSupport
           rm -rf ~/Library/Developer/Xcode/Archives
           rm -rf ~/Library/Developer/Xcode/Products
-      - name: Setup CocoaPods
-        run: |
-            cd ios
-            rm -rf Pods
-            rm -rf Podfile.lock
-            pod install --repo-update
-            cd ..
+          
+#      - name: Setup CocoaPods
+#        run: |
+#            cd ios
+#            rm -rf Pods
+#            rm -rf Podfile.lock
+#            pod install --repo-update
+#            cd ..
         
     
 #       添加详细的环境信息调试步骤
