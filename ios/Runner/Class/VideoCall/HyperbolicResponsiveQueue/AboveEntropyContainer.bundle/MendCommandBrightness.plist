@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperProcessOrientation</key>
+	<string>uniformBuilderOffset</string>
+	<key>mobxThroughEnvironment</key>
+	<string>requestAgainstPrototype</string>
+</dict>
+</plist>

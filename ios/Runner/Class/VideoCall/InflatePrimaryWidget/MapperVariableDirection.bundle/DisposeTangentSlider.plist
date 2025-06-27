@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDespitePlatform</key>
+	<string>spriteOfState</string>
+	<key>builderModeAcceleration</key>
+	<string>observerAsMemento</string>
+	<key>composableHeapHue</key>
+	<string>dialogsAsFunction</string>
+	<key>composableVectorCoord</key>
+	<string>independentRouteSaturation</string>
+	<key>modelTierCoord</key>
+	<string>navigatorAgainstSingleton</string>
+	<key>nibAroundStructure</key>
+	<string>resizableMethodResponse</string>
+	<key>normalMapValidation</key>
+	<string>imperativeAnimatedcontainerFlags</string>
+	<key>optionBridgeType</key>
+	<string>anchorTypeInset</string>
+	<key>subscriptionEnvironmentContrast</key>
+	<string>immutableContractionAppearance</string>
+</dict>
+</plist>

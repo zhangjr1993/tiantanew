@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProfileFeedback</key>
+	<string>queueSystemMode</string>
+	<key>brushStateTheme</key>
+	<string>bufferStyleIndex</string>
+	<key>constraintExceptScope</key>
+	<string>containerScopeDistance</string>
+	<key>gestureOfProcess</key>
+	<string>documentViaPattern</string>
+	<key>listenerOperationSkewx</key>
+	<string>resourceDespiteOperation</string>
+	<key>timerStyleSaturation</key>
+	<string>sizeMethodScale</string>
+	<key>transitionAtInterpreter</key>
+	<string>binaryFormStyle</string>
+</dict>
+</plist>

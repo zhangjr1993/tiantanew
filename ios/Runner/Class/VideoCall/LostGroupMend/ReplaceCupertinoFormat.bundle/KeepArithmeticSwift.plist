@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedControllerSaturation</key>
+	<string>logCompositeStatus</string>
+	<key>cursorFlyweightSaturation</key>
+	<string>semanticsInInterpreter</string>
+	<key>firstRectName</key>
+	<string>channelFrameworkRotation</string>
+	<key>inheritedMobileState</key>
+	<string>nibTaskRate</string>
+	<key>mainPointSkewx</key>
+	<string>mutableMomentumPosition</string>
+	<key>viewVarShape</key>
+	<string>binaryTierStyle</string>
+</dict>
+</plist>

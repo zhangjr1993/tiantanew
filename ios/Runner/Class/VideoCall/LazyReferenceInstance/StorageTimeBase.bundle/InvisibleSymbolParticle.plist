@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorChainResponse</key>
+	<string>positionTierOffset</string>
+	<key>frameAndActivity</key>
+	<string>statefulSceneTransparency</string>
+	<key>localizationUntilDecorator</key>
+	<string>stepAmongActivity</string>
+	<key>metadataSystemColor</key>
+	<string>modulusAsObserver</string>
+	<key>resourceContainObserver</key>
+	<string>profileAndActivity</string>
+	<key>sinkOrBuffer</key>
+	<string>signatureKindDuration</string>
+</dict>
+</plist>

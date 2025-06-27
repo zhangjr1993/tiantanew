@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateDialogsTag</key>
+	<string>sinkIncludeContext</string>
+	<key>errorBufferVisibility</key>
+	<string>tickerAndJob</string>
+	<key>gridDespiteVariable</key>
+	<string>commonLocalizationBound</string>
+	<key>reducerContainAction</key>
+	<string>hashActionBound</string>
+	<key>similarConfigurationDepth</key>
+	<string>profileContainProcess</string>
+	<key>subscriptionVersusInterpreter</key>
+	<string>allocatorAtCommand</string>
+</dict>
+</plist>

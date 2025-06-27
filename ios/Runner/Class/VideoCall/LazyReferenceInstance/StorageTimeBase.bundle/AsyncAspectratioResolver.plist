@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBeyondScope</key>
+	<string>decorationAdapterBrightness</string>
+	<key>chapterWithProxy</key>
+	<string>tappableTickerContrast</string>
+	<key>rowPlatformOrientation</key>
+	<string>touchBeyondFramework</string>
+	<key>specifierFromEnvironment</key>
+	<string>interfaceFlyweightFormat</string>
+</dict>
+</plist>

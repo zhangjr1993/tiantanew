@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionFromDecorator</key>
+	<string>controllerByFlyweight</string>
+	<key>pointTaskRight</key>
+	<string>buttonCompositeLeft</string>
+	<key>techniqueSincePlatform</key>
+	<string>hashActionPosition</string>
+	<key>visibleSceneName</key>
+	<string>cubitFromShape</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramFromNumber</key>
+	<string>reactiveCanvasDuration</string>
+	<key>navigatorAsStage</key>
+	<string>callbackOperationSaturation</string>
+	<key>primarySingletonName</key>
+	<string>previewChainHue</string>
+	<key>sliderExceptPrototype</key>
+	<string>scaffoldActionHue</string>
+	<key>visibleGateAcceleration</key>
+	<string>responsiveAxisSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerActionPosition</key>
+	<string>textBridgeRotation</string>
+	<key>delicateLayoutDelay</key>
+	<string>monsterWorkSpeed</string>
+	<key>imageAndLevel</key>
+	<string>intensityByKind</string>
+	<key>pivotalTickerFlags</key>
+	<string>cycleFromFacade</string>
+	<key>positionDecoratorBorder</key>
+	<string>keyLabelDepth</string>
+	<key>reducerOrNumber</key>
+	<string>transformerOrType</string>
+	<key>routeBufferFormat</key>
+	<string>keyAppbarSpacing</string>
+	<key>textPerCommand</key>
+	<string>alertPrototypeTop</string>
+</dict>
+</plist>

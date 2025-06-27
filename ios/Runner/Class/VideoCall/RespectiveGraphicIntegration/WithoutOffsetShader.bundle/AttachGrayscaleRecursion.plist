@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBitrateInset</key>
+	<string>displayableTextureHue</string>
+	<key>blocFromSystem</key>
+	<string>interfaceOutsideMediator</string>
+	<key>ignoredCallbackTop</key>
+	<string>cursorSingletonStatus</string>
+	<key>nativeInteractorLocation</key>
+	<string>handlerWithOperation</string>
+	<key>notifierSystemSaturation</key>
+	<string>usecaseJobSize</string>
+	<key>observerBeyondNumber</key>
+	<string>actionInterpreterTheme</string>
+	<key>routerThanWork</key>
+	<string>apertureWithoutParam</string>
+	<key>typicalNavigationScale</key>
+	<string>iterativeCosineResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTierOrigin</key>
+	<string>requiredViewAppearance</string>
+	<key>awaitFormName</key>
+	<string>gramTypeFrequency</string>
+	<key>crudeChecklistCount</key>
+	<string>loopMethodScale</string>
+	<key>descriptionOrType</key>
+	<string>advancedLocalizationEdge</string>
+	<key>directNotifierBound</key>
+	<string>bufferBeyondObserver</string>
+	<key>prevControllerBottom</key>
+	<string>popupLevelOffset</string>
+	<key>segmentCompositeTail</key>
+	<string>axisFromSystem</string>
+	<key>symbolBySystem</key>
+	<string>layoutPerAdapter</string>
+	<key>uniformVariantAcceleration</key>
+	<string>delegateSingletonHead</string>
+</dict>
+</plist>

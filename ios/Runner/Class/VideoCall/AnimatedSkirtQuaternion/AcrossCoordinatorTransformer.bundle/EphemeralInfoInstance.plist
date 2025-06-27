@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTopicRotation</key>
+	<string>topicByPattern</string>
+	<key>basicBaseSkewx</key>
+	<string>queueAsKind</string>
+	<key>draggableIntegerDelay</key>
+	<string>gestureAsScope</string>
+	<key>euclideanObserverTheme</key>
+	<string>deferredFactoryOrigin</string>
+	<key>fragmentAdapterBrightness</key>
+	<string>sliderContainBridge</string>
+	<key>offsetAgainstScope</key>
+	<string>sliderAwayStyle</string>
+	<key>riverpodVersusBuffer</key>
+	<string>rectOfWork</string>
+	<key>roleVariableOrigin</key>
+	<string>synchronousBaseAppearance</string>
+	<key>viewAboutWork</key>
+	<string>completionWithTier</string>
+</dict>
+</plist>

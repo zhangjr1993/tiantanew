@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaInsideMediator</key>
+	<string>petStateSkewx</string>
+	<key>durationMethodRotation</key>
+	<string>kernelOfMediator</string>
+	<key>heapAtAction</key>
+	<string>resourceOfBuffer</string>
+	<key>layoutIncludeShape</key>
+	<string>semanticDurationInset</string>
+	<key>multiLayoutAppearance</key>
+	<string>protectedAppbarHue</string>
+	<key>positionAdapterType</key>
+	<string>semanticRowFrequency</string>
+</dict>
+</plist>

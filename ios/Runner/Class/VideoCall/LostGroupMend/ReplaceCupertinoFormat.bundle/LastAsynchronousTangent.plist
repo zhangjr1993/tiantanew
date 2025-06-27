@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionEnvironmentOrientation</key>
+	<string>zoneAdapterBound</string>
+	<key>directlyAllocatorMargin</key>
+	<string>intermediatePrecisionCount</string>
+	<key>getxAtStrategy</key>
+	<string>eventTypeValidation</string>
+	<key>progressbarValueStyle</key>
+	<string>descriptionOutsideMethod</string>
+	<key>scrollOrKind</key>
+	<string>spriteAndOperation</string>
+	<key>semanticProgressbarSize</key>
+	<string>associatedCapacitiesAppearance</string>
+	<key>spriteAboutChain</key>
+	<string>cubitIncludeStrategy</string>
+</dict>
+</plist>

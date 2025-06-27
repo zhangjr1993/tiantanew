@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitTypeContrast</key>
+	<string>skinWithCommand</string>
+	<key>durationOrType</key>
+	<string>compositionProxyDelay</string>
+	<key>firstEqualizationCenter</key>
+	<string>assetBeyondContext</string>
+	<key>gridviewBeyondFacade</key>
+	<string>primaryProviderAcceleration</string>
+	<key>normalInstructionFlags</key>
+	<string>inheritedToolSaturation</string>
+	<key>radiusCommandOpacity</key>
+	<string>presenterModeDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeVectorStyle</key>
+	<string>tensorToolTop</string>
+	<key>convolutionNearLayer</key>
+	<string>geometricGrainValidation</string>
+	<key>dynamicBehaviorAppearance</key>
+	<string>singleChapterAcceleration</string>
+	<key>metadataByAdapter</key>
+	<string>allocatorBeyondFacade</string>
+	<key>missionContainState</key>
+	<string>layerMementoTail</string>
+	<key>momentumBridgeRotation</key>
+	<string>gridChainFlags</string>
+	<key>taskAdapterAppearance</key>
+	<string>widgetPerFlyweight</string>
+</dict>
+</plist>

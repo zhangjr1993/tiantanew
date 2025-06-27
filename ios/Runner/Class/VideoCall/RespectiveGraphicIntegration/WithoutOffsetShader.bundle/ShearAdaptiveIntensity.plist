@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLoopScale</key>
+	<string>globalIsolateAcceleration</string>
+	<key>convolutionFrameworkAppearance</key>
+	<string>assetForStage</string>
+	<key>customResponseFrequency</key>
+	<string>similarEntityMode</string>
+	<key>nibParameterLeft</key>
+	<string>axisPlatformOrigin</string>
+	<key>permissiveEqualizationSaturation</key>
+	<string>characterVariableInterval</string>
+	<key>storageAboutStyle</key>
+	<string>musicParameterCount</string>
+	<key>taskPerJob</key>
+	<string>gateThanCommand</string>
+</dict>
+</plist>

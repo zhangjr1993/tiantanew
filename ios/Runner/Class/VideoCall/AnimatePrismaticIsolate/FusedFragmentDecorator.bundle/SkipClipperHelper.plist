@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorDespiteEnvironment</key>
+	<string>reactivePriorityValidation</string>
+	<key>finalQueuePressure</key>
+	<string>sizeOutsideMethod</string>
+	<key>functionalProfileBorder</key>
+	<string>deferredButtonOrientation</string>
+	<key>ignoredBlocTail</key>
+	<string>flexProcessSpacing</string>
+	<key>mobxEnvironmentHue</key>
+	<string>vectorWithNumber</string>
+	<key>offsetBufferResponse</key>
+	<string>mutableButtonSpeed</string>
+	<key>painterVersusScope</key>
+	<string>smallBaseTransparency</string>
+	<key>priorHashBorder</key>
+	<string>asyncWithTier</string>
+	<key>swiftPhaseBorder</key>
+	<string>crudeAllocatorTop</string>
+</dict>
+</plist>

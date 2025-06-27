@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonChainShape</key>
+	<string>resourceSystemRate</string>
+	<key>configurationFunctionVelocity</key>
+	<string>localizationScopeHead</string>
+	<key>difficultBulletDensity</key>
+	<string>providerSystemSpeed</string>
+	<key>gestureFlyweightContrast</key>
+	<string>sceneModeTint</string>
+	<key>hyperbolicSpineStatus</key>
+	<string>fusedErrorState</string>
+	<key>particleViaStage</key>
+	<string>layoutAndMemento</string>
+	<key>pivotalDelegateAcceleration</key>
+	<string>multiProgressbarTheme</string>
+	<key>promiseActivityContrast</key>
+	<string>particleNumberBound</string>
+	<key>robustAsyncColor</key>
+	<string>kernelParameterPressure</string>
+	<key>transformerFacadePosition</key>
+	<string>scrollDecoratorAppearance</string>
+</dict>
+</plist>

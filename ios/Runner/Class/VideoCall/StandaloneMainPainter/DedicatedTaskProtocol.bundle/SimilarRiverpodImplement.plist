@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedToolDelay</key>
+	<string>handlerParameterBrightness</string>
+	<key>containerMementoRate</key>
+	<string>tweenAmongLayer</string>
+	<key>interactorMediatorFeedback</key>
+	<string>prismaticIsolateStyle</string>
+	<key>localizationScopeSaturation</key>
+	<string>buttonForAction</string>
+	<key>radiusExceptObserver</key>
+	<string>swiftModeVisible</string>
+	<key>routerAsInterpreter</key>
+	<string>zoneTierBottom</string>
+	<key>singletonStrategySkewy</key>
+	<string>navigationLevelKind</string>
+	<key>sophisticatedNibForce</key>
+	<string>durationFlyweightVisibility</string>
+	<key>statePhaseOffset</key>
+	<string>streamAlongContext</string>
+</dict>
+</plist>

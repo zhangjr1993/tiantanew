@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocActivityFlags</key>
+	<string>repositoryOperationRight</string>
+	<key>borderCommandAppearance</key>
+	<string>variantModeInset</string>
+	<key>buttonActionHead</key>
+	<string>requiredDropdownbuttonOrigin</string>
+	<key>dialogsAgainstPlatform</key>
+	<string>listenerFromVar</string>
+	<key>directHandlerVelocity</key>
+	<string>usedGateShape</string>
+	<key>playbackPrototypeStatus</key>
+	<string>resolverSinceFlyweight</string>
+	<key>streamFacadeForce</key>
+	<string>effectBufferInset</string>
+	<key>symbolVisitorAppearance</key>
+	<string>autoCapsuleRotation</string>
+	<key>usedScreenDensity</key>
+	<string>errorDespiteInterpreter</string>
+</dict>
+</plist>

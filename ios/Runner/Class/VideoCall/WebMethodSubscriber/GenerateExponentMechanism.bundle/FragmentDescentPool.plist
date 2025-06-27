@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisVisitorInteraction</key>
+	<string>shaderMementoOffset</string>
+	<key>blocModeEdge</key>
+	<string>resultActionDistance</string>
+	<key>cellObserverOpacity</key>
+	<string>ephemeralPositionInteraction</string>
+	<key>gridviewByPrototype</key>
+	<string>borderFromJob</string>
+	<key>metadataDecoratorResponse</key>
+	<string>projectVarOpacity</string>
+	<key>metadataForProcess</key>
+	<string>apertureTierTension</string>
+	<key>numericalCheckboxTag</key>
+	<string>topicContainObserver</string>
+	<key>rowWithFlyweight</key>
+	<string>injectionProxyFlags</string>
+	<key>textTierDuration</key>
+	<string>localizationFromMode</string>
+</dict>
+</plist>

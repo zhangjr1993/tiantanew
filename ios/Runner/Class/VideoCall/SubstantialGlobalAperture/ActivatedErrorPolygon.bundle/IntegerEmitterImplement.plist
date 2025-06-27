@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerStateDelay</key>
+	<string>touchCycleHead</string>
+	<key>backwardProviderIndex</key>
+	<string>signatureBeyondShape</string>
+	<key>chapterLevelName</key>
+	<string>customizedLabelAlignment</string>
+	<key>dynamicTopicBottom</key>
+	<string>diffableButtonFrequency</string>
+	<key>interfaceStyleAcceleration</key>
+	<string>asyncSegueBehavior</string>
+	<key>monsterTypeOrientation</key>
+	<string>interfaceOfWork</string>
+	<key>petAwayTier</key>
+	<string>inactiveEffectInterval</string>
+	<key>touchAsComposite</key>
+	<string>scalePhaseKind</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisTierTop</key>
+	<string>typicalTouchBottom</string>
+	<key>completerOrLevel</key>
+	<string>declarativeStateCount</string>
+	<key>configurationOrAction</key>
+	<string>navigatorPatternDirection</string>
+	<key>inactiveHandlerResponse</key>
+	<string>promiseStyleBound</string>
+	<key>projectPlatformStyle</key>
+	<string>responsiveNavigatorBorder</string>
+	<key>queuePhaseLocation</key>
+	<string>robustRichtextPadding</string>
+	<key>resilientExponentOrientation</key>
+	<string>pointAroundPlatform</string>
+</dict>
+</plist>

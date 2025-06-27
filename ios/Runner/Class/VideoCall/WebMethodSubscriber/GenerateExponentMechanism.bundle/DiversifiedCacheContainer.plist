@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchChainDelay</key>
+	<string>diversifiedPrioritySaturation</string>
+	<key>columnUntilChain</key>
+	<string>channelByPlatform</string>
+	<key>cubitStyleForce</key>
+	<string>subscriptionSingletonState</string>
+	<key>factoryShapePressure</key>
+	<string>mobileLayerSpeed</string>
+	<key>gesturedetectorLikeMethod</key>
+	<string>responseOutsideLayer</string>
+	<key>interactorExceptProcess</key>
+	<string>promiseEnvironmentIndex</string>
+	<key>liteCollectionAppearance</key>
+	<string>gridVariableMomentum</string>
+	<key>primaryBuilderInterval</key>
+	<string>presenterContainComposite</string>
+</dict>
+</plist>

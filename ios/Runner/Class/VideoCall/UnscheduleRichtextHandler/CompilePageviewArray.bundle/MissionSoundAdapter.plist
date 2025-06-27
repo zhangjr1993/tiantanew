@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionMethodInset</key>
+	<string>iterativeCubeRotation</string>
+	<key>marginVersusStructure</key>
+	<string>subscriptionScopeVisible</string>
+	<key>otherParticleStyle</key>
+	<string>presenterOperationRight</string>
+	<key>statefulInsideMethod</key>
+	<string>seguePatternInset</string>
+</dict>
+</plist>

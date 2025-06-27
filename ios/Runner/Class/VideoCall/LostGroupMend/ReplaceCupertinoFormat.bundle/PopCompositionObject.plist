@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetPrototypeShape</key>
+	<string>activatedUnarySaturation</string>
+	<key>futureLayerBehavior</key>
+	<string>asyncVersusState</string>
+	<key>nativePriorityKind</key>
+	<string>constraintInsideType</string>
+	<key>resourceModeShade</key>
+	<string>pointCompositeBrightness</string>
+	<key>routeBeyondAction</key>
+	<string>allocatorBesideType</string>
+</dict>
+</plist>

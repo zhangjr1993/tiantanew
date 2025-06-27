@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUtilDensity</key>
+	<string>histogramOrProcess</string>
+	<key>interactorPrototypeTransparency</key>
+	<string>gridVarMode</string>
+	<key>layoutOutsideChain</key>
+	<string>numericalSizeDistance</string>
+	<key>sophisticatedTweenSaturation</key>
+	<string>listviewValueBrightness</string>
+	<key>tangentIncludeForm</key>
+	<string>pageviewValueOffset</string>
+	<key>tweenPatternCount</key>
+	<string>geometricToolType</string>
+	<key>uniquePresenterRight</key>
+	<string>timerOperationAcceleration</string>
+</dict>
+</plist>

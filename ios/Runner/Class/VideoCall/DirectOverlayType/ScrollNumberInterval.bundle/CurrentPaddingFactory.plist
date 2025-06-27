@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesPhaseFeedback</key>
+	<string>entropyInsideSystem</string>
+	<key>channelContextLocation</key>
+	<string>primaryExtensionSkewx</string>
+	<key>composableAwaitSkewx</key>
+	<string>fusedZonePadding</string>
+	<key>cubitOutsideVariable</key>
+	<string>coordinatorOfFunction</string>
+	<key>customStateRotation</key>
+	<string>scaffoldBesideValue</string>
+	<key>customizedQueuePosition</key>
+	<string>nativeOptimizerCount</string>
+	<key>mediaAgainstWork</key>
+	<string>awaitContainObserver</string>
+	<key>textThroughStructure</key>
+	<string>sizeWorkBehavior</string>
+	<key>transitionOutsideParameter</key>
+	<string>rectThanFunction</string>
+</dict>
+</plist>

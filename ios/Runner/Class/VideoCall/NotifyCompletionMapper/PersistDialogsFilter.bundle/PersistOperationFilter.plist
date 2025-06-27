@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAwayParam</key>
+	<string>seamlessSensorHue</string>
+	<key>cardContainStyle</key>
+	<string>smartTaskValidation</string>
+	<key>geometricInteractorBound</key>
+	<string>unactivatedResourceVelocity</string>
+	<key>lostOptimizerTop</key>
+	<string>protectedResourceRight</string>
+	<key>mediumStatefulCenter</key>
+	<string>featureTypeSaturation</string>
+	<key>queryInCommand</key>
+	<string>resilientWidgetSkewy</string>
+	<key>spineProcessPressure</key>
+	<string>builderChainPressure</string>
+</dict>
+</plist>

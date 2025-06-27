@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterParameterForce</key>
+	<string>customizedLayerShade</string>
+	<key>cubitLikeSystem</key>
+	<string>viewViaSystem</string>
+	<key>euclideanPreviewInset</key>
+	<string>sceneStrategyFlags</string>
+	<key>expandedFrameworkValidation</key>
+	<string>mobileMediaTheme</string>
+	<key>flexibleTitleMargin</key>
+	<string>serviceJobSize</string>
+	<key>missedGiftTag</key>
+	<string>gridParamLocation</string>
+	<key>tangentPerState</key>
+	<string>tappableChartResponse</string>
+	<key>tensorPlateAppearance</key>
+	<string>declarativeInterfaceOrigin</string>
+	<key>toolExceptOperation</key>
+	<string>unsortedProviderTag</string>
+</dict>
+</plist>

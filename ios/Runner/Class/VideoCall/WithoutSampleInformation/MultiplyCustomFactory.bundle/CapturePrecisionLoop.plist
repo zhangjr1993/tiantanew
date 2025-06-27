@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>numericalModelName</key>
+	<string>documentDuringJob</string>
+	<key>protocolTaskValidation</key>
+	<string>notificationOutsideVisitor</string>
+	<key>rowPatternFlags</key>
+	<string>controllerFormInset</string>
+	<key>sessionFunctionAlignment</key>
+	<string>zoneAlongOperation</string>
+	<key>tweenScopeHue</key>
+	<string>protectedMediaqueryFlags</string>
+	<key>webResultPadding</key>
+	<string>gridValueDelay</string>
+</dict>
+</plist>

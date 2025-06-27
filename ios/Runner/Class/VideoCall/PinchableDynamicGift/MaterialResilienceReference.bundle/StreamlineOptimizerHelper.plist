@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBesidePattern</key>
+	<string>timerIncludeSingleton</string>
+	<key>documentContextHead</key>
+	<string>tweenMementoCoord</string>
+	<key>mainAllocatorMargin</key>
+	<string>activeRequestMargin</string>
+	<key>rapidRepositoryDistance</key>
+	<string>lazyCoordinatorBorder</string>
+	<key>scaffoldInCommand</key>
+	<string>layerStructureBound</string>
+	<key>uniqueSizeTint</key>
+	<string>baselineAroundMemento</string>
+	<key>usecaseLayerSpeed</key>
+	<string>protectedTabviewCoord</string>
+	<key>utilBridgeSpeed</key>
+	<string>sliderAmongVariable</string>
+</dict>
+</plist>

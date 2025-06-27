@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintOrMediator</key>
+	<string>constWidgetTint</string>
+	<key>futureCycleAlignment</key>
+	<string>beginnerMovementOrientation</string>
+	<key>gesturedetectorActivityStatus</key>
+	<string>progressbarModeState</string>
+	<key>managerAdapterBottom</key>
+	<string>cupertinoShapeDelay</string>
+	<key>monsterPatternHue</key>
+	<string>asynchronousBoxKind</string>
+	<key>nodeAtChain</key>
+	<string>interactorWorkSpacing</string>
+	<key>observerActivityIndex</key>
+	<string>advancedStateSpacing</string>
+	<key>ternaryPerAction</key>
+	<string>dedicatedCurveRotation</string>
+	<key>widgetStyleFlags</key>
+	<string>swiftCommandBrightness</string>
+</dict>
+</plist>

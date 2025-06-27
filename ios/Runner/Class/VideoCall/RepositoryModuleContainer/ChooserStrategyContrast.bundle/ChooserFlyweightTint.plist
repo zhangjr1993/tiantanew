@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorActivityResponse</key>
+	<string>textAlongStage</string>
+	<key>disparateToolRate</key>
+	<string>dedicatedMovementRate</string>
+	<key>pointAtOperation</key>
+	<string>modulusPerMemento</string>
+	<key>queueFormColor</key>
+	<string>durationAlongStyle</string>
+	<key>resolverForForm</key>
+	<string>shaderFromJob</string>
+	<key>roleBesideCommand</key>
+	<string>completerFromStrategy</string>
+</dict>
+</plist>

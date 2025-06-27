@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticRouterBehavior</key>
+	<string>asyncVariableTag</string>
+	<key>bufferStateLocation</key>
+	<string>storageSingletonSpeed</string>
+	<key>durationChainType</key>
+	<string>routerVariableAlignment</string>
+	<key>futureAtContext</key>
+	<string>routeContextTransparency</string>
+	<key>hierarchicalEventScale</key>
+	<string>entityInChain</string>
+	<key>mobileSinceCycle</key>
+	<string>localizationFacadeSize</string>
+	<key>precisionTypeFlags</key>
+	<string>equipmentMediatorHue</string>
+	<key>shaderWithBuffer</key>
+	<string>hierarchicalInjectionBound</string>
+	<key>storeInterpreterState</key>
+	<string>layerOrBridge</string>
+	<key>widgetStateOrigin</key>
+	<string>singletonJobSize</string>
+</dict>
+</plist>

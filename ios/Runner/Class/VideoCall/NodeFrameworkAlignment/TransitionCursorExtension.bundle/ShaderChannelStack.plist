@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePlateBorder</key>
+	<string>utilStyleValidation</string>
+	<key>aspectAlongParameter</key>
+	<string>nodePerFacade</string>
+	<key>buttonLayerSpacing</key>
+	<string>tappableIntegerAppearance</string>
+	<key>contractionAmongProxy</key>
+	<string>viewPerDecorator</string>
+	<key>coordinatorSingletonHue</key>
+	<string>timerSystemLeft</string>
+	<key>numericalModulusCenter</key>
+	<string>normalTangentName</string>
+	<key>positionLayerAlignment</key>
+	<string>heroPrototypeBrightness</string>
+	<key>sliderActionTint</key>
+	<string>animationCommandDepth</string>
+</dict>
+</plist>

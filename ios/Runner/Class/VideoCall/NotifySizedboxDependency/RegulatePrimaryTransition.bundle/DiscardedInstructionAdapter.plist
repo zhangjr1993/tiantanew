@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardMethodType</key>
+	<string>collectionStyleFlags</string>
+	<key>hardObserverCenter</key>
+	<string>semanticOverlayOrigin</string>
+	<key>otherCubeVisible</key>
+	<string>checklistInsideFramework</string>
+	<key>pinchableEffectStatus</key>
+	<string>transformerByFacade</string>
+	<key>pointCycleSkewy</key>
+	<string>sliderContainBuffer</string>
+	<key>reducerOutsideFacade</key>
+	<string>ignoredProgressbarVelocity</string>
+	<key>sliderWithoutParam</key>
+	<string>iconFlyweightRotation</string>
+	<key>sophisticatedInjectionAcceleration</key>
+	<string>storageAroundLayer</string>
+	<key>storeKindCenter</key>
+	<string>dynamicGesturedetectorInset</string>
+</dict>
+</plist>

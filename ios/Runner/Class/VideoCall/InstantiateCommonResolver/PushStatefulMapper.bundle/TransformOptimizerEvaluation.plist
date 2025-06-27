@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAnchorFlags</key>
+	<string>permanentLogFrequency</string>
+	<key>mobileSpriteRight</key>
+	<string>exponentAgainstLevel</string>
+	<key>requestSystemStatus</key>
+	<string>decorationFormDistance</string>
+	<key>singletonForMode</key>
+	<string>boxPhaseVisibility</string>
+	<key>taskFormMargin</key>
+	<string>responsiveExponentTint</string>
+	<key>textSinceCycle</key>
+	<string>prismaticViewHue</string>
+</dict>
+</plist>

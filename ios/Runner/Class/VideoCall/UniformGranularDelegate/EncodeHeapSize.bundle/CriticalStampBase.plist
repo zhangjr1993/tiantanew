@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveButtonFlags</key>
+	<string>mobileSingletonValidation</string>
+	<key>cupertinoOrEnvironment</key>
+	<string>alertCommandRate</string>
+	<key>entityNearVariable</key>
+	<string>prismaticSizeHue</string>
+	<key>musicFlyweightBorder</key>
+	<string>durationAlongValue</string>
+	<key>relationalTransitionPadding</key>
+	<string>blocTempleHue</string>
+	<key>routeJobTension</key>
+	<string>staticMobxInterval</string>
+</dict>
+</plist>

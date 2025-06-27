@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionStructureSkewy</key>
+	<string>granularFrameDistance</string>
+	<key>loopShapeAlignment</key>
+	<string>primaryQueuePosition</string>
+	<key>notifierDespiteStyle</key>
+	<string>clipperOutsideJob</string>
+	<key>observerCommandIndex</key>
+	<string>vectorParameterCoord</string>
+	<key>routeSinceContext</key>
+	<string>controllerModeOffset</string>
+	<key>stepEnvironmentBorder</key>
+	<string>segmentPrototypeBorder</string>
+	<key>textureAtKind</key>
+	<string>relationalBinaryStatus</string>
+	<key>visibleConvolutionDepth</key>
+	<string>collectionInsideFunction</string>
+</dict>
+</plist>

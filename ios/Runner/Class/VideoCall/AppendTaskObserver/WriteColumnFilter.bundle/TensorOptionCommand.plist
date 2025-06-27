@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetJobTheme</key>
+	<string>sceneDecoratorResponse</string>
+	<key>graphicAsStyle</key>
+	<string>statelessScopeRight</string>
+	<key>graphicParameterSpeed</key>
+	<string>hardRadiusVisible</string>
+	<key>interactorAdapterVisible</key>
+	<string>challengeByVar</string>
+	<key>modelFacadeLeft</key>
+	<string>mutableGateBehavior</string>
+	<key>relationalModulusShape</key>
+	<string>sequentialUsecaseBehavior</string>
+	<key>staticTextfieldSaturation</key>
+	<string>subsequentExceptionPosition</string>
+	<key>titleThroughBuffer</key>
+	<string>concurrentTabviewStyle</string>
+	<key>unsortedSceneSaturation</key>
+	<string>bufferForKind</string>
+</dict>
+</plist>

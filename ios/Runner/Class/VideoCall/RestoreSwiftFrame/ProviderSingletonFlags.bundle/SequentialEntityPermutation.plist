@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheSinceMediator</key>
+	<string>nextInteractorVisibility</string>
+	<key>errorAwayTask</key>
+	<string>layoutWithoutEnvironment</string>
+	<key>memberPhaseCenter</key>
+	<string>standaloneConstraintFeedback</string>
+	<key>newestTaskBorder</key>
+	<string>providerAgainstCycle</string>
+	<key>plateScopeForce</key>
+	<string>routeFromPhase</string>
+	<key>radiusVisitorCenter</key>
+	<string>presenterExceptCycle</string>
+	<key>screenFlyweightResponse</key>
+	<string>liteCubitOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedVariantRate</key>
+	<string>statefulDecorationVisibility</string>
+	<key>futureVersusActivity</key>
+	<string>spriteForShape</string>
+	<key>imageWithoutPattern</key>
+	<string>memberSingletonEdge</string>
+	<key>layoutWorkOrientation</key>
+	<string>semanticProjectionTop</string>
+	<key>liteErrorInteraction</key>
+	<string>statefulByComposite</string>
+	<key>sinkThroughShape</key>
+	<string>navigatorBeyondFacade</string>
+	<key>sustainableGridState</key>
+	<string>singletonActionSize</string>
+</dict>
+</plist>

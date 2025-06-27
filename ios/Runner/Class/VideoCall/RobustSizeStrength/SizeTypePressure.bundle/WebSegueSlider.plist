@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopContextContrast</key>
+	<string>errorOperationDistance</string>
+	<key>nativeSkinDelay</key>
+	<string>subtleResourceBrightness</string>
+	<key>popupMementoShape</key>
+	<string>notificationMethodRotation</string>
+	<key>previewCommandTag</key>
+	<string>cartesianStateDuration</string>
+	<key>resultWithoutNumber</key>
+	<string>histogramDespiteSingleton</string>
+	<key>standaloneConstraintName</key>
+	<string>finalBatchRate</string>
+	<key>stateDespiteKind</key>
+	<string>presenterJobColor</string>
+	<key>sustainableReferenceHue</key>
+	<string>errorStageStyle</string>
+	<key>tickerAboutState</key>
+	<string>rapidExponentTheme</string>
+</dict>
+</plist>

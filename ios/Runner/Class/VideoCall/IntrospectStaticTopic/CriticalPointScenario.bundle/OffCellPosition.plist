@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAndStage</key>
+	<string>standaloneSkinBrightness</string>
+	<key>batchVariableSpeed</key>
+	<string>blocBesideMemento</string>
+	<key>gridOrFlyweight</key>
+	<string>labelCommandLeft</string>
+	<key>materialSessionSaturation</key>
+	<string>buttonNearPattern</string>
+	<key>promiseVersusState</key>
+	<string>arithmeticWithValue</string>
+	<key>rowStrategyColor</key>
+	<string>taskBridgeInteraction</string>
+	<key>scaleContextTint</key>
+	<string>grainMementoRotation</string>
+	<key>sensorOutsideEnvironment</key>
+	<string>lostGroupOpacity</string>
+	<key>switchBesideObserver</key>
+	<string>richtextAtVar</string>
+	<key>unsortedCustompaintColor</key>
+	<string>statelessLoopTint</string>
+</dict>
+</plist>

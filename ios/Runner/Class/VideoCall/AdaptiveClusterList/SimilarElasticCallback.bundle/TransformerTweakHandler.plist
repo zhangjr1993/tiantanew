@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionOfComposite</key>
+	<string>tableFunctionTop</string>
+	<key>flexibleZoneDistance</key>
+	<string>originalOverlaySpeed</string>
+	<key>grayscaleAsStyle</key>
+	<string>delegateLayerFormat</string>
+	<key>interactorMementoAppearance</key>
+	<string>gramInPattern</string>
+	<key>optimizerStrategyScale</key>
+	<string>reactiveModalCoord</string>
+	<key>responseThanChain</key>
+	<string>handlerInterpreterState</string>
+	<key>sizeFromCommand</key>
+	<string>interactorValueKind</string>
+</dict>
+</plist>

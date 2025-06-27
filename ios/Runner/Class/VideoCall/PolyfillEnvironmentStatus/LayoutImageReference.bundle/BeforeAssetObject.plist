@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardOutsideAction</key>
+	<string>appbarOutsidePhase</string>
+	<key>dedicatedZoneSkewy</key>
+	<string>flexibleActionForce</string>
+	<key>eagerBrushDirection</key>
+	<string>progressbarThroughVisitor</string>
+	<key>nodeViaState</key>
+	<string>segueAlongChain</string>
+	<key>providerMethodOrientation</key>
+	<string>toolExceptTier</string>
+	<key>publicRemainderSize</key>
+	<string>scaleCycleDelay</string>
+	<key>sequentialRadiusBrightness</key>
+	<string>missionLevelFlags</string>
+	<key>sizeAroundValue</key>
+	<string>builderAdapterRate</string>
+	<key>unactivatedCellEdge</key>
+	<string>symbolBufferCount</string>
+</dict>
+</plist>

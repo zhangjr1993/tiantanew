@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAroundMethod</key>
+	<string>eventShapeBound</string>
+	<key>autoGroupLocation</key>
+	<string>anchorPlatformAppearance</string>
+	<key>binaryExceptWork</key>
+	<string>alignmentAtPattern</string>
+	<key>cubitOrParameter</key>
+	<string>newestCellColor</string>
+	<key>decorationMediatorState</key>
+	<string>delegateKindColor</string>
+	<key>particleIncludeStage</key>
+	<string>stateActivityIndex</string>
+	<key>requiredCallbackFormat</key>
+	<string>exponentLikeKind</string>
+</dict>
+</plist>

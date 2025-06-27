@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchDecoratorPressure</key>
+	<string>specifyChannelFeedback</string>
+	<key>bulletBufferPressure</key>
+	<string>tickerBridgeTransparency</string>
+	<key>fragmentVersusTask</key>
+	<string>signCycleVisibility</string>
+	<key>pageviewMementoValidation</key>
+	<string>significantCharacterSpeed</string>
+	<key>particleCommandFormat</key>
+	<string>ignoredTextPosition</string>
+	<key>smallPositionDelay</key>
+	<string>persistentTweenTint</string>
+	<key>staticTitleOrientation</key>
+	<string>sampleFacadeForce</string>
+	<key>widgetStyleMargin</key>
+	<string>techniqueParamContrast</string>
+</dict>
+</plist>

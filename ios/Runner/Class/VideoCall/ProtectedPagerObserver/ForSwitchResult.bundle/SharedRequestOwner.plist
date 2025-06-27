@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarIncludePhase</key>
+	<string>previewFormPressure</string>
+	<key>blocWorkRotation</key>
+	<string>mainMenuTail</string>
+	<key>euclideanPresenterShade</key>
+	<string>resizableGateRight</string>
+	<key>isolateThroughCycle</key>
+	<string>hyperbolicEventIndex</string>
+	<key>multiRowFlags</key>
+	<string>hashAroundObserver</string>
+	<key>nibPatternTint</key>
+	<string>resourceInsideContext</string>
+	<key>zoneStrategyBorder</key>
+	<string>movementThroughAdapter</string>
+</dict>
+</plist>

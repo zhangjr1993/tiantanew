@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitPatternTail</key>
+	<string>providerContextContrast</string>
+	<key>expandedCycleCoord</key>
+	<string>geometricSymbolScale</string>
+	<key>featureViaTask</key>
+	<string>disabledLabelBehavior</string>
+	<key>intuitiveTweenOpacity</key>
+	<string>layerActivityVelocity</string>
+	<key>scaffoldViaInterpreter</key>
+	<string>zoneAgainstDecorator</string>
+	<key>sensorVariableFrequency</key>
+	<string>sequentialTransitionVisibility</string>
+	<key>tappableSpriteBehavior</key>
+	<string>queryMementoTransparency</string>
+</dict>
+</plist>

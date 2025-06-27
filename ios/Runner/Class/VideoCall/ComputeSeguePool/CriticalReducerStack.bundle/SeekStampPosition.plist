@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAgainstStrategy</key>
+	<string>transformerContainScope</string>
+	<key>blocAdapterFrequency</key>
+	<string>reusableTransitionForce</string>
+	<key>skirtAgainstAdapter</key>
+	<string>curveChainBehavior</string>
+	<key>symbolUntilFlyweight</key>
+	<string>ignoredDependencyTop</string>
+	<key>visibleWidgetLocation</key>
+	<string>projectionLevelFeedback</string>
+</dict>
+</plist>

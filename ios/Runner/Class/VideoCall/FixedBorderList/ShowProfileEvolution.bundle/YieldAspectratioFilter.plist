@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAlongBridge</key>
+	<string>gridValuePressure</string>
+	<key>constBorderSpeed</key>
+	<string>standaloneSinkInset</string>
+	<key>dependencyStateSpacing</key>
+	<string>smallLoopResponse</string>
+	<key>ephemeralDecorationResponse</key>
+	<string>activityNearInterpreter</string>
+	<key>offsetForType</key>
+	<string>directBaseDirection</string>
+	<key>routeProcessIndex</key>
+	<string>radiusIncludeEnvironment</string>
+	<key>storyboardBesideStage</key>
+	<string>visibleIsolateTop</string>
+	<key>toolVarOpacity</key>
+	<string>precisionAwayAction</string>
+</dict>
+</plist>

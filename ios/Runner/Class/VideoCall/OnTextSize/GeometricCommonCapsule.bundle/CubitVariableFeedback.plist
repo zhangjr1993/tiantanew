@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowVersusTemple</key>
+	<string>cosineLevelBrightness</string>
+	<key>factoryAgainstEnvironment</key>
+	<string>dependencyAgainstChain</string>
+	<key>granularResolverStyle</key>
+	<string>otherDelegateStyle</string>
+	<key>iterativeRoutePadding</key>
+	<string>visibleSceneMargin</string>
+	<key>multiRichtextSize</key>
+	<string>discardedGesturedetectorBorder</string>
+	<key>mutableBufferValidation</key>
+	<string>sinkKindResponse</string>
+	<key>previewByFramework</key>
+	<string>cubeMethodBottom</string>
+	<key>streamSingletonSize</key>
+	<string>geometricRequestTop</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterNearActivity</key>
+	<string>offsetFrameworkTheme</string>
+	<key>imageIncludeScope</key>
+	<string>utilFrameworkScale</string>
+	<key>indicatorFromVariable</key>
+	<string>transitionCycleMode</string>
+	<key>lostOffsetResponse</key>
+	<string>protectedCoordinatorCoord</string>
+	<key>protocolLikeProcess</key>
+	<string>resolverContextLeft</string>
+	<key>scrollOrProcess</key>
+	<string>criticalRadioBound</string>
+	<key>sensorJobFrequency</key>
+	<string>constraintProcessShape</string>
+</dict>
+</plist>

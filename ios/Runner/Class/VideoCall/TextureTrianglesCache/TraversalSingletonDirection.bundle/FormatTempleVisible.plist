@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonObserverTag</key>
+	<string>channelViaObserver</string>
+	<key>coordinatorObserverInterval</key>
+	<string>cycleStateStatus</string>
+	<key>curveAlongWork</key>
+	<string>boxFlyweightDensity</string>
+	<key>frameVariableFlags</key>
+	<string>viewModeType</string>
+	<key>graphAwayMethod</key>
+	<string>sceneInProcess</string>
+	<key>rectVersusValue</key>
+	<string>diffableButtonStyle</string>
+	<key>taskAdapterValidation</key>
+	<string>customizedBoxRotation</string>
+</dict>
+</plist>

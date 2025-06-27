@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>scrollableDecorationBrightness</key>
+	<string>groupPerLevel</string>
+	<key>serviceCommandRate</key>
+	<string>interactiveGridAcceleration</string>
+	<key>serviceSinceParam</key>
+	<string>fixedRepositoryBehavior</string>
+	<key>synchronousSkinOffset</key>
+	<string>sessionAgainstShape</string>
+</dict>
+</plist>

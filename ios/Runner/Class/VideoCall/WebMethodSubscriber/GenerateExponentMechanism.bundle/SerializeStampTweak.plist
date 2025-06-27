@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryAtFramework</key>
+	<string>rapidErrorSpacing</string>
+	<key>deferredTableFormat</key>
+	<string>normalViewVisibility</string>
+	<key>riverpodCyclePosition</key>
+	<string>semanticsNumberContrast</string>
+	<key>sizeOfCommand</key>
+	<string>unactivatedStateMode</string>
+	<key>unsortedTickerValidation</key>
+	<string>euclideanSubscriptionTransparency</string>
+	<key>viewLevelVelocity</key>
+	<string>decorationOutsideAdapter</string>
+</dict>
+</plist>

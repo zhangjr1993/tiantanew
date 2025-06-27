@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directGroupEdge</key>
+	<string>decorationAdapterContrast</string>
+	<key>easyNavigatorCoord</key>
+	<string>inkwellExceptEnvironment</string>
+	<key>effectFacadeAppearance</key>
+	<string>associatedTextureMode</string>
+	<key>euclideanGraphShade</key>
+	<string>isolateInVisitor</string>
+	<key>futureSinceShape</key>
+	<string>displayableLoopStatus</string>
+	<key>futureWithMediator</key>
+	<string>heroEnvironmentShade</string>
+	<key>multiPromiseDistance</key>
+	<string>diffablePresenterTransparency</string>
+	<key>newestDelegateShape</key>
+	<string>decorationBridgeFormat</string>
+	<key>queryNumberPosition</key>
+	<string>primaryDrawerShade</string>
+	<key>statelessProcessSpeed</key>
+	<string>providerAroundPrototype</string>
+</dict>
+</plist>

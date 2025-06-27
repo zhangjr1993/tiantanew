@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAlertFormat</key>
+	<string>originalTextureVisible</string>
+	<key>handlerStyleLocation</key>
+	<string>transformerKindSkewy</string>
+	<key>independentAppbarShape</key>
+	<string>shaderActionName</string>
+	<key>navigatorActivityBorder</key>
+	<string>usecaseStrategyBound</string>
+	<key>previewVarSpeed</key>
+	<string>riverpodByStage</string>
+	<key>requiredWidgetBehavior</key>
+	<string>callbackCompositeColor</string>
+	<key>symbolTierVisibility</key>
+	<string>movementCompositeInset</string>
+</dict>
+</plist>

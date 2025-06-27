@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisParamSaturation</key>
+	<string>themeInPrototype</string>
+	<key>controllerVersusMediator</key>
+	<string>statefulInObserver</string>
+	<key>descriptorVersusNumber</key>
+	<string>fusedSpineRotation</string>
+	<key>diversifiedDialogsTop</key>
+	<string>hyperbolicCollectionForce</string>
+	<key>heapBeyondActivity</key>
+	<string>groupStructureColor</string>
+	<key>widgetOrMemento</key>
+	<string>builderLayerOpacity</string>
+</dict>
+</plist>

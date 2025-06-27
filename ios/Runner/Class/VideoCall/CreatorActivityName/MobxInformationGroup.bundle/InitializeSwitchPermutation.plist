@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPhaseFlags</key>
+	<string>channelCompositeAppearance</string>
+	<key>compositionWithoutType</key>
+	<string>controllerModeLocation</string>
+	<key>containerBridgeBehavior</key>
+	<string>tappableTabviewMode</string>
+	<key>effectFacadeBorder</key>
+	<string>invisibleGiftBorder</string>
+	<key>pinchableNibCount</key>
+	<string>vectorVisitorDelay</string>
+	<key>responseMediatorMargin</key>
+	<string>rapidThemeHead</string>
+	<key>singleReferenceVelocity</key>
+	<string>fusedBoxCount</string>
+</dict>
+</plist>

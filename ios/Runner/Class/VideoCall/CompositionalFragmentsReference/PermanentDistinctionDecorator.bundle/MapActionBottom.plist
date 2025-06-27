@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveTransitionRate</key>
+	<string>menuInStructure</string>
+	<key>missedIndicatorDirection</key>
+	<string>chartByPlatform</string>
+	<key>offsetProcessPressure</key>
+	<string>baseAtProxy</string>
+	<key>opaqueChecklistVisible</key>
+	<string>streamStateDistance</string>
+	<key>sliderTypeStyle</key>
+	<string>visibleChapterStatus</string>
+	<key>temporaryHandlerFeedback</key>
+	<string>greatDescriptorSize</string>
+	<key>textAboutMode</key>
+	<string>storageStateCount</string>
+	<key>topicAboutVisitor</key>
+	<string>flexChainTheme</string>
+</dict>
+</plist>

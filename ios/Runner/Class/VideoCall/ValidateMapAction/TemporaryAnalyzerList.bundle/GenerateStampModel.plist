@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRouterVisibility</key>
+	<string>reusableProviderShape</string>
+	<key>documentLayerBorder</key>
+	<string>viewOperationLeft</string>
+	<key>gestureAgainstObserver</key>
+	<string>priorityAndCommand</string>
+	<key>getxBeyondCycle</key>
+	<string>loopCompositeDepth</string>
+	<key>graphVarHead</key>
+	<string>cacheTypeTag</string>
+	<key>inkwellForOperation</key>
+	<string>delicateMethodDelay</string>
+	<key>notificationAsStyle</key>
+	<string>arithmeticProviderOffset</string>
+	<key>subscriptionAndOperation</key>
+	<string>elasticRouteCenter</string>
+</dict>
+</plist>

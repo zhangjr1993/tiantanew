@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCompositeShade</key>
+	<string>staticPositionSpacing</string>
+	<key>beginnerRowMode</key>
+	<string>checkboxCommandHead</string>
+	<key>buttonFormBehavior</key>
+	<string>basicBoxshadowInset</string>
+	<key>configurationContextFormat</key>
+	<string>dimensionAsActivity</string>
+	<key>factoryTempleOrigin</key>
+	<string>pageviewActionFrequency</string>
+	<key>semanticsInSingleton</key>
+	<string>sortedLabelOrientation</string>
+	<key>sortedCubitAlignment</key>
+	<string>cupertinoDuringPattern</string>
+	<key>viewAmongScope</key>
+	<string>iterativeActivityAcceleration</string>
+</dict>
+</plist>

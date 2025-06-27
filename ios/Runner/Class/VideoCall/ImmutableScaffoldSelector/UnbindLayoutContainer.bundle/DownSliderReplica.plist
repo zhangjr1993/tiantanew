@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionThroughTemple</key>
+	<string>seamlessScreenBrightness</string>
+	<key>blocNumberContrast</key>
+	<string>uniformColumnAppearance</string>
+	<key>controllerOperationBound</key>
+	<string>cupertinoParticleTag</string>
+	<key>singletonNearFramework</key>
+	<string>variantBridgeCount</string>
+	<key>sustainableDependencyFrequency</key>
+	<string>layerWorkScale</string>
+</dict>
+</plist>

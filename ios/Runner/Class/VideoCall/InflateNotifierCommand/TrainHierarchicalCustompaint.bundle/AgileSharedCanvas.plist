@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSemanticsStyle</key>
+	<string>directCollectionDensity</string>
+	<key>columnValueTheme</key>
+	<string>customAsyncMargin</string>
+	<key>lostDelegateInterval</key>
+	<string>retainedDescriptionOffset</string>
+	<key>scrollableEquipmentStyle</key>
+	<string>containerAgainstForm</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEquipmentFrequency</key>
+	<string>fixedTransitionTransparency</string>
+	<key>displayableSpineSkewy</key>
+	<string>rapidTitleResponse</string>
+	<key>largeTextureVisibility</key>
+	<string>asyncAsWork</string>
+	<key>musicAgainstObserver</key>
+	<string>resourceTypeDirection</string>
+	<key>nextConstraintDelay</key>
+	<string>curveValueForce</string>
+	<key>nibPrototypeRotation</key>
+	<string>widgetAmongPattern</string>
+	<key>priorityBufferColor</key>
+	<string>flexiblePositionDelay</string>
+	<key>webSpineSaturation</key>
+	<string>commonRepositoryInterval</string>
+</dict>
+</plist>

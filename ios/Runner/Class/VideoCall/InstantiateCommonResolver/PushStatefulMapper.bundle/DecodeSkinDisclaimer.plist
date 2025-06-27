@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCurveShade</key>
+	<string>projectionSystemInterval</string>
+	<key>boxshadowNearShape</key>
+	<string>accordionSingletonFeedback</string>
+	<key>cursorVersusMode</key>
+	<string>drawerActivityMargin</string>
+	<key>gridviewAmongPhase</key>
+	<string>sliderStrategyOpacity</string>
+	<key>mediumKernelHue</key>
+	<string>robustOverlayInset</string>
+	<key>mobxFunctionScale</key>
+	<string>progressbarIncludeType</string>
+	<key>notifierAsScope</key>
+	<string>petIncludeParam</string>
+	<key>sortedBulletResponse</key>
+	<string>observerExceptBridge</string>
+	<key>titleUntilMethod</key>
+	<string>gridviewLevelSkewx</string>
+	<key>toolAmongFunction</key>
+	<string>independentChannelsPosition</string>
+</dict>
+</plist>

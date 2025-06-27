@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationJobTint</key>
+	<string>opaqueSessionBorder</string>
+	<key>containerFrameworkVelocity</key>
+	<string>checkboxDuringProcess</string>
+	<key>flexMementoMode</key>
+	<string>nativeCanvasStatus</string>
+	<key>isolateObserverShade</key>
+	<string>sizeCompositeOrigin</string>
+	<key>musicStateInteraction</key>
+	<string>mutablePromiseFeedback</string>
+	<key>riverpodVarTheme</key>
+	<string>referenceProcessOpacity</string>
+	<key>semanticAssetPosition</key>
+	<string>symmetricRouteBehavior</string>
+	<key>tableCompositeVisibility</key>
+	<string>interactorUntilAdapter</string>
+</dict>
+</plist>

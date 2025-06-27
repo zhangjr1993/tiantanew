@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentByChain</key>
+	<string>lossStyleSpeed</string>
+	<key>animatedRectAppearance</key>
+	<string>petFromBuffer</string>
+	<key>borderDuringShape</key>
+	<string>rectActionBorder</string>
+	<key>certificateMediatorBound</key>
+	<string>iterativeSpriteContrast</string>
+	<key>drawerInParameter</key>
+	<string>equalizationVarPosition</string>
+	<key>hardStateDistance</key>
+	<string>sampleOfContext</string>
+	<key>intensityObserverContrast</key>
+	<string>symmetricTechniqueFormat</string>
+	<key>providerFrameworkForce</key>
+	<string>resourceNumberKind</string>
+	<key>segueScopePadding</key>
+	<string>inheritedProviderSpacing</string>
+</dict>
+</plist>

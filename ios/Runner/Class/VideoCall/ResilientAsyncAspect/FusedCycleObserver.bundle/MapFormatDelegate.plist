@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNearPlatform</key>
+	<string>priorWidgetType</string>
+	<key>basicUsecasePosition</key>
+	<string>eagerFragmentRight</string>
+	<key>deferredContainerScale</key>
+	<string>popupShapeCoord</string>
+	<key>functionalChecklistTint</key>
+	<string>gradientContextVisibility</string>
+	<key>graphFrameworkBehavior</key>
+	<string>fixedInstructionBottom</string>
+	<key>multiplicationAgainstPlatform</key>
+	<string>webGestureState</string>
+	<key>nibStyleDirection</key>
+	<string>flexibleLayerColor</string>
+	<key>petJobSaturation</key>
+	<string>storageAroundMediator</string>
+	<key>standaloneScaleVisibility</key>
+	<string>gridviewSinceAction</string>
+	<key>stateAboutWork</key>
+	<string>groupWithoutProxy</string>
+</dict>
+</plist>

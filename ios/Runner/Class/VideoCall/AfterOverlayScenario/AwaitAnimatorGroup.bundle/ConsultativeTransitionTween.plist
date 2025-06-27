@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackKindTail</key>
+	<string>requiredCupertinoValidation</string>
+	<key>coordinatorKindRotation</key>
+	<string>bulletUntilScope</string>
+	<key>easyPaddingContrast</key>
+	<string>interactiveSceneAppearance</string>
+	<key>firstMetadataKind</key>
+	<string>disabledStateBrightness</string>
+	<key>missionOfObserver</key>
+	<string>robustStatefulOpacity</string>
+	<key>sizeVariableLocation</key>
+	<string>buttonOutsideProxy</string>
+	<key>statelessMethodTheme</key>
+	<string>controllerActivityBorder</string>
+	<key>textureOperationContrast</key>
+	<string>checklistFlyweightDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderMethodTheme</key>
+	<string>callbackAndComposite</string>
+	<key>decorationObserverAlignment</key>
+	<string>liteCaptionAcceleration</string>
+	<key>directNodeRate</key>
+	<string>usedEntropyCenter</string>
+	<key>documentPerForm</key>
+	<string>uniqueRichtextBound</string>
+	<key>dropdownbuttonContainMode</key>
+	<string>compositionCycleFrequency</string>
+	<key>euclideanSizedboxInteraction</key>
+	<string>heapExceptProxy</string>
+	<key>oldTransitionStatus</key>
+	<string>materialCompositeInteraction</string>
+	<key>semanticCubeVisibility</key>
+	<string>decorationCompositeVisibility</string>
+	<key>significantChartDepth</key>
+	<string>asyncWorkBound</string>
+</dict>
+</plist>

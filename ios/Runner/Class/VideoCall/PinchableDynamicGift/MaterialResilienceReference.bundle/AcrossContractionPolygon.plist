@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCupertinoStyle</key>
+	<string>imageAdapterOrientation</string>
+	<key>blocOutsideStrategy</key>
+	<string>cubitCompositeSaturation</string>
+	<key>commonMetadataShade</key>
+	<string>behaviorFlyweightShape</string>
+	<key>directBorderTheme</key>
+	<string>streamAsMediator</string>
+	<key>euclideanTransitionFlags</key>
+	<string>notifierViaCommand</string>
+	<key>loopOutsideActivity</key>
+	<string>positionDuringChain</string>
+	<key>optimizerLayerBottom</key>
+	<string>asyncAndTier</string>
+	<key>sortedFragmentCoord</key>
+	<string>injectionChainStatus</string>
+	<key>subscriptionThanFramework</key>
+	<string>semanticIntensityOrientation</string>
+	<key>textVersusFramework</key>
+	<string>uniformAnimationResponse</string>
+</dict>
+</plist>

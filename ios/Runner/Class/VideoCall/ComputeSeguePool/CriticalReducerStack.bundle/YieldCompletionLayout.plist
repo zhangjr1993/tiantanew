@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStructureHead</key>
+	<string>effectStateFlags</string>
+	<key>boxshadowWithoutPhase</key>
+	<string>progressbarContainFacade</string>
+	<key>desktopMasterAppearance</key>
+	<string>gridForNumber</string>
+	<key>ignoredUtilDuration</key>
+	<string>requiredCheckboxDelay</string>
+	<key>projectionJobFrequency</key>
+	<string>widgetInContext</string>
+	<key>tabbarModeResponse</key>
+	<string>fixedDelegateBehavior</string>
+	<key>tabviewTempleTheme</key>
+	<string>getxContainStrategy</string>
+	<key>themeAlongFramework</key>
+	<string>prismaticStatelessOffset</string>
+</dict>
+</plist>

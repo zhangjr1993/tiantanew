@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisStrategyForce</key>
+	<string>dimensionMethodInterval</string>
+	<key>cacheFormInteraction</key>
+	<string>layoutInsideInterpreter</string>
+	<key>commandAwayPrototype</key>
+	<string>protectedHashVisible</string>
+	<key>elasticConvolutionVisibility</key>
+	<string>draggableChartSize</string>
+	<key>intermediateTabbarContrast</key>
+	<string>boxshadowCycleForce</string>
+	<key>mobxObserverValidation</key>
+	<string>exponentPerProcess</string>
+	<key>requestLikeStrategy</key>
+	<string>sequentialConfigurationStyle</string>
+	<key>statefulConfigurationResponse</key>
+	<string>usecaseModePadding</string>
+	<key>usedConvolutionRate</key>
+	<string>effectLayerTransparency</string>
+</dict>
+</plist>

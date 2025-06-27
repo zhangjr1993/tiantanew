@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStrategyFeedback</key>
+	<string>decorationThroughJob</string>
+	<key>asyncChainTop</key>
+	<string>localTopicCoord</string>
+	<key>eagerAspectBottom</key>
+	<string>constraintAsOperation</string>
+	<key>positionWorkSpeed</key>
+	<string>sessionAsFunction</string>
+	<key>previewCommandTint</key>
+	<string>routeOrJob</string>
+	<key>repositoryFunctionDistance</key>
+	<string>mutableAppbarState</string>
+	<key>responsePrototypeMomentum</key>
+	<string>numericalServiceMomentum</string>
+	<key>textureLikeFramework</key>
+	<string>catalystProxyOffset</string>
+	<key>touchAwayShape</key>
+	<string>crucialDurationOrigin</string>
+	<key>utilWithoutVar</key>
+	<string>sharedGesturedetectorCoord</string>
+</dict>
+</plist>

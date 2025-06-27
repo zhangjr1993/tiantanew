@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardResolverSaturation</key>
+	<string>eagerRouteInset</string>
+	<key>cellSinceLayer</key>
+	<string>requestPerAction</string>
+	<key>durationStyleHue</key>
+	<string>resourceAtPhase</string>
+	<key>hierarchicalUtilLeft</key>
+	<string>rowViaPattern</string>
+	<key>imperativeGraphColor</key>
+	<string>nibTypeBrightness</string>
+	<key>screenParamSaturation</key>
+	<string>builderDespiteInterpreter</string>
+	<key>titleBeyondParameter</key>
+	<string>viewAgainstMediator</string>
+</dict>
+</plist>

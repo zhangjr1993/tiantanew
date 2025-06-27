@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesFacadeValidation</key>
+	<string>originalLoopBottom</string>
+	<key>configurationShapeHue</key>
+	<string>singleBulletVelocity</string>
+	<key>overlayTierFrequency</key>
+	<string>curveInSingleton</string>
+	<key>presenterExceptLevel</key>
+	<string>sortedServiceBrightness</string>
+	<key>progressbarSinceStrategy</key>
+	<string>directActivitySpeed</string>
+	<key>radioLevelResponse</key>
+	<string>tabbarAwayScope</string>
+	<key>tableThanMethod</key>
+	<string>inheritedDependencyStatus</string>
+	<key>topicThanType</key>
+	<string>coordinatorActionShade</string>
+	<key>uniformTaskBound</key>
+	<string>boxshadowAwayOperation</string>
+</dict>
+</plist>

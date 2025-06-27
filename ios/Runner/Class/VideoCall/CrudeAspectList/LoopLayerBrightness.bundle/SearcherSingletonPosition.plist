@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationKindBottom</key>
+	<string>spotStageSkewx</string>
+	<key>inheritedAnchorKind</key>
+	<string>dedicatedExponentStyle</string>
+	<key>precisionStageTint</key>
+	<string>managerStateBrightness</string>
+	<key>requiredDecorationPressure</key>
+	<string>robustSpriteDirection</string>
+	<key>usecaseTaskOffset</key>
+	<string>usecaseForPlatform</string>
+	<key>viewEnvironmentInteraction</key>
+	<string>pinchableCurveTint</string>
+</dict>
+</plist>

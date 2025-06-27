@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionWithoutActivity</key>
+	<string>interactiveDialogsBehavior</string>
+	<key>cycleParameterVelocity</key>
+	<string>mediumStatefulSkewx</string>
+	<key>effectOrProcess</key>
+	<string>intensityNumberAlignment</string>
+	<key>layoutActivityCoord</key>
+	<string>gridNumberSkewy</string>
+	<key>observerStrategyFormat</key>
+	<string>hierarchicalEffectBound</string>
+	<key>projectionAroundBridge</key>
+	<string>normDecoratorTheme</string>
+	<key>timerFrameworkShade</key>
+	<string>viewFunctionRotation</string>
+</dict>
+</plist>

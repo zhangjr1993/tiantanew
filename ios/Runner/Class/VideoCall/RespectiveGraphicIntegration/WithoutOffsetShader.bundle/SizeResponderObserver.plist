@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertContextDensity</key>
+	<string>smallAnimationBound</string>
+	<key>allocatorDecoratorVisible</key>
+	<string>localizationCompositeShade</string>
+	<key>autoFutureMargin</key>
+	<string>customizedWidgetVisibility</string>
+	<key>commonPointDuration</key>
+	<string>transformerForTier</string>
+	<key>curveExceptParameter</key>
+	<string>finalSemanticsTag</string>
+	<key>imperativeStreamStyle</key>
+	<string>usecaseOutsideWork</string>
+	<key>localizationMementoFormat</key>
+	<string>routerVariableVisibility</string>
+	<key>scaleTempleVisible</key>
+	<string>mobxFunctionTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTransformerFrequency</key>
+	<string>tickerOrFunction</string>
+	<key>cursorByAdapter</key>
+	<string>tickerBufferDirection</string>
+	<key>dependencyAdapterResponse</key>
+	<string>specifyGraphicScale</string>
+	<key>exceptionLayerAppearance</key>
+	<string>oldPresenterOffset</string>
+	<key>menuKindBehavior</key>
+	<string>specifyRouterDelay</string>
+	<key>notifierCompositeDensity</key>
+	<string>normThroughVariable</string>
+	<key>progressbarTaskFlags</key>
+	<string>delegateUntilMode</string>
+</dict>
+</plist>

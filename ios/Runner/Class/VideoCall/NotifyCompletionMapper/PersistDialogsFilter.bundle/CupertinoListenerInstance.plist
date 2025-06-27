@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerNumberBorder</key>
+	<string>cursorFromType</string>
+	<key>frameAndPlatform</key>
+	<string>flexPlatformFrequency</string>
+	<key>priorChallengeOffset</key>
+	<string>observerShapeBound</string>
+	<key>roleActionLeft</key>
+	<string>compositionLevelIndex</string>
+	<key>sinkSingletonOpacity</key>
+	<string>menuInTask</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBeyondJob</key>
+	<string>arithmeticMethodFrequency</string>
+	<key>contractionExceptActivity</key>
+	<string>cardNearMethod</string>
+	<key>interactiveSymbolMode</key>
+	<string>cursorInsideScope</string>
+	<key>parallelIntensityInterval</key>
+	<string>finalAlignmentTail</string>
+	<key>subtleAlphaDelay</key>
+	<string>skirtAlongActivity</string>
+	<key>ternaryModeSaturation</key>
+	<string>nextZoneName</string>
+</dict>
+</plist>

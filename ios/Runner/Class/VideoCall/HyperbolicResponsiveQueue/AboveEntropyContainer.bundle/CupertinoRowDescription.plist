@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncExtensionStyle</key>
+	<string>smartCallbackTag</string>
+	<key>bufferBeyondInterpreter</key>
+	<string>localizationTaskMomentum</string>
+	<key>listviewBufferAppearance</key>
+	<string>usageAtActivity</string>
+	<key>mediocreAnimationSkewy</key>
+	<string>characterSinceChain</string>
+	<key>pinchablePriorityDirection</key>
+	<string>comprehensiveStateTint</string>
+	<key>singleResourceAlignment</key>
+	<string>uniqueThemeSize</string>
+	<key>stateOutsideContext</key>
+	<string>durationCompositeFormat</string>
+	<key>titleStageAppearance</key>
+	<string>animatedcontainerInsideVariable</string>
+</dict>
+</plist>

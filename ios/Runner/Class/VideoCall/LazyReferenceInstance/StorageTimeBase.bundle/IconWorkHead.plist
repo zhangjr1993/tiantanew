@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAwayCycle</key>
+	<string>cardBeyondCommand</string>
+	<key>nodeBridgeRight</key>
+	<string>arithmeticEffectFeedback</string>
+	<key>remainderAtScope</key>
+	<string>largeFeatureTop</string>
+	<key>slashTempleDuration</key>
+	<string>radiusFormCoord</string>
+	<key>staticTransitionPosition</key>
+	<string>assetNearScope</string>
+	<key>textfieldWithoutTier</key>
+	<string>usecaseSystemBrightness</string>
+	<key>timerWorkForce</key>
+	<string>interactiveStepTop</string>
+</dict>
+</plist>

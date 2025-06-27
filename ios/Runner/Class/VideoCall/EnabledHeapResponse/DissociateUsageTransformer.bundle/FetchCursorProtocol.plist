@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesInsideMediator</key>
+	<string>advancedModelMargin</string>
+	<key>dynamicOffsetIndex</key>
+	<string>callbackAtProxy</string>
+	<key>invisibleSingletonFormat</key>
+	<string>largeStreamOpacity</string>
+	<key>overlayAboutCommand</key>
+	<string>lazySkinRotation</string>
+	<key>respectiveRectPadding</key>
+	<string>reusableIsolateEdge</string>
+</dict>
+</plist>

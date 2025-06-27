@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitBesideScope</key>
+	<string>queuePrototypeName</string>
+	<key>decorationPrototypeInterval</key>
+	<string>intuitiveNodeOffset</string>
+	<key>heapFromTask</key>
+	<string>storyboardAdapterDelay</string>
+	<key>statelessFrameDistance</key>
+	<string>completerActivityBottom</string>
+	<key>threadWithoutVariable</key>
+	<string>usecaseForAction</string>
+</dict>
+</plist>

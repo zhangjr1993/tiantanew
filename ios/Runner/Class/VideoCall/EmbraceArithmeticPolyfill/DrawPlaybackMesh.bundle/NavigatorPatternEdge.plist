@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAdapterDistance</key>
+	<string>priorChapterHue</string>
+	<key>checkboxForValue</key>
+	<string>blocOrForm</string>
+	<key>frameForVariable</key>
+	<string>segmentLikeState</string>
+	<key>globalModelState</key>
+	<string>oldActionDelay</string>
+	<key>layerPatternFlags</key>
+	<string>crucialReductionFormat</string>
+	<key>painterParameterDistance</key>
+	<string>assetOperationEdge</string>
+	<key>particleNearBridge</key>
+	<string>managerAsAdapter</string>
+	<key>taskFrameworkFormat</key>
+	<string>declarativeZoneAppearance</string>
+	<key>utilAgainstLevel</key>
+	<string>errorCommandBorder</string>
+	<key>zonePhaseType</key>
+	<string>switchCycleDistance</string>
+</dict>
+</plist>

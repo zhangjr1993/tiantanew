@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBridgeBottom</key>
+	<string>missionBridgeResponse</string>
+	<key>composableManagerBrightness</key>
+	<string>modelLikeCycle</string>
+	<key>pivotalGestureFeedback</key>
+	<string>frameBeyondVariable</string>
+	<key>symmetricLocalizationRate</key>
+	<string>imperativeDurationSize</string>
+	<key>workflowDespiteTier</key>
+	<string>iconWorkVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChapterAcceleration</key>
+	<string>capsuleFormAcceleration</string>
+	<key>checkboxPatternDelay</key>
+	<string>streamVarTag</string>
+	<key>interactiveCubitInset</key>
+	<string>featureSingletonDistance</string>
+	<key>oldProviderBehavior</key>
+	<string>desktopCubitScale</string>
+	<key>presenterTaskDuration</key>
+	<string>dependencyStructureDensity</string>
+	<key>promiseContainPattern</key>
+	<string>roleWithActivity</string>
+	<key>resolverAlongOperation</key>
+	<string>spriteOperationResponse</string>
+	<key>spriteAlongPattern</key>
+	<string>assetSinceMediator</string>
+	<key>statelessUsecaseFeedback</key>
+	<string>stackFrameworkHead</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivePreviewValidation</key>
+	<string>rowPrototypeVisibility</string>
+	<key>ignoredConfigurationStatus</key>
+	<string>tweenDuringFlyweight</string>
+	<key>spineActivityCenter</key>
+	<string>tablePatternAcceleration</string>
+	<key>widgetFormTheme</key>
+	<string>segueContainMode</string>
+</dict>
+</plist>

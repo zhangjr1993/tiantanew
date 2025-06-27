@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTierRight</key>
+	<string>sustainableSwitchLocation</string>
+	<key>ignoredCubitOrigin</key>
+	<string>hardWidgetVisible</string>
+	<key>ignoredDecorationType</key>
+	<string>appbarOutsideMediator</string>
+	<key>independentPopupType</key>
+	<string>projectOrChain</string>
+	<key>modelChainResponse</key>
+	<string>subtleSizeLeft</string>
+	<key>parallelStorageForce</key>
+	<string>semanticCertificateBrightness</string>
+	<key>symmetricExceptionTheme</key>
+	<string>uniformAnimatedcontainerVisible</string>
+</dict>
+</plist>

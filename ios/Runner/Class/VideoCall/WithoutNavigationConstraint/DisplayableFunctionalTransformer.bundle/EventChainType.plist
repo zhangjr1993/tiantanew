@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorContainContext</key>
+	<string>instructionDespiteMediator</string>
+	<key>durationWithStrategy</key>
+	<string>controllerWithSystem</string>
+	<key>instructionViaActivity</key>
+	<string>configurationDespiteMediator</string>
+	<key>timerForActivity</key>
+	<string>secondAllocatorType</string>
+</dict>
+</plist>

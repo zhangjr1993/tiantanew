@@ -175,7 +175,7 @@ extension ProfileViewController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "MenuCell", for: indexPath) as! MenuTableViewCell
         let (title, _) = menuItems[indexPath.row]
-        cell.configure(title: title, isLast: indexPath.row == menuItems.count - 1)
+        cell.configure(title: title, isLast: indexPath.row == menuItems.count - 1, index: indexPath.item)
         return cell
     }
 }

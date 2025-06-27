@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialSampleFormat</key>
+	<string>constBufferInset</string>
+	<key>optimizerValueAppearance</key>
+	<string>subscriptionWithBridge</string>
+	<key>specifierWithoutParam</key>
+	<string>denseListviewShape</string>
+</dict>
+</plist>

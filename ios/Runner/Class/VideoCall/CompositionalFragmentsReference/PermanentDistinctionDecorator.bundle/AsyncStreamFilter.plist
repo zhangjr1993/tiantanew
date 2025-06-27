@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionShapeMode</key>
+	<string>uniformStampBound</string>
+	<key>challengeMediatorLeft</key>
+	<string>cupertinoPresenterMargin</string>
+	<key>cubitStrategySkewx</key>
+	<string>injectionBeyondFacade</string>
+	<key>imperativeChannelVelocity</key>
+	<string>indicatorFlyweightMargin</string>
+	<key>layerContainLayer</key>
+	<string>activatedGesturedetectorType</string>
+	<key>normalHistogramValidation</key>
+	<string>publicManagerTag</string>
+	<key>sharedQueryDepth</key>
+	<string>routeMethodKind</string>
+</dict>
+</plist>

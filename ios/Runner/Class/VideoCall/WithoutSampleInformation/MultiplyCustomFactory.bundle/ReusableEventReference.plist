@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRouterBrightness</key>
+	<string>custompaintAroundBridge</string>
+	<key>capsuleStrategyTheme</key>
+	<string>asynchronousCacheCenter</string>
+	<key>concurrentGroupOpacity</key>
+	<string>commonSliderDelay</string>
+	<key>controllerByFramework</key>
+	<string>dialogsFlyweightCount</string>
+	<key>integerBridgeIndex</key>
+	<string>gateEnvironmentMode</string>
+	<key>labelProxyBrightness</key>
+	<string>queryProcessSkewx</string>
+	<key>petSingletonTint</key>
+	<string>subscriptionCommandFrequency</string>
+	<key>reactiveErrorDuration</key>
+	<string>inactiveWidgetIndex</string>
+	<key>sustainableSinkInterval</key>
+	<string>containerLikeFramework</string>
+</dict>
+</plist>

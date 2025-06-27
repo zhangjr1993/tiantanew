@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPageviewPosition</key>
+	<string>displayableInterpolationCoord</string>
+	<key>bufferShapeTop</key>
+	<string>reductionBufferCenter</string>
+	<key>columnAroundSingleton</key>
+	<string>normalProviderBound</string>
+	<key>heapFlyweightStyle</key>
+	<string>mobileLevelAcceleration</string>
+	<key>metadataMediatorCoord</key>
+	<string>delegateExceptEnvironment</string>
+	<key>reactiveSkirtState</key>
+	<string>completerForVar</string>
+	<key>similarSpineSize</key>
+	<string>nextMediaqueryBehavior</string>
+	<key>vectorDuringTask</key>
+	<string>chapterIncludeInterpreter</string>
+</dict>
+</plist>

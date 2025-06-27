@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAboutBridge</key>
+	<string>axisLevelSpacing</string>
+	<key>assetExceptObserver</key>
+	<string>semanticContainerTop</string>
+	<key>beginnerCurveFormat</key>
+	<string>projectionWorkSpacing</string>
+	<key>chapterFlyweightInset</key>
+	<string>crucialDecorationTint</string>
+	<key>criticalGesturedetectorTheme</key>
+	<string>queueSystemBorder</string>
+	<key>firstCapsuleSkewy</key>
+	<string>singletonPhaseMode</string>
+	<key>lostNotifierMargin</key>
+	<string>notificationThroughAdapter</string>
+	<key>resourceVersusVar</key>
+	<string>isolateBufferShade</string>
+	<key>statelessExceptKind</key>
+	<string>flexContainVariable</string>
+</dict>
+</plist>

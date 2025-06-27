@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionChartFeedback</key>
+	<string>widgetPerAdapter</string>
+	<key>cacheVarHue</key>
+	<string>touchPerAdapter</string>
+	<key>cartesianLabelInterval</key>
+	<string>independentNibLeft</string>
+	<key>constraintStateDirection</key>
+	<string>functionalOptionBottom</string>
+	<key>consultativeSampleState</key>
+	<string>heapFrameworkDuration</string>
+	<key>masterThanValue</key>
+	<string>deferredLogDelay</string>
+	<key>routerActivityRate</key>
+	<string>subtleLoopInteraction</string>
+	<key>skinForProcess</key>
+	<string>timerJobMomentum</string>
+	<key>streamAlongBridge</key>
+	<string>diffableLayerPosition</string>
+</dict>
+</plist>

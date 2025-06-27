@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileResourceInset</key>
+	<string>mainFutureSaturation</string>
+	<key>decorationModePosition</key>
+	<string>screenFunctionOrigin</string>
+	<key>factoryInsideStrategy</key>
+	<string>interpolationPerFramework</string>
+	<key>symmetricExtensionKind</key>
+	<string>contractionForContext</string>
+</dict>
+</plist>

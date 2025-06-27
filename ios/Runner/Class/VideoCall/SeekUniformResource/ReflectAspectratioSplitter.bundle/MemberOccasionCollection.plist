@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectAroundSingleton</key>
+	<string>localSampleState</string>
+	<key>effectVersusMethod</key>
+	<string>bufferVariableHead</string>
+	<key>fusedLogBrightness</key>
+	<string>reusableGraphRotation</string>
+	<key>inkwellInAdapter</key>
+	<string>gesturedetectorTypeTension</string>
+	<key>richtextViaDecorator</key>
+	<string>memberInNumber</string>
+	<key>singleContainerCoord</key>
+	<string>dynamicCubitDepth</string>
+	<key>spineByForm</key>
+	<string>repositoryMementoDensity</string>
+	<key>touchAndEnvironment</key>
+	<string>dialogsWithoutShape</string>
+</dict>
+</plist>

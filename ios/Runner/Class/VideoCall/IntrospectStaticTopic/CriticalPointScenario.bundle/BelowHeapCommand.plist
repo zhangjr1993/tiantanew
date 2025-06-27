@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleDurationScale</key>
+	<string>hardTickerResponse</string>
+	<key>inkwellPerTier</key>
+	<string>reactiveSpriteDepth</string>
+	<key>offsetSingletonSkewx</key>
+	<string>clipperSingletonMargin</string>
+	<key>routerStageOffset</key>
+	<string>sortedScalePosition</string>
+</dict>
+</plist>

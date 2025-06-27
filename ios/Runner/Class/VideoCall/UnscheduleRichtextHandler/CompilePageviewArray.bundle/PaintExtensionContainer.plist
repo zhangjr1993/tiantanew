@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaBesideOperation</key>
+	<string>topicSingletonSpeed</string>
+	<key>immutableBatchOffset</key>
+	<string>masterViaComposite</string>
+	<key>offsetAwayStyle</key>
+	<string>iterativeAlphaBorder</string>
+	<key>respectiveWidgetVisibility</key>
+	<string>autoActionSpeed</string>
+	<key>vectorCycleAlignment</key>
+	<string>lossStageHue</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackInSystem</key>
+	<string>slashSingletonDensity</string>
+	<key>capsuleStageBehavior</key>
+	<string>graphAtStage</string>
+	<key>cubitLayerTop</key>
+	<string>methodStyleResponse</string>
+	<key>repositoryFrameworkRotation</key>
+	<string>temporaryVariantDepth</string>
+	<key>sliderWithPattern</key>
+	<string>explicitTextureDepth</string>
+</dict>
+</plist>

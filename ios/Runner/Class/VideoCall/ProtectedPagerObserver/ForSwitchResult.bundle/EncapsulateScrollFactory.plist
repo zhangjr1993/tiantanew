@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultTechniqueFeedback</key>
+	<string>previewParameterTop</string>
+	<key>ephemeralRouteOpacity</key>
+	<string>appbarParamOpacity</string>
+	<key>granularMemberContrast</key>
+	<string>textureVarAppearance</string>
+	<key>singleSpriteSaturation</key>
+	<string>integerStructureResponse</string>
+	<key>stackKindVelocity</key>
+	<string>primaryAwaitCount</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionPatternTransparency</key>
+	<string>pageviewEnvironmentRotation</string>
+	<key>featureNumberTint</key>
+	<string>responsiveProfileOpacity</string>
+	<key>similarStorageInterval</key>
+	<string>borderOrBridge</string>
+	<key>skinContextRate</key>
+	<string>streamMediatorCoord</string>
+	<key>timerStrategyInterval</key>
+	<string>channelPlatformIndex</string>
+</dict>
+</plist>

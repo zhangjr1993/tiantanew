@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedEventTransparency</key>
+	<string>optimizerNearType</string>
+	<key>draggableCoordinatorBrightness</key>
+	<string>liteStatelessForce</string>
+	<key>primaryStateCoord</key>
+	<string>cubitVersusPrototype</string>
+	<key>relationalNavigatorLocation</key>
+	<string>listviewAwayTask</string>
+	<key>routeAmongVariable</key>
+	<string>flexAlongObserver</string>
+	<key>webRowSkewy</key>
+	<string>compositionAlongProxy</string>
+</dict>
+</plist>

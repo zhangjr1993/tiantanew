@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSensorInteraction</key>
+	<string>robustCaptionBottom</string>
+	<key>aspectFormFlags</key>
+	<string>functionalEffectTint</string>
+	<key>backwardSegmentEdge</key>
+	<string>invisibleSpineShade</string>
+	<key>draggableDocumentTransparency</key>
+	<string>prevAllocatorShade</string>
+	<key>intuitiveHashAlignment</key>
+	<string>interactorPhaseBound</string>
+	<key>logarithmLikeTemple</key>
+	<string>transitionJobCenter</string>
+	<key>masterModeShape</key>
+	<string>protectedChapterTransparency</string>
+	<key>resourceCycleVisible</key>
+	<string>queryProcessRotation</string>
+	<key>serviceStructureDirection</key>
+	<string>constraintAtBridge</string>
+	<key>typicalCurveType</key>
+	<string>delegateTierAcceleration</string>
+</dict>
+</plist>

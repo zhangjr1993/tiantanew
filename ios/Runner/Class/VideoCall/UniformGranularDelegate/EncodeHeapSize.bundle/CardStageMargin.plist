@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateByLevel</key>
+	<string>containerTierDensity</string>
+	<key>constraintActivityTransparency</key>
+	<string>textfieldWithoutFacade</string>
+	<key>grainKindBottom</key>
+	<string>multiCatalystHue</string>
+	<key>intensityAgainstEnvironment</key>
+	<string>equipmentProxyTint</string>
+	<key>timerFunctionTint</key>
+	<string>graphicFacadeState</string>
+</dict>
+</plist>

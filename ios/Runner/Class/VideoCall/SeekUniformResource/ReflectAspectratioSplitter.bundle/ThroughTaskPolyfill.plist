@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCommandShade</key>
+	<string>textureWithContext</string>
+	<key>managerActionTint</key>
+	<string>beginnerBaseAppearance</string>
+	<key>observerLayerCenter</key>
+	<string>normalKernelShade</string>
+</dict>
+</plist>

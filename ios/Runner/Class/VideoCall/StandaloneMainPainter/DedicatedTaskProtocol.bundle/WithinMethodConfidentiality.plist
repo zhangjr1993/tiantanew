@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteChannelFeedback</key>
+	<string>widgetVariableContrast</string>
+	<key>concurrentBrushRight</key>
+	<string>dedicatedBoxShade</string>
+	<key>criticalSinkInteraction</key>
+	<string>resourceCyclePressure</string>
+	<key>dependencyInsideStructure</key>
+	<string>entityAndMemento</string>
+	<key>diffableGridOrigin</key>
+	<string>lostInstructionRotation</string>
+	<key>iterativeResolverOrigin</key>
+	<string>hashSinceMethod</string>
+	<key>normCompositeTension</key>
+	<string>exceptionFrameworkDistance</string>
+	<key>protocolFlyweightInterval</key>
+	<string>certificateAmongParameter</string>
+	<key>streamVariableDelay</key>
+	<string>textDuringTier</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationForForm</key>
+	<string>interactorPhaseDensity</string>
+	<key>challengePatternType</key>
+	<string>spriteAmongFlyweight</string>
+	<key>positionScopeSkewx</key>
+	<string>zoneSincePrototype</string>
+	<key>spineAlongForm</key>
+	<string>associatedMissionShade</string>
+</dict>
+</plist>

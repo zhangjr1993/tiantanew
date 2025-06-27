@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationParameterInset</key>
+	<string>hardRoleRate</string>
+	<key>eventSystemOpacity</key>
+	<string>baseByPhase</string>
+	<key>frameVariableTransparency</key>
+	<string>clipperAboutParameter</string>
+	<key>materialCupertinoTransparency</key>
+	<string>hashKindMode</string>
+	<key>segueVarBound</key>
+	<string>cellAgainstDecorator</string>
+	<key>serviceModeVisibility</key>
+	<string>dynamicPreviewDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxParamInset</key>
+	<string>tabviewDecoratorTheme</string>
+	<key>constraintMediatorTag</key>
+	<string>movementIncludeSystem</string>
+	<key>effectAmongSingleton</key>
+	<string>difficultCommandDirection</string>
+	<key>enabledPreviewInset</key>
+	<string>interactorStateBound</string>
+	<key>listenerBridgeStatus</key>
+	<string>decorationTempleTail</string>
+	<key>mutableParticleOpacity</key>
+	<string>convolutionAgainstLayer</string>
+	<key>parallelAnchorRotation</key>
+	<string>gateOutsideStage</string>
+	<key>radioValueFeedback</key>
+	<string>modalVarDirection</string>
+	<key>spotAroundAction</key>
+	<string>rowBufferRotation</string>
+</dict>
+</plist>

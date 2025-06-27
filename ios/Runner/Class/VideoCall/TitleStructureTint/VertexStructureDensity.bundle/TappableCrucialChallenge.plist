@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphAtFramework</key>
+	<string>bufferVarInteraction</string>
+	<key>lastViewBehavior</key>
+	<string>mediumTopicRight</string>
+	<key>listenerVisitorOrientation</key>
+	<string>backwardViewColor</string>
+</dict>
+</plist>

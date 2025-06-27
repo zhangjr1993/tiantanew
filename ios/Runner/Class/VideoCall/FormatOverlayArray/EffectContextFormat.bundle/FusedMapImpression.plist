@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstCycleCount</key>
+	<string>unsortedInterfaceSpeed</string>
+	<key>mobileObserverFeedback</key>
+	<string>inactiveGestureDuration</string>
+	<key>secondBaselineVelocity</key>
+	<string>graphTempleIndex</string>
+	<key>secondPreviewSaturation</key>
+	<string>logarithmMediatorBottom</string>
+</dict>
+</plist>

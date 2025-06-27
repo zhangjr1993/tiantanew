@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAgainstType</key>
+	<string>injectionWithoutCommand</string>
+	<key>convolutionLikeMethod</key>
+	<string>containerInVariable</string>
+	<key>hardMenuFeedback</key>
+	<string>awaitIncludeStructure</string>
+	<key>mapByPlatform</key>
+	<string>sizeFromParameter</string>
+	<key>pivotalSingletonRate</key>
+	<string>modalMediatorFormat</string>
+</dict>
+</plist>

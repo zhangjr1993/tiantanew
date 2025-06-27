@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUtilEdge</key>
+	<string>blocWithoutType</string>
+	<key>firstConsumerFeedback</key>
+	<string>transitionTypeInset</string>
+	<key>graphBufferTheme</key>
+	<string>desktopSizedboxMomentum</string>
+	<key>groupChainStatus</key>
+	<string>invisibleNotificationMargin</string>
+	<key>interactorInVisitor</key>
+	<string>substantialAwaitCoord</string>
+	<key>labelPlatformDensity</key>
+	<string>timerThroughOperation</string>
+	<key>responseAboutJob</key>
+	<string>operationThroughVariable</string>
+	<key>storageOrTier</key>
+	<string>textAgainstState</string>
+</dict>
+</plist>

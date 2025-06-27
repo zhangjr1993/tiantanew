@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushThroughFlyweight</key>
+	<string>completerTempleName</string>
+	<key>customModelDuration</key>
+	<string>easyAlphaOrientation</string>
+	<key>permanentPointDensity</key>
+	<string>lossActivityMargin</string>
+	<key>queryPatternMargin</key>
+	<string>concurrentSpineAppearance</string>
+	<key>seamlessFrameSpeed</key>
+	<string>mediocreObserverScale</string>
+	<key>streamModeOffset</key>
+	<string>transitionSystemStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxLikeType</key>
+	<string>callbackChainVisible</string>
+	<key>declarativeEffectFeedback</key>
+	<string>scaffoldForAction</string>
+	<key>dialogsAlongForm</key>
+	<string>finalMenuOpacity</string>
+	<key>newestTimerAlignment</key>
+	<string>gridviewDespiteParam</string>
+	<key>oldLossBottom</key>
+	<string>mobileButtonAcceleration</string>
+	<key>providerExceptActivity</key>
+	<string>euclideanFactoryTransparency</string>
+	<key>routeNumberMomentum</key>
+	<string>resourceNearShape</string>
+</dict>
+</plist>

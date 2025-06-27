@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandTierState</key>
+	<string>backwardStreamAppearance</string>
+	<key>difficultNavigatorShape</key>
+	<string>robustAnimationLeft</string>
+	<key>functionalSceneOrientation</key>
+	<string>controllerProxyMargin</string>
+	<key>indicatorJobContrast</key>
+	<string>durationStagePressure</string>
+	<key>overlayForStrategy</key>
+	<string>denseButtonRight</string>
+	<key>switchByObserver</key>
+	<string>resilientActionPadding</string>
+	<key>taskAndMode</key>
+	<string>segmentPerCycle</string>
+</dict>
+</plist>

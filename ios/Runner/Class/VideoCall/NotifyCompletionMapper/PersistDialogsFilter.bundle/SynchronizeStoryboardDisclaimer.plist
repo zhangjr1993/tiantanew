@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedErrorTint</key>
+	<string>gridContextBrightness</string>
+	<key>callbackUntilContext</key>
+	<string>histogramAsBuffer</string>
+	<key>completerFunctionFeedback</key>
+	<string>storageViaFunction</string>
+	<key>constraintNearProcess</key>
+	<string>resultAtPrototype</string>
+	<key>plateWithoutScope</key>
+	<string>sliderViaForm</string>
+	<key>responseWithAdapter</key>
+	<string>relationalGrainScale</string>
+	<key>textureNumberForce</key>
+	<string>capacitiesOrOperation</string>
+	<key>tickerDespiteVisitor</key>
+	<string>mainFeatureKind</string>
+	<key>vectorLikeFlyweight</key>
+	<string>concurrentTransitionTransparency</string>
+</dict>
+</plist>

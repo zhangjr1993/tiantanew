@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAsFlyweight</key>
+	<string>interactorFlyweightCount</string>
+	<key>constraintDespiteAction</key>
+	<string>singletonVariableScale</string>
+	<key>symbolPrototypeTag</key>
+	<string>equipmentScopeShape</string>
+	<key>touchPerValue</key>
+	<string>buttonWithVariable</string>
+	<key>transitionModeCoord</key>
+	<string>publicSinkCenter</string>
+</dict>
+</plist>

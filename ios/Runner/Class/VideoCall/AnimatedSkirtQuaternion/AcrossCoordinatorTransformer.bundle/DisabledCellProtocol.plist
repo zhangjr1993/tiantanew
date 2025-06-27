@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedNotificationRotation</key>
+	<string>resizableInterfaceCenter</string>
+	<key>curveWithProxy</key>
+	<string>autoButtonBottom</string>
+	<key>hashMethodMode</key>
+	<string>materialCommandBound</string>
+	<key>lossAdapterDepth</key>
+	<string>marginAgainstShape</string>
+	<key>navigatorAlongProxy</key>
+	<string>tickerSystemIndex</string>
+	<key>queryWorkAcceleration</key>
+	<string>listenerStyleSpacing</string>
+</dict>
+</plist>

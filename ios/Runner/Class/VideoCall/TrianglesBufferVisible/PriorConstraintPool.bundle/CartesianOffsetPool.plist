@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileShaderVisible</key>
+	<string>themeModeTransparency</string>
+	<key>alphaFormKind</key>
+	<string>requestStateColor</string>
+	<key>constraintCycleBottom</key>
+	<string>constraintProxyBound</string>
+	<key>currentRoleTension</key>
+	<string>temporaryViewOffset</string>
+	<key>directlyCoordinatorLocation</key>
+	<string>cubitLevelDirection</string>
+	<key>listenerOutsideSingleton</key>
+	<string>zoneDespiteStrategy</string>
+	<key>musicAmongVisitor</key>
+	<string>streamAdapterRight</string>
+	<key>plateBeyondCycle</key>
+	<string>titleCompositeTransparency</string>
+	<key>resizableObserverTransparency</key>
+	<string>customizedOverlayEdge</string>
+	<key>titleKindTransparency</key>
+	<string>usecaseChainPadding</string>
+</dict>
+</plist>

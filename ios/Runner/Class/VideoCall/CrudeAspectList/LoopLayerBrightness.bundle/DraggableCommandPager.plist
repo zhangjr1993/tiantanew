@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAlongSingleton</key>
+	<string>metadataPatternAppearance</string>
+	<key>controllerMethodDepth</key>
+	<string>adaptiveBuilderMargin</string>
+	<key>largeLogLocation</key>
+	<string>cubeAgainstFlyweight</string>
+	<key>protectedImageStyle</key>
+	<string>asyncSineStyle</string>
+	<key>queueContextSize</key>
+	<string>protocolOutsideFramework</string>
+</dict>
+</plist>

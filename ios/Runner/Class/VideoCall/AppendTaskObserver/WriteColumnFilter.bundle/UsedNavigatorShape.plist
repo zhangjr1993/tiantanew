@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBufferTheme</key>
+	<string>radiusOfBuffer</string>
+	<key>chartIncludeShape</key>
+	<string>presenterNearVar</string>
+	<key>checkboxInFunction</key>
+	<string>custompaintActivitySpeed</string>
+	<key>containerAboutKind</key>
+	<string>viewBridgeName</string>
+	<key>curveViaPrototype</key>
+	<string>grayscaleChainKind</string>
+	<key>mobileSkinBehavior</key>
+	<string>elasticRichtextLeft</string>
+	<key>oldMemberDelay</key>
+	<string>stackTypeTheme</string>
+	<key>positionedJobScale</key>
+	<string>layerJobLocation</string>
+	<key>skirtAgainstPrototype</key>
+	<string>curveFormInset</string>
+</dict>
+</plist>

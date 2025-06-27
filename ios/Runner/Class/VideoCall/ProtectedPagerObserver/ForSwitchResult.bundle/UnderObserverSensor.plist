@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialContainerTransparency</key>
+	<string>entityNearParam</string>
+	<key>heapAndOperation</key>
+	<string>discardedProfileLocation</string>
+	<key>oldEventStyle</key>
+	<string>plateVersusFramework</string>
+	<key>queueFromJob</key>
+	<string>metadataForType</string>
+	<key>statefulThanFlyweight</key>
+	<string>statefulProviderPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectOfFramework</key>
+	<string>spriteAroundSingleton</string>
+	<key>intuitiveViewSpacing</key>
+	<string>queryAdapterEdge</string>
+	<key>multiDelegateInset</key>
+	<string>giftStructureInset</string>
+	<key>permissiveNormVisible</key>
+	<string>lazyCompleterPadding</string>
+	<key>responseFlyweightDistance</key>
+	<string>semanticCycleDistance</string>
+	<key>semanticHeroStyle</key>
+	<string>constraintThroughObserver</string>
+</dict>
+</plist>

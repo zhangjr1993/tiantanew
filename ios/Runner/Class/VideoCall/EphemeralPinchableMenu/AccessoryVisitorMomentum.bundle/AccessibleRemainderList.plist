@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentCommandTag</key>
+	<string>curveAtFlyweight</string>
+	<key>coordinatorPrototypeDirection</key>
+	<string>iterativeErrorFeedback</string>
+	<key>primaryCoordinatorEdge</key>
+	<string>backwardRectCoord</string>
+	<key>sliderDespiteLevel</key>
+	<string>navigationAlongCycle</string>
+	<key>sophisticatedExceptionTheme</key>
+	<string>scaleMethodTag</string>
+	<key>statefulActionHead</key>
+	<string>optimizerLikeChain</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customMenuMode</key>
+	<string>concretePlateBehavior</string>
+	<key>diffableWidgetBorder</key>
+	<string>sequentialMediaqueryBound</string>
+	<key>methodFrameworkTop</key>
+	<string>cosineMementoOrientation</string>
+	<key>nativeQueryBrightness</key>
+	<string>appbarShapeDistance</string>
+	<key>resizableFrameCount</key>
+	<string>usecaseDespiteEnvironment</string>
+	<key>sinkBufferOffset</key>
+	<string>storageSingletonOrientation</string>
+	<key>specifyCharacterStyle</key>
+	<string>sharedToolMode</string>
+</dict>
+</plist>

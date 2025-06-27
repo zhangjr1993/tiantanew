@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitWidgetAppearance</key>
+	<string>smallCallbackStyle</string>
+	<key>geometricModelSkewx</key>
+	<string>nibCompositeFeedback</string>
+	<key>inheritedEquipmentSaturation</key>
+	<string>roleBeyondParameter</string>
+	<key>layoutModeOrigin</key>
+	<string>criticalHistogramFeedback</string>
+	<key>lostRadioSpacing</key>
+	<string>protectedProgressbarState</string>
+	<key>navigatorOfMemento</key>
+	<string>sinkExceptStage</string>
+</dict>
+</plist>

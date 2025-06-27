@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAsForm</key>
+	<string>stackAndBridge</string>
+	<key>capacitiesByProxy</key>
+	<string>declarativeManagerBehavior</string>
+	<key>concurrentIsolateVisible</key>
+	<string>cycleAgainstFunction</string>
+	<key>diffableFactoryFlags</key>
+	<string>diversifiedRadioInset</string>
+	<key>graphicWithMemento</key>
+	<string>spriteAboutAdapter</string>
+	<key>layoutAwayStrategy</key>
+	<string>parallelViewInteraction</string>
+	<key>routeJobDelay</key>
+	<string>inactiveConfigurationFrequency</string>
+	<key>spotChainPressure</key>
+	<string>subsequentChecklistSpacing</string>
+	<key>swiftSinceVisitor</key>
+	<string>grainFacadeTail</string>
+</dict>
+</plist>

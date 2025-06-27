@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonIncludeVisitor</key>
+	<string>heapBesideTemple</string>
+	<key>chapterFacadeOpacity</key>
+	<string>capacitiesProcessShade</string>
+	<key>handlerOrVar</key>
+	<string>standaloneErrorKind</string>
+	<key>inkwellTypeOpacity</key>
+	<string>animationTypeAlignment</string>
+	<key>topicOutsideVisitor</key>
+	<string>contractionBufferRate</string>
+</dict>
+</plist>

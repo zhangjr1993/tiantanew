@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryCompositeDistance</key>
+	<string>queryThanState</string>
+	<key>cupertinoApertureSkewx</key>
+	<string>tweenAndMediator</string>
+	<key>drawerStyleName</key>
+	<string>inactivePageviewSkewx</string>
+	<key>fixedVariantValidation</key>
+	<string>allocatorAgainstInterpreter</string>
+	<key>gateCycleBorder</key>
+	<string>singletonIncludePlatform</string>
+	<key>hashCycleDuration</key>
+	<string>layerVersusObserver</string>
+</dict>
+</plist>

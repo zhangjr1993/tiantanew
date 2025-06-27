@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorVersusBridge</key>
+	<string>delegateUntilState</string>
+	<key>operationStateFeedback</key>
+	<string>routerWorkTail</string>
+	<key>originalIndicatorPressure</key>
+	<string>arithmeticActionVisible</string>
+	<key>permanentButtonName</key>
+	<string>storyboardInterpreterTag</string>
+	<key>retainedChartAcceleration</key>
+	<string>ephemeralActivityAcceleration</string>
+	<key>shaderSingletonOrientation</key>
+	<string>fixedSpriteMode</string>
+	<key>variantFrameworkCount</key>
+	<string>columnTypeValidation</string>
+</dict>
+</plist>

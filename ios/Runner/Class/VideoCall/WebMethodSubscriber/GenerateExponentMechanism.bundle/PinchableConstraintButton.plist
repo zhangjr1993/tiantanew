@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInkwellFormat</key>
+	<string>spineStageSkewy</string>
+	<key>blocBeyondCycle</key>
+	<string>themeAsInterpreter</string>
+	<key>channelCycleMode</key>
+	<string>delegateCompositeInterval</string>
+	<key>chapterInterpreterHead</key>
+	<string>associatedAspectBehavior</string>
+	<key>denseSinkSkewy</key>
+	<string>sliderPlatformColor</string>
+	<key>gestureDespiteStage</key>
+	<string>tappableDependencySpeed</string>
+	<key>persistentFragmentShade</key>
+	<string>sharedMatrixMode</string>
+	<key>respectiveStorageBottom</key>
+	<string>synchronousConstraintInteraction</string>
+	<key>transitionNumberTag</key>
+	<string>agileConstraintScale</string>
+</dict>
+</plist>

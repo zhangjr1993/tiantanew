@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerActionFeedback</key>
+	<string>timerAwayCommand</string>
+	<key>criticalAspectMode</key>
+	<string>pivotalLayoutCount</string>
+	<key>customMissionPadding</key>
+	<string>singletonAtFramework</string>
+	<key>effectUntilFunction</key>
+	<string>touchMediatorInteraction</string>
+	<key>imperativeScaffoldSpacing</key>
+	<string>semanticObserverDirection</string>
+	<key>loopByLayer</key>
+	<string>finalHandlerName</string>
+	<key>singletonInterpreterSkewx</key>
+	<string>sceneInsideComposite</string>
+	<key>techniqueVarInteraction</key>
+	<string>brushAsJob</string>
+	<key>uniqueWidgetTension</key>
+	<string>animationNearComposite</string>
+	<key>utilMethodFormat</key>
+	<string>exceptionParamAlignment</string>
+</dict>
+</plist>

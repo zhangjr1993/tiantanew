@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources.sh
+${PODS_ROOT}/GT3Captcha-iOS/SDK/GT3Captcha.bundle
+${PODS_ROOT}/../LocalPods/LooseCore/Resources/LooseCore.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/LooseCore/LooseCore.bundle

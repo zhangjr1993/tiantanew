@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPerComposite</key>
+	<string>animationExceptLevel</string>
+	<key>aspectMediatorVelocity</key>
+	<string>dropdownbuttonOutsideNumber</string>
+	<key>checklistAlongTask</key>
+	<string>gridByMediator</string>
+	<key>durationParamSpeed</key>
+	<string>symmetricSwiftTint</string>
+	<key>featureFlyweightAcceleration</key>
+	<string>observerStyleStatus</string>
+	<key>layerAtProxy</key>
+	<string>movementBridgeInterval</string>
+	<key>monsterBesideChain</key>
+	<string>smallRequestPosition</string>
+	<key>multiplicationMediatorMode</key>
+	<string>coordinatorAroundMemento</string>
+	<key>projectionCompositeBrightness</key>
+	<string>crucialDelegateRight</string>
+	<key>riverpodTaskColor</key>
+	<string>normSinceVar</string>
+</dict>
+</plist>

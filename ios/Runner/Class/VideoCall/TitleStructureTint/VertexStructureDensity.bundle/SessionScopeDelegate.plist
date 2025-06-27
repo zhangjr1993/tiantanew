@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionObserverType</key>
+	<string>hierarchicalGridPosition</string>
+	<key>controllerContainValue</key>
+	<string>tabbarContainType</string>
+	<key>documentObserverTint</key>
+	<string>resultTierPadding</string>
+	<key>documentViaProcess</key>
+	<string>accessoryVisitorState</string>
+	<key>errorAroundBridge</key>
+	<string>checkboxExceptScope</string>
+	<key>histogramVersusCycle</key>
+	<string>methodOutsideVisitor</string>
+	<key>imperativeRadioColor</key>
+	<string>specifierAlongPhase</string>
+	<key>pageviewOfPattern</key>
+	<string>positionedSystemInset</string>
+	<key>queryAtEnvironment</key>
+	<string>presenterVersusForm</string>
+	<key>rectTaskTag</key>
+	<string>interactorPerFacade</string>
+</dict>
+</plist>

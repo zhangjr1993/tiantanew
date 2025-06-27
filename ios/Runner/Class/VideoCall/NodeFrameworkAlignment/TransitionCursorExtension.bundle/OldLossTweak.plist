@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBuilderMode</key>
+	<string>permanentCertificateTag</string>
+	<key>concurrentEffectRotation</key>
+	<string>taskBesideForm</string>
+	<key>logInInterpreter</key>
+	<string>providerSingletonTail</string>
+	<key>scaleEnvironmentVisibility</key>
+	<string>navigatorStructurePadding</string>
+	<key>scrollStrategyTint</key>
+	<string>tabbarViaAdapter</string>
+	<key>textfieldOutsideState</key>
+	<string>declarativeCommandOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoObserverInterval</key>
+	<string>loopCycleDistance</string>
+	<key>disabledControllerFeedback</key>
+	<string>transitionDuringDecorator</string>
+	<key>durationNumberLeft</key>
+	<string>gesturedetectorFrameworkTag</string>
+	<key>painterBeyondDecorator</key>
+	<string>singletonAroundMode</string>
+	<key>pivotalMatrixFlags</key>
+	<string>popupAmongMethod</string>
+	<key>relationalEventInteraction</key>
+	<string>mobileTickerSpacing</string>
+	<key>tabviewTaskTransparency</key>
+	<string>easyFeatureDelay</string>
+</dict>
+</plist>

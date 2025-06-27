@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSubpixelKind</key>
+	<string>activatedSampleAlignment</string>
+	<key>controllerOutsideJob</key>
+	<string>interactorSystemBound</string>
+	<key>customizedWidgetAcceleration</key>
+	<string>segmentExceptCommand</string>
+	<key>playbackStructureShape</key>
+	<string>protectedEffectVisible</string>
+	<key>promiseWithCycle</key>
+	<string>labelAdapterAppearance</string>
+	<key>resourceDuringSystem</key>
+	<string>granularMovementBehavior</string>
+	<key>skinTempleSkewy</key>
+	<string>semanticsDuringShape</string>
+	<key>tweenMediatorVisibility</key>
+	<string>primaryHandlerContrast</string>
+</dict>
+</plist>

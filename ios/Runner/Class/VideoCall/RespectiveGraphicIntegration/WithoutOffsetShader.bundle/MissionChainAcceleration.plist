@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteRepositoryDensity</key>
+	<string>respectivePainterSpacing</string>
+	<key>effectWithDecorator</key>
+	<string>equalizationFormShape</string>
+	<key>hashPerKind</key>
+	<string>sizeStateDuration</string>
+	<key>nodeFlyweightInterval</key>
+	<string>singletonContainCycle</string>
+	<key>optimizerVersusStyle</key>
+	<string>fixedAwaitVisible</string>
+	<key>tickerFromFunction</key>
+	<string>greatRequestSpacing</string>
+</dict>
+</plist>

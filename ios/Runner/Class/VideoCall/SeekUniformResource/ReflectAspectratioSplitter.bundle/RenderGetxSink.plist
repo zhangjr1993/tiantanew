@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicQueueCount</key>
+	<string>activityContextValidation</string>
+	<key>displayableUtilState</key>
+	<string>offsetUntilFunction</string>
+	<key>groupAdapterName</key>
+	<string>activeRepositorySpeed</string>
+	<key>inheritedGraphicForce</key>
+	<string>statelessResourceFrequency</string>
+	<key>threadFrameworkBehavior</key>
+	<string>grayscaleAsScope</string>
+</dict>
+</plist>

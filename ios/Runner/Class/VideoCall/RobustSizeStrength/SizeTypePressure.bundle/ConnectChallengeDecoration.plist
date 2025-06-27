@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStylePosition</key>
+	<string>gateModeVelocity</string>
+	<key>anchorViaTier</key>
+	<string>beginnerInjectionVelocity</string>
+	<key>blocInsideFlyweight</key>
+	<string>delegateKindEdge</string>
+	<key>cardProcessResponse</key>
+	<string>mediocrePopupFlags</string>
+	<key>liteWidgetRotation</key>
+	<string>storyboardBeyondParam</string>
+	<key>metadataLikeSingleton</key>
+	<string>flexibleStorageOrigin</string>
+	<key>respectiveExceptionState</key>
+	<string>mediumDescriptorShape</string>
+	<key>textProxyInset</key>
+	<string>interfaceProxyScale</string>
+	<key>titleOrVar</key>
+	<string>finalGradientInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashScopeSaturation</key>
+	<string>arithmeticNumberFlags</string>
+	<key>injectionFacadeInteraction</key>
+	<string>managerBySystem</string>
+	<key>marginWithValue</key>
+	<string>managerDecoratorPadding</string>
+	<key>opaqueEventValidation</key>
+	<string>viewAlongProxy</string>
+	<key>queuePerLayer</key>
+	<string>chartPlatformSkewx</string>
+	<key>stateNearJob</key>
+	<string>finalBuilderStyle</string>
+	<key>subtleThreadInteraction</key>
+	<string>providerAmongTask</string>
+	<key>symmetricAnimationBrightness</key>
+	<string>threadNearLayer</string>
+	<key>transformerBufferDensity</key>
+	<string>interactiveExtensionInset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioThroughJob</key>
+	<string>iterativeAssetInteraction</string>
+	<key>asyncViaMediator</key>
+	<string>associatedMovementRotation</string>
+	<key>collectionThroughTier</key>
+	<string>interactiveAsyncTransparency</string>
+	<key>discardedMethodShape</key>
+	<string>semanticTransitionPressure</string>
+	<key>integerInsideMediator</key>
+	<string>indicatorOperationAppearance</string>
+	<key>primaryActionPadding</key>
+	<string>mediocreGraphSpeed</string>
+	<key>responseValueFormat</key>
+	<string>finalDelegateIndex</string>
+	<key>streamWithoutMemento</key>
+	<string>callbackOperationType</string>
+</dict>
+</plist>

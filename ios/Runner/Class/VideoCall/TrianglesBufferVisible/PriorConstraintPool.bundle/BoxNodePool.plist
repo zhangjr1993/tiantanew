@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncFragmentMode</key>
+	<string>mutableBufferDelay</string>
+	<key>delegateNumberDuration</key>
+	<string>rectEnvironmentOrientation</string>
+	<key>gramStageTail</key>
+	<string>seamlessGroupTail</string>
+	<key>symbolParameterInteraction</key>
+	<string>aspectratioAgainstTask</string>
+</dict>
+</plist>

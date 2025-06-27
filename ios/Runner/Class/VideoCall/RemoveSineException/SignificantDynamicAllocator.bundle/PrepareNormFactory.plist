@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxJobForce</key>
+	<string>musicInsideNumber</string>
+	<key>dynamicMatrixState</key>
+	<string>directViewDelay</string>
+	<key>intuitiveCompleterForce</key>
+	<string>mainChapterBehavior</string>
+	<key>layoutFunctionResponse</key>
+	<string>elasticRadiusBehavior</string>
+	<key>radiusFromOperation</key>
+	<string>cartesianFutureSkewx</string>
+	<key>sliderContextBound</key>
+	<string>sequentialStatelessTension</string>
+	<key>switchDespiteAction</key>
+	<string>globalExponentAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncScopePressure</key>
+	<string>deferredResourceInteraction</string>
+	<key>callbackDespiteBridge</key>
+	<string>normViaFacade</string>
+	<key>frameAtProcess</key>
+	<string>globalButtonFeedback</string>
+	<key>globalSliderInset</key>
+	<string>graphLikePrototype</string>
+	<key>grainByMode</key>
+	<string>mediocreChartPosition</string>
+	<key>liteProgressbarIndex</key>
+	<string>relationalPaddingAlignment</string>
+	<key>pageviewAsStage</key>
+	<string>segmentAmongTask</string>
+</dict>
+</plist>

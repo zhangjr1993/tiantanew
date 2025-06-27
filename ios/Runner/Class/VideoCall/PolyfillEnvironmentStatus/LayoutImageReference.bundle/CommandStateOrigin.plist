@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPriorityMomentum</key>
+	<string>riverpodPhaseSkewy</string>
+	<key>gradientAtFramework</key>
+	<string>mutableDescriptionTransparency</string>
+	<key>gramCommandVisibility</key>
+	<string>mediaqueryAsComposite</string>
+	<key>histogramAsStage</key>
+	<string>queryParamAcceleration</string>
+	<key>ignoredActionCenter</key>
+	<string>futureValueLocation</string>
+	<key>layerFrameworkSize</key>
+	<string>compositionAgainstOperation</string>
+	<key>mediaqueryLevelBorder</key>
+	<string>functionalObserverPosition</string>
+	<key>popupStateCount</key>
+	<string>allocatorChainSkewx</string>
+	<key>subtleBlocContrast</key>
+	<string>particleKindCenter</string>
+</dict>
+</plist>

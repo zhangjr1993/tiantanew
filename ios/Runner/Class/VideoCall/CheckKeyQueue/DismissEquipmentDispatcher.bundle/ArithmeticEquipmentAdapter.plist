@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAroundInterpreter</key>
+	<string>persistentRowStatus</string>
+	<key>chartBridgeOrientation</key>
+	<string>popupInsideChain</string>
+	<key>hierarchicalUsecaseBottom</key>
+	<string>precisionWithParameter</string>
+	<key>methodWithFlyweight</key>
+	<string>labelAmongVisitor</string>
+	<key>radioFlyweightTop</key>
+	<string>exponentThroughProcess</string>
+	<key>tickerWithoutPattern</key>
+	<string>futurePerMethod</string>
+</dict>
+</plist>

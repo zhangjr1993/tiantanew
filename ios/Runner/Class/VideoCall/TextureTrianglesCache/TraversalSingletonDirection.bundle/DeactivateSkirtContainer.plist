@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesActionDirection</key>
+	<string>sliderUntilLevel</string>
+	<key>configurationAboutComposite</key>
+	<string>customEffectTheme</string>
+	<key>cupertinoCurveBorder</key>
+	<string>standaloneInterpolationDistance</string>
+	<key>firstViewTransparency</key>
+	<string>batchNumberDuration</string>
+	<key>gradientOrTier</key>
+	<string>operationBufferDuration</string>
+	<key>permanentTernaryFrequency</key>
+	<string>sceneAtActivity</string>
+	<key>sizeAboutStructure</key>
+	<string>parallelInterpolationSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFormFrequency</key>
+	<string>textDuringLayer</string>
+	<key>associatedDependencyInset</key>
+	<string>offsetMediatorFrequency</string>
+	<key>batchOperationRotation</key>
+	<string>alertLevelSkewy</string>
+	<key>callbackLevelStyle</key>
+	<string>activatedConstraintStyle</string>
+	<key>callbackScopeTint</key>
+	<string>offsetStyleRate</string>
+	<key>desktopGridScale</key>
+	<string>gradientChainTag</string>
+	<key>responsiveRouterStatus</key>
+	<string>builderLikeComposite</string>
+	<key>singletonFromParam</key>
+	<string>constraintAmongStyle</string>
+	<key>usageBeyondStrategy</key>
+	<string>usageBufferInteraction</string>
+</dict>
+</plist>

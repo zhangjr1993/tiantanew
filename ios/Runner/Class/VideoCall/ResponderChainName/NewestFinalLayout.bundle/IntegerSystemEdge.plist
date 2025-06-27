@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCycleRotation</key>
+	<string>decorationTierKind</string>
+	<key>easyGridPadding</key>
+	<string>localizationMediatorBorder</string>
+	<key>effectUntilPrototype</key>
+	<string>cardActionFrequency</string>
+	<key>momentumSinceFlyweight</key>
+	<string>integerIncludeComposite</string>
+	<key>offsetPrototypeTint</key>
+	<string>errorExceptParam</string>
+	<key>viewVariableBottom</key>
+	<string>singletonSystemPosition</string>
+</dict>
+</plist>

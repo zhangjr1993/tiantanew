@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentAllocatorFrequency</key>
+	<string>awaitProcessScale</string>
+	<key>globalTickerFormat</key>
+	<string>asyncAnimationDistance</string>
+	<key>handlerAsMediator</key>
+	<string>switchActivityAppearance</string>
+	<key>largeBorderPosition</key>
+	<string>sliderPrototypeSize</string>
+	<key>mediocreIconRate</key>
+	<string>scrollableCapsuleInset</string>
+	<key>repositoryIncludePrototype</key>
+	<string>builderProcessBottom</string>
+	<key>visibleDescriptorStatus</key>
+	<string>alertAsComposite</string>
+</dict>
+</plist>

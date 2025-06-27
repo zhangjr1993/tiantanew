@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBehaviorTension</key>
+	<string>pivotalCoordinatorBound</string>
+	<key>agileFrameDistance</key>
+	<string>cosinePhaseEdge</string>
+	<key>cubeBeyondWork</key>
+	<string>queueSingletonMargin</string>
+	<key>errorFacadeVelocity</key>
+	<string>animationOrPlatform</string>
+	<key>interactorActionSpeed</key>
+	<string>accordionTextDelay</string>
+	<key>navigatorThanObserver</key>
+	<string>autoLabelName</string>
+	<key>observerOperationInteraction</key>
+	<string>accessoryChainDirection</string>
+	<key>shaderDecoratorForce</key>
+	<string>decorationShapeType</string>
+	<key>threadBesideState</key>
+	<string>handlerDuringProxy</string>
+</dict>
+</plist>

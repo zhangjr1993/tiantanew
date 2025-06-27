@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAlignmentDepth</key>
+	<string>viewForDecorator</string>
+	<key>concurrentMemberVisibility</key>
+	<string>sliderLevelBehavior</string>
+	<key>directChecklistPressure</key>
+	<string>responseInBuffer</string>
+	<key>eagerHashBottom</key>
+	<string>protocolScopeOrigin</string>
+	<key>futureDuringStage</key>
+	<string>movementInsideSingleton</string>
+	<key>lastInterpolationDirection</key>
+	<string>convolutionAwayKind</string>
+	<key>segmentFromFlyweight</key>
+	<string>builderAboutComposite</string>
+	<key>spineOrEnvironment</key>
+	<string>scaffoldPhaseVisible</string>
+	<key>synchronousGroupPosition</key>
+	<string>sliderFlyweightFormat</string>
+	<key>tweenPrototypeInset</key>
+	<string>secondInterfaceTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStateSize</key>
+	<string>ephemeralPositionFeedback</string>
+	<key>assetNearStrategy</key>
+	<string>radiusIncludeStrategy</string>
+	<key>bulletVariableLeft</key>
+	<string>priorityAndContext</string>
+	<key>enabledOperationLocation</key>
+	<string>lazyHandlerIndex</string>
+	<key>firstChannelAppearance</key>
+	<string>textTypeDepth</string>
+	<key>intensityForForm</key>
+	<string>observerBeyondObserver</string>
+	<key>rectAtComposite</key>
+	<string>imageAndContext</string>
+	<key>rectFacadeVisibility</key>
+	<string>behaviorPerInterpreter</string>
+	<key>repositoryByState</key>
+	<string>storyboardAwayShape</string>
+	<key>substantialThreadScale</key>
+	<string>desktopSubpixelPosition</string>
+</dict>
+</plist>

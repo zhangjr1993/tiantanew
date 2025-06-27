@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAtStage</key>
+	<string>statelessFormMargin</string>
+	<key>dynamicExceptionShape</key>
+	<string>resourcePatternSpacing</string>
+	<key>labelAsMethod</key>
+	<string>animationStateBehavior</string>
+	<key>largeAssetVelocity</key>
+	<string>resizableTransitionForce</string>
+	<key>mediocreCapacitiesTransparency</key>
+	<string>titleSingletonHue</string>
+	<key>mediocreModulusMargin</key>
+	<string>certificateMediatorDelay</string>
+	<key>missionTypeRotation</key>
+	<string>segueFlyweightTension</string>
+	<key>progressbarUntilWork</key>
+	<string>histogramVarCenter</string>
+	<key>responsiveQueryValidation</key>
+	<string>staticMetadataVisible</string>
+</dict>
+</plist>

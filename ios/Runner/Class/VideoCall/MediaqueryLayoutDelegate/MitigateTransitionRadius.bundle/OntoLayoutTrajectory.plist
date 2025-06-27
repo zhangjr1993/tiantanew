@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheStateSkewy</key>
+	<string>marginKindTint</string>
+	<key>constActivityStyle</key>
+	<string>singleSessionSpeed</string>
+	<key>currentHashCount</key>
+	<string>catalystWithContext</string>
+	<key>nibPerWork</key>
+	<string>euclideanResolverSpacing</string>
+	<key>widgetTaskPosition</key>
+	<string>displayableProtocolOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLayerBottom</key>
+	<string>opaqueIntegerOrientation</string>
+	<key>buttonVersusAdapter</key>
+	<string>diffableProjectDirection</string>
+	<key>rapidChecklistFormat</key>
+	<string>typicalDialogsDelay</string>
+	<key>segueTypeCoord</key>
+	<string>iterativeColumnValidation</string>
+</dict>
+</plist>

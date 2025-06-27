@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderOperationPadding</key>
+	<string>sessionOrChain</string>
+	<key>consultativeCertificateShade</key>
+	<string>featureWithContext</string>
+	<key>groupBridgeAlignment</key>
+	<string>compositionOfProxy</string>
+	<key>rapidBitrateBehavior</key>
+	<string>coordinatorThroughCycle</string>
+	<key>widgetTaskTint</key>
+	<string>listenerAndFunction</string>
+</dict>
+</plist>

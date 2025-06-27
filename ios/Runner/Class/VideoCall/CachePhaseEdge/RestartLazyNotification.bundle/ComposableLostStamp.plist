@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAwayProxy</key>
+	<string>sortedNotificationAppearance</string>
+	<key>globalOperationScale</key>
+	<string>mediocrePopupStyle</string>
+	<key>opaqueShaderMargin</key>
+	<string>singletonProxyMode</string>
+	<key>operationBridgeSpacing</key>
+	<string>equipmentTaskSize</string>
+	<key>requiredDocumentDepth</key>
+	<string>columnOrFramework</string>
+</dict>
+</plist>

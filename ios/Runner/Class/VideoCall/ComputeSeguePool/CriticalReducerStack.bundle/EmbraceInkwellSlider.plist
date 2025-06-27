@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferPerTier</key>
+	<string>painterPatternShade</string>
+	<key>buttonByState</key>
+	<string>callbackByPhase</string>
+	<key>configurationModeShape</key>
+	<string>resourceSinceValue</string>
+	<key>consumerActivitySkewy</key>
+	<string>repositoryFromDecorator</string>
+	<key>displayableConstraintStatus</key>
+	<string>inactiveBufferOffset</string>
+	<key>gesturedetectorDuringLayer</key>
+	<string>integerBesideTier</string>
+	<key>iconWithoutStage</key>
+	<string>chapterBridgeBottom</string>
+	<key>inactiveBulletFrequency</key>
+	<string>ephemeralEventSpeed</string>
+	<key>rowFromFacade</key>
+	<string>oldGridviewSpacing</string>
+	<key>webBlocInset</key>
+	<string>histogramStyleDuration</string>
+</dict>
+</plist>

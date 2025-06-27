@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAlongProxy</key>
+	<string>switchPerStyle</string>
+	<key>immutableDelegateShade</key>
+	<string>difficultCompleterStyle</string>
+	<key>parallelMissionVelocity</key>
+	<string>listviewActivityOrientation</string>
+	<key>persistentDropdownbuttonCoord</key>
+	<string>curveWithDecorator</string>
+	<key>previewSystemDelay</key>
+	<string>asyncAboutShape</string>
+	<key>synchronousPlaybackDistance</key>
+	<string>uniformAlphaAlignment</string>
+	<key>tappableActionDensity</key>
+	<string>timerAsJob</string>
+</dict>
+</plist>

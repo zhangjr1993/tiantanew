@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerTierStyle</key>
+	<string>observerSinceFramework</string>
+	<key>cubitLikeVisitor</key>
+	<string>richtextBeyondCommand</string>
+	<key>cubitScopeAlignment</key>
+	<string>normalCompleterTail</string>
+	<key>dimensionParameterBehavior</key>
+	<string>declarativeSignOrigin</string>
+	<key>radiusAsShape</key>
+	<string>hyperbolicContainerSkewx</string>
+	<key>staticViewTension</key>
+	<string>exceptionDecoratorCoord</string>
+</dict>
+</plist>

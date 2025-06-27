@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveBesideDecorator</key>
+	<string>unaryShapeAcceleration</string>
+	<key>hashOperationLocation</key>
+	<string>pinchableFactoryFeedback</string>
+	<key>missedHashDirection</key>
+	<string>configurationAsSystem</string>
+	<key>popupStrategyHue</key>
+	<string>semanticPromiseFormat</string>
+	<key>progressbarJobInterval</key>
+	<string>gesturedetectorPatternVelocity</string>
+	<key>resourcePatternFormat</key>
+	<string>completerBeyondPattern</string>
+	<key>roleVarVelocity</key>
+	<string>criticalResourceSkewy</string>
+	<key>storeVisitorBorder</key>
+	<string>serviceBeyondAdapter</string>
+</dict>
+</plist>

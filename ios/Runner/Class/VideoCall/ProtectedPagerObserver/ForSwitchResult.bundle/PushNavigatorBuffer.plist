@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetProxyInteraction</key>
+	<string>catalystDuringPrototype</string>
+	<key>labelAmongProxy</key>
+	<string>particleActionShape</string>
+	<key>lossParamDirection</key>
+	<string>gestureSingletonBehavior</string>
+	<key>metadataScopeOpacity</key>
+	<string>kernelVariableVisibility</string>
+	<key>publicNormMomentum</key>
+	<string>allocatorWorkBehavior</string>
+	<key>relationalGestureState</key>
+	<string>subscriptionAmongTier</string>
+	<key>remainderDuringFacade</key>
+	<string>screenContainVariable</string>
+	<key>textureAlongSystem</key>
+	<string>gradientObserverRight</string>
+</dict>
+</plist>

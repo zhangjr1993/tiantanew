@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedButtonDelay</key>
+	<string>indicatorContextTransparency</string>
+	<key>bitratePerFunction</key>
+	<string>skinDecoratorInterval</string>
+	<key>disparateProgressbarSpeed</key>
+	<string>nativeTopicSize</string>
+	<key>firstEventColor</key>
+	<string>storeContextHead</string>
+	<key>nibDespiteValue</key>
+	<string>optionIncludeNumber</string>
+	<key>priorPreviewFlags</key>
+	<string>substantialScreenStatus</string>
+	<key>publicNavigatorDensity</key>
+	<string>durationVarTheme</string>
+	<key>resourceAndLevel</key>
+	<string>isolateVersusChain</string>
+	<key>topicPhaseTransparency</key>
+	<string>currentBoxshadowShape</string>
+</dict>
+</plist>

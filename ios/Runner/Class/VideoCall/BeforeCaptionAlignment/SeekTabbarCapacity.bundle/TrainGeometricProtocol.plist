@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTaskTint</key>
+	<string>effectLevelLocation</string>
+	<key>customizedUsecaseForce</key>
+	<string>adaptiveReductionBound</string>
+	<key>indicatorBufferDelay</key>
+	<string>accessibleExpandedInteraction</string>
+	<key>lostSubscriptionKind</key>
+	<string>scrollWithoutOperation</string>
+	<key>multiplicationOrKind</key>
+	<string>buttonCompositeAppearance</string>
+	<key>widgetContainLayer</key>
+	<string>delegateAboutFlyweight</string>
+</dict>
+</plist>

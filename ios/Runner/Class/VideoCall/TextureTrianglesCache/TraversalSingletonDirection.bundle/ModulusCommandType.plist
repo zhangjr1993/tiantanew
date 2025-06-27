@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticParticleLeft</key>
+	<string>publicTextDistance</string>
+	<key>buttonLevelDepth</key>
+	<string>singleStepScale</string>
+	<key>controllerLikeFunction</key>
+	<string>instructionOfPhase</string>
+	<key>gridActionType</key>
+	<string>titleVariableHue</string>
+	<key>iconActivityVelocity</key>
+	<string>utilInsideFlyweight</string>
+	<key>mediocreEntityHue</key>
+	<string>newestTransitionCenter</string>
+	<key>specifyCupertinoSize</key>
+	<string>progressbarBesideActivity</string>
+	<key>threadAsStyle</key>
+	<string>cubitSinceSingleton</string>
+	<key>widgetBesideBuffer</key>
+	<string>intuitiveStreamType</string>
+</dict>
+</plist>

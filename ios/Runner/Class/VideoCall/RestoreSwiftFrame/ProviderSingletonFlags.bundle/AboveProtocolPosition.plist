@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftStateTheme</key>
+	<string>mediumTernaryCount</string>
+	<key>memberTypeRotation</key>
+	<string>cellTierBrightness</string>
+	<key>oldBoxshadowPadding</key>
+	<string>previewSystemFlags</string>
+	<key>previewChainType</key>
+	<string>frameAroundFramework</string>
+	<key>prismaticStepSkewx</key>
+	<string>semanticProgressbarRate</string>
+	<key>statefulTickerVisible</key>
+	<string>expandedAtBridge</string>
+</dict>
+</plist>

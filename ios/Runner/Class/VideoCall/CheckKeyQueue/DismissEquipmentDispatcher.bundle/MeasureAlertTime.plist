@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocLikeScope</key>
+	<string>giftWorkTag</string>
+	<key>firstRequestShade</key>
+	<string>effectStyleSaturation</string>
+	<key>invisibleAppbarKind</key>
+	<string>checkboxPhaseCount</string>
+	<key>momentumFlyweightSpeed</key>
+	<string>tickerAtStrategy</string>
+	<key>movementContainProxy</key>
+	<string>originalMobileAcceleration</string>
+	<key>optionOfAction</key>
+	<string>labelEnvironmentCenter</string>
+	<key>resourceAmongKind</key>
+	<string>diffableHeapValidation</string>
+	<key>taskAroundState</key>
+	<string>specifierViaForm</string>
+	<key>textureAtInterpreter</key>
+	<string>staticAsyncIndex</string>
+	<key>utilInterpreterStyle</key>
+	<string>streamPhaseAcceleration</string>
+</dict>
+</plist>

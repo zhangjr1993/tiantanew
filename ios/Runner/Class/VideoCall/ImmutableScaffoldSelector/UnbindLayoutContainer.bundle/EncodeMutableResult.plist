@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDecorationType</key>
+	<string>localizationStageDirection</string>
+	<key>channelIncludeNumber</key>
+	<string>capsuleOutsideComposite</string>
+	<key>commonMetadataFormat</key>
+	<string>displayableProgressbarSkewx</string>
+	<key>parallelShaderBehavior</key>
+	<string>difficultLossSpeed</string>
+	<key>semanticsWorkLeft</key>
+	<string>cubeActionOrigin</string>
+	<key>spriteTaskSpeed</key>
+	<string>listenerDecoratorMode</string>
+	<key>symbolByCycle</key>
+	<string>durationCycleTag</string>
+</dict>
+</plist>

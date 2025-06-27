@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalExtensionMargin</key>
+	<string>channelParamOpacity</string>
+	<key>customizedTickerEdge</key>
+	<string>denseTextfieldBottom</string>
+	<key>entityVisitorSpeed</key>
+	<string>fixedSemanticsOffset</string>
+	<key>imperativeStatefulSpacing</key>
+	<string>coordinatorContextMargin</string>
+	<key>navigatorObserverDelay</key>
+	<string>commonRadioOrientation</string>
+	<key>retainedButtonTag</key>
+	<string>loopOfMethod</string>
+	<key>sceneFacadeRight</key>
+	<string>finalProviderShade</string>
+	<key>singletonParamTransparency</key>
+	<string>unsortedBoxShade</string>
+	<key>touchTierBorder</key>
+	<string>unactivatedSizedboxFlags</string>
+</dict>
+</plist>

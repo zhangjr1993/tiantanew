@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFrameworkMargin</key>
+	<string>sizeScopeSpeed</string>
+	<key>rectParameterStyle</key>
+	<string>momentumDespiteDecorator</string>
+	<key>scrollableConstraintSpacing</key>
+	<string>futureDecoratorDepth</string>
+	<key>spineUntilCycle</key>
+	<string>intuitiveResponseResponse</string>
+	<key>tweenNearSingleton</key>
+	<string>observerBridgeOpacity</string>
+	<key>usecaseInsideCommand</key>
+	<string>granularCubitDelay</string>
+</dict>
+</plist>

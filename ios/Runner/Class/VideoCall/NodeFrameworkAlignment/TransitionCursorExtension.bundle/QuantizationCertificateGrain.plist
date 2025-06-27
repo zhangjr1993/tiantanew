@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMobileMode</key>
+	<string>clipperDespiteBuffer</string>
+	<key>asyncWorkMode</key>
+	<string>fusedTransformerOffset</string>
+	<key>cubitInsideFunction</key>
+	<string>pivotalModalTint</string>
+	<key>dynamicPriorityForce</key>
+	<string>controllerOutsideForm</string>
+	<key>enabledGemDuration</key>
+	<string>entityOperationInteraction</string>
+	<key>newestChecklistTop</key>
+	<string>exceptionContextVisibility</string>
+	<key>popupSinceAdapter</key>
+	<string>reusableObserverInterval</string>
+	<key>timerInValue</key>
+	<string>entityBesideAction</string>
+</dict>
+</plist>

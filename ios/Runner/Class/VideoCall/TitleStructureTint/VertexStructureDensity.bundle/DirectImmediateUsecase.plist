@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncObserverBehavior</key>
+	<string>streamPrototypeStatus</string>
+	<key>cubitMediatorVelocity</key>
+	<string>eventFlyweightPressure</string>
+	<key>currentEventLeft</key>
+	<string>responseViaState</string>
+	<key>effectViaCycle</key>
+	<string>layerProxyMargin</string>
+	<key>interactorBeyondTask</key>
+	<string>staticOverlayBrightness</string>
+	<key>unaryMementoInset</key>
+	<string>newestCaptionShape</string>
+	<key>usecaseVarTheme</key>
+	<string>extensionByFacade</string>
+</dict>
+</plist>

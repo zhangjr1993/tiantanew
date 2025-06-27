@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedActionTag</key>
+	<string>directlySpecifierAcceleration</string>
+	<key>directlyToolMomentum</key>
+	<string>explicitTextVisible</string>
+	<key>intermediateClipperVisibility</key>
+	<string>hyperbolicStateTransparency</string>
+	<key>layoutStylePressure</key>
+	<string>controllerAndOperation</string>
+	<key>lostDependencyKind</key>
+	<string>inactiveSpriteOrigin</string>
+	<key>observerPerJob</key>
+	<string>compositionalOffsetDepth</string>
+	<key>progressbarAgainstCommand</key>
+	<string>interactorFunctionTail</string>
+</dict>
+</plist>

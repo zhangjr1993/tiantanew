@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyAsMode</key>
+	<string>multiOffsetFeedback</string>
+	<key>multiTransitionFlags</key>
+	<string>titleSinceFunction</string>
+	<key>navigatorAmongInterpreter</key>
+	<string>nativeManagerType</string>
+	<key>offsetOperationBound</key>
+	<string>gramLevelTail</string>
+	<key>opaqueTransitionDuration</key>
+	<string>fusedProviderFeedback</string>
+	<key>profilePerFlyweight</key>
+	<string>boxAsCycle</string>
+	<key>routerOrType</key>
+	<string>resourceValueBottom</string>
+	<key>segueAmongCommand</key>
+	<string>primaryAspectDensity</string>
+</dict>
+</plist>

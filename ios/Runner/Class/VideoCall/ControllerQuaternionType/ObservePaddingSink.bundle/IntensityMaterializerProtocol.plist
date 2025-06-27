@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashInterpreterType</key>
+	<string>playbackAlongJob</string>
+	<key>heapBeyondMediator</key>
+	<string>pinchableSpotTransparency</string>
+	<key>listenerScopeFeedback</key>
+	<string>threadMethodDuration</string>
+	<key>optionActionMargin</key>
+	<string>invisibleShaderDirection</string>
+	<key>progressbarWithoutSingleton</key>
+	<string>granularTransitionEdge</string>
+	<key>riverpodProcessType</key>
+	<string>metadataWorkOffset</string>
+	<key>significantBufferValidation</key>
+	<string>loopInterpreterTint</string>
+</dict>
+</plist>

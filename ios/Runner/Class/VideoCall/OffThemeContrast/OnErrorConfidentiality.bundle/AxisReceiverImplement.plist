@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPerState</key>
+	<string>animationScopeHead</string>
+	<key>commonConstraintBehavior</key>
+	<string>pivotalSpriteBound</string>
+	<key>eventMediatorColor</key>
+	<string>largeReducerSaturation</string>
+	<key>inkwellMediatorDuration</key>
+	<string>playbackPerShape</string>
+	<key>mobileRowEdge</key>
+	<string>mediocreBoxSkewx</string>
+	<key>permissiveObserverSpeed</key>
+	<string>sceneCycleResponse</string>
+	<key>tweenAtContext</key>
+	<string>standaloneSwiftKind</string>
+</dict>
+</plist>

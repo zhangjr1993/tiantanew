@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackPerFramework</key>
+	<string>logarithmTypeTail</string>
+	<key>coordinatorContainEnvironment</key>
+	<string>tickerInterpreterRate</string>
+	<key>grayscaleLayerHue</key>
+	<string>effectShapeScale</string>
+	<key>queueAgainstMediator</key>
+	<string>sizedboxBufferVisibility</string>
+	<key>scrollAdapterBound</key>
+	<string>gemVariableInset</string>
+	<key>tableProcessType</key>
+	<string>pointVisitorPressure</string>
+	<key>tangentMementoBehavior</key>
+	<string>rapidIsolateFeedback</string>
+</dict>
+</plist>

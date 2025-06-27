@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveLocalizationCenter</key>
+	<string>smartScaffoldVisibility</string>
+	<key>numericalMethodLocation</key>
+	<string>aspectFromMediator</string>
+	<key>responsiveSessionDistance</key>
+	<string>crucialAssetOpacity</string>
+	<key>significantRichtextDepth</key>
+	<string>unsortedActivityVisibility</string>
+	<key>sliderPhaseOrientation</key>
+	<string>persistentStoryboardOrigin</string>
+	<key>streamNumberTransparency</key>
+	<string>bulletActivityVisible</string>
+	<key>tickerAgainstComposite</key>
+	<string>significantStateForce</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logWithoutAdapter</key>
+	<string>checklistNumberStyle</string>
+	<key>managerStructureDistance</key>
+	<string>mobilePreviewTint</string>
+	<key>materialSinceProxy</key>
+	<string>appbarAgainstFacade</string>
+	<key>segmentForFlyweight</key>
+	<string>resolverIncludeKind</string>
+	<key>sinkByMediator</key>
+	<string>concreteDecorationRight</string>
+	<key>titleOfAdapter</key>
+	<string>scaleCompositeFrequency</string>
+	<key>visibleSinkSpacing</key>
+	<string>timerFromEnvironment</string>
+</dict>
+</plist>

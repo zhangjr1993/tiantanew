@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentWorkflowCoord</key>
+	<string>loopFromFacade</string>
+	<key>cubeOperationType</key>
+	<string>arithmeticTransformerBound</string>
+	<key>directlyApertureSize</key>
+	<string>queryExceptAction</string>
+	<key>elasticRequestShade</key>
+	<string>invisibleNotificationSaturation</string>
+	<key>gradientPlatformAlignment</key>
+	<string>resourceInterpreterAcceleration</string>
+	<key>priorRowIndex</key>
+	<string>tabbarBeyondWork</string>
+	<key>robustUsageSpeed</key>
+	<string>publicOperationBrightness</string>
+	<key>subsequentErrorSize</key>
+	<string>sequentialTabbarInset</string>
+</dict>
+</plist>

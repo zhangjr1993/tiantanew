@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystActionRate</key>
+	<string>coordinatorPerTier</string>
+	<key>imageInObserver</key>
+	<string>drawerBesideState</string>
+	<key>radiusMementoRotation</key>
+	<string>uniqueBoxshadowStatus</string>
+	<key>reactiveScrollCount</key>
+	<string>standaloneSizeOrigin</string>
+	<key>titleScopeLocation</key>
+	<string>mobileCatalystDirection</string>
+</dict>
+</plist>

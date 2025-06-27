@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constLayoutAcceleration</key>
+	<string>disparateTickerMode</string>
+	<key>consultativePromiseInset</key>
+	<string>gesturePhaseShade</string>
+	<key>enabledInjectionTag</key>
+	<string>textureDuringFunction</string>
+	<key>eventFlyweightRate</key>
+	<string>resourcePrototypeRotation</string>
+	<key>sliderMediatorDelay</key>
+	<string>notificationPhaseLeft</string>
+	<key>stackAmongChain</key>
+	<string>sustainableMapLocation</string>
+	<key>subtleFeatureSpacing</key>
+	<string>elasticSizedboxInterval</string>
+	<key>tweenAtParameter</key>
+	<string>previewOfVariable</string>
+</dict>
+</plist>

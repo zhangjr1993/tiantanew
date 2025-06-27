@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulePlatformVelocity</key>
+	<string>reusableFlexFeedback</string>
+	<key>transitionAgainstKind</key>
+	<string>usecaseFrameworkBehavior</string>
+	<key>utilPerParam</key>
+	<string>statelessLikePhase</string>
+	<key>webCollectionStyle</key>
+	<string>topicAmongPattern</string>
+</dict>
+</plist>

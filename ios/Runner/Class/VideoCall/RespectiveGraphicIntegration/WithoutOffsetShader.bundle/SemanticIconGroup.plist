@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerLoopOrigin</key>
+	<string>challengePerTask</string>
+	<key>materialPlatformOffset</key>
+	<string>constraintPlatformHue</string>
+	<key>nativeProjectionRate</key>
+	<string>permissiveTaskTheme</string>
+	<key>navigationStateForce</key>
+	<string>ignoredSubpixelTag</string>
+	<key>unactivatedCurveEdge</key>
+	<string>layerPerActivity</string>
+</dict>
+</plist>

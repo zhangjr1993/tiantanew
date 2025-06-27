@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelWithoutActivity</key>
+	<string>descriptionTaskPadding</string>
+	<key>sinkInsideBridge</key>
+	<string>petFormState</string>
+	<key>sortedEquipmentOpacity</key>
+	<string>layerOutsideBuffer</string>
+	<key>specifyCycleCoord</key>
+	<string>progressbarExceptPlatform</string>
+</dict>
+</plist>

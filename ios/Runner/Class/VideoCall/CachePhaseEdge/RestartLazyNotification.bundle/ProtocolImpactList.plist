@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateResourceBottom</key>
+	<string>nativeChannelOffset</string>
+	<key>directTweenSaturation</key>
+	<string>gesturedetectorBridgeInterval</string>
+	<key>dynamicLocalizationInteraction</key>
+	<string>iconViaStyle</string>
+	<key>fusedRepositoryForce</key>
+	<string>appbarWithoutPrototype</string>
+	<key>nativeDescriptorCount</key>
+	<string>numericalAssetName</string>
+	<key>providerFromLevel</key>
+	<string>logByPlatform</string>
+	<key>retainedGestureName</key>
+	<string>curveModeSkewx</string>
+	<key>routerBufferInset</key>
+	<string>secondConstraintLocation</string>
+	<key>streamBufferIndex</key>
+	<string>radioFormResponse</string>
+</dict>
+</plist>

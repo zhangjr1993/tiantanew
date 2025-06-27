@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMasterVisible</key>
+	<string>mediaqueryAmongOperation</string>
+	<key>alphaVersusStrategy</key>
+	<string>observerMethodAcceleration</string>
+	<key>drawerOperationSpacing</key>
+	<string>iconNearActivity</string>
+	<key>durationPrototypeMode</key>
+	<string>graphPrototypeShape</string>
+	<key>listenerCycleSkewx</key>
+	<string>routeAwayMediator</string>
+	<key>protectedGateMomentum</key>
+	<string>routeWithoutNumber</string>
+</dict>
+</plist>

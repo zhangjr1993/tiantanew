@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryCompositeSpacing</key>
+	<string>heroFrameworkStyle</string>
+	<key>cubitLevelBehavior</key>
+	<string>chartInVariable</string>
+	<key>errorFunctionOpacity</key>
+	<string>storyboardShapeTop</string>
+	<key>keyCompositionEdge</key>
+	<string>taskPrototypeMargin</string>
+	<key>missedToolSkewx</key>
+	<string>interfaceStyleResponse</string>
+	<key>precisionActionPosition</key>
+	<string>pinchableOptionSkewy</string>
+	<key>requiredFeatureDirection</key>
+	<string>tabviewTempleOffset</string>
+	<key>resilientControllerBound</key>
+	<string>fragmentAwayVisitor</string>
+</dict>
+</plist>

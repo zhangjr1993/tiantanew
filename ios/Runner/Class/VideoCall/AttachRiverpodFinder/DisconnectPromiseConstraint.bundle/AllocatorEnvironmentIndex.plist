@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAdapterIndex</key>
+	<string>mediocreProfileScale</string>
+	<key>borderAdapterDirection</key>
+	<string>eventPerOperation</string>
+	<key>challengeActivityBound</key>
+	<string>accessoryByPlatform</string>
+	<key>intermediateModalBorder</key>
+	<string>routerLevelStatus</string>
+</dict>
+</plist>

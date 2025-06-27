@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAroundMethod</key>
+	<string>streamPlatformTint</string>
+	<key>canvasOutsideObserver</key>
+	<string>swiftCompositeTheme</string>
+	<key>completionScopeTheme</key>
+	<string>compositionContainTask</string>
+	<key>consultativeTableTransparency</key>
+	<string>stackExceptDecorator</string>
+	<key>getxAwayFunction</key>
+	<string>routerOperationDepth</string>
+	<key>interpolationUntilType</key>
+	<string>factoryUntilProcess</string>
+	<key>localAccessoryRight</key>
+	<string>arithmeticAlignmentRotation</string>
+	<key>responseCommandType</key>
+	<string>lazyCollectionStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectActivityDepth</key>
+	<string>singletonNearKind</string>
+	<key>assetWithNumber</key>
+	<string>sophisticatedViewMode</string>
+	<key>discardedIntensityIndex</key>
+	<string>textfieldVarSpacing</string>
+	<key>mutableDialogsScale</key>
+	<string>modalStructureMode</string>
+	<key>popupContextTag</key>
+	<string>standaloneInteractorCoord</string>
+	<key>specifyLoopBound</key>
+	<string>textProcessMode</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationIncludeStructure</key>
+	<string>riverpodThroughParam</string>
+	<key>finalAlphaAlignment</key>
+	<string>precisionNearFacade</string>
+	<key>hierarchicalConstraintOpacity</key>
+	<string>deferredColumnAppearance</string>
+	<key>permissiveMaterialTag</key>
+	<string>missionAroundTask</string>
+</dict>
+</plist>

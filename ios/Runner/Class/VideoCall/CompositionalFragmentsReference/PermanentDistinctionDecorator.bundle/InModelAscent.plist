@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAmongFramework</key>
+	<string>playbackViaDecorator</string>
+	<key>checklistVersusEnvironment</key>
+	<string>cubePatternTop</string>
+	<key>completionBufferBrightness</key>
+	<string>directlyStampContrast</string>
+	<key>hierarchicalAxisScale</key>
+	<string>accordionCallbackScale</string>
+	<key>offsetSinceCommand</key>
+	<string>protectedSliderColor</string>
+	<key>resilientCharacterFlags</key>
+	<string>fragmentAsParameter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellVarDelay</key>
+	<string>modelStyleBottom</string>
+	<key>protectedSceneTransparency</key>
+	<string>denseUtilRight</string>
+	<key>routeLevelLeft</key>
+	<string>tweenStageDepth</string>
+	<key>uniformConsumerInteraction</key>
+	<string>cardNearVariable</string>
+</dict>
+</plist>

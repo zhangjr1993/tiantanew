@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitDuringAdapter</key>
+	<string>workflowVariableBrightness</string>
+	<key>bitrateAtVariable</key>
+	<string>statelessOperationBehavior</string>
+	<key>convolutionActionTransparency</key>
+	<string>errorBridgeAppearance</string>
+	<key>gradientPerState</key>
+	<string>textureExceptStructure</string>
+	<key>listenerAgainstPattern</key>
+	<string>errorDuringSingleton</string>
+	<key>routerAndDecorator</key>
+	<string>blocAroundNumber</string>
+	<key>sliderSingletonMomentum</key>
+	<string>resultDecoratorInterval</string>
+	<key>spotUntilPhase</key>
+	<string>relationalApertureFrequency</string>
+	<key>storeSingletonResponse</key>
+	<string>menuMethodFormat</string>
+</dict>
+</plist>

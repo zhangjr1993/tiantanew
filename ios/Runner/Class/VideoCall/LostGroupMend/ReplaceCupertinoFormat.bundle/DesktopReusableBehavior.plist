@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphKindOrientation</key>
+	<string>unactivatedSingletonRate</string>
+	<key>histogramInStructure</key>
+	<string>invisibleAppbarStyle</string>
+	<key>remainderStrategyFeedback</key>
+	<string>behaviorPrototypeScale</string>
+	<key>singleStatefulFlags</key>
+	<string>secondMaterialVisibility</string>
+	<key>toolOutsideStructure</key>
+	<string>sizeViaProxy</string>
+</dict>
+</plist>

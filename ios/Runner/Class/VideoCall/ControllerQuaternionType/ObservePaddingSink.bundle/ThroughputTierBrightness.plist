@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleMobileIndex</key>
+	<string>sliderEnvironmentBehavior</string>
+	<key>listviewStrategyName</key>
+	<string>taskOutsideProcess</string>
+	<key>lossForTemple</key>
+	<string>textWorkFeedback</string>
+	<key>oldViewOrientation</key>
+	<string>deferredViewSpeed</string>
+	<key>timerLayerName</key>
+	<string>accordionTickerBorder</string>
+</dict>
+</plist>

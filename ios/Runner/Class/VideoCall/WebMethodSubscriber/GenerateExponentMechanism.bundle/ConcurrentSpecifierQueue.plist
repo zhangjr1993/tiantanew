@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorChainBrightness</key>
+	<string>opaqueHeroBrightness</string>
+	<key>clipperLikeOperation</key>
+	<string>isolateCycleBehavior</string>
+	<key>lazyCubitOrigin</key>
+	<string>elasticSkinRotation</string>
+	<key>nibFacadeTint</key>
+	<string>normalManagerTransparency</string>
+	<key>radiusStyleLeft</key>
+	<string>cupertinoParticleBottom</string>
+	<key>subtleViewAppearance</key>
+	<string>cacheAboutSystem</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartFacadeRotation</key>
+	<string>inheritedInteractorDelay</string>
+	<key>completerStrategyDelay</key>
+	<string>gradientFromMethod</string>
+	<key>composableMetadataHue</key>
+	<string>dialogsPatternAppearance</string>
+	<key>finalQueueEdge</key>
+	<string>mobileShaderSkewy</string>
+	<key>parallelCellRotation</key>
+	<string>aspectratioDuringFlyweight</string>
+	<key>positionChainMomentum</key>
+	<string>resourceAdapterState</string>
+	<key>primaryRoleDelay</key>
+	<string>futureMementoMode</string>
+	<key>remainderStrategyFeedback</key>
+	<string>routeVersusValue</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyCompleterKind</key>
+	<string>cupertinoVariantName</string>
+	<key>overlaySystemSaturation</key>
+	<string>textfieldFromMode</string>
+	<key>stampPrototypeDepth</key>
+	<string>overlayMethodMargin</string>
+	<key>webEquipmentTransparency</key>
+	<string>tweenPhaseOpacity</string>
+</dict>
+</plist>

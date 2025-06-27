@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocViaMethod</key>
+	<string>baseAroundCommand</string>
+	<key>effectProxySpacing</key>
+	<string>isolateContainNumber</string>
+	<key>pinchableConstraintStyle</key>
+	<string>sequentialUnaryRate</string>
+	<key>respectiveReferenceCount</key>
+	<string>textWorkInset</string>
+	<key>responseBeyondMethod</key>
+	<string>binaryFlyweightTag</string>
+	<key>sizedboxChainInset</key>
+	<string>robustRouteEdge</string>
+	<key>stateAndShape</key>
+	<string>textfieldVisitorResponse</string>
+</dict>
+</plist>

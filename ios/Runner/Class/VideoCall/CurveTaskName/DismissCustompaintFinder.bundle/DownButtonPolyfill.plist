@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertInsideVariable</key>
+	<string>constraintModeDensity</string>
+	<key>asyncOutsideParam</key>
+	<string>prevRichtextFormat</string>
+	<key>indicatorSingletonSpacing</key>
+	<string>numericalTransformerBehavior</string>
+	<key>monsterVarTag</key>
+	<string>allocatorSystemPadding</string>
+	<key>notificationOfMediator</key>
+	<string>channelAtOperation</string>
+	<key>positionFrameworkCenter</key>
+	<string>nativeAnimationDelay</string>
+	<key>queueViaScope</key>
+	<string>protocolMementoAlignment</string>
+	<key>statelessProgressbarBehavior</key>
+	<string>uniformThemeSaturation</string>
+	<key>textStateVisibility</key>
+	<string>spotFromComposite</string>
+</dict>
+</plist>

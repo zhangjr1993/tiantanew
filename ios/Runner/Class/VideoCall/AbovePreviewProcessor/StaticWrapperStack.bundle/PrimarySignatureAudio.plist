@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleIsolateBehavior</key>
+	<string>skirtFrameworkColor</string>
+	<key>consumerNumberSpeed</key>
+	<string>uniformColumnFeedback</string>
+	<key>effectWorkKind</key>
+	<string>semanticWidgetBrightness</string>
+	<key>newestStatelessContrast</key>
+	<string>protectedNavigatorRotation</string>
+	<key>otherTimerAcceleration</key>
+	<string>statelessDescriptorStatus</string>
+	<key>prevRectVisibility</key>
+	<string>techniqueWithActivity</string>
+	<key>responseDuringNumber</key>
+	<string>sustainableDescriptorRight</string>
+	<key>techniqueContainPlatform</key>
+	<string>imperativeSymbolLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAgainstAdapter</key>
+	<string>significantLoopTransparency</string>
+	<key>fusedMultiplicationState</key>
+	<string>rectTempleBorder</string>
+	<key>priorityAgainstMediator</key>
+	<string>sensorUntilVariable</string>
+	<key>progressbarVarInset</key>
+	<string>activityPatternLeft</string>
+</dict>
+</plist>

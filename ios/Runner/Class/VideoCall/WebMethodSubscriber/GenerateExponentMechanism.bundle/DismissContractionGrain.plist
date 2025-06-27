@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDependencySkewx</key>
+	<string>menuAwayDecorator</string>
+	<key>buttonUntilType</key>
+	<string>radiusThroughObserver</string>
+	<key>cubitBeyondTask</key>
+	<string>dropdownbuttonStateTint</string>
+	<key>inactiveBoxOpacity</key>
+	<string>modelParameterDuration</string>
+	<key>pageviewExceptComposite</key>
+	<string>previewInsidePattern</string>
+	<key>pivotalRouteBorder</key>
+	<string>controllerObserverVisible</string>
+	<key>utilFrameworkBorder</key>
+	<string>parallelActionMode</string>
+</dict>
+</plist>

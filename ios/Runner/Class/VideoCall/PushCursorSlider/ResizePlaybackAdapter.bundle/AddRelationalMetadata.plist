@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOutsideShape</key>
+	<string>boxWithShape</string>
+	<key>behaviorForLayer</key>
+	<string>constraintTypeDirection</string>
+	<key>entityCycleShade</key>
+	<string>crucialBlocOrigin</string>
+	<key>mobxObserverScale</key>
+	<string>textParameterAlignment</string>
+</dict>
+</plist>

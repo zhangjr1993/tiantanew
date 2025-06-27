@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasStrategySkewy</key>
+	<string>frameFormPadding</string>
+	<key>equalizationCycleFrequency</key>
+	<string>adaptiveInjectionKind</string>
+	<key>interpolationDespiteValue</key>
+	<string>nativeCubitSpeed</string>
+	<key>methodSystemKind</key>
+	<string>awaitContainKind</string>
+	<key>nibOfBuffer</key>
+	<string>tickerDuringMode</string>
+	<key>protocolLevelDepth</key>
+	<string>resultPatternTop</string>
+	<key>singletonCycleTheme</key>
+	<string>groupBesideFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAwaySingleton</key>
+	<string>reusableNibFeedback</string>
+	<key>accordionPresenterEdge</key>
+	<string>matrixActionLocation</string>
+	<key>activatedCustompaintRate</key>
+	<string>anchorDecoratorTransparency</string>
+	<key>animatedGesturedetectorTransparency</key>
+	<string>displayableStatelessShade</string>
+	<key>baselineTypePressure</key>
+	<string>immutableSinkEdge</string>
+	<key>behaviorViaStyle</key>
+	<string>nativeTaskDepth</string>
+	<key>cycleCompositeSaturation</key>
+	<string>momentumVersusFramework</string>
+	<key>deferredResourceMargin</key>
+	<string>statefulAlphaDistance</string>
+	<key>rowViaFunction</key>
+	<string>controllerScopeBound</string>
+</dict>
+</plist>

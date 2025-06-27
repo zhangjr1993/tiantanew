@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartVersusDecorator</key>
+	<string>widgetUntilFunction</string>
+	<key>descriptorLikeFramework</key>
+	<string>iconWithOperation</string>
+	<key>disabledPresenterShape</key>
+	<string>usecasePerScope</string>
+	<key>effectInScope</key>
+	<string>queryLikeMethod</string>
+	<key>segueAlongMemento</key>
+	<string>uniformTabbarStatus</string>
+	<key>tweenBesidePrototype</key>
+	<string>hardCompleterDirection</string>
+</dict>
+</plist>

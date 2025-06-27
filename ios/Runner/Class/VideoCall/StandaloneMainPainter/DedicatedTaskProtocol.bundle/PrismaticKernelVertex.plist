@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarStructureEdge</key>
+	<string>euclideanQueryTint</string>
+	<key>borderAdapterStyle</key>
+	<string>resourceIncludeActivity</string>
+	<key>checklistWithPlatform</key>
+	<string>bufferContextSpacing</string>
+	<key>configurationBesideVariable</key>
+	<string>decorationAmongLevel</string>
+	<key>frameShapeEdge</key>
+	<string>columnWorkTension</string>
+	<key>intensityPrototypeDuration</key>
+	<string>criticalNotificationBound</string>
+	<key>isolateMethodInteraction</key>
+	<string>managerTierDistance</string>
+	<key>navigatorVarVisibility</key>
+	<string>asyncBridgeType</string>
+	<key>statefulAsPhase</key>
+	<string>playbackKindMargin</string>
+</dict>
+</plist>

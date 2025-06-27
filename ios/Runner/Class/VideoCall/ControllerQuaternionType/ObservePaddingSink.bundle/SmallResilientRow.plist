@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFromStyle</key>
+	<string>featureTierAlignment</string>
+	<key>boxAroundForm</key>
+	<string>containerIncludeFacade</string>
+	<key>brushThroughFacade</key>
+	<string>subpixelAwayProxy</string>
+	<key>lastAsyncShade</key>
+	<string>buttonStyleScale</string>
+	<key>mobileOrProxy</key>
+	<string>checkboxParamInterval</string>
+	<key>queryCycleBorder</key>
+	<string>resilientSpriteSkewy</string>
+	<key>streamVersusPattern</key>
+	<string>globalAsyncPressure</string>
+	<key>tappableSampleCoord</key>
+	<string>listviewProxyVisibility</string>
+	<key>tappableStoreBound</key>
+	<string>advancedChannelHue</string>
+	<key>utilMethodColor</key>
+	<string>heroWithVar</string>
+</dict>
+</plist>

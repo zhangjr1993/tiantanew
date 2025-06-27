@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMobxPosition</key>
+	<string>curvePlatformTransparency</string>
+	<key>borderLikeForm</key>
+	<string>desktopNibBehavior</string>
+	<key>cacheValueDirection</key>
+	<string>commandAlongComposite</string>
+	<key>lazyAwaitFrequency</key>
+	<string>channelActionKind</string>
+	<key>managerPrototypeDensity</key>
+	<string>singleSegmentContrast</string>
+	<key>projectionSinceProcess</key>
+	<string>subscriptionLevelRate</string>
+	<key>textureTypeTint</key>
+	<string>compositionalUsecaseBorder</string>
+</dict>
+</plist>

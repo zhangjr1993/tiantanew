@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentQueryTheme</key>
+	<string>indicatorContextBehavior</string>
+	<key>originalVectorStatus</key>
+	<string>channelsFormOpacity</string>
+	<key>riverpodLayerTint</key>
+	<string>accordionBatchMode</string>
+	<key>spotAsVariable</key>
+	<string>brushPrototypeCoord</string>
+	<key>widgetInterpreterSize</key>
+	<string>cardPatternFormat</string>
+</dict>
+</plist>

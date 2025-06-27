@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSignBehavior</key>
+	<string>ternarySystemCenter</string>
+	<key>granularFeatureFlags</key>
+	<string>protectedTextureStatus</string>
+	<key>popupInVisitor</key>
+	<string>pointStateStatus</string>
+	<key>similarCompleterInterval</key>
+	<string>configurationThroughProxy</string>
+	<key>statefulDuringLayer</key>
+	<string>layoutStyleLocation</string>
+</dict>
+</plist>

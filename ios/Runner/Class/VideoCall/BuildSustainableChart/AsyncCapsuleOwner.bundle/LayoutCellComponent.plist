@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorMethodOffset</key>
+	<string>largeTextureVisibility</string>
+	<key>cacheMediatorVelocity</key>
+	<string>storyboardCommandFrequency</string>
+	<key>criticalFrameSize</key>
+	<string>navigationFacadePressure</string>
+	<key>gateShapeVisibility</key>
+	<string>popupCommandState</string>
+	<key>greatFactoryAlignment</key>
+	<string>widgetSystemInset</string>
+	<key>providerActionInset</key>
+	<string>cardExceptMethod</string>
+	<key>tabbarDecoratorAcceleration</key>
+	<string>curveAmongWork</string>
+</dict>
+</plist>

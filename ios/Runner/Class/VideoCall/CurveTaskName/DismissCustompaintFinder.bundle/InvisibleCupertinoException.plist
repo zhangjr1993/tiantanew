@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitProcessType</key>
+	<string>directResponseInset</string>
+	<key>enabledServiceDepth</key>
+	<string>stateVarEdge</string>
+	<key>globalSpriteDelay</key>
+	<string>documentChainSize</string>
+	<key>graphTaskDensity</key>
+	<string>ignoredAwaitAcceleration</string>
+	<key>matrixModeOpacity</key>
+	<string>giftMementoInterval</string>
+	<key>mediumMediaqueryTheme</key>
+	<string>invisibleEqualizationKind</string>
+	<key>memberTempleMargin</key>
+	<string>originalBulletBorder</string>
+	<key>notifierShapeBehavior</key>
+	<string>concurrentCellRate</string>
+</dict>
+</plist>

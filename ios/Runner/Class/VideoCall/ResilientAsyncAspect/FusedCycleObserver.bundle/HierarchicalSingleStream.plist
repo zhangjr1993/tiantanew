@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInstructionOpacity</key>
+	<string>optionInForm</string>
+	<key>heapByDecorator</key>
+	<string>indicatorWithoutMethod</string>
+	<key>hyperbolicCaptionSize</key>
+	<string>usedGridviewAppearance</string>
+	<key>rapidAsyncLocation</key>
+	<string>smartTaskOrigin</string>
+	<key>relationalOperationFormat</key>
+	<string>textureVariablePressure</string>
+	<key>routerPatternCoord</key>
+	<string>loopMethodState</string>
+	<key>sessionParameterScale</key>
+	<string>curveStyleVisible</string>
+</dict>
+</plist>

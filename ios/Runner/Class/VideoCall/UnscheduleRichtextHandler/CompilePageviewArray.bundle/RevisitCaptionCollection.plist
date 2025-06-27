@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProviderDepth</key>
+	<string>cubitTempleInset</string>
+	<key>geometricStateFrequency</key>
+	<string>normOutsideComposite</string>
+	<key>playbackPrototypeMode</key>
+	<string>statefulIconAlignment</string>
+	<key>scrollableSinkValidation</key>
+	<string>resourceWithoutParam</string>
+	<key>sliderTempleDirection</key>
+	<string>relationalManagerInset</string>
+	<key>specifyNavigationTint</key>
+	<string>directlyMediaqueryAcceleration</string>
+	<key>textAndFramework</key>
+	<string>dependencyAsSystem</string>
+</dict>
+</plist>

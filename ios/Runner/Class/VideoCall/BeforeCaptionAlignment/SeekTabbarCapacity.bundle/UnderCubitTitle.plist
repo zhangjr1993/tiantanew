@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionAroundKind</key>
+	<string>coordinatorTypeShape</string>
+	<key>methodCompositeBehavior</key>
+	<string>mutableSignatureValidation</string>
+	<key>mobileScreenValidation</key>
+	<string>reductionMementoOrigin</string>
+	<key>scenePerVariable</key>
+	<string>uniqueWidgetStyle</string>
+	<key>textureParamSize</key>
+	<string>effectInterpreterDensity</string>
+	<key>vectorLevelFormat</key>
+	<string>vectorFlyweightOrientation</string>
+</dict>
+</plist>

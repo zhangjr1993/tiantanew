@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerParameterShape</key>
+	<string>memberOrVar</string>
+	<key>deferredDescriptorState</key>
+	<string>animatedNavigatorInteraction</string>
+	<key>eagerBulletFeedback</key>
+	<string>beginnerRouteFormat</string>
+	<key>elasticEventTop</key>
+	<string>backwardTransitionColor</string>
+	<key>metadataWithForm</key>
+	<string>overlayInsideStyle</string>
+	<key>priorityForPlatform</key>
+	<string>isolateActivityTop</string>
+	<key>slashAsProxy</key>
+	<string>visibleHandlerHue</string>
+	<key>temporaryHashStatus</key>
+	<string>newestIsolateLeft</string>
+</dict>
+</plist>

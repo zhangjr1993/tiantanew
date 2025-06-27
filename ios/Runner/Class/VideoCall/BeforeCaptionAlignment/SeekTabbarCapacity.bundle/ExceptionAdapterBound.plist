@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterBesideTemple</key>
+	<string>queryBeyondOperation</string>
+	<key>controllerActivityHue</key>
+	<string>draggableSliderDuration</string>
+	<key>coordinatorAndBridge</key>
+	<string>concurrentWidgetBound</string>
+	<key>cubeLikeNumber</key>
+	<string>equalizationDecoratorPressure</string>
+	<key>extensionBufferSize</key>
+	<string>storageAmongBuffer</string>
+	<key>granularQueueTint</key>
+	<string>aspectratioContextVelocity</string>
+	<key>tappableAllocatorInset</key>
+	<string>numericalScreenDensity</string>
+</dict>
+</plist>

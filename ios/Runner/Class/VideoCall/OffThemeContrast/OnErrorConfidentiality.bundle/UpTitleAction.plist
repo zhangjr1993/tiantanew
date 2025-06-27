@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleManagerSkewy</key>
+	<string>riverpodLayerShade</string>
+	<key>equipmentAndFramework</key>
+	<string>positionByEnvironment</string>
+	<key>inheritedConstraintForce</key>
+	<string>nativePlaybackOffset</string>
+	<key>matrixStageAppearance</key>
+	<string>gramAroundPattern</string>
+	<key>pivotalIsolateDirection</key>
+	<string>asyncGroupTag</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePreviewTransparency</key>
+	<string>previewAgainstValue</string>
+	<key>actionThroughState</key>
+	<string>behaviorLevelOpacity</string>
+	<key>assetDuringWork</key>
+	<string>viewPerMode</string>
+	<key>layerMethodPressure</key>
+	<string>rectFromFunction</string>
+	<key>mediumProgressbarStatus</key>
+	<string>commandActivityTransparency</string>
+	<key>progressbarVersusVisitor</key>
+	<string>hyperbolicProviderScale</string>
+	<key>queryBridgeDistance</key>
+	<string>directlyProgressbarType</string>
+	<key>respectiveFactorySkewy</key>
+	<string>originalCubeAlignment</string>
+	<key>responseAlongTemple</key>
+	<string>sequentialScreenValidation</string>
+	<key>viewScopeIndex</key>
+	<string>completionMediatorInterval</string>
+</dict>
+</plist>

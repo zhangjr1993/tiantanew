@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAroundBridge</key>
+	<string>layoutNumberSkewy</string>
+	<key>denseIntegerSaturation</key>
+	<string>providerBufferRight</string>
+	<key>mediocreTickerEdge</key>
+	<string>mutablePreviewVisible</string>
+	<key>modelObserverVisible</key>
+	<string>durationFunctionTag</string>
+	<key>projectionAgainstActivity</key>
+	<string>precisionParamSaturation</string>
+</dict>
+</plist>

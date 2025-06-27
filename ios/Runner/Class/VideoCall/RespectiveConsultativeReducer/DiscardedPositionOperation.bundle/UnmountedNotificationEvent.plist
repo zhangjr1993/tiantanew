@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentFactoryInset</key>
+	<string>taskCommandVisibility</string>
+	<key>flexIncludeFlyweight</key>
+	<string>tabbarProcessPadding</string>
+	<key>graphDecoratorDirection</key>
+	<string>discardedServiceInteraction</string>
+	<key>mainInjectionSpacing</key>
+	<string>radioVisitorInterval</string>
+	<key>multiStorageLocation</key>
+	<string>inkwellAsLevel</string>
+	<key>switchDecoratorTension</key>
+	<string>visibleFrameHead</string>
+	<key>symmetricBrushRight</key>
+	<string>newestBlocColor</string>
+</dict>
+</plist>

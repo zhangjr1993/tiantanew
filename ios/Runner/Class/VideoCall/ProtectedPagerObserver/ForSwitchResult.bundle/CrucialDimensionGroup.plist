@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistForPattern</key>
+	<string>extensionViaComposite</string>
+	<key>configurationStructureName</key>
+	<string>otherTransitionTop</string>
+	<key>gradientFlyweightShape</key>
+	<string>labelExceptDecorator</string>
+	<key>greatExponentDuration</key>
+	<string>controllerUntilCommand</string>
+	<key>requestInsideCommand</key>
+	<string>loopValueFrequency</string>
+	<key>richtextOrLevel</key>
+	<string>channelsVersusValue</string>
+</dict>
+</plist>

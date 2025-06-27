@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheCompositeTransparency</key>
+	<string>modelAtAction</string>
+	<key>cellDuringStage</key>
+	<string>declarativeEqualizationSize</string>
+	<key>inheritedStoreSaturation</key>
+	<string>singletonMediatorTag</string>
+	<key>resolverVariableLocation</key>
+	<string>documentActivityPadding</string>
+</dict>
+</plist>

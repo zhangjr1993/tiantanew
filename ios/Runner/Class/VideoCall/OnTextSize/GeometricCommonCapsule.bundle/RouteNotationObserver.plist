@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardRiverpodSkewy</key>
+	<string>switchOutsideMethod</string>
+	<key>listenerTypeColor</key>
+	<string>checkboxFromFunction</string>
+	<key>queueValueTint</key>
+	<string>labelOperationTop</string>
+	<key>requestAtVariable</key>
+	<string>associatedClipperValidation</string>
+	<key>responseChainRotation</key>
+	<string>spotFunctionVisibility</string>
+</dict>
+</plist>

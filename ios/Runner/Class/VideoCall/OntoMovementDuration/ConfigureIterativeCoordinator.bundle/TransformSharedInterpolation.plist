@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOutsidePrototype</key>
+	<string>heapInFramework</string>
+	<key>containerActivityBound</key>
+	<string>builderScopeStyle</string>
+	<key>functionalScrollSpacing</key>
+	<string>zoneMementoAlignment</string>
+	<key>gridPrototypeName</key>
+	<string>specifierWithoutMethod</string>
+	<key>pageviewSystemHue</key>
+	<string>extensionStageTransparency</string>
+	<key>prevChapterIndex</key>
+	<string>spriteModeOffset</string>
+	<key>resultInterpreterName</key>
+	<string>inheritedSinkSize</string>
+	<key>touchThanState</key>
+	<string>interactiveSliderPressure</string>
+</dict>
+</plist>

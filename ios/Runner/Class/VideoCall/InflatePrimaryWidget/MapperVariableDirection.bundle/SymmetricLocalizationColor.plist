@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocForMode</key>
+	<string>commonSliderSaturation</string>
+	<key>catalystIncludeLayer</key>
+	<string>reducerForProxy</string>
+	<key>constraintInsidePrototype</key>
+	<string>monsterBeyondFlyweight</string>
+	<key>promiseShapeRotation</key>
+	<string>pinchableLayoutMargin</string>
+	<key>statefulAwayObserver</key>
+	<string>widgetProxySaturation</string>
+	<key>widgetAndMethod</key>
+	<string>resizableCanvasRight</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisParamBrightness</key>
+	<string>deferredPaddingRate</string>
+	<key>chapterModeDensity</key>
+	<string>stackByStyle</string>
+	<key>coordinatorMementoDuration</key>
+	<string>behaviorTaskBound</string>
+	<key>cubitVarFrequency</key>
+	<string>multiProfileDensity</string>
+	<key>largeMarginOrientation</key>
+	<string>threadCommandBehavior</string>
+	<key>originalTransitionEdge</key>
+	<string>capsuleKindFrequency</string>
+</dict>
+</plist>

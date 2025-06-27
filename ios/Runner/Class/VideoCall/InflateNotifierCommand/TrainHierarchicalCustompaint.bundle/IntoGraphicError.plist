@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxKindValidation</key>
+	<string>sharedFactoryPadding</string>
+	<key>customizedRouteInteraction</key>
+	<string>mapWithVisitor</string>
+	<key>fusedActivityStyle</key>
+	<string>positionPhaseInset</string>
+	<key>keyGiftEdge</key>
+	<string>curveByMediator</string>
+	<key>notificationLevelTop</key>
+	<string>certificateActionTag</string>
+	<key>protectedInjectionPressure</key>
+	<string>resolverBeyondCommand</string>
+	<key>publicChapterTheme</key>
+	<string>listviewBeyondStage</string>
+	<key>sceneMethodDelay</key>
+	<string>lastPopupMode</string>
+	<key>storeTypeBorder</key>
+	<string>intensityVersusState</string>
+</dict>
+</plist>

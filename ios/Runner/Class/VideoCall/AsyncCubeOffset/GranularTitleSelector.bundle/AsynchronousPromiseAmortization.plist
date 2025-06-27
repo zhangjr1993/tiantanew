@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAgainstCycle</key>
+	<string>aspectAgainstEnvironment</string>
+	<key>effectCompositeName</key>
+	<string>activeChapterMode</string>
+	<key>fixedBorderLocation</key>
+	<string>textVisitorOpacity</string>
+	<key>futureAmongEnvironment</key>
+	<string>inkwellLevelColor</string>
+	<key>greatBulletForce</key>
+	<string>radiusForBuffer</string>
+	<key>logarithmByProcess</key>
+	<string>frameAmongMode</string>
+	<key>mediumCupertinoDirection</key>
+	<string>routeAtAction</string>
+	<key>multiplicationCompositeEdge</key>
+	<string>baselineSinceFlyweight</string>
+	<key>persistentPreviewSkewy</key>
+	<string>configurationLikeEnvironment</string>
+	<key>popupBesideCycle</key>
+	<string>methodObserverDensity</string>
+</dict>
+</plist>

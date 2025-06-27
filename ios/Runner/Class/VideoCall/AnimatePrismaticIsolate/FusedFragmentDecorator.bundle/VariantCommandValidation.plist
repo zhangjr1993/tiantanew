@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAsMediator</key>
+	<string>zoneBesideAction</string>
+	<key>compositionViaBuffer</key>
+	<string>queryUntilSingleton</string>
+	<key>concurrentActivityMode</key>
+	<string>capacitiesWithoutMode</string>
+	<key>exceptionPrototypeSaturation</key>
+	<string>modelDecoratorCount</string>
+	<key>immutableAsyncOffset</key>
+	<string>tabviewMediatorPressure</string>
+	<key>significantSliderFormat</key>
+	<string>gestureActivitySpacing</string>
+	<key>topicMethodSkewx</key>
+	<string>flexibleTechniquePressure</string>
+</dict>
+</plist>

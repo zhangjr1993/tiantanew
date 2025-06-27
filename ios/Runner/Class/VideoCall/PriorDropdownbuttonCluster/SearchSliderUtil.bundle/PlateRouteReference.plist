@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitWithoutInterpreter</key>
+	<string>nodePerType</string>
+	<key>customScaleInset</key>
+	<string>tweenStructureEdge</string>
+	<key>displayableStepPosition</key>
+	<string>sequentialRoleBehavior</string>
+	<key>immutableUsecaseBrightness</key>
+	<string>futureSingletonLocation</string>
+	<key>inheritedTickerDuration</key>
+	<string>euclideanRadiusDistance</string>
+	<key>isolateAmongProcess</key>
+	<string>isolateCycleTop</string>
+	<key>listenerScopeTransparency</key>
+	<string>resourceMementoRate</string>
+	<key>navigatorWithoutScope</key>
+	<string>callbackProxyPressure</string>
+	<key>prismaticSkinBorder</key>
+	<string>positionModeMomentum</string>
+	<key>ternaryOfCycle</key>
+	<string>backwardSwitchOffset</string>
+</dict>
+</plist>

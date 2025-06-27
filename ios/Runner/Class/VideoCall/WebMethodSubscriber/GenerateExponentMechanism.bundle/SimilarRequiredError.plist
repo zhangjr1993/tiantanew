@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioObserverTransparency</key>
+	<string>channelAgainstLevel</string>
+	<key>grainByAction</key>
+	<string>arithmeticSwitchSpacing</string>
+	<key>sizeAlongProcess</key>
+	<string>largeSpotVisible</string>
+	<key>viewFormForce</key>
+	<string>viewSinceFlyweight</string>
+</dict>
+</plist>

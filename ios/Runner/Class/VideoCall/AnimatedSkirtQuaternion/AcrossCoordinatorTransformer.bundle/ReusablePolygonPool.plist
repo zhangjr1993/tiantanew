@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStrategyFlags</key>
+	<string>alertFromWork</string>
+	<key>directResolverBottom</key>
+	<string>otherDescriptionOpacity</string>
+	<key>mainAnimationDirection</key>
+	<string>oldFragmentDelay</string>
+	<key>momentumStrategyTag</key>
+	<string>concurrentStatelessDirection</string>
+	<key>navigationFrameworkBehavior</key>
+	<string>relationalMovementStyle</string>
+	<key>petDecoratorFeedback</key>
+	<string>petAdapterDistance</string>
+	<key>rowBridgeFormat</key>
+	<string>associatedAwaitDuration</string>
+	<key>streamLayerTransparency</key>
+	<string>backwardCardDensity</string>
+	<key>titleSinceKind</key>
+	<string>appbarOutsideProxy</string>
+</dict>
+</plist>

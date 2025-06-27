@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoGridviewBrightness</key>
+	<string>streamAgainstAdapter</string>
+	<key>stackModePressure</key>
+	<string>rowContainStyle</string>
+	<key>temporaryListviewLocation</key>
+	<string>finalAlertCenter</string>
+	<key>titleJobDensity</key>
+	<string>gesturePlatformEdge</string>
+</dict>
+</plist>

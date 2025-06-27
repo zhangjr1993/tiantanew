@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorWorkSpacing</key>
+	<string>cubitPatternOpacity</string>
+	<key>clipperParamCenter</key>
+	<string>statelessDecoratorRate</string>
+	<key>containerShapeCoord</key>
+	<string>roleValueInset</string>
+	<key>interfaceKindTheme</key>
+	<string>tappableIsolateTheme</string>
+	<key>mainSizeCount</key>
+	<string>textfieldVarScale</string>
+	<key>reusableGateSize</key>
+	<string>injectionAgainstParameter</string>
+	<key>semanticsEnvironmentDistance</key>
+	<string>featureMethodPosition</string>
+	<key>sortedTextureBorder</key>
+	<string>mainParticleForce</string>
+	<key>substantialCurveAcceleration</key>
+	<string>subsequentDelegateRate</string>
+</dict>
+</plist>

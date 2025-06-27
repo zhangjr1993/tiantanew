@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionFlyweightTransparency</key>
+	<string>customizedRectTransparency</string>
+	<key>completerInterpreterSpeed</key>
+	<string>bitrateCommandFrequency</string>
+	<key>consumerBesideContext</key>
+	<string>roleAroundFramework</string>
+	<key>controllerTierAcceleration</key>
+	<string>multiplicationScopeShade</string>
+	<key>disabledCubitStatus</key>
+	<string>semanticSignCount</string>
+	<key>disabledNormCount</key>
+	<string>listviewSystemLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveServiceFeedback</key>
+	<string>menuSystemEdge</string>
+	<key>asynchronousDocumentForce</key>
+	<string>containerNearMemento</string>
+	<key>exceptionThanBuffer</key>
+	<string>persistentSizeShade</string>
+	<key>gesturedetectorTierSize</key>
+	<string>callbackMediatorDensity</string>
+	<key>granularListenerDepth</key>
+	<string>decorationBeyondStage</string>
+	<key>precisionDuringFunction</key>
+	<string>uniquePointContrast</string>
+	<key>requestAwayObserver</key>
+	<string>largeTweenKind</string>
+	<key>routeActionVelocity</key>
+	<string>explicitQueryKind</string>
+</dict>
+</plist>

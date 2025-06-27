@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAmongDecorator</key>
+	<string>taskValueVelocity</string>
+	<key>asynchronousButtonSaturation</key>
+	<string>metadataVersusParam</string>
+	<key>blocSingletonDelay</key>
+	<string>cupertinoExtensionDistance</string>
+	<key>desktopSliderFrequency</key>
+	<string>listviewFrameworkPressure</string>
+	<key>eagerBoxBorder</key>
+	<string>textureAgainstVar</string>
+	<key>managerTypeOffset</key>
+	<string>descriptionDespiteMethod</string>
+	<key>memberOperationTransparency</key>
+	<string>tabviewJobFormat</string>
+	<key>statefulFeatureTint</key>
+	<string>stepPrototypeTransparency</string>
+	<key>transformerJobDelay</key>
+	<string>arithmeticSliderInteraction</string>
+</dict>
+</plist>

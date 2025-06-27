@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSincePrototype</key>
+	<string>observerFromShape</string>
+	<key>borderMethodBottom</key>
+	<string>dynamicWidgetDelay</string>
+	<key>draggableInterfaceVisibility</key>
+	<string>navigatorIncludeBridge</string>
+	<key>graphIncludeParam</key>
+	<string>themeDuringBuffer</string>
+	<key>statelessIsolateTransparency</key>
+	<string>decorationExceptProxy</string>
+	<key>swiftMediatorMargin</key>
+	<string>aspectAboutMode</string>
+	<key>threadSystemLeft</key>
+	<string>currentMarginFlags</string>
+</dict>
+</plist>

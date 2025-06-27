@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateProcessStyle</key>
+	<string>groupForTask</string>
+	<key>gemWorkDistance</key>
+	<string>progressbarObserverDistance</string>
+	<key>gesturedetectorBeyondProcess</key>
+	<string>serviceAlongStage</string>
+	<key>liteModulusTension</key>
+	<string>custompaintCycleBrightness</string>
+	<key>nextDurationCount</key>
+	<string>effectWorkInterval</string>
+	<key>permanentApertureOffset</key>
+	<string>rectCommandTail</string>
+	<key>streamProcessFrequency</key>
+	<string>materialBesideStyle</string>
+	<key>tappableInstructionStatus</key>
+	<string>builderLevelSpacing</string>
+</dict>
+</plist>

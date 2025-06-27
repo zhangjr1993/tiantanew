@@ -25,6 +25,12 @@ class MenuTableViewCell: UITableViewCell {
         return label
     }()
     
+    private let iconImageView: UIImageView = {
+        let imageView = UIImageView()
+        imageView.translatesAutoresizingMaskIntoConstraints = false
+        return imageView
+    }()
+    
     private let arrowImageView: UIImageView = {
         let imageView = UIImageView()
         imageView.image = UIImage(named: "icon_me_more")
@@ -48,6 +54,7 @@ class MenuTableViewCell: UITableViewCell {
         selectionStyle = .none
         
         contentView.addSubview(containerView)
+        containerView.addSubview(iconImageView)
         containerView.addSubview(titleLabel)
         containerView.addSubview(arrowImageView)
     }
@@ -59,7 +66,12 @@ class MenuTableViewCell: UITableViewCell {
             containerView.trailingAnchor.constraint(equalTo: contentView.trailingAnchor),
             containerView.bottomAnchor.constraint(equalTo: contentView.bottomAnchor, constant: -5),
             
-            titleLabel.leadingAnchor.constraint(equalTo: containerView.leadingAnchor, constant: 20),
+            iconImageView.leadingAnchor.constraint(equalTo: containerView.leadingAnchor, constant: 15),
+            iconImageView.centerYAnchor.constraint(equalTo: containerView.centerYAnchor),
+            iconImageView.widthAnchor.constraint(equalToConstant: 24),
+            iconImageView.heightAnchor.constraint(equalToConstant: 24),
+            
+            titleLabel.leadingAnchor.constraint(equalTo: containerView.leadingAnchor, constant: 45),
             titleLabel.centerYAnchor.constraint(equalTo: containerView.centerYAnchor),
             
             arrowImageView.trailingAnchor.constraint(equalTo: containerView.trailingAnchor, constant: -20),
@@ -69,7 +81,7 @@ class MenuTableViewCell: UITableViewCell {
         ])
     }
     
-    func configure(title: String, isLast: Bool) {
+    func configure(title: String, isLast: Bool, index: Int) {
         titleLabel.text = title
         
         if isLast {
@@ -77,6 +89,8 @@ class MenuTableViewCell: UITableViewCell {
         } else {
             containerView.layer.maskedCorners = []
         }
+        
+        iconImageView.image = UIImage(named: "icon_info_\(index+1)")
     }
 
 }

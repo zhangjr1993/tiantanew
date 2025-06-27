@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledVectorBrightness</key>
+	<string>taskCommandContrast</string>
+	<key>materialTextTheme</key>
+	<string>durationBeyondLayer</string>
+	<key>sortedThreadShade</key>
+	<string>secondLoopBorder</string>
+	<key>specifyOverlayStatus</key>
+	<string>beginnerWidgetIndex</string>
+	<key>statelessSinceFacade</key>
+	<string>rectInsideVisitor</string>
+</dict>
+</plist>

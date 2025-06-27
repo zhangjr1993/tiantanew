@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInDecorator</key>
+	<string>logarithmWithTask</string>
+	<key>chartLikeInterpreter</key>
+	<string>visibleThreadTransparency</string>
+	<key>effectAtPlatform</key>
+	<string>parallelVectorInterval</string>
+	<key>hashSingletonMode</key>
+	<string>buttonBesideNumber</string>
+	<key>relationalSignatureRotation</key>
+	<string>inheritedCardCenter</string>
+	<key>seamlessTextureFeedback</key>
+	<string>gemByPrototype</string>
+</dict>
+</plist>

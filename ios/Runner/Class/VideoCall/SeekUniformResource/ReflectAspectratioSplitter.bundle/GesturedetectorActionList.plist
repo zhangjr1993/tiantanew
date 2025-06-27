@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCupertinoLocation</key>
+	<string>commandExceptNumber</string>
+	<key>dependencyFromCycle</key>
+	<string>tickerBridgeColor</string>
+	<key>gradientValueSize</key>
+	<string>pinchableMobileAppearance</string>
+	<key>heapLikePhase</key>
+	<string>intermediateProtocolBound</string>
+	<key>inactiveResourceOrientation</key>
+	<string>explicitFutureEdge</string>
+	<key>liteDescriptionKind</key>
+	<string>largeChannelValidation</string>
+	<key>reducerAgainstTask</key>
+	<string>radioChainStyle</string>
+	<key>tangentProxyDirection</key>
+	<string>allocatorVersusTier</string>
+</dict>
+</plist>

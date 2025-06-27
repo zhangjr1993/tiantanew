@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorMethodAppearance</key>
+	<string>skirtFrameworkInset</string>
+	<key>materialThreadSpeed</key>
+	<string>stepVarSaturation</string>
+	<key>nextBufferForce</key>
+	<string>positionDespiteJob</string>
+	<key>tappableGemKind</key>
+	<string>usecaseAsPrototype</string>
+	<key>tappableSizeState</key>
+	<string>hashForChain</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseContextRight</key>
+	<string>unsortedSinePadding</string>
+	<key>durationPrototypeFeedback</key>
+	<string>ignoredTabbarOrigin</string>
+	<key>gesturedetectorFacadeFlags</key>
+	<string>serviceAroundStage</string>
+	<key>logStageInterval</key>
+	<string>customStateRate</string>
+	<key>materialSubscriptionVisible</key>
+	<string>similarPaddingSaturation</string>
+	<key>painterStrategyCount</key>
+	<string>originalDialogsCount</string>
+	<key>protectedDescriptionStatus</key>
+	<string>subscriptionLevelDistance</string>
+</dict>
+</plist>

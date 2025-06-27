@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentMethodType</key>
+	<string>stepWithoutEnvironment</string>
+	<key>boxOrStage</key>
+	<string>sequentialActionAppearance</string>
+	<key>contractionEnvironmentScale</key>
+	<string>delegateViaDecorator</string>
+	<key>eventAdapterBound</key>
+	<string>typicalUtilState</string>
+	<key>overlayMediatorTint</key>
+	<string>lostLabelDelay</string>
+	<key>rowOutsideKind</key>
+	<string>nextPreviewPressure</string>
+	<key>scrollBeyondWork</key>
+	<string>skinFormMomentum</string>
+	<key>statefulTextMomentum</key>
+	<string>coordinatorInsideLayer</string>
+</dict>
+</plist>

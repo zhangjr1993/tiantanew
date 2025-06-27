@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEqualizationBrightness</key>
+	<string>requestPerStructure</string>
+	<key>agileNibLeft</key>
+	<string>effectTaskResponse</string>
+	<key>baselinePrototypeStatus</key>
+	<string>frameContextVisibility</string>
+	<key>listenerInterpreterPadding</key>
+	<string>publicSpritePosition</string>
+	<key>significantSingletonDepth</key>
+	<string>metadataPhaseAppearance</string>
+	<key>singletonContextVisible</key>
+	<string>granularRouteValidation</string>
+</dict>
+</plist>

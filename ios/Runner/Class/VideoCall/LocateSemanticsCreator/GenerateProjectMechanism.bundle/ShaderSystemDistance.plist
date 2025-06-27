@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedDrawerValidation</key>
+	<string>utilUntilType</string>
+	<key>discardedSlashTop</key>
+	<string>streamChainResponse</string>
+	<key>fusedListviewBorder</key>
+	<string>subpixelCommandKind</string>
+	<key>immutableSemanticsFrequency</key>
+	<string>denseStackDelay</string>
+	<key>iterativeContainerDirection</key>
+	<string>easyReferenceName</string>
+	<key>sharedThemeScale</key>
+	<string>tappableCardInteraction</string>
+</dict>
+</plist>

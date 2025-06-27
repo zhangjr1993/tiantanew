@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartVariableMargin</key>
+	<string>controllerContextRotation</string>
+	<key>painterWorkState</key>
+	<string>difficultCurveType</string>
+	<key>radiusStageRotation</key>
+	<string>mutableMaterialPadding</string>
+	<key>taskNearMethod</key>
+	<string>concurrentCapacitiesTint</string>
+</dict>
+</plist>

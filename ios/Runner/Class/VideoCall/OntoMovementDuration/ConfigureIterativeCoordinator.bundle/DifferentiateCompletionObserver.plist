@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetShapePadding</key>
+	<string>rectPlatformSkewx</string>
+	<key>coordinatorPerOperation</key>
+	<string>decorationBridgeScale</string>
+	<key>displayableTextureStyle</key>
+	<string>keySpecifierDepth</string>
+	<key>normAboutBuffer</key>
+	<string>exceptionVariableVisibility</string>
+	<key>otherPositionDensity</key>
+	<string>textureAsProxy</string>
+	<key>seamlessRadiusRotation</key>
+	<string>dedicatedSwitchOpacity</string>
+	<key>sortedProjectMargin</key>
+	<string>concurrentBrushRate</string>
+	<key>standaloneStoreMode</key>
+	<string>dependencyAdapterDensity</string>
+	<key>topicBufferTop</key>
+	<string>sizedboxLayerVisibility</string>
+</dict>
+</plist>

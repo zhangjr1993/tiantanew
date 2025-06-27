@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerProviderRotation</key>
+	<string>seamlessResolverState</string>
+	<key>characterPerInterpreter</key>
+	<string>layoutContextTransparency</string>
+	<key>isolateAmongBridge</key>
+	<string>integerPerFlyweight</string>
+	<key>materialLevelColor</key>
+	<string>persistentUtilVelocity</string>
+	<key>precisionActivityDepth</key>
+	<string>alignmentInterpreterCoord</string>
+	<key>rapidDescriptionFlags</key>
+	<string>cosineOperationMode</string>
+	<key>spriteExceptTemple</key>
+	<string>resultDespiteObserver</string>
+	<key>textTierDensity</key>
+	<string>captionNearContext</string>
+</dict>
+</plist>

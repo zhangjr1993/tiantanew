@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStrategyVelocity</key>
+	<string>activeTransitionInteraction</string>
+	<key>blocThroughStructure</key>
+	<string>movementLayerTransparency</string>
+	<key>bulletObserverTransparency</key>
+	<string>subtleListviewResponse</string>
+	<key>decorationBeyondOperation</key>
+	<string>channelsFacadeDelay</string>
+	<key>grainObserverFeedback</key>
+	<string>listenerPatternCenter</string>
+	<key>grainVisitorType</key>
+	<string>concreteRemainderEdge</string>
+	<key>listenerMementoPressure</key>
+	<string>nodeStateAlignment</string>
+	<key>mobxWithStrategy</key>
+	<string>desktopAllocatorMomentum</string>
+</dict>
+</plist>

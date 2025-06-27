@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTextureCenter</key>
+	<string>customEffectFeedback</string>
+	<key>curveFormLocation</key>
+	<string>gesturedetectorSystemVelocity</string>
+	<key>gridDespiteShape</key>
+	<string>listviewPerLevel</string>
+	<key>keyEqualizationLeft</key>
+	<string>bitrateParamDuration</string>
+	<key>reactiveTransitionKind</key>
+	<string>shaderBridgeFlags</string>
+	<key>semanticStorageStyle</key>
+	<string>missedDialogsValidation</string>
+	<key>storageScopeSkewy</key>
+	<string>cubitAsMediator</string>
+	<key>streamLikeMode</key>
+	<string>cursorBeyondComposite</string>
+</dict>
+</plist>

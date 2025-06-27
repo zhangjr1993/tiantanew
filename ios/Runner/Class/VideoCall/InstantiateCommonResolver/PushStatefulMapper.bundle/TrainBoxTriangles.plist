@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitShapeBehavior</key>
+	<string>controllerPhaseSkewy</string>
+	<key>dialogsViaFunction</key>
+	<string>graphicBridgeTag</string>
+	<key>disparateRouteType</key>
+	<string>instructionStructureDistance</string>
+	<key>factoryWithKind</key>
+	<string>switchAroundTier</string>
+	<key>iconAndStrategy</key>
+	<string>dimensionDuringValue</string>
+	<key>ignoredTitleRate</key>
+	<string>awaitCycleDensity</string>
+</dict>
+</plist>

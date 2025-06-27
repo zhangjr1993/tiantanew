@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAnchorSaturation</key>
+	<string>frameAndMemento</string>
+	<key>configurationObserverName</key>
+	<string>routerActivityFeedback</string>
+	<key>menuKindTransparency</key>
+	<string>nodeLikeActivity</string>
+	<key>notifierNearMediator</key>
+	<string>smallResourceBorder</string>
+	<key>resourceAlongAction</key>
+	<string>captionWithoutOperation</string>
+	<key>respectiveHashTag</key>
+	<string>canvasInsideJob</string>
+	<key>routePrototypeBottom</key>
+	<string>composableEventStyle</string>
+	<key>sustainableMethodInset</key>
+	<string>responseNumberFeedback</string>
+	<key>textfieldCommandScale</key>
+	<string>groupUntilWork</string>
+</dict>
+</plist>

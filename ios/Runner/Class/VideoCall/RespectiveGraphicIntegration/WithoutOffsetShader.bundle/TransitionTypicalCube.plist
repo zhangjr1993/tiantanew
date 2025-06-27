@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStampDensity</key>
+	<string>textfieldViaStyle</string>
+	<key>missionInterpreterRight</key>
+	<string>queryParamInteraction</string>
+	<key>permanentUsecaseStatus</key>
+	<string>tabbarInterpreterBottom</string>
+	<key>relationalPreviewStyle</key>
+	<string>storyboardTaskHue</string>
+	<key>requiredCollectionDepth</key>
+	<string>webRoleMargin</string>
+	<key>scrollThanStrategy</key>
+	<string>labelThroughTier</string>
+	<key>sizedboxValueTag</key>
+	<string>intuitiveNavigationAcceleration</string>
+</dict>
+</plist>

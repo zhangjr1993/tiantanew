@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveFromSingleton</key>
+	<string>loopPlatformLocation</string>
+	<key>delegateFlyweightSize</key>
+	<string>deferredCallbackSkewx</string>
+	<key>managerSingletonBottom</key>
+	<string>notifierViaBridge</string>
+	<key>priorityKindAppearance</key>
+	<string>layoutStateSkewy</string>
+	<key>rowThroughState</key>
+	<string>symbolFromProxy</string>
+	<key>stepJobShade</key>
+	<string>semanticsOfFramework</string>
+	<key>unactivatedButtonVisibility</key>
+	<string>requestCompositeBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredConstraintFrequency</key>
+	<string>hardParticleFormat</string>
+	<key>instructionDuringMode</key>
+	<string>timerForJob</string>
+	<key>pinchableStoryboardOrigin</key>
+	<string>criticalResourceOrientation</string>
+	<key>popupLevelStyle</key>
+	<string>textLevelHue</string>
+	<key>scaleCompositeType</key>
+	<string>promiseVariableCount</string>
+	<key>significantFeatureMode</key>
+	<string>widgetWithMethod</string>
+	<key>subpixelLayerVisible</key>
+	<string>handlerStageDistance</string>
+	<key>sustainableActionScale</key>
+	<string>handlerInsideLayer</string>
+</dict>
+</plist>

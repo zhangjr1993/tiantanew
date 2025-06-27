@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterPlatformInset</key>
+	<string>associatedResolverContrast</string>
+	<key>constraintFacadeOffset</key>
+	<string>descriptorJobInset</string>
+	<key>grainVarBehavior</key>
+	<string>cellDespiteBuffer</string>
+	<key>layoutMethodCount</key>
+	<string>resolverBeyondForm</string>
+	<key>listviewViaScope</key>
+	<string>borderCompositeHue</string>
+	<key>mainTaskSpacing</key>
+	<string>basicPrioritySpacing</string>
+	<key>mutableMarginRight</key>
+	<string>delegateFunctionTransparency</string>
+	<key>oldManagerDensity</key>
+	<string>liteSizeDelay</string>
+	<key>resizableResourceEdge</key>
+	<string>stateInValue</string>
+	<key>vectorOperationTag</key>
+	<string>callbackSingletonEdge</string>
+</dict>
+</plist>

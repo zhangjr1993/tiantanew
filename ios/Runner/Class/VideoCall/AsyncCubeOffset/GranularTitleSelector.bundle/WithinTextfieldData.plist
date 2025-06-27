@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAndContext</key>
+	<string>standaloneErrorState</string>
+	<key>cardFlyweightVelocity</key>
+	<string>missedTimerSaturation</string>
+	<key>explicitPainterSkewy</key>
+	<string>concurrentCustompaintForce</string>
+	<key>futureOfShape</key>
+	<string>indicatorLikeVariable</string>
+	<key>interactorInVar</key>
+	<string>timerLayerPadding</string>
+	<key>projectMementoInterval</key>
+	<string>constraintCompositePadding</string>
+</dict>
+</plist>

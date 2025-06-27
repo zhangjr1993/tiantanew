@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMomentumShade</key>
+	<string>profileContextPressure</string>
+	<key>animatedCanvasStatus</key>
+	<string>uniformPrecisionHue</string>
+	<key>checkboxBeyondSingleton</key>
+	<string>stackUntilPlatform</string>
+	<key>contractionAsPhase</key>
+	<string>playbackTaskPressure</string>
+	<key>intermediateResourceBrightness</key>
+	<string>synchronousOffsetSpeed</string>
+</dict>
+</plist>

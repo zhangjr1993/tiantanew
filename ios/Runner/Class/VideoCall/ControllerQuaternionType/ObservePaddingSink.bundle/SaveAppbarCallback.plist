@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitCycleShade</key>
+	<string>nodeForBridge</string>
+	<key>commandAdapterVisibility</key>
+	<string>actionChainCenter</string>
+	<key>completerAsCycle</key>
+	<string>coordinatorAwayJob</string>
+	<key>crudeCycleEdge</key>
+	<string>draggableTransitionInset</string>
+	<key>disabledMusicDistance</key>
+	<string>precisionInsideContext</string>
+	<key>enabledHashLeft</key>
+	<string>taskNearContext</string>
+	<key>intermediateOperationMode</key>
+	<string>localizationEnvironmentDistance</string>
+	<key>persistentManagerValidation</key>
+	<string>interactiveTabbarAcceleration</string>
+	<key>textVersusDecorator</key>
+	<string>roleBesideObserver</string>
+</dict>
+</plist>

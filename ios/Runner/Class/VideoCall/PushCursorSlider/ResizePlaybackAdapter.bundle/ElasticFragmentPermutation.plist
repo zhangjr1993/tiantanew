@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalOffsetDistance</key>
+	<string>toolVersusFramework</string>
+	<key>configurationStyleDepth</key>
+	<string>swiftOfSystem</string>
+	<key>discardedAlphaShape</key>
+	<string>isolateVarVisible</string>
+	<key>grainStateBorder</key>
+	<string>synchronousTextureTop</string>
+	<key>graphicTypeDepth</key>
+	<string>factoryAtLevel</string>
+	<key>scaffoldSinceStyle</key>
+	<string>storagePerTemple</string>
+	<key>scrollVariableForce</key>
+	<string>denseGridTag</string>
+</dict>
+</plist>

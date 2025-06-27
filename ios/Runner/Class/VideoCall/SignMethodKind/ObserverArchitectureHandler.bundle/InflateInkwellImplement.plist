@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableLocalizationOrientation</key>
+	<string>riverpodWithValue</string>
+	<key>directOverlayPadding</key>
+	<string>sampleBeyondCycle</string>
+	<key>disabledScrollPressure</key>
+	<string>semanticsVersusEnvironment</string>
+	<key>inheritedServiceMomentum</key>
+	<string>previewThroughVisitor</string>
+	<key>menuActivityFeedback</key>
+	<string>protectedParticleDuration</string>
+	<key>subscriptionAdapterPosition</key>
+	<string>popupDespiteLayer</string>
+</dict>
+</plist>

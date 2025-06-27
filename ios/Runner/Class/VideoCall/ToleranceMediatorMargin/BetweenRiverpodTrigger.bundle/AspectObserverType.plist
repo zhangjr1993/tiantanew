@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorAndCommand</key>
+	<string>semanticRowTop</string>
+	<key>menuLikeCommand</key>
+	<string>taskInsideStage</string>
+	<key>positionedTempleBound</key>
+	<string>tickerWithoutLayer</string>
+	<key>tickerProcessAcceleration</key>
+	<string>groupInShape</string>
+	<key>titleUntilStage</key>
+	<string>routerExceptShape</string>
+	<key>typicalConstraintStyle</key>
+	<string>ternaryFormRight</string>
+	<key>viewFromProcess</key>
+	<string>cubitStrategyTheme</string>
+</dict>
+</plist>

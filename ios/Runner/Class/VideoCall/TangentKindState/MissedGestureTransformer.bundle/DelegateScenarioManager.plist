@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTypeSaturation</key>
+	<string>normLikeParam</string>
+	<key>eventPatternMode</key>
+	<string>cardPrototypeShape</string>
+	<key>exceptionBeyondBuffer</key>
+	<string>interactiveQueueHue</string>
+	<key>flexObserverInset</key>
+	<string>blocFacadeValidation</string>
+	<key>intensityPerLayer</key>
+	<string>repositoryStageLocation</string>
+	<key>pivotalToolLocation</key>
+	<string>temporaryNodeValidation</string>
+	<key>reactiveMasterOrientation</key>
+	<string>numericalBuilderSaturation</string>
+	<key>storeOutsideStructure</key>
+	<string>optionAboutBuffer</string>
+</dict>
+</plist>

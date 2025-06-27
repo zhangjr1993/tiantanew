@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBlocAcceleration</key>
+	<string>animatedHeapDelay</string>
+	<key>collectionBufferMomentum</key>
+	<string>giftDecoratorOrientation</string>
+	<key>criticalTabbarSkewy</key>
+	<string>radioInterpreterTheme</string>
+	<key>dedicatedSensorContrast</key>
+	<string>loopMediatorPadding</string>
+	<key>primaryServiceMode</key>
+	<string>commonRoleMomentum</string>
+	<key>roleOrForm</key>
+	<string>permissiveHandlerScale</string>
+	<key>skinSystemCenter</key>
+	<string>errorStageShape</string>
+	<key>viewExceptChain</key>
+	<string>resilientCursorOffset</string>
+</dict>
+</plist>

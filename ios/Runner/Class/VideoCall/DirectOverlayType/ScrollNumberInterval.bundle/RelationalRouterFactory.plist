@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetCycleTop</key>
+	<string>navigatorSinceMediator</string>
+	<key>flexAgainstObserver</key>
+	<string>customizedCollectionOffset</string>
+	<key>frameOutsideStrategy</key>
+	<string>subpixelTemplePosition</string>
+	<key>iconFlyweightSpeed</key>
+	<string>labelAwayValue</string>
+	<key>keyBehaviorAcceleration</key>
+	<string>buttonSingletonMode</string>
+	<key>permissiveScreenRight</key>
+	<string>crudeModalBottom</string>
+	<key>projectDespiteMediator</key>
+	<string>invisibleRequestDelay</string>
+	<key>sineLikeSingleton</key>
+	<string>canvasDuringProcess</string>
+</dict>
+</plist>

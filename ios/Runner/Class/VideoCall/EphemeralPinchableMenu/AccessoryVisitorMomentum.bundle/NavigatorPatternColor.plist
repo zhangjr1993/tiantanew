@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerInsideContext</key>
+	<string>stateShapeResponse</string>
+	<key>inactiveDelegateOpacity</key>
+	<string>positionAsOperation</string>
+	<key>mutableErrorOpacity</key>
+	<string>denseTouchBehavior</string>
+	<key>sharedCompleterSkewy</key>
+	<string>behaviorAsVariable</string>
+	<key>smallZoneColor</key>
+	<string>sophisticatedGrainOffset</string>
+	<key>subpixelFunctionDistance</key>
+	<string>subtleDurationBorder</string>
+</dict>
+</plist>

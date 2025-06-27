@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorAwayFramework</key>
+	<string>advancedRectRotation</string>
+	<key>gridviewCycleInteraction</key>
+	<string>streamInCycle</string>
+	<key>listviewStyleName</key>
+	<string>groupParamPressure</string>
+	<key>queryParamDuration</key>
+	<string>gramStateOrientation</string>
+	<key>routerByParam</key>
+	<string>captionAtLevel</string>
+	<key>tangentWithoutSingleton</key>
+	<string>sceneBridgeResponse</string>
+	<key>unaryAmongPhase</key>
+	<string>grainAgainstPhase</string>
+</dict>
+</plist>

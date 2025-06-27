@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerExceptPrototype</key>
+	<string>adaptiveBoxStyle</string>
+	<key>columnMementoPressure</key>
+	<string>positionedThroughAction</string>
+	<key>labelFacadeTransparency</key>
+	<string>webTaskVisibility</string>
+	<key>mutableExceptionInteraction</key>
+	<string>listenerThroughLevel</string>
+	<key>rectProxyType</key>
+	<string>stackUntilStage</string>
+	<key>resourceWithoutLevel</key>
+	<string>fusedCellShade</string>
+	<key>singlePainterBound</key>
+	<string>globalPopupVelocity</string>
+	<key>tweenCycleAcceleration</key>
+	<string>relationalHandlerTint</string>
+</dict>
+</plist>

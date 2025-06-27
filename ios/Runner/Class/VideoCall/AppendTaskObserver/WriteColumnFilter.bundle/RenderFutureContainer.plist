@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedAlignmentFeedback</key>
+	<string>mobileSinceTask</string>
+	<key>materialActionCenter</key>
+	<string>allocatorLikeSingleton</string>
+	<key>streamParamVisibility</key>
+	<string>stampPhaseVisibility</string>
+</dict>
+</plist>

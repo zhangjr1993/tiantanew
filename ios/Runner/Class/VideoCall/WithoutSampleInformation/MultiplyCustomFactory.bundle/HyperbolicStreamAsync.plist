@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPerStructure</key>
+	<string>screenCommandScale</string>
+	<key>controllerWithOperation</key>
+	<string>originalCompleterBrightness</string>
+	<key>gateForStage</key>
+	<string>permanentStorageLocation</string>
+	<key>geometricRepositoryHue</key>
+	<string>normalSemanticsLeft</string>
+	<key>themeOrVariable</key>
+	<string>skirtAdapterBottom</string>
+	<key>unsortedSwiftScale</key>
+	<string>relationalStorageTheme</string>
+</dict>
+</plist>

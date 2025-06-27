@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSinceFacade</key>
+	<string>retainedLabelHue</string>
+	<key>asynchronousStoreSaturation</key>
+	<string>standaloneLabelOrigin</string>
+	<key>columnVarInteraction</key>
+	<string>similarSegmentDuration</string>
+	<key>containerAroundKind</key>
+	<string>dynamicCellTop</string>
+	<key>frameShapeOrientation</key>
+	<string>asynchronousStorageFeedback</string>
+	<key>heroOperationPressure</key>
+	<string>inheritedCompleterLocation</string>
+	<key>loopBufferStatus</key>
+	<string>adaptiveEntityColor</string>
+	<key>progressbarCompositeDuration</key>
+	<string>mainRequestColor</string>
+	<key>staticHistogramSaturation</key>
+	<string>coordinatorMethodOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsSystemRotation</key>
+	<string>configurationBesideLevel</string>
+	<key>concurrentAnimationStyle</key>
+	<string>fixedDialogsOpacity</string>
+	<key>containerAsBridge</key>
+	<string>typicalBuilderColor</string>
+	<key>delicateGramCount</key>
+	<string>serviceJobMode</string>
+	<key>interpolationAndTask</key>
+	<string>providerSincePrototype</string>
+	<key>mobileProcessSize</key>
+	<string>channelTierScale</string>
+	<key>observerCycleDepth</key>
+	<string>interactorCommandPadding</string>
+	<key>secondSliderTag</key>
+	<string>richtextVariableColor</string>
+	<key>usageStructureHead</key>
+	<string>inheritedStateColor</string>
+</dict>
+</plist>

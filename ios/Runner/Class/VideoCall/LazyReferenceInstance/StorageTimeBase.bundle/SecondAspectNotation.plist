@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopErrorVelocity</key>
+	<string>ephemeralQueueInteraction</string>
+	<key>easyExpandedDuration</key>
+	<string>intuitiveLabelMargin</string>
+	<key>liteLayoutSaturation</key>
+	<string>activityNearProxy</string>
+	<key>mobileAdapterDistance</key>
+	<string>persistentDescriptionOrigin</string>
+	<key>pinchableAsyncInset</key>
+	<string>dynamicPageviewSize</string>
+	<key>rowScopeSkewx</key>
+	<string>menuAgainstPhase</string>
+	<key>sliderLevelHead</key>
+	<string>nativeTernarySpeed</string>
+</dict>
+</plist>

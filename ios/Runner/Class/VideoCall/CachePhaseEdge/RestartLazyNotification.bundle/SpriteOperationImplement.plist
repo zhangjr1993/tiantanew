@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCycleTransparency</key>
+	<string>displayableIntensityInset</string>
+	<key>directlyPaddingTension</key>
+	<string>ignoredTickerBorder</string>
+	<key>inactiveTaskSize</key>
+	<string>channelsOutsideNumber</string>
+	<key>injectionKindInteraction</key>
+	<string>routeModeStatus</string>
+	<key>variantDecoratorAppearance</key>
+	<string>captionInMemento</string>
+</dict>
+</plist>

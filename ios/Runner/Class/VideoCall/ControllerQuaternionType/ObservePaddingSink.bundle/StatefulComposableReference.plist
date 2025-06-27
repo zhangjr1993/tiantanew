@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarCommandKind</key>
+	<string>instructionJobTag</string>
+	<key>buttonPhaseOrientation</key>
+	<string>inheritedMobileResponse</string>
+	<key>constraintTypeTag</key>
+	<string>accessibleStateLeft</string>
+	<key>priorTechniquePadding</key>
+	<string>grayscaleStructureTail</string>
+	<key>signatureViaObserver</key>
+	<string>subtleClipperTop</string>
+</dict>
+</plist>

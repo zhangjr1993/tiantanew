@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablePainterPadding</key>
+	<string>storeUntilPhase</string>
+	<key>momentumThroughType</key>
+	<string>permissivePositionedBehavior</string>
+	<key>persistentExpandedVisibility</key>
+	<string>publicSampleTop</string>
+	<key>semanticServiceMargin</key>
+	<string>paddingKindSize</string>
+	<key>utilMementoFeedback</key>
+	<string>resizableNavigatorForce</string>
+</dict>
+</plist>

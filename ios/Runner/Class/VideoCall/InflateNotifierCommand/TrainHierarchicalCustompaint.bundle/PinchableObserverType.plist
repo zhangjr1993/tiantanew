@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateTransitionHue</key>
+	<string>storeNumberBrightness</string>
+	<key>inactiveAxisAppearance</key>
+	<string>independentRoleIndex</string>
+	<key>instructionAtValue</key>
+	<string>mobxBridgeDirection</string>
+	<key>localizationOrContext</key>
+	<string>sceneTierTop</string>
+	<key>nibForParameter</key>
+	<string>constraintContextMargin</string>
+	<key>visibleOptimizerMargin</key>
+	<string>channelsExceptFramework</string>
+</dict>
+</plist>

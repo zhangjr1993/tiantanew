@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxAgainstDecorator</key>
+	<string>pageviewDuringKind</string>
+	<key>injectionModeForce</key>
+	<string>widgetNearVar</string>
+	<key>managerForObserver</key>
+	<string>spriteViaProxy</string>
+	<key>skirtThanAdapter</key>
+	<string>imageBufferTransparency</string>
+	<key>usedDelegateTransparency</key>
+	<string>positionStageVisibility</string>
+</dict>
+</plist>

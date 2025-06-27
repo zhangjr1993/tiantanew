@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryFormFormat</key>
+	<string>textProxySaturation</string>
+	<key>eventOfLevel</key>
+	<string>channelFromPrototype</string>
+	<key>flexChainFlags</key>
+	<string>configurationInsidePhase</string>
+	<key>logarithmVariableSkewy</key>
+	<string>asynchronousTweenOpacity</string>
+	<key>routerInterpreterTheme</key>
+	<string>animationTypeBrightness</string>
+</dict>
+</plist>

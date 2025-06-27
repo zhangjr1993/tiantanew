@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTempleDepth</key>
+	<string>seamlessIconShade</string>
+	<key>catalystStageHead</key>
+	<string>interactiveLabelHue</string>
+	<key>customTouchValidation</key>
+	<string>taskPlatformOrigin</string>
+	<key>geometricAlignmentForce</key>
+	<string>multiTimerSize</string>
+	<key>interactorBufferStyle</key>
+	<string>materialDelegateColor</string>
+	<key>iterativeApertureDirection</key>
+	<string>priorCosineRate</string>
+	<key>iterativeDependencyTag</key>
+	<string>transitionDuringProxy</string>
+	<key>widgetWithoutLayer</key>
+	<string>commandStyleAppearance</string>
+</dict>
+</plist>

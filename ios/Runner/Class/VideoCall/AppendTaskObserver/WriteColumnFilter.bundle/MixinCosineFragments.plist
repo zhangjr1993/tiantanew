@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandForActivity</key>
+	<string>robustSignOrientation</string>
+	<key>disabledNibTail</key>
+	<string>progressbarShapeOrigin</string>
+	<key>hardRequestContrast</key>
+	<string>tabbarSinceTemple</string>
+	<key>masterChainSpeed</key>
+	<string>resourceCompositeBottom</string>
+	<key>permissiveLoopScale</key>
+	<string>opaqueCoordinatorCenter</string>
+	<key>queueTaskAlignment</key>
+	<string>resizableTextFeedback</string>
+</dict>
+</plist>

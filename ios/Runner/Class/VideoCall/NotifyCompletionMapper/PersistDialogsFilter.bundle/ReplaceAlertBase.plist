@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStageStatus</key>
+	<string>asyncPatternValidation</string>
+	<key>errorInterpreterInterval</key>
+	<string>dialogsFromState</string>
+	<key>eventAboutSystem</key>
+	<string>animatedcontainerNumberBorder</string>
+	<key>layoutScopeVisibility</key>
+	<string>observerInChain</string>
+	<key>routeDuringCommand</key>
+	<string>inactiveStorageType</string>
+	<key>storyboardUntilDecorator</key>
+	<string>localizationAndSingleton</string>
+	<key>tappablePrecisionAcceleration</key>
+	<string>transitionThanEnvironment</string>
+	<key>taskAdapterBrightness</key>
+	<string>animatedcontainerVariableSize</string>
+	<key>taskIncludePrototype</key>
+	<string>sliderPerStructure</string>
+	<key>usecaseAmongStrategy</key>
+	<string>providerPatternShape</string>
+</dict>
+</plist>

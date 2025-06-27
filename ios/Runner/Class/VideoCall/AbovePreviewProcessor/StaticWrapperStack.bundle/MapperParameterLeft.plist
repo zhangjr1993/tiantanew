@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitShapeTag</key>
+	<string>currentRemainderSpacing</string>
+	<key>factoryFlyweightAlignment</key>
+	<string>interactorFormBrightness</string>
+	<key>immutableMobxMargin</key>
+	<string>beginnerTickerSpacing</string>
+	<key>mediumCubitDensity</key>
+	<string>constraintFrameworkDistance</string>
+	<key>subtleScrollMargin</key>
+	<string>queryWithSingleton</string>
+</dict>
+</plist>

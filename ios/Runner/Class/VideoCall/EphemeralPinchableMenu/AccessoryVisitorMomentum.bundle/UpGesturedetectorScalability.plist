@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveUtilRotation</key>
+	<string>fixedAwaitInterval</string>
+	<key>controllerActionTop</key>
+	<string>bitrateOrShape</string>
+	<key>labelParamRotation</key>
+	<string>secondHashState</string>
+	<key>loopProcessOpacity</key>
+	<string>animatedInjectionTint</string>
+	<key>nodeWithoutFunction</key>
+	<string>listviewNearActivity</string>
+	<key>transitionNearOperation</key>
+	<string>memberBufferBorder</string>
+	<key>webContainerInterval</key>
+	<string>newestPopupAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionModeVelocity</key>
+	<string>hashProcessKind</string>
+	<key>commonModelVisible</key>
+	<string>mainFrameHue</string>
+	<key>flexPatternValidation</key>
+	<string>checklistForAction</string>
+	<key>inactivePresenterTint</key>
+	<string>marginContextAcceleration</string>
+	<key>previewAroundFlyweight</key>
+	<string>builderScopeOrientation</string>
+	<key>referenceFlyweightAcceleration</key>
+	<string>popupBesideShape</string>
+	<key>temporaryKernelDepth</key>
+	<string>resilientSpineTension</string>
+</dict>
+</plist>

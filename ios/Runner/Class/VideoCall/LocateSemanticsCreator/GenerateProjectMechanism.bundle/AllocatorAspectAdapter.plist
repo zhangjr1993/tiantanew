@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocNumberType</key>
+	<string>textBridgeSize</string>
+	<key>compositionViaChain</key>
+	<string>tangentScopeCoord</string>
+	<key>coordinatorAndStrategy</key>
+	<string>multiCollectionBorder</string>
+	<key>labelViaSingleton</key>
+	<string>singletonOfAdapter</string>
+	<key>logarithmOfScope</key>
+	<string>intensityPhaseTag</string>
+	<key>scrollDecoratorShape</key>
+	<string>listenerMediatorOrigin</string>
+	<key>sequentialHistogramValidation</key>
+	<string>dynamicParticleInterval</string>
+	<key>singletonThroughMemento</key>
+	<string>builderTempleTag</string>
+	<key>specifierProxyTag</key>
+	<string>consumerContextTransparency</string>
+</dict>
+</plist>

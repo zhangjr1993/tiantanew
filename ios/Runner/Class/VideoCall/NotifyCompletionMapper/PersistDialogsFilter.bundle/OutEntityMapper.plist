@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSemanticsType</key>
+	<string>interactiveCustompaintInset</string>
+	<key>appbarVarMomentum</key>
+	<string>enabledCaptionSkewx</string>
+	<key>currentAllocatorSkewy</key>
+	<string>blocBufferSpacing</string>
+	<key>futureAndProcess</key>
+	<string>effectViaNumber</string>
+	<key>mobileJobStyle</key>
+	<string>navigatorBridgeStatus</string>
+	<key>priorSegueAcceleration</key>
+	<string>segueVersusStyle</string>
+	<key>resilientObserverContrast</key>
+	<string>inactiveAsyncEdge</string>
+	<key>transitionObserverShade</key>
+	<string>responseFromStrategy</string>
+</dict>
+</plist>

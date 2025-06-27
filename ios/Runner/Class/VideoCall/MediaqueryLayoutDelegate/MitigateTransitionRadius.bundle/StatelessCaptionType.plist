@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionExceptEnvironment</key>
+	<string>widgetProxyScale</string>
+	<key>aspectScopeDistance</key>
+	<string>webEqualizationRotation</string>
+	<key>dynamicSegmentMargin</key>
+	<string>navigatorAmongChain</string>
+	<key>finalSubscriptionMargin</key>
+	<string>channelBeyondMediator</string>
+	<key>localCertificateValidation</key>
+	<string>responseInLayer</string>
+	<key>mediumDelegateEdge</key>
+	<string>matrixStateHue</string>
+	<key>monsterThanState</key>
+	<string>servicePerStrategy</string>
+	<key>radioAwayDecorator</key>
+	<string>asyncFormFlags</string>
+	<key>responsiveSizedboxStyle</key>
+	<string>serviceOfStrategy</string>
+</dict>
+</plist>

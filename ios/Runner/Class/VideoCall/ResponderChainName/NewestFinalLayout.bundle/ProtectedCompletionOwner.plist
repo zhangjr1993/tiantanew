@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitVarBound</key>
+	<string>prevSkinResponse</string>
+	<key>challengeStrategyName</key>
+	<string>animationBySystem</string>
+	<key>challengeTaskTheme</key>
+	<string>titleWorkAppearance</string>
+	<key>injectionTempleBehavior</key>
+	<string>methodPerPrototype</string>
+	<key>interpolationFromForm</key>
+	<string>themeContainProxy</string>
+	<key>oldConvolutionAcceleration</key>
+	<string>brushByContext</string>
+	<key>publicCacheTail</key>
+	<string>stateBeyondShape</string>
+	<key>resultAboutFunction</key>
+	<string>sensorAlongFlyweight</string>
+	<key>signatureFromLayer</key>
+	<string>alignmentSinceOperation</string>
+	<key>titleTaskDepth</key>
+	<string>resourceTierRight</string>
+</dict>
+</plist>

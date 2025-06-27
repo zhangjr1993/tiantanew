@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveReducerStyle</key>
+	<string>similarTransformerDuration</string>
+	<key>behaviorPerBridge</key>
+	<string>synchronousDropdownbuttonInset</string>
+	<key>completionAsComposite</key>
+	<string>alignmentCycleVisible</string>
+	<key>delicateButtonFlags</key>
+	<string>scrollableExponentFeedback</string>
+	<key>grainProcessTag</key>
+	<string>slashPrototypeOffset</string>
+	<key>newestCompletionSpacing</key>
+	<string>reusableAllocatorSpeed</string>
+	<key>swiftTaskShade</key>
+	<string>asyncThroughPrototype</string>
+	<key>symmetricStoryboardInset</key>
+	<string>localizationWithDecorator</string>
+</dict>
+</plist>

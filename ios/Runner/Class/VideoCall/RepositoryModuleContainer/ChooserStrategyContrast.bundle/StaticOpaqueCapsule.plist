@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>framePrototypeFormat</key>
+	<string>operationSinceJob</string>
+	<key>momentumStrategyShape</key>
+	<string>offsetViaMode</string>
+	<key>synchronousSubscriptionTransparency</key>
+	<string>callbackOfOperation</string>
+	<key>synchronousTextAppearance</key>
+	<string>hierarchicalBrushStyle</string>
+	<key>usecaseAlongState</key>
+	<string>cupertinoExceptFlyweight</string>
+</dict>
+</plist>

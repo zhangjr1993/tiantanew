@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedLoopVisible</key>
+	<string>permissiveRadioStyle</string>
+	<key>flexContainForm</key>
+	<string>mobxFacadeTail</string>
+	<key>semanticDurationInteraction</key>
+	<string>basicFrameLeft</string>
+	<key>sinkMediatorState</key>
+	<string>appbarLikeFunction</string>
+</dict>
+</plist>

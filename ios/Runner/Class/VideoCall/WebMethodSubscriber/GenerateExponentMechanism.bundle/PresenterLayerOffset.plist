@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicTweenVisible</key>
+	<string>otherFeatureFlags</string>
+	<key>fragmentByDecorator</key>
+	<string>primaryBuilderTransparency</string>
+	<key>momentumAtActivity</key>
+	<string>providerJobFlags</string>
+	<key>previewAtLevel</key>
+	<string>instructionInFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInsideParameter</key>
+	<string>firstStackSize</string>
+	<key>assetPlatformColor</key>
+	<string>widgetPerType</string>
+	<key>globalBitrateTop</key>
+	<string>clipperInterpreterTheme</string>
+	<key>imperativeCurveBrightness</key>
+	<string>composableCharacterPadding</string>
+	<key>specifyOffsetFormat</key>
+	<string>commonRemainderStyle</string>
+	<key>standaloneHeapBound</key>
+	<string>consumerSystemFrequency</string>
+	<key>unsortedLossPressure</key>
+	<string>smartObserverVisibility</string>
+	<key>viewDecoratorBehavior</key>
+	<string>nativeRepositoryCoord</string>
+</dict>
+</plist>

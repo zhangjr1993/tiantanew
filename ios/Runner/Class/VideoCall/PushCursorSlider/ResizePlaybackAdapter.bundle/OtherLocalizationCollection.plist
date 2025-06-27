@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMapMomentum</key>
+	<string>lossChainFrequency</string>
+	<key>containerPhaseTop</key>
+	<string>queueFunctionMode</string>
+	<key>convolutionBeyondScope</key>
+	<string>interpolationAlongMode</string>
+	<key>delicateVectorDepth</key>
+	<string>providerStyleBorder</string>
+	<key>eagerContainerVisibility</key>
+	<string>durationWorkDistance</string>
+	<key>switchIncludeAction</key>
+	<string>sampleLevelEdge</string>
+</dict>
+</plist>

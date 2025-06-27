@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerMediatorSpeed</key>
+	<string>tappableCaptionDuration</string>
+	<key>consumerAtPrototype</key>
+	<string>fragmentParamFormat</string>
+	<key>custompaintAndFacade</key>
+	<string>litePaddingLocation</string>
+	<key>missedDecorationSpeed</key>
+	<string>ephemeralInjectionShape</string>
+	<key>singletonVisitorDistance</key>
+	<string>popupInDecorator</string>
+	<key>sizeBufferOrientation</key>
+	<string>unaryOfCommand</string>
+	<key>sliderAroundStructure</key>
+	<string>positionNearForm</string>
+	<key>subpixelInsideStrategy</key>
+	<string>buttonThanPlatform</string>
+</dict>
+</plist>

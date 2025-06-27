@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopNavigatorHead</key>
+	<string>unaryOrPlatform</string>
+	<key>keyIntensityBrightness</key>
+	<string>textureAsCycle</string>
+	<key>localizationLevelLocation</key>
+	<string>transitionWithPhase</string>
+	<key>nativeScaleMode</key>
+	<string>gridStyleTheme</string>
+</dict>
+</plist>

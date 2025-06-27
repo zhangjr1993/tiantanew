@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionScaleFormat</key>
+	<string>popupStyleShade</string>
+	<key>animatedcontainerFacadeOrigin</key>
+	<string>requestAmongCycle</string>
+	<key>immediateControllerBound</key>
+	<string>themeShapeEdge</string>
+	<key>lastLocalizationBound</key>
+	<string>specifierPrototypeOpacity</string>
+	<key>navigatorCompositeBottom</key>
+	<string>intuitiveNavigatorRotation</string>
+	<key>protocolWorkShade</key>
+	<string>chartFormTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinePlatformTheme</key>
+	<string>lostTextVisibility</string>
+	<key>callbackLayerSkewx</key>
+	<string>operationVarCenter</string>
+	<key>durationFacadeFlags</key>
+	<string>rowStageFeedback</string>
+	<key>gestureShapeTransparency</key>
+	<string>grayscaleDespiteProxy</string>
+</dict>
+</plist>

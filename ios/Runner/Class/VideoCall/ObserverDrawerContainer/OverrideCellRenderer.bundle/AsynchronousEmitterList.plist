@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionUntilBuffer</key>
+	<string>publicPreviewTag</string>
+	<key>inkwellIncludePattern</key>
+	<string>relationalCharacterInset</string>
+	<key>reactiveDependencyHead</key>
+	<string>groupThanMediator</string>
+	<key>widgetModeInset</key>
+	<string>currentPositionCoord</string>
+</dict>
+</plist>

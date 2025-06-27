@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedConstraintSkewy</key>
+	<string>alphaUntilVariable</string>
+	<key>certificateLevelBound</key>
+	<string>nativeThemeForce</string>
+	<key>commonConvolutionSpeed</key>
+	<string>convolutionForParameter</string>
+	<key>discardedTextAlignment</key>
+	<string>methodDuringStyle</string>
+	<key>durationFacadeSaturation</key>
+	<string>sortedBuilderPadding</string>
+	<key>menuPhaseDistance</key>
+	<string>transitionMementoPosition</string>
+	<key>multiplicationLevelInteraction</key>
+	<string>activatedMovementShade</string>
+</dict>
+</plist>

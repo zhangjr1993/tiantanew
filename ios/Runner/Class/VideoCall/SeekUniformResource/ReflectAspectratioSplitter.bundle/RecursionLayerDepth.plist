@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationStageType</key>
+	<string>statelessVersusParam</string>
+	<key>histogramAroundTier</key>
+	<string>transitionNumberDuration</string>
+	<key>missionFlyweightFeedback</key>
+	<string>nibCycleTail</string>
+	<key>specifierAsMemento</key>
+	<string>subscriptionAndLevel</string>
+	<key>specifierCycleSpacing</key>
+	<string>boxThroughVisitor</string>
+</dict>
+</plist>

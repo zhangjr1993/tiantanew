@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAgainstFramework</key>
+	<string>baselineWorkFlags</string>
+	<key>autoStatefulSkewx</key>
+	<string>statelessObserverType</string>
+	<key>completerViaBuffer</key>
+	<string>themeFunctionBottom</string>
+	<key>dynamicRouterPadding</key>
+	<string>navigatorAsEnvironment</string>
+	<key>immediateTernaryRotation</key>
+	<string>resolverMementoBorder</string>
+	<key>labelThroughMemento</key>
+	<string>permissiveChartTheme</string>
+</dict>
+</plist>

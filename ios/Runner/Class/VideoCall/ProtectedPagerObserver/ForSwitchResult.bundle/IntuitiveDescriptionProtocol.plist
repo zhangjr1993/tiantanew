@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaBridgeShape</key>
+	<string>storageMementoOpacity</string>
+	<key>controllerValueContrast</key>
+	<string>liteFrameRate</string>
+	<key>displayableChecklistInset</key>
+	<string>histogramDecoratorTint</string>
+	<key>inkwellPrototypeVelocity</key>
+	<string>awaitMementoMode</string>
+	<key>parallelCompletionColor</key>
+	<string>lastViewBehavior</string>
+	<key>segueAboutTier</key>
+	<string>newestMapDuration</string>
+	<key>subtleCallbackState</key>
+	<string>dedicatedAspectTail</string>
+	<key>switchNumberStatus</key>
+	<string>numericalInkwellCount</string>
+	<key>variantAroundTemple</key>
+	<string>animationAsVisitor</string>
+</dict>
+</plist>

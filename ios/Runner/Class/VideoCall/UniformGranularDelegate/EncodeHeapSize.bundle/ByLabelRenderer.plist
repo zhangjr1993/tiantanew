@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousContainerLeft</key>
+	<string>singletonInterpreterBottom</string>
+	<key>disabledAnimationStatus</key>
+	<string>criticalServiceSaturation</string>
+	<key>euclideanTransitionDuration</key>
+	<string>repositoryPerLevel</string>
+	<key>globalScreenSaturation</key>
+	<string>symbolCompositeTension</string>
+	<key>mobxExceptNumber</key>
+	<string>largeBlocOrigin</string>
+	<key>observerOutsideWork</key>
+	<string>seamlessInteractorContrast</string>
+	<key>storeMediatorStyle</key>
+	<string>interactorSincePlatform</string>
+	<key>vectorInterpreterInteraction</key>
+	<string>interfaceFlyweightInteraction</string>
+</dict>
+</plist>

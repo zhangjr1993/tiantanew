@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetIncludeShape</key>
+	<string>webCursorPressure</string>
+	<key>decorationBeyondSystem</key>
+	<string>scrollFromStrategy</string>
+	<key>modulusModeShape</key>
+	<string>binaryFacadeMode</string>
+	<key>numericalRowMode</key>
+	<string>concurrentCardVisibility</string>
+	<key>previewWithState</key>
+	<string>symmetricMarginSkewx</string>
+	<key>singletonAndPlatform</key>
+	<string>declarativeThemeSpacing</string>
+	<key>utilCycleFormat</key>
+	<string>groupParameterType</string>
+	<key>vectorBridgeCenter</key>
+	<string>blocAndPattern</string>
+</dict>
+</plist>

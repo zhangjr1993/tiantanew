@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTaskFormat</key>
+	<string>keySwitchSpeed</string>
+	<key>localizationBeyondLayer</key>
+	<string>awaitEnvironmentAppearance</string>
+	<key>optimizerWithoutPhase</key>
+	<string>difficultCompleterLocation</string>
+	<key>persistentBaselineIndex</key>
+	<string>timerParamSpeed</string>
+	<key>priorityInterpreterState</key>
+	<string>bitrateOrStyle</string>
+	<key>threadAlongTask</key>
+	<string>controllerWithoutVisitor</string>
+</dict>
+</plist>

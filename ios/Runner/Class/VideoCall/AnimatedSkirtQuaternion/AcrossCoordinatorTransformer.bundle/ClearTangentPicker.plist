@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSkinCoord</key>
+	<string>layerParameterDirection</string>
+	<key>constraintFromPrototype</key>
+	<string>spinePrototypeName</string>
+	<key>lastButtonTransparency</key>
+	<string>sharedButtonOffset</string>
+	<key>originalDescriptionDistance</key>
+	<string>typicalSpecifierPadding</string>
+	<key>repositoryPlatformForce</key>
+	<string>deferredButtonLeft</string>
+	<key>visibleLabelFeedback</key>
+	<string>discardedStatelessColor</string>
+</dict>
+</plist>

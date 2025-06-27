@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitTempleValidation</key>
+	<string>baselineAroundFlyweight</string>
+	<key>discardedScaffoldVelocity</key>
+	<string>sliderViaTask</string>
+	<key>elasticRectTop</key>
+	<string>resilientListenerDuration</string>
+	<key>listenerOutsideDecorator</key>
+	<string>resolverBeyondVisitor</string>
+	<key>providerAmongMethod</key>
+	<string>queueContainParameter</string>
+	<key>shaderNearForm</key>
+	<string>textureFacadeMargin</string>
+	<key>taskInStructure</key>
+	<string>statelessReducerShade</string>
+	<key>uniformAspectFormat</key>
+	<string>labelAmongPrototype</string>
+	<key>usageStyleVisible</key>
+	<string>drawerInsideFlyweight</string>
+</dict>
+</plist>

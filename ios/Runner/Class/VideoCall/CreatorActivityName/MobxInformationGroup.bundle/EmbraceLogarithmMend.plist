@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineSystemTransparency</key>
+	<string>activityChainIndex</string>
+	<key>descriptionExceptSingleton</key>
+	<string>constDecorationName</string>
+	<key>immediateBorderPadding</key>
+	<string>entitySingletonDensity</string>
+	<key>scrollContainKind</key>
+	<string>entropyFlyweightShade</string>
+	<key>textureCommandVisible</key>
+	<string>richtextForFlyweight</string>
+	<key>titleAdapterRate</key>
+	<string>segueKindStatus</string>
+</dict>
+</plist>

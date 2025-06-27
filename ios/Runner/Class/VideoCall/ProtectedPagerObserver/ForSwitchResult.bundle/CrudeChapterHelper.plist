@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGesturedetectorDelay</key>
+	<string>materialInkwellCenter</string>
+	<key>channelStrategyShape</key>
+	<string>coordinatorContainFunction</string>
+	<key>cubitIncludeFacade</key>
+	<string>composableCommandDistance</string>
+	<key>invisibleSinkMargin</key>
+	<string>textDespiteActivity</string>
+	<key>reusableRequestBorder</key>
+	<string>granularSensorDuration</string>
+	<key>titleNearPhase</key>
+	<string>boxshadowValueBound</string>
+	<key>zoneMethodForce</key>
+	<string>subpixelTempleInterval</string>
+</dict>
+</plist>

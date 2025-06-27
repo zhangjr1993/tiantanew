@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorActionPadding</key>
+	<string>canvasAroundSingleton</string>
+	<key>completerBridgeRight</key>
+	<string>anchorInProxy</string>
+	<key>entropyOperationSpeed</key>
+	<string>permanentOptionDelay</string>
+	<key>gridviewKindOpacity</key>
+	<string>axisContainPattern</string>
+	<key>marginModeDelay</key>
+	<string>cursorOrTier</string>
+	<key>titleTypeRotation</key>
+	<string>lostMarginSize</string>
+	<key>tweenThroughKind</key>
+	<string>menuAmongStyle</string>
+</dict>
+</plist>

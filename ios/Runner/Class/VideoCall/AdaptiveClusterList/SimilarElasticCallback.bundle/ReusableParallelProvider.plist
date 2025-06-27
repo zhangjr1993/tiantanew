@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAtStrategy</key>
+	<string>unsortedDescriptionPressure</string>
+	<key>checkboxOutsideShape</key>
+	<string>drawerFormValidation</string>
+	<key>effectCompositePosition</key>
+	<string>cardOfVar</string>
+	<key>popupCycleContrast</key>
+	<string>requestDecoratorAlignment</string>
+	<key>swiftDecoratorScale</key>
+	<string>usecaseLikeMediator</string>
+	<key>tensorExponentOrigin</key>
+	<string>checkboxShapeHue</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisStagePosition</key>
+	<string>controllerLayerRight</string>
+	<key>coordinatorJobPadding</key>
+	<string>ignoredGridCenter</string>
+	<key>disabledCoordinatorFrequency</key>
+	<string>pointThroughWork</string>
+	<key>navigatorContainStage</key>
+	<string>playbackBeyondCommand</string>
+	<key>particleAsFunction</key>
+	<string>curveJobShape</string>
+	<key>radioShapeDelay</key>
+	<string>bufferLikeLevel</string>
+	<key>smartTimerVelocity</key>
+	<string>timerPhaseTension</string>
+</dict>
+</plist>

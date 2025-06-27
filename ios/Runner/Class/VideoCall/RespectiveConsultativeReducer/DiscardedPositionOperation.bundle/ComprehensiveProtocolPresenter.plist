@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentKindSize</key>
+	<string>functionalGridviewMargin</string>
+	<key>geometricTopicShape</key>
+	<string>controllerContextDirection</string>
+	<key>repositoryValueMode</key>
+	<string>ephemeralTopicDistance</string>
+	<key>sampleUntilParam</key>
+	<string>desktopRichtextOrientation</string>
+	<key>smartHashShape</key>
+	<string>consumerChainOpacity</string>
+	<key>subscriptionUntilEnvironment</key>
+	<string>transformerSingletonKind</string>
+</dict>
+</plist>

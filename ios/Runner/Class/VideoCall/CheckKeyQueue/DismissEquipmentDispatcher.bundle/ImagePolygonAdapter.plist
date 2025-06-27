@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentResultAcceleration</key>
+	<string>advancedProgressbarTail</string>
+	<key>eagerCupertinoSpacing</key>
+	<string>blocNearBuffer</string>
+	<key>frameByFramework</key>
+	<string>masterPhaseCoord</string>
+	<key>prismaticGesturedetectorBottom</key>
+	<string>sequentialStorePressure</string>
+	<key>repositoryFromType</key>
+	<string>coordinatorEnvironmentMode</string>
+</dict>
+</plist>

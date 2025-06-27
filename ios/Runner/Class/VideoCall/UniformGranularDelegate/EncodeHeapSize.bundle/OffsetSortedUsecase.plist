@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerObserverOffset</key>
+	<string>appbarParameterLeft</string>
+	<key>coordinatorSingletonShade</key>
+	<string>binaryForCommand</string>
+	<key>localCompleterCoord</key>
+	<string>topicOutsideLevel</string>
+	<key>notifierOfFunction</key>
+	<string>stampPlatformSkewy</string>
+	<key>presenterIncludeDecorator</key>
+	<string>exceptionOrPhase</string>
+	<key>sessionAroundTask</key>
+	<string>playbackAgainstState</string>
+</dict>
+</plist>

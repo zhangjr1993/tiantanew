@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerBridgeType</key>
+	<string>mobileActionFeedback</string>
+	<key>containerStateContrast</key>
+	<string>compositionalTransitionHue</string>
+	<key>customScaleName</key>
+	<string>pageviewSinceVariable</string>
+	<key>interfaceTierKind</key>
+	<string>visibleCharacterState</string>
+	<key>modelFrameworkDelay</key>
+	<string>zoneVersusStructure</string>
+	<key>originalGetxName</key>
+	<string>sizeByShape</string>
+	<key>overlayAndPrototype</key>
+	<string>layoutScopeFeedback</string>
+	<key>providerOrObserver</key>
+	<string>richtextChainDuration</string>
+	<key>tweenAtTemple</key>
+	<string>easyLabelBound</string>
+</dict>
+</plist>

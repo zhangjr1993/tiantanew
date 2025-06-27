@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTextfieldFeedback</key>
+	<string>allocatorOrFlyweight</string>
+	<key>localizationInEnvironment</key>
+	<string>effectModeOpacity</string>
+	<key>queueCommandSkewy</key>
+	<string>enabledApertureBorder</string>
+	<key>scrollableDescriptorOrigin</key>
+	<string>constraintOutsideBuffer</string>
+</dict>
+</plist>

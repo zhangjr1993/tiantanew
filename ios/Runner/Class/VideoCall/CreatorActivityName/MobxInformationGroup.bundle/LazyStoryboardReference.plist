@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorVersusLayer</key>
+	<string>screenViaSystem</string>
+	<key>projectionVarRight</key>
+	<string>tensorNodeTransparency</string>
+	<key>radiusActionVisibility</key>
+	<string>ignoredAnimationDuration</string>
+	<key>uniformTableScale</key>
+	<string>stackPhaseBrightness</string>
+</dict>
+</plist>

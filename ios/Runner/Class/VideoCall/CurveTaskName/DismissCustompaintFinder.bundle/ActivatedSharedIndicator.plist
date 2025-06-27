@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitWithChain</key>
+	<string>timerBeyondStrategy</string>
+	<key>framePhaseAlignment</key>
+	<string>cubitBeyondShape</string>
+	<key>grainAmongCommand</key>
+	<string>queryCycleOffset</string>
+	<key>hierarchicalExpandedBorder</key>
+	<string>navigatorEnvironmentFormat</string>
+	<key>inheritedTextureSpacing</key>
+	<string>repositoryVisitorInterval</string>
+	<key>integerInComposite</key>
+	<string>cupertinoContainFacade</string>
+	<key>navigatorCompositeSkewy</key>
+	<string>alignmentForFacade</string>
+	<key>persistentRouteTransparency</key>
+	<string>constraintLayerPadding</string>
+	<key>routerAboutSingleton</key>
+	<string>flexDespiteFlyweight</string>
+</dict>
+</plist>

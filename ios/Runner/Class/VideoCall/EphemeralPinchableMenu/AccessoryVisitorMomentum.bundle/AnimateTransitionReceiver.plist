@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAxisFormat</key>
+	<string>slashContextCenter</string>
+	<key>aspectratioBesideChain</key>
+	<string>frameVarSize</string>
+	<key>cardOfInterpreter</key>
+	<string>singletonSinceParameter</string>
+	<key>decorationAndScope</key>
+	<string>uniformAnimationBehavior</string>
+	<key>groupAtEnvironment</key>
+	<string>workflowVariableColor</string>
+</dict>
+</plist>

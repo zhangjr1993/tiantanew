@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedStateMargin</key>
+	<string>appbarByLevel</string>
+	<key>cartesianMasterIndex</key>
+	<string>channelsAdapterInteraction</string>
+	<key>declarativeMetadataDistance</key>
+	<string>cycleAtFacade</string>
+	<key>fusedRouteCenter</key>
+	<string>keyCurveDuration</string>
+	<key>interfaceCycleTint</key>
+	<string>isolateByStructure</string>
+	<key>permanentCoordinatorVisibility</key>
+	<string>graphicActionOpacity</string>
+	<key>pointAmongCommand</key>
+	<string>popupBridgeIndex</string>
+	<key>slashVarAppearance</key>
+	<string>referenceInMethod</string>
+	<key>topicLayerOrientation</key>
+	<string>constraintFormSpeed</string>
+	<key>topicPhaseVisible</key>
+	<string>resourceStyleOffset</string>
+</dict>
+</plist>

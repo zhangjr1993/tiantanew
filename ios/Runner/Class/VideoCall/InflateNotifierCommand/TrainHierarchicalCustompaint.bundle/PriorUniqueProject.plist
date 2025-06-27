@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonParameterTint</key>
+	<string>checkboxWorkBound</string>
+	<key>independentChapterOpacity</key>
+	<string>pageviewStyleDensity</string>
+	<key>mainConstraintScale</key>
+	<string>priorityViaPhase</string>
+	<key>navigatorJobBound</key>
+	<string>dialogsForKind</string>
+	<key>usecaseBeyondPhase</key>
+	<string>frameOutsideCommand</string>
+</dict>
+</plist>

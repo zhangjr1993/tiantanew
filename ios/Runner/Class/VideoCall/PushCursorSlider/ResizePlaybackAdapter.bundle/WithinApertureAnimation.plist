@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandSystemSpeed</key>
+	<string>taskKindCoord</string>
+	<key>factoryFlyweightFrequency</key>
+	<string>opaqueActivityCoord</string>
+	<key>graphicDuringFunction</key>
+	<string>chartParameterScale</string>
+	<key>gridAgainstDecorator</key>
+	<string>imageInterpreterPressure</string>
+	<key>loopDecoratorTint</key>
+	<string>hardMarginSpacing</string>
+	<key>observerContextIndex</key>
+	<string>shaderBufferResponse</string>
+	<key>richtextFormTheme</key>
+	<string>localizationStageSkewx</string>
+	<key>singletonOrFunction</key>
+	<string>relationalShaderCenter</string>
+</dict>
+</plist>

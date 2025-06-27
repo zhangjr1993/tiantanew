@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisWorkTheme</key>
+	<string>primaryBorderCoord</string>
+	<key>consultativeMobxFlags</key>
+	<string>routeScopeBound</string>
+	<key>decorationCycleFlags</key>
+	<string>activeContainerScale</string>
+	<key>navigationPatternSpeed</key>
+	<string>apertureLevelMode</string>
+	<key>permissiveProtocolBound</key>
+	<string>tensorBuilderRight</string>
+	<key>sizeSinceState</key>
+	<string>globalCycleAlignment</string>
+	<key>staticResponseEdge</key>
+	<string>checklistSingletonAcceleration</string>
+	<key>streamOrTemple</key>
+	<string>titleForCycle</string>
+</dict>
+</plist>

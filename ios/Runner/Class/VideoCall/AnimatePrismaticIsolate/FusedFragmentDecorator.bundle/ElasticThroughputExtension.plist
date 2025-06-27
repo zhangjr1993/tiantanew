@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyMovementInterval</key>
+	<string>callbackAboutNumber</string>
+	<key>disabledAwaitOpacity</key>
+	<string>graphInterpreterTheme</string>
+	<key>granularFeatureCount</key>
+	<string>labelAsScope</string>
+	<key>independentFactoryEdge</key>
+	<string>reducerAwayMediator</string>
+	<key>oldChannelTint</key>
+	<string>gridviewParameterTheme</string>
+	<key>resolverOutsideStrategy</key>
+	<string>remainderStyleCenter</string>
+	<key>sceneExceptState</key>
+	<string>isolateLikeEnvironment</string>
+</dict>
+</plist>

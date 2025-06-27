@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableOffsetStyle</key>
+	<string>rapidResolverValidation</string>
+	<key>protectedNavigationName</key>
+	<string>prevAlphaDirection</string>
+	<key>storeAwayParameter</key>
+	<string>rectInsideActivity</string>
+	<key>unsortedBoxshadowTransparency</key>
+	<string>tickerEnvironmentVelocity</string>
+</dict>
+</plist>

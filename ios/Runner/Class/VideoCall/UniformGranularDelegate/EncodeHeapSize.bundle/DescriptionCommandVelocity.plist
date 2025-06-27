@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardGemRate</key>
+	<string>mediaqueryDuringObserver</string>
+	<key>rapidZoneOrigin</key>
+	<string>deferredConfigurationCenter</string>
+	<key>responseBeyondScope</key>
+	<string>flexFromSystem</string>
+	<key>responseFunctionCount</key>
+	<string>animationPerPhase</string>
+	<key>sampleVersusValue</key>
+	<string>scaffoldParamDepth</string>
+	<key>staticFutureOpacity</key>
+	<string>observerUntilScope</string>
+</dict>
+</plist>

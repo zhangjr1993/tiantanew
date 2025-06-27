@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAnimationForce</key>
+	<string>viewPatternForce</string>
+	<key>autoExponentBehavior</key>
+	<string>mediocreHashValidation</string>
+	<key>bitrateBesideProxy</key>
+	<string>streamOrValue</string>
+	<key>canvasNearScope</key>
+	<string>accessibleRepositoryDuration</string>
+	<key>channelsSystemStyle</key>
+	<string>dimensionVarTheme</string>
+	<key>commonTextureDepth</key>
+	<string>observerWorkIndex</string>
+	<key>configurationBufferVisible</key>
+	<string>pinchableCharacterType</string>
+	<key>equipmentInterpreterAcceleration</key>
+	<string>framePrototypeRight</string>
+	<key>significantChartSize</key>
+	<string>rapidPaddingSkewx</string>
+</dict>
+</plist>

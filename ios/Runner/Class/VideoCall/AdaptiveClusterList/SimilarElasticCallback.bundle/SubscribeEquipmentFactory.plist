@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSpriteInset</key>
+	<string>permissiveTransitionDelay</string>
+	<key>draggablePaddingTheme</key>
+	<string>catalystInterpreterBorder</string>
+	<key>drawerFormScale</key>
+	<string>tabbarModeCenter</string>
+	<key>lazyWidgetCenter</key>
+	<string>dependencyContainFacade</string>
+	<key>lostProviderFormat</key>
+	<string>uniqueLogarithmIndex</string>
+	<key>permissiveDecorationMargin</key>
+	<string>staticThreadTension</string>
+	<key>rapidUtilLeft</key>
+	<string>delegatePhaseShade</string>
+	<key>statefulInsideCycle</key>
+	<string>intuitiveBlocAppearance</string>
+	<key>symmetricWidgetOrigin</key>
+	<string>serviceByJob</string>
+	<key>ternaryFlyweightSpacing</key>
+	<string>singletonExceptSingleton</string>
+</dict>
+</plist>

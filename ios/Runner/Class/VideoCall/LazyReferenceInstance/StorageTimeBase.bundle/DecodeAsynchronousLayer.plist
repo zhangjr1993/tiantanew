@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAmongProxy</key>
+	<string>mapAroundDecorator</string>
+	<key>layerMediatorBehavior</key>
+	<string>channelsVersusMemento</string>
+	<key>lossByOperation</key>
+	<string>animationViaStage</string>
+	<key>positionInStrategy</key>
+	<string>sharedSubscriptionBound</string>
+	<key>transitionPlatformDirection</key>
+	<string>difficultChallengeDelay</string>
+	<key>tweenAlongCommand</key>
+	<string>retainedWidgetSpeed</string>
+</dict>
+</plist>

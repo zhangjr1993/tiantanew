@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameContainType</key>
+	<string>routerAroundLayer</string>
+	<key>gestureStateInset</key>
+	<string>capsuleBeyondScope</string>
+	<key>labelPatternScale</key>
+	<string>sortedNavigationStatus</string>
+	<key>lostGrayscaleBrightness</key>
+	<string>coordinatorAsEnvironment</string>
+	<key>pinchableAwaitDuration</key>
+	<string>constraintLikeProxy</string>
+	<key>sampleBridgeOpacity</key>
+	<string>independentStampVisibility</string>
+	<key>sharedQueueRotation</key>
+	<string>subtleCapsulePosition</string>
+</dict>
+</plist>

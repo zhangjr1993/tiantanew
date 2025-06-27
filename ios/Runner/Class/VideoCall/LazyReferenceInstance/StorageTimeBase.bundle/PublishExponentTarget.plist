@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandStrategyTransparency</key>
+	<string>modelMethodLeft</string>
+	<key>interactorVisitorPressure</key>
+	<string>widgetStructureCount</string>
+	<key>otherInteractorDistance</key>
+	<string>functionalAlertCenter</string>
+	<key>resultVariableSpeed</key>
+	<string>reducerActionOrientation</string>
+	<key>stackWorkTop</key>
+	<string>subsequentFeatureOpacity</string>
+</dict>
+</plist>

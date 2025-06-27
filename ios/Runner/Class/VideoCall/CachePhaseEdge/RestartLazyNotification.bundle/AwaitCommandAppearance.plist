@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledWidgetCenter</key>
+	<string>dynamicBehaviorDirection</string>
+	<key>isolateTierDirection</key>
+	<string>retainedBrushMargin</string>
+	<key>singleAnimationBrightness</key>
+	<string>mediaVarTag</string>
+</dict>
+</plist>

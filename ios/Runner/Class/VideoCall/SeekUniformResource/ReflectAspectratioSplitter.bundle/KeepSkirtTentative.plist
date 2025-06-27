@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxBeyondTier</key>
+	<string>aspectratioAdapterTension</string>
+	<key>controllerFacadeFormat</key>
+	<string>segmentStageFormat</string>
+	<key>discardedRowFeedback</key>
+	<string>significantStatelessFormat</string>
+	<key>exceptionUntilFramework</key>
+	<string>textureWithFramework</string>
+	<key>numericalAllocatorOffset</key>
+	<string>sensorWithoutParameter</string>
+	<key>referenceWorkSkewy</key>
+	<string>localizationAtTier</string>
+	<key>staticPageviewCount</key>
+	<string>layoutBesideComposite</string>
+</dict>
+</plist>

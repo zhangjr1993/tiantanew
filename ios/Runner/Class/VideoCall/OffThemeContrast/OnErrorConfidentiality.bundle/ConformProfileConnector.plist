@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushChainOrigin</key>
+	<string>requiredCosineVisibility</string>
+	<key>imageVersusSingleton</key>
+	<string>compositionalEntropyMode</string>
+	<key>usageContainOperation</key>
+	<string>characterSystemSkewy</string>
+</dict>
+</plist>

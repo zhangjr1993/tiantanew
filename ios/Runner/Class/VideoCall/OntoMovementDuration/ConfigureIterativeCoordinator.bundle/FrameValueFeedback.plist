@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerStageVelocity</key>
+	<string>eagerSessionCount</string>
+	<key>graphicInsideMethod</key>
+	<string>movementIncludeEnvironment</string>
+	<key>multiplicationKindCenter</key>
+	<string>mobileInterpolationSkewy</string>
+	<key>rapidChannelStyle</key>
+	<string>sinkInterpreterCoord</string>
+	<key>sustainableBitrateValidation</key>
+	<string>effectPerProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandStructureInteraction</key>
+	<string>singletonAgainstProcess</string>
+	<key>cycleAlongTask</key>
+	<string>kernelBesideValue</string>
+	<key>dropdownbuttonCompositeFlags</key>
+	<string>hardBitrateTail</string>
+	<key>durationLevelRight</key>
+	<string>frameStrategyDuration</string>
+	<key>independentPreviewTransparency</key>
+	<string>reducerSinceVar</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackSinceCycle</key>
+	<string>profilePrototypeSize</string>
+	<key>criticalConfigurationResponse</key>
+	<string>stepWithoutTier</string>
+	<key>dimensionContextVisible</key>
+	<string>viewCycleMode</string>
+	<key>storyboardFormInteraction</key>
+	<string>independentContainerMargin</string>
+</dict>
+</plist>

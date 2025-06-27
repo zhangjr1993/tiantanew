@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncFunctionRate</key>
+	<string>controllerVariableMode</string>
+	<key>columnChainValidation</key>
+	<string>usageOfParameter</string>
+	<key>cupertinoLabelMargin</key>
+	<string>featureOutsideComposite</string>
+	<key>currentCertificateScale</key>
+	<string>sizeParameterCoord</string>
+	<key>enabledHeroTension</key>
+	<string>lostMediaqueryBorder</string>
+	<key>inheritedActivityDistance</key>
+	<string>disabledEquipmentTail</string>
+	<key>seamlessAnimationSkewy</key>
+	<string>isolateWithoutPhase</string>
+	<key>topicForLevel</key>
+	<string>reducerPerLayer</string>
+</dict>
+</plist>

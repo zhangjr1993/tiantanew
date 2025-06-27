@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintVarHue</key>
+	<string>optimizerAboutStrategy</string>
+	<key>customizedDelegateBehavior</key>
+	<string>notifierViaAdapter</string>
+	<key>equipmentByVar</key>
+	<string>touchWithoutMode</string>
+	<key>eventActionShape</key>
+	<string>lazyTransitionFlags</string>
+	<key>imperativeAlphaDistance</key>
+	<string>callbackCommandLocation</string>
+	<key>oldLayoutAlignment</key>
+	<string>criticalResolverKind</string>
+	<key>sinkFrameworkFrequency</key>
+	<string>cartesianResponseRotation</string>
+	<key>taskOperationDepth</key>
+	<string>pinchableResolverRotation</string>
+	<key>unactivatedAsyncBrightness</key>
+	<string>queueJobValidation</string>
+</dict>
+</plist>

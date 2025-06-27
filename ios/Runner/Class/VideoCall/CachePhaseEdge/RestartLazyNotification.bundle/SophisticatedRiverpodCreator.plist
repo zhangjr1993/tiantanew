@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedDecorationDensity</key>
+	<string>localizationAndParameter</string>
+	<key>flexibleConstraintStyle</key>
+	<string>specifyHandlerBottom</string>
+	<key>prevScreenBottom</key>
+	<string>curveOperationIndex</string>
+	<key>reducerBeyondJob</key>
+	<string>activeGridCoord</string>
+	<key>referenceJobMomentum</key>
+	<string>smartGradientValidation</string>
+	<key>responseVariableValidation</key>
+	<string>agileObserverMode</string>
+	<key>retainedProgressbarHue</key>
+	<string>responsiveEntityAlignment</string>
+	<key>storageStylePosition</key>
+	<string>multiDescriptorInterval</string>
+	<key>transformerFacadeColor</key>
+	<string>positionInterpreterOrientation</string>
+</dict>
+</plist>

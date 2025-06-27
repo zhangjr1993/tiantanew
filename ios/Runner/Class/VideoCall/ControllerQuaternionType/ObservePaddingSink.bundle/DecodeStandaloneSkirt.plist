@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectLayerLocation</key>
+	<string>consumerVersusStage</string>
+	<key>projectAroundMethod</key>
+	<string>containerVisitorPosition</string>
+	<key>semanticColumnState</key>
+	<string>precisionAlongAction</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartContextSpacing</key>
+	<string>dialogsPlatformStatus</string>
+	<key>collectionProcessBrightness</key>
+	<string>listviewDecoratorFlags</string>
+	<key>drawerInScope</key>
+	<string>positionContextSize</string>
+	<key>offsetVersusObserver</key>
+	<string>channelOperationTheme</string>
+	<key>responsiveRectIndex</key>
+	<string>gesturedetectorPerBuffer</string>
+	<key>sequentialSceneVisibility</key>
+	<string>criticalConstraintDistance</string>
+	<key>taskSingletonSaturation</key>
+	<string>permanentMobileShade</string>
+	<key>usecaseInMemento</key>
+	<string>hardRouterFormat</string>
+	<key>viewPatternDuration</key>
+	<string>monsterWithBridge</string>
+</dict>
+</plist>

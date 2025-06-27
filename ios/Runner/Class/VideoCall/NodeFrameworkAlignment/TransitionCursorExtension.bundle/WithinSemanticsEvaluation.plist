@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTransformerRate</key>
+	<string>cosineAsObserver</string>
+	<key>assetOperationForce</key>
+	<string>euclideanSegmentDepth</string>
+	<key>blocWorkDistance</key>
+	<string>standaloneCompositionDensity</string>
+	<key>bufferOrState</key>
+	<string>sequentialConfigurationRate</string>
+	<key>cubitBeyondObserver</key>
+	<string>largeToolName</string>
+	<key>progressbarTypeAppearance</key>
+	<string>skirtSystemShade</string>
+	<key>sophisticatedCallbackCoord</key>
+	<string>pivotalAssetMomentum</string>
+	<key>topicSinceVar</key>
+	<string>semanticObserverCoord</string>
+</dict>
+</plist>

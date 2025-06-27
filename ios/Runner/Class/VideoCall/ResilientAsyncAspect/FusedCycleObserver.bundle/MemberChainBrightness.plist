@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioLevelBrightness</key>
+	<string>smartTimerScale</string>
+	<key>keyUsageForce</key>
+	<string>draggableFrameOpacity</string>
+	<key>localizationActivityShape</key>
+	<string>reductionStateOrientation</string>
+	<key>localizationWorkTransparency</key>
+	<string>usedWidgetAlignment</string>
+	<key>missedAxisSpeed</key>
+	<string>promiseProxyCount</string>
+	<key>sharedRowTension</key>
+	<string>tickerChainBrightness</string>
+</dict>
+</plist>

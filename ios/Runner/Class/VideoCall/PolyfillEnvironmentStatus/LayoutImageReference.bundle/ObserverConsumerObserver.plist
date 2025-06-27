@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAroundKind</key>
+	<string>ternaryMethodOrientation</string>
+	<key>commonAspectBehavior</key>
+	<string>agileAlignmentShape</string>
+	<key>disparateCardDirection</key>
+	<string>stepDecoratorCoord</string>
+	<key>documentParamBorder</key>
+	<string>callbackAdapterTail</string>
+	<key>prevThemeOrigin</key>
+	<string>sortedUsecaseMargin</string>
+	<key>skinScopeOrientation</key>
+	<string>completerAwayStructure</string>
+	<key>transitionAsStage</key>
+	<string>interpolationFunctionKind</string>
+</dict>
+</plist>

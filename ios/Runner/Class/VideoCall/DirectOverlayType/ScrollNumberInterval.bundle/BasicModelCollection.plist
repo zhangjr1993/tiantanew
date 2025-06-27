@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStructureSkewx</key>
+	<string>unsortedRectTint</string>
+	<key>associatedInteractorPosition</key>
+	<string>interactiveMultiplicationSaturation</string>
+	<key>discardedMethodMode</key>
+	<string>agileResolverStyle</string>
+	<key>geometricRouterFlags</key>
+	<string>directLabelType</string>
+	<key>mobileAgainstTask</key>
+	<string>expandedParamContrast</string>
+	<key>numericalProjectCenter</key>
+	<string>notificationParamCenter</string>
+	<key>referenceAroundProcess</key>
+	<string>smartCompletionVelocity</string>
+	<key>resourceCommandPressure</key>
+	<string>enabledMovementHue</string>
+	<key>usecaseDecoratorColor</key>
+	<string>streamActivityBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitEnvironmentTop</key>
+	<string>signatureAndBuffer</string>
+	<key>checkboxWithSingleton</key>
+	<string>lazyPaddingOpacity</string>
+	<key>elasticSwitchResponse</key>
+	<string>frameIncludeCycle</string>
+	<key>handlerNumberState</key>
+	<string>clipperVersusOperation</string>
+	<key>intuitiveAnimationVisible</key>
+	<string>coordinatorCycleSkewy</string>
+	<key>specifyStampCenter</key>
+	<string>widgetLikeInterpreter</string>
+	<key>streamBufferAcceleration</key>
+	<string>previewInsideProcess</string>
+</dict>
+</plist>

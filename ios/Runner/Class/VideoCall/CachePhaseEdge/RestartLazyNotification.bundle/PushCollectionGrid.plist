@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interpolationAroundMode</key>
+	<string>euclideanCellSpacing</string>
+	<key>nodeAwayLayer</key>
+	<string>sharedOffsetBrightness</string>
+	<key>overlayContainKind</key>
+	<string>tensorPageviewSpacing</string>
+	<key>playbackExceptForm</key>
+	<string>channelsJobLocation</string>
+	<key>previewActionDelay</key>
+	<string>channelsCycleValidation</string>
+	<key>rowInAdapter</key>
+	<string>backwardSignCount</string>
+	<key>semanticsBeyondVisitor</key>
+	<string>subsequentNormSize</string>
+	<key>stackContainNumber</key>
+	<string>overlayBeyondSingleton</string>
+	<key>statefulMediatorPosition</key>
+	<string>compositionBesideTier</string>
+</dict>
+</plist>

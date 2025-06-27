@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateFormType</key>
+	<string>animationObserverForce</string>
+	<key>immutableStatelessInteraction</key>
+	<string>presenterNearComposite</string>
+	<key>isolateStateDuration</key>
+	<string>transformerNearComposite</string>
+	<key>labelAlongAction</key>
+	<string>statefulInteractorPressure</string>
+	<key>prismaticDialogsLeft</key>
+	<string>agileInterpolationRight</string>
+	<key>routeDespiteWork</key>
+	<string>interpolationPerType</string>
+	<key>tensorDurationShape</key>
+	<string>intermediateConstraintVisible</string>
+	<key>viewMethodForce</key>
+	<string>actionThroughProxy</string>
+</dict>
+</plist>

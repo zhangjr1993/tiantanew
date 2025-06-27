@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasContextTint</key>
+	<string>rectContextSaturation</string>
+	<key>exceptionVarSize</key>
+	<string>euclideanGesturedetectorOffset</string>
+	<key>nibWithStrategy</key>
+	<string>navigationSinceProxy</string>
+	<key>statefulVersusPlatform</key>
+	<string>workflowThroughLayer</string>
+</dict>
+</plist>

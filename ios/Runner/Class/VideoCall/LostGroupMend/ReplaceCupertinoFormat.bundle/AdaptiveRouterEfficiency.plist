@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopCubitFlags</key>
+	<string>widgetPatternSize</string>
+	<key>finalDrawerPadding</key>
+	<string>animatedcontainerForTask</string>
+	<key>managerFormAcceleration</key>
+	<string>hierarchicalGraphFormat</string>
+	<key>staticCompleterTransparency</key>
+	<string>slashAroundNumber</string>
+</dict>
+</plist>

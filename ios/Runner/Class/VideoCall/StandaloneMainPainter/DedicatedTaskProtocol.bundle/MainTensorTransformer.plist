@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderKindName</key>
+	<string>awaitStageOrigin</string>
+	<key>clipperTypeTop</key>
+	<string>sceneAsProcess</string>
+	<key>effectAlongEnvironment</key>
+	<string>builderPerStyle</string>
+	<key>fragmentFormPadding</key>
+	<string>rectAsParam</string>
+	<key>unaryVarBorder</key>
+	<string>retainedBufferBrightness</string>
+</dict>
+</plist>

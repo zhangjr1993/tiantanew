@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFormKind</key>
+	<string>sampleWorkMode</string>
+	<key>cycleForTier</key>
+	<string>subscriptionFlyweightKind</string>
+	<key>nodeVersusValue</key>
+	<string>errorBufferDuration</string>
+	<key>segmentShapeDelay</key>
+	<string>resizablePopupOpacity</string>
+	<key>taskOfValue</key>
+	<string>sizeCycleMode</string>
+	<key>usedAnimatedcontainerTransparency</key>
+	<string>subsequentSegueOffset</string>
+</dict>
+</plist>

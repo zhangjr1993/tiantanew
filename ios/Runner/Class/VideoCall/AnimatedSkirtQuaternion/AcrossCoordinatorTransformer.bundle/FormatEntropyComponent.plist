@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobxActionVisibility</key>
+	<string>callbackOutsideAdapter</string>
+	<key>navigatorContainFacade</key>
+	<string>cupertinoKindBound</string>
+	<key>progressbarFormDepth</key>
+	<string>axisInterpreterPressure</string>
+	<key>requiredMovementMode</key>
+	<string>transitionTaskPadding</string>
+	<key>spotAgainstForm</key>
+	<string>plateContainFunction</string>
+	<key>subscriptionTypeVisible</key>
+	<string>scaffoldNearStage</string>
+	<key>usedNavigatorAppearance</key>
+	<string>memberIncludeDecorator</string>
+</dict>
+</plist>

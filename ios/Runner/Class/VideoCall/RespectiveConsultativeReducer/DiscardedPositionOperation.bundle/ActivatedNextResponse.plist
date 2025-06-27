@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerShapeTag</key>
+	<string>repositoryCycleAlignment</string>
+	<key>liteSpecifierInteraction</key>
+	<string>eventSystemInterval</string>
+	<key>modulusWithoutCycle</key>
+	<string>tabbarFacadeDepth</string>
+	<key>nativeWidgetDelay</key>
+	<string>queryOutsideScope</string>
+	<key>semanticOverlayStyle</key>
+	<string>similarSymbolName</string>
+	<key>semanticsContainPlatform</key>
+	<string>dynamicSwitchContrast</string>
+	<key>sizeStateScale</key>
+	<string>mobilePaddingBound</string>
+</dict>
+</plist>

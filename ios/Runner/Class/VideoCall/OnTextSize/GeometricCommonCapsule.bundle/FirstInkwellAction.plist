@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterPhaseFrequency</key>
+	<string>basicChapterDuration</string>
+	<key>crudeResponseSpacing</key>
+	<string>hashPerNumber</string>
+	<key>gateCycleBrightness</key>
+	<string>projectionWithoutProxy</string>
+	<key>newestThreadVelocity</key>
+	<string>normStyleTop</string>
+	<key>relationalObserverMode</key>
+	<string>isolateShapeTransparency</string>
+	<key>resizableColumnRight</key>
+	<string>batchAsProxy</string>
+</dict>
+</plist>

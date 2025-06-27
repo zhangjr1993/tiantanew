@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxLayerAcceleration</key>
+	<string>sliderProxyTail</string>
+	<key>bufferUntilFramework</key>
+	<string>stackAgainstStructure</string>
+	<key>constraintByBridge</key>
+	<string>compositionalExpandedLeft</string>
+	<key>elasticLayoutCenter</key>
+	<string>timerKindFormat</string>
+	<key>explicitStreamDistance</key>
+	<string>crucialUtilDelay</string>
+	<key>positionAndMemento</key>
+	<string>consumerActivityFrequency</string>
+	<key>presenterCommandTail</key>
+	<string>switchInSingleton</string>
+	<key>serviceStatePressure</key>
+	<string>customizedEntityState</string>
+	<key>viewChainLocation</key>
+	<string>singletonVersusMediator</string>
+</dict>
+</plist>

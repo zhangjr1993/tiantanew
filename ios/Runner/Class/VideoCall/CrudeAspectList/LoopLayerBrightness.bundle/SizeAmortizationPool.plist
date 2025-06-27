@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAtLevel</key>
+	<string>vectorCompositeLeft</string>
+	<key>anchorSystemValidation</key>
+	<string>usageExceptCommand</string>
+	<key>builderStrategyCoord</key>
+	<string>standaloneDecorationOpacity</string>
+	<key>denseMusicStyle</key>
+	<string>permissiveTransitionSpacing</string>
+	<key>graphFromFacade</key>
+	<string>scaffoldSingletonAppearance</string>
+	<key>notificationPerOperation</key>
+	<string>mutableOptionName</string>
+	<key>prismaticRowCount</key>
+	<string>factorySinceStructure</string>
+	<key>reducerFacadeForce</key>
+	<string>priorParticleLocation</string>
+	<key>sharedExceptionCoord</key>
+	<string>skinViaMediator</string>
+</dict>
+</plist>

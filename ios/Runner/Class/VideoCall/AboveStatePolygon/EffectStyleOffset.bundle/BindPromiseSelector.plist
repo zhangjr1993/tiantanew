@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionFromStage</key>
+	<string>challengeAtStyle</string>
+	<key>checkboxInsideVar</key>
+	<string>touchAndFacade</string>
+	<key>declarativeNormDuration</key>
+	<string>webTabviewTop</string>
+	<key>durationAgainstTask</key>
+	<string>semanticCardTint</string>
+	<key>effectFromEnvironment</key>
+	<string>grainShapeColor</string>
+	<key>localizationKindTint</key>
+	<string>fragmentExceptMemento</string>
+	<key>persistentTextfieldOrientation</key>
+	<string>textParamShade</string>
+	<key>pinchableChallengeTint</key>
+	<string>relationalGridviewTransparency</string>
+	<key>profileWithWork</key>
+	<string>cubitLikeMode</string>
+	<key>reductionMethodTop</key>
+	<string>progressbarAsCommand</string>
+</dict>
+</plist>

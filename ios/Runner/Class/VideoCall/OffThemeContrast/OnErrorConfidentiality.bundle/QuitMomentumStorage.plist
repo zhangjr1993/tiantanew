@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicConfigurationInset</key>
+	<string>heapTierInset</string>
+	<key>entityModeAcceleration</key>
+	<string>cubeAlongProcess</string>
+	<key>explicitObserverStyle</key>
+	<string>retainedTaskSaturation</string>
+	<key>fixedAssetTension</key>
+	<string>priorityThanEnvironment</string>
+	<key>reactiveDescriptionDelay</key>
+	<string>robustCellBrightness</string>
+	<key>singletonIncludeAction</key>
+	<string>builderAlongOperation</string>
+	<key>viewAlongAdapter</key>
+	<string>timerLikePlatform</string>
+</dict>
+</plist>

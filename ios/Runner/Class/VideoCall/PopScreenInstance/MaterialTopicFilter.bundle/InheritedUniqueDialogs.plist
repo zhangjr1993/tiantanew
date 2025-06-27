@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinePerMode</key>
+	<string>offsetActionTag</string>
+	<key>directlyActionMode</key>
+	<string>routeOperationFrequency</string>
+	<key>intensityOutsideOperation</key>
+	<string>sharedControllerTop</string>
+	<key>mainLayoutFeedback</key>
+	<string>tangentContainFunction</string>
+	<key>operationActivityTag</key>
+	<string>logarithmForState</string>
+	<key>projectionInAdapter</key>
+	<string>tappableFeatureColor</string>
+	<key>sceneTaskStyle</key>
+	<string>buttonDuringCommand</string>
+</dict>
+</plist>

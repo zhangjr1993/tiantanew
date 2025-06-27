@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectExceptNumber</key>
+	<string>respectiveUsecaseBorder</string>
+	<key>frameContainVariable</key>
+	<string>usecaseByCycle</string>
+	<key>metadataPatternValidation</key>
+	<string>canvasSinceSystem</string>
+	<key>navigatorAdapterBorder</key>
+	<string>themeCompositeTint</string>
+	<key>resizableRouteContrast</key>
+	<string>radiusValueShade</string>
+	<key>resultVarShape</key>
+	<string>seamlessRowDistance</string>
+	<key>statelessGraphDelay</key>
+	<string>secondContractionFormat</string>
+	<key>statelessSizeResponse</key>
+	<string>labelSingletonCoord</string>
+</dict>
+</plist>

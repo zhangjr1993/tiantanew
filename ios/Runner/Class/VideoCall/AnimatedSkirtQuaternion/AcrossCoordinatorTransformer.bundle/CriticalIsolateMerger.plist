@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperExceptSingleton</key>
+	<string>toolStructureLocation</string>
+	<key>hardPositionedCenter</key>
+	<string>lastAspectOpacity</string>
+	<key>largeRequestPadding</key>
+	<string>parallelDependencyCenter</string>
+	<key>resourceMethodFrequency</key>
+	<string>mainOptionDelay</string>
+	<key>serviceDuringBuffer</key>
+	<string>positionedStateSaturation</string>
+	<key>stackLikePrototype</key>
+	<string>viewFormTop</string>
+	<key>widgetOrFunction</key>
+	<string>uniformProgressbarSkewy</string>
+</dict>
+</plist>

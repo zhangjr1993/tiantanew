@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStateMode</key>
+	<string>navigationAtMode</string>
+	<key>basicCharacterCenter</key>
+	<string>musicStageStyle</string>
+	<key>curveFromLayer</key>
+	<string>symbolStructureVelocity</string>
+	<key>easyLayoutPosition</key>
+	<string>sceneAroundKind</string>
+	<key>finalDurationMargin</key>
+	<string>layoutViaContext</string>
+	<key>labelInsideState</key>
+	<string>monsterActivityResponse</string>
+	<key>localizationFlyweightTag</key>
+	<string>scaffoldAroundWork</string>
+	<key>modelAsCycle</key>
+	<string>immutableMaterialFeedback</string>
+	<key>nodeInterpreterKind</key>
+	<string>eagerNavigatorMode</string>
+</dict>
+</plist>

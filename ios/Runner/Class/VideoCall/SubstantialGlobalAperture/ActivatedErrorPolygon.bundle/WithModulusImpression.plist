@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAtFramework</key>
+	<string>visibleOperationInset</string>
+	<key>consumerAsFunction</key>
+	<string>containerProxyLocation</string>
+	<key>globalAsyncBorder</key>
+	<string>loopAtPattern</string>
+	<key>handlerActivityMomentum</key>
+	<string>cubitModeRotation</string>
+	<key>observerAmongPlatform</key>
+	<string>parallelBufferBrightness</string>
+	<key>resolverCommandColor</key>
+	<string>inkwellFlyweightSpacing</string>
+	<key>skinLikeOperation</key>
+	<string>promiseAboutBridge</string>
+	<key>stateOperationShape</key>
+	<string>effectAroundBridge</string>
+	<key>zoneFormRate</key>
+	<string>effectValueMomentum</string>
+</dict>
+</plist>

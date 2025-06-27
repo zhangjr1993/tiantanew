@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalAsyncRotation</key>
+	<string>loopContextTag</string>
+	<key>protocolPhaseFormat</key>
+	<string>dedicatedEqualizationMode</string>
+	<key>responsePatternHue</key>
+	<string>permanentCommandVelocity</string>
+	<key>subpixelNumberDensity</key>
+	<string>queryDuringVar</string>
+	<key>taskVersusMemento</key>
+	<string>swiftThanCycle</string>
+</dict>
+</plist>

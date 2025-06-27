@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateSceneTheme</key>
+	<string>managerAmongCommand</string>
+	<key>futureOutsideScope</key>
+	<string>mediaAndWork</string>
+	<key>nodeTypeContrast</key>
+	<string>declarativeAsyncContrast</string>
+	<key>previewOutsideShape</key>
+	<string>resultOrActivity</string>
+	<key>reductionJobFeedback</key>
+	<string>protectedCollectionStyle</string>
+	<key>semanticUsageAlignment</key>
+	<string>modalAtPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSingletonStyle</key>
+	<string>progressbarWithDecorator</string>
+	<key>customizedProfileMargin</key>
+	<string>cupertinoLayoutSpeed</string>
+	<key>diffableGramLocation</key>
+	<string>cupertinoEntitySize</string>
+	<key>intermediateCanvasVisibility</key>
+	<string>backwardCharacterRate</string>
+	<key>skinOfNumber</key>
+	<string>decorationAwayStage</string>
+	<key>sophisticatedQueueCenter</key>
+	<string>chartBridgeLocation</string>
+	<key>statePhaseScale</key>
+	<string>actionFlyweightResponse</string>
+	<key>unaryEnvironmentBehavior</key>
+	<string>basicSliderShape</string>
+</dict>
+</plist>

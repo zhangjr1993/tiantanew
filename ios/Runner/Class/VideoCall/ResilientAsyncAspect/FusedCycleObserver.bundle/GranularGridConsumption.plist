@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateTaskForce</key>
+	<string>equipmentBufferFormat</string>
+	<key>consumerAdapterValidation</key>
+	<string>blocAtFramework</string>
+	<key>intuitiveMetadataState</key>
+	<string>sceneSystemCoord</string>
+	<key>lastExceptionLeft</key>
+	<string>decorationBridgeName</string>
+	<key>loopModeFeedback</key>
+	<string>mediumDurationInset</string>
+	<key>navigationAboutTier</key>
+	<string>completionTaskVisibility</string>
+	<key>protectedGridviewInteraction</key>
+	<string>containerBridgeTension</string>
+</dict>
+</plist>

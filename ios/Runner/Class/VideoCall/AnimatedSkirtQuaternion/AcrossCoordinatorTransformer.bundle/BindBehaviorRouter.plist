@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerLikePhase</key>
+	<string>baseForFramework</string>
+	<key>dynamicInterfaceEdge</key>
+	<string>cycleLevelSpeed</string>
+	<key>largeProjectionType</key>
+	<string>capacitiesAsVar</string>
+	<key>progressbarAtObserver</key>
+	<string>navigationPlatformType</string>
+	<key>sustainableModelSkewy</key>
+	<string>globalMomentumValidation</string>
+</dict>
+</plist>

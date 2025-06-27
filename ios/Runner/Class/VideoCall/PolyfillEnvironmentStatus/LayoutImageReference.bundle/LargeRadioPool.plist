@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityModeFrequency</key>
+	<string>customizedSegueEdge</string>
+	<key>boxViaWork</key>
+	<string>missedSignRight</string>
+	<key>controllerIncludeJob</key>
+	<string>visibleCapsuleSkewy</string>
+	<key>interactorVariableAlignment</key>
+	<string>mobileCycleHue</string>
+	<key>layoutWorkStyle</key>
+	<string>cubitTypeSkewy</string>
+	<key>mediaqueryOutsideShape</key>
+	<string>displayableBuilderAppearance</string>
+	<key>pinchableEffectPosition</key>
+	<string>coordinatorAboutStyle</string>
+	<key>singleProgressbarMargin</key>
+	<string>semanticsInsideState</string>
+	<key>stepBeyondObserver</key>
+	<string>asyncPhaseType</string>
+	<key>viewExceptProcess</key>
+	<string>cupertinoPreviewTension</string>
+</dict>
+</plist>

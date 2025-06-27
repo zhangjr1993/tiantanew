@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryExceptOperation</key>
+	<string>requestThroughMode</string>
+	<key>agileTimerHue</key>
+	<string>accessibleOverlayVisibility</string>
+	<key>completionActionRotation</key>
+	<string>originalAccessoryDelay</string>
+	<key>layerOrLevel</key>
+	<string>unactivatedCapsuleBehavior</string>
+	<key>modalIncludeStage</key>
+	<string>sampleAlongNumber</string>
+	<key>scrollExceptKind</key>
+	<string>eventFacadeScale</string>
+	<key>sliderAboutAdapter</key>
+	<string>nibActivityInterval</string>
+	<key>subtleLayoutMode</key>
+	<string>synchronousCapacitiesTint</string>
+</dict>
+</plist>

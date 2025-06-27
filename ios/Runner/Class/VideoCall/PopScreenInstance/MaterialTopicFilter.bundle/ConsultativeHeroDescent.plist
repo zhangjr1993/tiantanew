@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCollectionStyle</key>
+	<string>gridviewActivityKind</string>
+	<key>autoTextureSize</key>
+	<string>flexFacadeType</string>
+	<key>mainImageSpacing</key>
+	<string>titleActivityVisible</string>
+	<key>particleVariableBehavior</key>
+	<string>viewShapeEdge</string>
+	<key>rowCommandIndex</key>
+	<string>streamVariableBorder</string>
+	<key>screenForPattern</key>
+	<string>chartNumberHue</string>
+	<key>slashContainStyle</key>
+	<string>statelessTransformerLeft</string>
+	<key>tickerThroughBuffer</key>
+	<string>composableBinaryInset</string>
+	<key>widgetIncludeObserver</key>
+	<string>referenceAtComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateCycleMode</key>
+	<string>cursorActivityDistance</string>
+	<key>dimensionTierTransparency</key>
+	<string>channelsContextTransparency</string>
+	<key>displayablePreviewSaturation</key>
+	<string>containerAtFramework</string>
+	<key>masterNearJob</key>
+	<string>lostFlexPadding</string>
+	<key>movementTempleDistance</key>
+	<string>opaqueNotificationAppearance</string>
+	<key>presenterActivityShape</key>
+	<string>decorationFormVisibility</string>
+	<key>presenterAlongInterpreter</key>
+	<string>richtextForEnvironment</string>
+	<key>reactiveCardColor</key>
+	<string>customizedLayerShape</string>
+	<key>reactiveUtilOrigin</key>
+	<string>resizableConfigurationDepth</string>
+</dict>
+</plist>

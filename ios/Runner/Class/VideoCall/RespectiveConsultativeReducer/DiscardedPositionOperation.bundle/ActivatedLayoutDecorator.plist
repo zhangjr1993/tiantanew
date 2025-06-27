@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventSystemDuration</key>
+	<string>metadataAmongBuffer</string>
+	<key>globalCurveScale</key>
+	<string>tangentSystemResponse</string>
+	<key>tensorInterfaceFlags</key>
+	<string>gateByOperation</string>
+	<key>titleViaAdapter</key>
+	<string>scaleByJob</string>
+</dict>
+</plist>

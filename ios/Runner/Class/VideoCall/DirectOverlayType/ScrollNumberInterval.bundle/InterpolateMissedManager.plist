@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineCompositeHue</key>
+	<string>usedErrorStyle</string>
+	<key>challengeTypeBound</key>
+	<string>callbackAtFlyweight</string>
+	<key>durationAroundFramework</key>
+	<string>usageSystemShade</string>
+	<key>layoutByProxy</key>
+	<string>animationProxySize</string>
+	<key>mobileFrameworkHue</key>
+	<string>interfaceVersusFlyweight</string>
+	<key>numericalControllerOffset</key>
+	<string>interactorBridgeCount</string>
+	<key>popupOrBridge</key>
+	<string>gridContextMargin</string>
+	<key>visibleTitleSpacing</key>
+	<string>unsortedNibCenter</string>
+</dict>
+</plist>

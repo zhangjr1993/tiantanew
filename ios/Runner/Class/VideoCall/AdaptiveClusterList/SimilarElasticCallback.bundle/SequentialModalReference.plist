@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianDelegateFeedback</key>
+	<string>builderPlatformAcceleration</string>
+	<key>decorationForParameter</key>
+	<string>injectionTaskResponse</string>
+	<key>difficultSegueRotation</key>
+	<string>sliderObserverBrightness</string>
+	<key>giftOrMemento</key>
+	<string>liteConsumerAppearance</string>
+	<key>layoutSystemTransparency</key>
+	<string>binaryFlyweightAlignment</string>
+	<key>materialUsageShape</key>
+	<string>largeConfigurationDistance</string>
+	<key>methodCompositeBorder</key>
+	<string>bufferModeMomentum</string>
+	<key>statelessStoreTag</key>
+	<string>taskAmongFramework</string>
+</dict>
+</plist>

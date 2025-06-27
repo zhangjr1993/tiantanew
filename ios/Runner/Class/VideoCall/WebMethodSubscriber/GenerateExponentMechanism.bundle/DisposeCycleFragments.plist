@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitScopeStatus</key>
+	<string>transitionAdapterPosition</string>
+	<key>decorationExceptSystem</key>
+	<string>screenStrategySize</string>
+	<key>globalNodeContrast</key>
+	<string>frameAndLayer</string>
+	<key>logarithmKindVisible</key>
+	<string>resolverDespiteTier</string>
+	<key>metadataWithoutParam</key>
+	<string>mutableSizeType</string>
+	<key>permissiveVariantTheme</key>
+	<string>providerLayerLocation</string>
+	<key>robustConfigurationCoord</key>
+	<string>slashAwayTier</string>
+</dict>
+</plist>

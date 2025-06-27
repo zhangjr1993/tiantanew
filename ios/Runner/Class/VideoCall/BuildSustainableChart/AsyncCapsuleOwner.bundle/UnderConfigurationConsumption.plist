@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorInFacade</key>
+	<string>eventFacadeIndex</string>
+	<key>dynamicLayerBehavior</key>
+	<string>batchProxyBorder</string>
+	<key>plateContainKind</key>
+	<string>remainderKindFrequency</string>
+	<key>protectedCoordinatorOpacity</key>
+	<string>crucialIntensitySkewy</string>
+	<key>slashActionRate</key>
+	<string>resizablePopupSpeed</string>
+</dict>
+</plist>

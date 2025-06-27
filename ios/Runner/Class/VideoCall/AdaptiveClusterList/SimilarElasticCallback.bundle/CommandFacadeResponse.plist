@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveBufferFeedback</key>
+	<string>sampleFormValidation</string>
+	<key>missionActivityMomentum</key>
+	<string>draggableRowKind</string>
+	<key>mobileInPhase</key>
+	<string>taskStageVelocity</string>
+	<key>prevRouterBound</key>
+	<string>listenerSystemCenter</string>
+	<key>projectionOutsideStage</key>
+	<string>canvasFrameworkFormat</string>
+	<key>protocolAboutNumber</key>
+	<string>particleFacadeForce</string>
+	<key>resourceFromState</key>
+	<string>usageBesideParam</string>
+</dict>
+</plist>

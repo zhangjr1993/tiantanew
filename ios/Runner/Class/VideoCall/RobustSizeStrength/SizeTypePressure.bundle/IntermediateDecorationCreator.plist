@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartSingletonDepth</key>
+	<string>checklistJobScale</string>
+	<key>cubitParamRotation</key>
+	<string>taskParameterResponse</string>
+	<key>dialogsUntilPlatform</key>
+	<string>builderForAction</string>
+	<key>hashStrategyDepth</key>
+	<string>containerContextMargin</string>
+	<key>sampleKindVisibility</key>
+	<string>marginFlyweightCenter</string>
+	<key>stackTierOffset</key>
+	<string>smartBufferRate</string>
+</dict>
+</plist>

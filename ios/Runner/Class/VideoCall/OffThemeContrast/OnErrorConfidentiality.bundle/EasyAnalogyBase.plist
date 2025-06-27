@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBridgeTheme</key>
+	<string>signatureLevelRight</string>
+	<key>finalFutureFormat</key>
+	<string>managerParamDepth</string>
+	<key>labelUntilScope</key>
+	<string>checkboxActivityDelay</string>
+	<key>notificationVisitorName</key>
+	<string>drawerLevelDepth</string>
+	<key>usedAppbarBehavior</key>
+	<string>pinchableMethodFormat</string>
+	<key>workflowLikeVar</key>
+	<string>customizedServiceContrast</string>
+</dict>
+</plist>

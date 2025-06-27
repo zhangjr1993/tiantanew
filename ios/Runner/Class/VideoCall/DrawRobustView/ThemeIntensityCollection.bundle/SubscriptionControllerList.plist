@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationFunctionAcceleration</key>
+	<string>controllerExceptPattern</string>
+	<key>mutableStatelessTheme</key>
+	<string>resultNearForm</string>
+	<key>nativeTransitionStatus</key>
+	<string>screenFrameworkFrequency</string>
+	<key>semanticOffsetFormat</key>
+	<string>flexAsComposite</string>
+	<key>usecaseChainInteraction</key>
+	<string>axisTempleAcceleration</string>
+</dict>
+</plist>

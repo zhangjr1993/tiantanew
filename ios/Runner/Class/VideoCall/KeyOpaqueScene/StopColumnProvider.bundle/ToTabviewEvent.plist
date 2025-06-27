@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveLayoutDepth</key>
+	<string>fixedCompleterCount</string>
+	<key>entropyDuringFlyweight</key>
+	<string>multiTextVisible</string>
+	<key>ephemeralCompletionHead</key>
+	<string>independentExtensionMargin</string>
+	<key>flexThroughMode</key>
+	<string>timerVariableInset</string>
+	<key>gramTaskBound</key>
+	<string>rowSystemTheme</string>
+	<key>groupAdapterEdge</key>
+	<string>sizedboxIncludeVar</string>
+	<key>numericalDescriptionShade</key>
+	<string>semanticFragmentTop</string>
+	<key>presenterAndOperation</key>
+	<string>concurrentSegueKind</string>
+	<key>vectorBridgeForce</key>
+	<string>convolutionTierCoord</string>
+</dict>
+</plist>

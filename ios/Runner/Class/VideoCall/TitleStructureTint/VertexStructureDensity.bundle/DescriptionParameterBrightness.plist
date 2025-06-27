@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentLikeJob</key>
+	<string>symmetricCoordinatorBorder</string>
+	<key>controllerWithVariable</key>
+	<string>borderWithStyle</string>
+	<key>ephemeralTaskAcceleration</key>
+	<string>robustUsecaseBehavior</string>
+	<key>protectedSpriteTint</key>
+	<string>mediaDespiteStage</string>
+	<key>segmentVisitorBehavior</key>
+	<string>durationByInterpreter</string>
+</dict>
+</plist>

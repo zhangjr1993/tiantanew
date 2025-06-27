@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxDuringTask</key>
+	<string>capsuleFlyweightVisible</string>
+	<key>coordinatorNearKind</key>
+	<string>intuitiveSizeVelocity</string>
+	<key>curveFromShape</key>
+	<string>cursorNumberAlignment</string>
+	<key>histogramDespiteSystem</key>
+	<string>shaderAlongForm</string>
+	<key>imageBeyondParam</key>
+	<string>labelModeLocation</string>
+	<key>intensityStateBottom</key>
+	<string>materialGrayscaleTheme</string>
+	<key>mutableBufferCenter</key>
+	<string>rowForScope</string>
+	<key>parallelSinkOrientation</key>
+	<string>serviceStructureTint</string>
+	<key>usecaseBufferEdge</key>
+	<string>tickerDecoratorSkewy</string>
+</dict>
+</plist>

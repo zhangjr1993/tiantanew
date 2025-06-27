@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionIncludeStrategy</key>
+	<string>frameExceptScope</string>
+	<key>positionedWithoutState</key>
+	<string>customDurationFlags</string>
+	<key>skinChainBound</key>
+	<string>missionDecoratorBehavior</string>
+	<key>stateForTier</key>
+	<string>streamExceptSystem</string>
+	<key>taskDecoratorAlignment</key>
+	<string>sinkLayerVisible</string>
+	<key>textfieldFormTransparency</key>
+	<string>anchorAtStage</string>
+	<key>timerMethodType</key>
+	<string>segmentForVar</string>
+</dict>
+</plist>

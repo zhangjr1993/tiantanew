@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioWithAdapter</key>
+	<string>sliderAwayBridge</string>
+	<key>buttonAsType</key>
+	<string>retainedTaskAppearance</string>
+	<key>containerContextAlignment</key>
+	<string>touchContextCoord</string>
+	<key>customFutureTransparency</key>
+	<string>blocLikeNumber</string>
+	<key>heapFunctionTop</key>
+	<string>listenerVisitorTheme</string>
+	<key>previewCycleTheme</key>
+	<string>smallTextRate</string>
+	<key>requestInStrategy</key>
+	<string>descriptionFacadeState</string>
+	<key>sampleWithPhase</key>
+	<string>seamlessBoxMargin</string>
+</dict>
+</plist>

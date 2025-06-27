@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVersusFunction</key>
+	<string>granularSceneCoord</string>
+	<key>containerPerFlyweight</key>
+	<string>heapLikeAction</string>
+	<key>getxWithParameter</key>
+	<string>cupertinoEventFeedback</string>
+	<key>repositoryLikeContext</key>
+	<string>symmetricRadioState</string>
+	<key>standaloneDropdownbuttonStatus</key>
+	<string>checkboxAboutStyle</string>
+	<key>techniqueNearMethod</key>
+	<string>statelessAsFunction</string>
+	<key>unaryThanValue</key>
+	<string>callbackByEnvironment</string>
+</dict>
+</plist>

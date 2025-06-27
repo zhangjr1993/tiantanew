@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityNearMethod</key>
+	<string>listenerChainHue</string>
+	<key>bufferAroundState</key>
+	<string>sizeVersusKind</string>
+	<key>flexibleControllerFrequency</key>
+	<string>interactiveDecorationVisibility</string>
+	<key>multiMovementTop</key>
+	<string>cursorWithoutActivity</string>
+	<key>numericalGiftLocation</key>
+	<string>standalonePlaybackLeft</string>
+	<key>parallelGraphLeft</key>
+	<string>widgetVarType</string>
+	<key>popupInVariable</key>
+	<string>asyncApertureBorder</string>
+	<key>reusableBuilderShade</key>
+	<string>navigatorModeTransparency</string>
+	<key>screenTaskFrequency</key>
+	<string>entityFlyweightBottom</string>
+</dict>
+</plist>

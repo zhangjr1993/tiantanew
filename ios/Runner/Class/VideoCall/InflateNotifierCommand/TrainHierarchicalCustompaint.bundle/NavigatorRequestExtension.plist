@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureScopeBehavior</key>
+	<string>responsiveNavigatorBottom</string>
+	<key>boxshadowContainPrototype</key>
+	<string>cellUntilFunction</string>
+	<key>contractionUntilScope</key>
+	<string>opaqueStorageBound</string>
+	<key>indicatorModeSize</key>
+	<string>relationalSingletonKind</string>
+	<key>operationScopeAlignment</key>
+	<string>inkwellStageBorder</string>
+	<key>resourceShapeInterval</key>
+	<string>instructionTypeShape</string>
+	<key>storageFacadeLocation</key>
+	<string>responseParameterCoord</string>
+</dict>
+</plist>

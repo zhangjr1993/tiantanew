@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetCycleRate</key>
+	<string>multiplicationBridgeBehavior</string>
+	<key>cubitWorkBehavior</key>
+	<string>errorPerOperation</string>
+	<key>positionedInsideFramework</key>
+	<string>musicMediatorFeedback</string>
+	<key>timerCommandIndex</key>
+	<string>typicalSubscriptionInteraction</string>
+</dict>
+</plist>

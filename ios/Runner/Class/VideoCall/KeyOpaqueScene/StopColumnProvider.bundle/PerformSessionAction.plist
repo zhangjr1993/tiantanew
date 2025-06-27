@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVisitorOpacity</key>
+	<string>desktopTransitionOrientation</string>
+	<key>effectParamOffset</key>
+	<string>builderKindTint</string>
+	<key>inactiveImageOffset</key>
+	<string>localModulusDepth</string>
+	<key>mobileDurationCenter</key>
+	<string>gestureViaMemento</string>
+	<key>observerFacadeFrequency</key>
+	<string>sliderProxyPressure</string>
+</dict>
+</plist>

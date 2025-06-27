@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorChainAlignment</key>
+	<string>baselineStyleTransparency</string>
+	<key>baselineInsideActivity</key>
+	<string>tickerVersusPhase</string>
+	<key>capacitiesAboutFlyweight</key>
+	<string>canvasAlongPattern</string>
+	<key>customBufferFormat</key>
+	<string>directParticleOpacity</string>
+	<key>effectAsTier</key>
+	<string>loopThroughChain</string>
+	<key>ephemeralMapKind</key>
+	<string>temporaryCapacitiesContrast</string>
+	<key>sliderLayerContrast</key>
+	<string>localSinkOpacity</string>
+	<key>streamLevelPosition</key>
+	<string>methodWithForm</string>
+</dict>
+</plist>

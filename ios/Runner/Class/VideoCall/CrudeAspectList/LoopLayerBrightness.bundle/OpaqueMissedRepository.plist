@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticDelegateAlignment</key>
+	<string>hierarchicalGraphShape</string>
+	<key>groupCompositeEdge</key>
+	<string>groupOutsideMemento</string>
+	<key>groupLevelFormat</key>
+	<string>usedBufferMode</string>
+	<key>interactiveCheckboxSkewx</key>
+	<string>observerAtInterpreter</string>
+	<key>particleTypeOrigin</key>
+	<string>tweenAmongPhase</string>
+	<key>riverpodActivityShape</key>
+	<string>customizedVectorState</string>
+	<key>tangentOrShape</key>
+	<string>secondResponseDuration</string>
+</dict>
+</plist>

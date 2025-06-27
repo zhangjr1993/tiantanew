@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedQueueMomentum</key>
+	<string>beginnerReferenceSpacing</string>
+	<key>builderPlatformRate</key>
+	<string>progressbarFunctionShade</string>
+	<key>directLocalizationForce</key>
+	<string>enabledActionOffset</string>
+	<key>ephemeralTimerAlignment</key>
+	<string>discardedZoneTint</string>
+	<key>heroAmongStructure</key>
+	<string>nodeProcessOpacity</string>
+	<key>independentManagerFeedback</key>
+	<string>draggableAspectratioRate</string>
+	<key>scrollableOffsetHue</key>
+	<string>storageNumberPressure</string>
+	<key>storyboardStrategySize</key>
+	<string>vectorOfStyle</string>
+</dict>
+</plist>

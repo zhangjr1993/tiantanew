@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectStateVelocity</key>
+	<string>offsetAlongChain</string>
+	<key>awaitThroughFunction</key>
+	<string>singletonJobTag</string>
+	<key>batchOfType</key>
+	<string>routeByAction</string>
+	<key>grainPatternResponse</key>
+	<string>stackOrParam</string>
+	<key>previewUntilVar</key>
+	<string>workflowMementoHead</string>
+	<key>radiusAwayVisitor</key>
+	<string>sessionShapeFormat</string>
+	<key>uniformZoneValidation</key>
+	<string>bufferActionValidation</string>
+</dict>
+</plist>

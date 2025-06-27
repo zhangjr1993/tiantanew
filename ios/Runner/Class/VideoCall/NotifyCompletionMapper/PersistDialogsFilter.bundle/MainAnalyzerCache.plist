@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioVarBound</key>
+	<string>pinchableObserverBound</string>
+	<key>effectTaskRotation</key>
+	<string>completionFunctionTint</string>
+	<key>rowPatternBehavior</key>
+	<string>largeSegueDepth</string>
+	<key>visibleImagePressure</key>
+	<string>layerVariableBrightness</string>
+</dict>
+</plist>

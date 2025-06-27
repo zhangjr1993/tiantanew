@@ -1,0 +1,6 @@
+framework module LooseCore {
+  umbrella header "LooseCore-umbrella.h"
+
+  export *
+  module * { export * }
+}

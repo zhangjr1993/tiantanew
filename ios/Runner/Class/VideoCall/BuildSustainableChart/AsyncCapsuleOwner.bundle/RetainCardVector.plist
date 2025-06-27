@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureIncludeWork</key>
+	<string>heapMethodBound</string>
+	<key>containerFromLevel</key>
+	<string>logSinceOperation</string>
+	<key>desktopButtonHue</key>
+	<string>parallelContractionTheme</string>
+	<key>fixedBuilderForce</key>
+	<string>uniquePopupOrigin</string>
+	<key>invisibleCompletionOrientation</key>
+	<string>criticalCubeMomentum</string>
+	<key>protocolFormOrigin</key>
+	<string>semanticMemberPosition</string>
+	<key>unsortedExponentRate</key>
+	<string>operationByFlyweight</string>
+</dict>
+</plist>

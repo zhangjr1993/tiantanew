@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFactoryBehavior</key>
+	<string>intensityUntilComposite</string>
+	<key>builderStyleBehavior</key>
+	<string>sineForObserver</string>
+	<key>directlyResolverInterval</key>
+	<string>callbackOutsideActivity</string>
+	<key>lazyMovementBottom</key>
+	<string>featureAlongPattern</string>
+	<key>originalConvolutionDuration</key>
+	<string>tweenNearParameter</string>
+	<key>pointPlatformType</key>
+	<string>brushFromShape</string>
+	<key>popupBeyondMethod</key>
+	<string>sessionInStyle</string>
+	<key>statefulBufferValidation</key>
+	<string>crucialRoutePadding</string>
+</dict>
+</plist>

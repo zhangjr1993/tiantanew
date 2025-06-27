@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionScopeStyle</key>
+	<string>difficultDrawerEdge</string>
+	<key>blocMediatorTheme</key>
+	<string>cursorViaType</string>
+	<key>notificationFlyweightStatus</key>
+	<string>viewSincePhase</string>
+	<key>observerModeOrientation</key>
+	<string>callbackActivityHead</string>
+	<key>pinchableRouterInterval</key>
+	<string>persistentPopupHead</string>
+	<key>positionedFlyweightTop</key>
+	<string>segueTaskTransparency</string>
+	<key>requestContextHue</key>
+	<string>enabledTangentTop</string>
+	<key>scaleProcessAlignment</key>
+	<string>arithmeticStampVelocity</string>
+	<key>semanticDrawerRate</key>
+	<string>skirtBesidePhase</string>
+	<key>sineJobRight</key>
+	<string>pageviewTaskFlags</string>
+</dict>
+</plist>

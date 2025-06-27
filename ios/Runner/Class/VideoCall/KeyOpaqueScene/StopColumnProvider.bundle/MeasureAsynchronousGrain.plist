@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureThroughFunction</key>
+	<string>fixedObserverCenter</string>
+	<key>ignoredLocalizationFeedback</key>
+	<string>grainAwayFramework</string>
+	<key>mobxMediatorLocation</key>
+	<string>frameTempleStyle</string>
+	<key>resourceBufferSaturation</key>
+	<string>rowChainSize</string>
+	<key>screenThroughPhase</key>
+	<string>resultOutsideProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCollectionRate</key>
+	<string>cosineFunctionSpeed</string>
+	<key>awaitAsJob</key>
+	<string>commonNibPressure</string>
+	<key>getxParameterType</key>
+	<string>loopWithParam</string>
+	<key>globalTweenVelocity</key>
+	<string>characterJobAcceleration</string>
+	<key>interpolationPerBuffer</key>
+	<string>operationAroundPrototype</string>
+	<key>persistentCoordinatorContrast</key>
+	<string>aspectratioProxyValidation</string>
+	<key>statefulAroundMode</key>
+	<string>commandAmongEnvironment</string>
+</dict>
+</plist>

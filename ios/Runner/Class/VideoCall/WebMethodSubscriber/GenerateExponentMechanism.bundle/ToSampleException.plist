@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalBoxAppearance</key>
+	<string>resourceKindFormat</string>
+	<key>curveOfEnvironment</key>
+	<string>dependencySystemBottom</string>
+	<key>curveUntilStage</key>
+	<string>observerCycleContrast</string>
+	<key>instructionCycleTheme</key>
+	<string>displayableObserverHue</string>
+	<key>navigatorValueInterval</key>
+	<string>taskPlatformCount</string>
+</dict>
+</plist>

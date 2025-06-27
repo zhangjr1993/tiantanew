@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSubscriptionSaturation</key>
+	<string>composableCollectionMode</string>
+	<key>constraintAdapterSaturation</key>
+	<string>granularLayerColor</string>
+	<key>cubitAlongValue</key>
+	<string>fusedSessionState</string>
+	<key>finalTimerTheme</key>
+	<string>callbackTierTint</string>
+	<key>geometricLayerBehavior</key>
+	<string>gateFacadeResponse</string>
+	<key>persistentIntegerFlags</key>
+	<string>sinkCompositeSkewy</string>
+	<key>routeLikeTask</key>
+	<string>callbackAgainstContext</string>
+</dict>
+</plist>

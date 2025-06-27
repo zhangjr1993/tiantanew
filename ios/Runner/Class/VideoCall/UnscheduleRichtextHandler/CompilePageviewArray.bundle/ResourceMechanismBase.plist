@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeIndicatorDepth</key>
+	<string>draggableLabelSize</string>
+	<key>mobileWithSingleton</key>
+	<string>timerFrameworkKind</string>
+	<key>modelInterpreterFlags</key>
+	<string>texturePrototypeScale</string>
+	<key>oldGraphicTransparency</key>
+	<string>resourceTaskFrequency</string>
+	<key>protectedOverlayInteraction</key>
+	<string>methodBesidePhase</string>
+	<key>semanticZoneDistance</key>
+	<string>arithmeticNearType</string>
+	<key>standaloneMissionDuration</key>
+	<string>reactiveStatelessBound</string>
+	<key>tickerOfSystem</key>
+	<string>allocatorStageKind</string>
+</dict>
+</plist>

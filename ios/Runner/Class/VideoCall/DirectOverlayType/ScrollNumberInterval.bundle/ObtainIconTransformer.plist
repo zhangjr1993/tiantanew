@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAsyncBorder</key>
+	<string>subpixelBeyondMemento</string>
+	<key>clipperAgainstCycle</key>
+	<string>usecaseUntilObserver</string>
+	<key>constraintBeyondContext</key>
+	<string>queueStrategyContrast</string>
+	<key>labelWithoutStructure</key>
+	<string>semanticMissionType</string>
+	<key>largeChartFormat</key>
+	<string>visiblePopupMargin</string>
+	<key>robustSkirtForce</key>
+	<string>accessoryLayerEdge</string>
+	<key>rowDuringVar</key>
+	<string>eagerFutureStyle</string>
+	<key>widgetOfBuffer</key>
+	<string>cycleTypeEdge</string>
+</dict>
+</plist>

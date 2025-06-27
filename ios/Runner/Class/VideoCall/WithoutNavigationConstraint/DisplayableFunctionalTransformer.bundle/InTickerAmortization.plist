@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorLikeScope</key>
+	<string>requiredEventHead</string>
+	<key>builderFrameworkTail</key>
+	<string>priorityWithJob</string>
+	<key>crucialConsumerHead</key>
+	<string>providerProcessFeedback</string>
+	<key>methodAtFacade</key>
+	<string>alignmentVarFormat</string>
+	<key>pointNumberTint</key>
+	<string>featureProcessState</string>
+	<key>tensorSinkDepth</key>
+	<string>iterativeSpriteSize</string>
+	<key>touchAboutCycle</key>
+	<string>sinkTempleHue</string>
+	<key>usedHashSaturation</key>
+	<string>usecaseBridgeFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletWithoutParameter</key>
+	<string>integerAroundValue</string>
+	<key>containerAtParameter</key>
+	<string>animatedcontainerStrategyScale</string>
+	<key>resourceVersusLevel</key>
+	<string>baseByFunction</string>
+	<key>responseModeValidation</key>
+	<string>delegateKindCenter</string>
+	<key>retainedLossAppearance</key>
+	<string>cupertinoAboutJob</string>
+	<key>retainedMethodDistance</key>
+	<string>precisionAsVisitor</string>
+	<key>scaleBridgePadding</key>
+	<string>momentumFormInterval</string>
+	<key>singletonCycleCoord</key>
+	<string>gridAndNumber</string>
+	<key>usecaseDuringScope</key>
+	<string>cupertinoParamMomentum</string>
+</dict>
+</plist>

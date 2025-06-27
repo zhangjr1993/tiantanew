@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPriorityDuration</key>
+	<string>logJobType</string>
+	<key>localDelegateDepth</key>
+	<string>playbackMediatorCount</string>
+	<key>nextPriorityEdge</key>
+	<string>sortedIntensityKind</string>
+	<key>rectExceptAction</key>
+	<string>reductionPerJob</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePetSaturation</key>
+	<string>unactivatedPetPosition</string>
+	<key>convolutionUntilDecorator</key>
+	<string>denseSpriteInteraction</string>
+	<key>entityPerFlyweight</key>
+	<string>streamWorkFormat</string>
+	<key>functionalAppbarPressure</key>
+	<string>streamTaskOrientation</string>
+	<key>localChannelDirection</key>
+	<string>scaleAwayPattern</string>
+	<key>mediaAdapterMargin</key>
+	<string>tickerFromFramework</string>
+	<key>remainderLevelFrequency</key>
+	<string>crucialCoordinatorBorder</string>
+	<key>resilientAccessoryTag</key>
+	<string>chartMementoCount</string>
+	<key>tappablePainterBottom</key>
+	<string>featureOrFacade</string>
+</dict>
+</plist>

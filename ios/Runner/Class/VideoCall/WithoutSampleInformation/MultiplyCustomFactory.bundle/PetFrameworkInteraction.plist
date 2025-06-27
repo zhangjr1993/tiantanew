@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonVariableSkewx</key>
+	<string>otherConstraintSpeed</string>
+	<key>capsuleNearBuffer</key>
+	<string>cellContainTask</string>
+	<key>curveActivityInterval</key>
+	<string>coordinatorVarFrequency</string>
+	<key>injectionAtOperation</key>
+	<string>diffableInterfaceTop</string>
+	<key>methodInsideState</key>
+	<string>viewMediatorEdge</string>
+	<key>oldBatchState</key>
+	<string>multiZoneDuration</string>
+	<key>protocolOperationDepth</key>
+	<string>popupPerVariable</string>
+	<key>semanticProgressbarHue</key>
+	<string>sinkUntilLayer</string>
+	<key>sortedInteractorVisible</key>
+	<string>pivotalCheckboxMode</string>
+	<key>stackTempleInset</key>
+	<string>invisibleWidgetAlignment</string>
+</dict>
+</plist>

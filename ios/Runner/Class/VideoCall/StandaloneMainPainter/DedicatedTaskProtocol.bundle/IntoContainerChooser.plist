@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationFrameworkContrast</key>
+	<string>normCompositeBorder</string>
+	<key>materialChainBound</key>
+	<string>eagerRectStyle</string>
+	<key>queueCycleScale</key>
+	<string>transformerInsideFunction</string>
+	<key>stepAmongCycle</key>
+	<string>binaryInsideLayer</string>
+</dict>
+</plist>

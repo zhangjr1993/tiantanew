@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackParamDelay</key>
+	<string>eagerExceptionFeedback</string>
+	<key>cubitLayerRight</key>
+	<string>isolateThroughFlyweight</string>
+	<key>eventFromCycle</key>
+	<string>independentPageviewCenter</string>
+	<key>modulusCommandMargin</key>
+	<string>routeChainSpacing</string>
+	<key>touchLikeVar</key>
+	<string>navigatorOrFunction</string>
+</dict>
+</plist>

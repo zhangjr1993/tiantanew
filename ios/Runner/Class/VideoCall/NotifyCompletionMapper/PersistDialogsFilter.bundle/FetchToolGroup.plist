@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisLikeAdapter</key>
+	<string>iterativePainterShade</string>
+	<key>buttonLevelDensity</key>
+	<string>bitrateValueVisibility</string>
+	<key>movementPatternHead</key>
+	<string>gesturedetectorPhaseSize</string>
+</dict>
+</plist>

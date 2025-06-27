@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperSinceTask</key>
+	<string>mediumRowOffset</string>
+	<key>deferredGrainAcceleration</key>
+	<string>customGridviewOrientation</string>
+	<key>layoutStructureFeedback</key>
+	<string>ignoredTextureRate</string>
+	<key>requiredUsageIndex</key>
+	<string>lastSampleBorder</string>
+	<key>textureNumberInset</key>
+	<string>arithmeticNibMargin</string>
+	<key>visibleStreamDuration</key>
+	<string>menuDecoratorAlignment</string>
+</dict>
+</plist>

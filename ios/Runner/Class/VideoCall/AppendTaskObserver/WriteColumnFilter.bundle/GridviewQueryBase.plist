@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedButtonRotation</key>
+	<string>sharedSpriteTop</string>
+	<key>awaitContainMethod</key>
+	<string>actionBufferDirection</string>
+	<key>offsetMediatorSize</key>
+	<string>coordinatorActionInset</string>
+	<key>sizeAndLayer</key>
+	<string>signatureAgainstContext</string>
+</dict>
+</plist>

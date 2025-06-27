@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAtVisitor</key>
+	<string>curveNearValue</string>
+	<key>musicWorkRotation</key>
+	<string>stateAtPhase</string>
+	<key>overlayAboutPattern</key>
+	<string>offsetVersusSystem</string>
+	<key>paddingDecoratorColor</key>
+	<string>nibEnvironmentScale</string>
+	<key>singletonContextSkewx</key>
+	<string>themeKindTransparency</string>
+</dict>
+</plist>

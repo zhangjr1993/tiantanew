@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopLayerSpacing</key>
+	<string>cupertinoCollectionType</string>
+	<key>inactiveFutureDepth</key>
+	<string>semanticExceptionEdge</string>
+	<key>pinchableCaptionContrast</key>
+	<string>multiControllerVisibility</string>
+	<key>semanticConfigurationScale</key>
+	<string>mediocreSliderCenter</string>
+	<key>tweenByKind</key>
+	<string>textDuringState</string>
+</dict>
+</plist>

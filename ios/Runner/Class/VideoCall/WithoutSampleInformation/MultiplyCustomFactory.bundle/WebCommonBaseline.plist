@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistStateCenter</key>
+	<string>priorityTierValidation</string>
+	<key>checklistStateEdge</key>
+	<string>indicatorPrototypeSaturation</string>
+	<key>deferredHashFrequency</key>
+	<string>lazyGroupOffset</string>
+	<key>expandedScopeRotation</key>
+	<string>expandedPlatformTag</string>
+	<key>inheritedCapacitiesDistance</key>
+	<string>sessionKindFeedback</string>
+	<key>requiredEventType</key>
+	<string>elasticDescriptionState</string>
+	<key>singletonInsideVar</key>
+	<string>customEntityOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocParameterOrientation</key>
+	<string>flexibleRowResponse</string>
+	<key>mediumAspectVisibility</key>
+	<string>controllerPerAction</string>
+	<key>metadataLevelDepth</key>
+	<string>containerThanMode</string>
+	<key>respectiveColumnDirection</key>
+	<string>queueCycleType</string>
+	<key>specifierValueLeft</key>
+	<string>euclideanLayoutInset</string>
+	<key>switchModeVisible</key>
+	<string>ignoredDependencyResponse</string>
+</dict>
+</plist>

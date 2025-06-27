@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaSingletonInset</key>
+	<string>sceneOperationHead</string>
+	<key>animatedCoordinatorSkewy</key>
+	<string>semanticMaterialOffset</string>
+	<key>effectViaVariable</key>
+	<string>responsiveTweenSaturation</string>
+	<key>imperativePresenterCenter</key>
+	<string>spriteOfStage</string>
+	<key>managerDecoratorOrientation</key>
+	<string>animatedcontainerWithDecorator</string>
+	<key>rapidTaskTop</key>
+	<string>stateOutsideSystem</string>
+	<key>reducerWorkDirection</key>
+	<string>concurrentErrorMomentum</string>
+</dict>
+</plist>

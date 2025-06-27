@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryBridgeOrientation</key>
+	<string>mobileAssetMargin</string>
+	<key>drawerBridgeDuration</key>
+	<string>baselineAgainstWork</string>
+	<key>interactiveRouterBrightness</key>
+	<string>gridviewOrPattern</string>
+	<key>reactiveOverlayCoord</key>
+	<string>decorationThanSystem</string>
+	<key>resourceOperationSize</key>
+	<string>missedStateFormat</string>
+	<key>usecaseActionMomentum</key>
+	<string>largeReferenceFormat</string>
+</dict>
+</plist>

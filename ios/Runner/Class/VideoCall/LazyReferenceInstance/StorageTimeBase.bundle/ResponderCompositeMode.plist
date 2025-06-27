@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationThanMethod</key>
+	<string>layoutFromPlatform</string>
+	<key>cartesianSampleAcceleration</key>
+	<string>rectMementoOpacity</string>
+	<key>exceptionDuringMediator</key>
+	<string>arithmeticKindVisible</string>
+	<key>overlayLayerInset</key>
+	<string>baseStructureEdge</string>
+	<key>smartGestureOrientation</key>
+	<string>animationBufferDistance</string>
+</dict>
+</plist>

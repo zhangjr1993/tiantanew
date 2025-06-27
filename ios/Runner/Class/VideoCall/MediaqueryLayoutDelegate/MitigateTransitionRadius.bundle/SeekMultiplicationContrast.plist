@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionNearFlyweight</key>
+	<string>signUntilBridge</string>
+	<key>layoutProxyCoord</key>
+	<string>flexibleCommandCoord</string>
+	<key>persistentTimerForce</key>
+	<string>momentumContextType</string>
+	<key>statefulModalInset</key>
+	<string>sharedLayoutBottom</string>
+	<key>transitionValueTag</key>
+	<string>futureAdapterForce</string>
+</dict>
+</plist>

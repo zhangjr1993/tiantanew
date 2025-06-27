@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBeyondScope</key>
+	<string>statefulAllocatorIndex</string>
+	<key>cacheDuringFunction</key>
+	<string>reducerTypeLocation</string>
+	<key>frameModeDelay</key>
+	<string>positionedFromOperation</string>
+	<key>oldObserverValidation</key>
+	<string>optionDecoratorEdge</string>
+	<key>storeOrMode</key>
+	<string>builderContextTension</string>
+	<key>threadPerType</key>
+	<string>accessoryDuringOperation</string>
+</dict>
+</plist>

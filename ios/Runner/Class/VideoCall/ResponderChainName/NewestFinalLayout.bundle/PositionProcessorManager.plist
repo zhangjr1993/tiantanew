@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFormAcceleration</key>
+	<string>mobxAgainstProcess</string>
+	<key>cardMediatorBehavior</key>
+	<string>newestStampVisible</string>
+	<key>decorationIncludeMediator</key>
+	<string>accessibleCapsuleCenter</string>
+	<key>notifierOutsideBuffer</key>
+	<string>normalCallbackMode</string>
+	<key>parallelAppbarTint</key>
+	<string>indicatorPrototypeMode</string>
+	<key>prismaticAxisBehavior</key>
+	<string>materialNavigationState</string>
+	<key>serviceInChain</key>
+	<string>cubitPrototypeTail</string>
+</dict>
+</plist>

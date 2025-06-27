@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOutsideStrategy</key>
+	<string>primaryAsyncFeedback</string>
+	<key>composableCompleterBottom</key>
+	<string>textViaAction</string>
+	<key>controllerAndMemento</key>
+	<string>animationOperationRotation</string>
+	<key>cupertinoNodeStyle</key>
+	<string>imageDespiteTemple</string>
+	<key>listviewJobBorder</key>
+	<string>switchWithoutLayer</string>
+	<key>positionedTemplePressure</key>
+	<string>nodeParamBottom</string>
+	<key>routeDecoratorBehavior</key>
+	<string>injectionInterpreterTheme</string>
+	<key>rowParameterVelocity</key>
+	<string>multiFragmentAlignment</string>
+</dict>
+</plist>

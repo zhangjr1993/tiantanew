@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorExceptStage</key>
+	<string>asyncActivityBorder</string>
+	<key>finalAllocatorMomentum</key>
+	<string>liteNormBehavior</string>
+	<key>pageviewFunctionBrightness</key>
+	<string>pageviewSingletonOrigin</string>
+	<key>requestStageOrigin</key>
+	<string>responseLikeScope</string>
+</dict>
+</plist>

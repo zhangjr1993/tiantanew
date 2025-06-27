@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEnvironmentRight</key>
+	<string>behaviorContainLevel</string>
+	<key>callbackMediatorSpeed</key>
+	<string>errorLevelPadding</string>
+	<key>enabledPositionMode</key>
+	<string>unsortedStateAppearance</string>
+	<key>requestByScope</key>
+	<string>prevKernelStatus</string>
+	<key>resourceTaskValidation</key>
+	<string>heapCompositeTheme</string>
+	<key>touchDuringProcess</key>
+	<string>storyboardSinceFlyweight</string>
+</dict>
+</plist>

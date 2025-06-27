@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityForShape</key>
+	<string>labelPhaseCenter</string>
+	<key>beginnerObserverPressure</key>
+	<string>notifierFacadeFrequency</string>
+	<key>characterAgainstBridge</key>
+	<string>cupertinoFuturePadding</string>
+	<key>easyStackValidation</key>
+	<string>mainTransitionMargin</string>
+	<key>entityExceptProcess</key>
+	<string>tickerParamValidation</string>
+	<key>navigatorAroundMethod</key>
+	<string>usageVariableInset</string>
+	<key>textureAwayObserver</key>
+	<string>bufferExceptCycle</string>
+</dict>
+</plist>

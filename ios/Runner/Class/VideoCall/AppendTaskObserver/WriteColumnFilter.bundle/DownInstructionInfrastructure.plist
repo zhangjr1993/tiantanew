@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseBlocAppearance</key>
+	<string>criticalArithmeticMargin</string>
+	<key>isolateScopeTheme</key>
+	<string>shaderVarTheme</string>
+	<key>tableAdapterVelocity</key>
+	<string>movementAdapterDirection</string>
+	<key>taskContextStatus</key>
+	<string>disparateTickerSkewy</string>
+</dict>
+</plist>

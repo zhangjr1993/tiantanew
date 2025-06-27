@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardUntilLevel</key>
+	<string>builderAndMediator</string>
+	<key>enabledUtilResponse</key>
+	<string>geometricFrameCount</string>
+	<key>interactiveSceneOffset</key>
+	<string>capsuleLikeEnvironment</string>
+	<key>mainLayoutEdge</key>
+	<string>localizationInsideEnvironment</string>
+	<key>notificationIncludeChain</key>
+	<string>persistentStreamForce</string>
+	<key>specifierInJob</key>
+	<string>queueActivitySkewy</string>
+	<key>titleViaKind</key>
+	<string>checklistOperationLeft</string>
+	<key>widgetScopeInteraction</key>
+	<string>tableScopeColor</string>
+</dict>
+</plist>

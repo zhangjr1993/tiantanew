@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationInsideProxy</key>
+	<string>keyRepositoryValidation</string>
+	<key>convolutionContextForce</key>
+	<string>specifyResultDepth</string>
+	<key>gridviewFrameworkBehavior</key>
+	<string>resourceAmongPrototype</string>
+	<key>layerOrMethod</key>
+	<string>delegateBeyondLayer</string>
+	<key>modulusAwayLayer</key>
+	<string>requestAsForm</string>
+	<key>particleAtFacade</key>
+	<string>documentBridgeCount</string>
+	<key>referenceParameterTheme</key>
+	<string>sliderActionLocation</string>
+	<key>stateFrameworkVelocity</key>
+	<string>stackCommandInterval</string>
+</dict>
+</plist>

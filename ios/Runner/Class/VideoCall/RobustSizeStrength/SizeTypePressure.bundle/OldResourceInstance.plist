@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableTextBorder</key>
+	<string>gridviewFromPhase</string>
+	<key>dropdownbuttonTempleTail</key>
+	<string>asynchronousGrainTop</string>
+	<key>functionalCubitBorder</key>
+	<string>localTickerScale</string>
+	<key>interfaceByNumber</key>
+	<string>intermediateExtensionInterval</string>
+	<key>matrixVersusType</key>
+	<string>entityByChain</string>
+	<key>nativeDurationLeft</key>
+	<string>positionedProxyInset</string>
+	<key>scrollOrLevel</key>
+	<string>viewExceptComposite</string>
+	<key>secondEffectTail</key>
+	<string>errorVarEdge</string>
+	<key>widgetWorkFormat</key>
+	<string>skinCycleAcceleration</string>
+</dict>
+</plist>

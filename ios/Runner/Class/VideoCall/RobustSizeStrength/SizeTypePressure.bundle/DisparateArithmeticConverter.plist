@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureStyleOffset</key>
+	<string>viewTypeResponse</string>
+	<key>frameOfStage</key>
+	<string>responseObserverBrightness</string>
+	<key>immutableErrorDistance</key>
+	<string>sampleOutsideFramework</string>
+	<key>kernelProcessValidation</key>
+	<string>entropyAdapterMode</string>
+	<key>marginProxyState</key>
+	<string>nodeLevelEdge</string>
+	<key>mobileDependencyBehavior</key>
+	<string>eagerVariantBottom</string>
+	<key>publicLoopTop</key>
+	<string>textureParamValidation</string>
+	<key>symmetricRouterBehavior</key>
+	<string>descriptionAsMediator</string>
+	<key>unsortedNavigatorBehavior</key>
+	<string>inkwellBeyondStrategy</string>
+</dict>
+</plist>

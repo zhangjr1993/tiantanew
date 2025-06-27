@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationShapeSize</key>
+	<string>requiredBrushBehavior</string>
+	<key>richtextAndFunction</key>
+	<string>layoutViaObserver</string>
+	<key>routerVersusProcess</key>
+	<string>rowAroundTask</string>
+	<key>routerWithoutTier</key>
+	<string>ignoredViewLocation</string>
+	<key>screenThanWork</key>
+	<string>fusedInstructionName</string>
+	<key>substantialPopupStyle</key>
+	<string>keyActionDuration</string>
+	<key>switchDuringStage</key>
+	<string>controllerFromFunction</string>
+</dict>
+</plist>

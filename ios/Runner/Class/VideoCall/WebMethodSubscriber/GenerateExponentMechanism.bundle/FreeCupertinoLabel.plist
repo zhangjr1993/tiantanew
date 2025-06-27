@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCursorEdge</key>
+	<string>pageviewForPlatform</string>
+	<key>configurationDecoratorFrequency</key>
+	<string>largeCursorMode</string>
+	<key>featureModeVisibility</key>
+	<string>instructionWithoutCycle</string>
+	<key>futureDuringContext</key>
+	<string>richtextPhaseTop</string>
+	<key>graphContainProxy</key>
+	<string>tabbarProcessState</string>
+	<key>labelIncludeProxy</key>
+	<string>tweenBesideAction</string>
+	<key>semanticOverlayAlignment</key>
+	<string>imperativeInjectionResponse</string>
+	<key>textThroughPlatform</key>
+	<string>requestSinceStrategy</string>
+	<key>usageChainResponse</key>
+	<string>secondButtonRate</string>
+</dict>
+</plist>

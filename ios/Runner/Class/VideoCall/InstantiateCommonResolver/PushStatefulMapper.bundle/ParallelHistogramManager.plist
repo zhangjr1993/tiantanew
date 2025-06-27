@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStateSaturation</key>
+	<string>newestPositionedVelocity</string>
+	<key>blocParamBorder</key>
+	<string>positionStateShape</string>
+	<key>callbackBesideLayer</key>
+	<string>scrollBeyondParam</string>
+	<key>layoutExceptStrategy</key>
+	<string>heroLikeKind</string>
+	<key>presenterValueStyle</key>
+	<string>storeStructureDensity</string>
+	<key>stateInsideJob</key>
+	<string>scrollableBorderDepth</string>
+	<key>timerProcessRotation</key>
+	<string>baseTypeTag</string>
+	<key>titleAndMediator</key>
+	<string>hyperbolicRadiusSkewy</string>
+</dict>
+</plist>

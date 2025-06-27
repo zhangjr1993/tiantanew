@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleNearEnvironment</key>
+	<string>coordinatorLevelInteraction</string>
+	<key>cartesianUsecaseFlags</key>
+	<string>transitionProxySkewx</string>
+	<key>equalizationFromChain</key>
+	<string>textEnvironmentMode</string>
+	<key>instructionNumberSkewy</key>
+	<string>textfieldExceptContext</string>
+	<key>musicFormDistance</key>
+	<string>dimensionFromCommand</string>
+	<key>otherScrollInteraction</key>
+	<string>difficultPreviewDelay</string>
+	<key>semanticsStateOrigin</key>
+	<string>gestureActionStatus</string>
+	<key>statefulIsolateVisible</key>
+	<string>relationalDelegateRotation</string>
+	<key>timerExceptContext</key>
+	<string>textVariablePressure</string>
+</dict>
+</plist>

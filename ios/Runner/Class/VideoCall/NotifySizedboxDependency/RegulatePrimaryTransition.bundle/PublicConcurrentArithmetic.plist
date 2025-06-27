@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityModeStyle</key>
+	<string>equalizationLevelSpacing</string>
+	<key>lossBridgeLocation</key>
+	<string>factoryKindBrightness</string>
+	<key>navigatorContextBottom</key>
+	<string>mobileScopeContrast</string>
+	<key>permissiveHashMode</key>
+	<string>explicitMethodCount</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPresenterState</key>
+	<string>segmentWorkCoord</string>
+	<key>cardOrProxy</key>
+	<string>modulusEnvironmentOrigin</string>
+	<key>channelAmongCycle</key>
+	<string>advancedTabviewVisible</string>
+	<key>containerTypeAlignment</key>
+	<string>rowStrategyOrigin</string>
+	<key>decorationExceptLevel</key>
+	<string>routerOperationInset</string>
+	<key>specifyMediaqueryRate</key>
+	<string>mediaqueryModeFlags</string>
+	<key>tableVersusMediator</key>
+	<string>unactivatedListenerBehavior</string>
+</dict>
+</plist>

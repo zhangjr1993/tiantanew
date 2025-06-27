@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorBufferLocation</key>
+	<string>mobileMenuTail</string>
+	<key>featureContainValue</key>
+	<string>interactorPhaseSpeed</string>
+	<key>gestureViaProxy</key>
+	<string>matrixNumberFormat</string>
+	<key>textureBridgeOrigin</key>
+	<string>completionModeTop</string>
+</dict>
+</plist>

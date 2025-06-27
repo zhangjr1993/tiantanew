@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopExceptMode</key>
+	<string>entityAmongProcess</string>
+	<key>oldSpecifierFormat</key>
+	<string>primaryReducerAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsOperationRotation</key>
+	<string>dedicatedStatefulAppearance</string>
+	<key>discardedDecorationRate</key>
+	<string>symbolVarSaturation</string>
+	<key>grainLevelSpacing</key>
+	<string>sliderVersusEnvironment</string>
+	<key>sampleValueLeft</key>
+	<string>navigationSinceParameter</string>
+	<key>skirtVersusStyle</key>
+	<string>invisibleUsecaseTension</string>
+	<key>timerAgainstCycle</key>
+	<string>textAdapterFlags</string>
+</dict>
+</plist>

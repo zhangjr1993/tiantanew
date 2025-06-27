@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSystemDelay</key>
+	<string>finalNibSize</string>
+	<key>consultativeInteractorSpeed</key>
+	<string>requestActivityValidation</string>
+	<key>convolutionVersusFramework</key>
+	<string>usageContextCenter</string>
+	<key>loopVersusActivity</key>
+	<string>alignmentVariablePosition</string>
+	<key>mainChartTransparency</key>
+	<string>coordinatorKindTail</string>
+	<key>mobxContainStrategy</key>
+	<string>sequentialMaterialDistance</string>
+	<key>persistentMissionShape</key>
+	<string>actionWithoutActivity</string>
+	<key>tickerAlongCommand</key>
+	<string>textActionOrigin</string>
+</dict>
+</plist>

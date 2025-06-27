@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetBesideStyle</key>
+	<string>elasticLossStyle</string>
+	<key>beginnerCaptionInset</key>
+	<string>queryContextBrightness</string>
+	<key>checkboxAgainstProxy</key>
+	<string>unaryThroughTask</string>
+	<key>consumerInProxy</key>
+	<string>statelessProgressbarValidation</string>
+	<key>gesturedetectorInterpreterIndex</key>
+	<string>textEnvironmentTint</string>
+	<key>nibWithContext</key>
+	<string>graphActivityValidation</string>
+	<key>rowAsWork</key>
+	<string>uniqueTernaryTint</string>
+	<key>signatureJobSpacing</key>
+	<string>directClipperIndex</string>
+</dict>
+</plist>

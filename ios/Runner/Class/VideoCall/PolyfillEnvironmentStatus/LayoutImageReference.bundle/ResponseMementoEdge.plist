@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerContainValue</key>
+	<string>controllerByPattern</string>
+	<key>permanentInterpolationStyle</key>
+	<string>awaitViaFlyweight</string>
+	<key>previewIncludeFlyweight</key>
+	<string>petBufferKind</string>
+	<key>radiusStyleTransparency</key>
+	<string>decorationWithoutPattern</string>
+	<key>reactiveBatchCount</key>
+	<string>seamlessTextLeft</string>
+	<key>transitionByOperation</key>
+	<string>remainderByVisitor</string>
+	<key>tweenChainBorder</key>
+	<string>metadataForKind</string>
+</dict>
+</plist>

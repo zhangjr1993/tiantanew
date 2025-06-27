@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentBridgeOpacity</key>
+	<string>challengeBridgeTop</string>
+	<key>resourceAwayMediator</key>
+	<string>assetNearPlatform</string>
+	<key>responsiveLayerVelocity</key>
+	<string>hierarchicalKernelTheme</string>
+	<key>sinkContainVar</key>
+	<string>unactivatedAllocatorTheme</string>
+	<key>textureOrMediator</key>
+	<string>asynchronousGrayscaleState</string>
+</dict>
+</plist>

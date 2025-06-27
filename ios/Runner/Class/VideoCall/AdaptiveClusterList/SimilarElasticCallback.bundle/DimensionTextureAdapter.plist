@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDialogsFrequency</key>
+	<string>pageviewAndStage</string>
+	<key>durationMementoColor</key>
+	<string>missedDecorationName</string>
+	<key>grayscaleAgainstPhase</key>
+	<string>dynamicFrameColor</string>
+	<key>inheritedInjectionRotation</key>
+	<string>layoutTierFlags</string>
+	<key>playbackChainTransparency</key>
+	<string>appbarVisitorSkewx</string>
+	<key>usedPetBrightness</key>
+	<string>positionInsideObserver</string>
+</dict>
+</plist>

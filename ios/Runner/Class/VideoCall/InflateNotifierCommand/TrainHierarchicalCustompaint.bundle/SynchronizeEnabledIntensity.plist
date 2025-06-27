@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeNodeOrigin</key>
+	<string>publicDescriptorShade</string>
+	<key>deferredRoleFlags</key>
+	<string>cupertinoSubpixelRate</string>
+	<key>enabledFutureDelay</key>
+	<string>robustMethodRate</string>
+	<key>lazySubpixelValidation</key>
+	<string>granularConstraintVisibility</string>
+	<key>mobxPatternDistance</key>
+	<string>deferredShaderVisible</string>
+	<key>taskByActivity</key>
+	<string>baseValueLocation</string>
+</dict>
+</plist>

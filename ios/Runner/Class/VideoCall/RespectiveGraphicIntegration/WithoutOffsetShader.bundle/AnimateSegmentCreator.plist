@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFlyweightShape</key>
+	<string>modelObserverSpacing</string>
+	<key>asyncAllocatorBrightness</key>
+	<string>graphicAgainstStrategy</string>
+	<key>canvasStateBrightness</key>
+	<string>layoutCommandDistance</string>
+	<key>movementVisitorDistance</key>
+	<string>basicLayoutSkewy</string>
+	<key>rapidLabelTransparency</key>
+	<string>contractionContextInteraction</string>
+	<key>reducerProxyTension</key>
+	<string>allocatorOperationState</string>
+	<key>slashContextTransparency</key>
+	<string>layoutAlongAdapter</string>
+	<key>tabbarWorkSaturation</key>
+	<string>layoutCommandRight</string>
+</dict>
+</plist>

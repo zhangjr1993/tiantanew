@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderByMethod</key>
+	<string>cupertinoRadioSpeed</string>
+	<key>collectionLayerState</key>
+	<string>granularRoleTint</string>
+	<key>dependencyThroughBridge</key>
+	<string>sequentialRequestTag</string>
+	<key>nextTabbarAppearance</key>
+	<string>invisibleStreamEdge</string>
+	<key>offsetEnvironmentRate</key>
+	<string>appbarNearInterpreter</string>
+	<key>scaleOfBuffer</key>
+	<string>completerWithBridge</string>
+</dict>
+</plist>

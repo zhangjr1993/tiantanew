@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAroundContext</key>
+	<string>nibLikeVariable</string>
+	<key>completerAsPattern</key>
+	<string>loopContextTheme</string>
+	<key>interactorInFunction</key>
+	<string>associatedChapterRight</string>
+	<key>otherCubitCoord</key>
+	<string>disabledLayerColor</string>
+</dict>
+</plist>
