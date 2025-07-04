@@ -1,6 +1,0 @@
-framework module HCHollyOC {
-  umbrella header "HCHollyOC-umbrella.h"
-
-  export *
-  module * { export * }
-}
