@@ -32,7 +32,7 @@ extension PhotoPickerController: PHPhotoLibraryChangeObserver {
                     for: changeInstance,
                     assetCollection: assetCollection
                 )
-                if !needReload, assetCollection.isSelected {
+                if !needReload {
                     needReload = hasChanges
                 }
             }
@@ -42,17 +42,9 @@ extension PhotoPickerController: PHPhotoLibraryChangeObserver {
                 if self.fetchData.cameraAssetCollection?.collection == nil {
                     self.fetchData.fetchCameraAssetCollection()
                 }else {
-                    let captureTime = PhotoManager.shared.pickerCaptureTime
-                    if captureTime > 0 {
-                        let time = Date().timeIntervalSince1970 - captureTime
-                        if time > 1 {
-                            self.reloadData(assetCollection: nil)
-                        }
-                        PhotoManager.shared.pickerCaptureTime = 0
-                    }else {
-                        self.reloadData(assetCollection: nil)
-                    }
+                    self.reloadData(assetCollection: nil)
                 }
+                self.fetchData.fetchAssetCollections()
             }
         }
     }
@@ -61,25 +53,17 @@ extension PhotoPickerController: PHPhotoLibraryChangeObserver {
         for changeInstance: PHChange,
         assetCollection: PhotoAssetCollection
     ) -> Bool {
-        guard let result = assetCollection.result else {
+        guard let resultCollection = assetCollection.collection else {
             if assetCollection == self.fetchData.cameraAssetCollection {
                 return true
             }
             return false
         }
-        if let changeResult  = changeInstance.changeDetails(for: result) {
-            if changeResult.insertedObjects.isEmpty, changeResult.removedObjects.isEmpty {
-                return false
-            }
-            let fetchAssetCollection = fetchData.config.fetchAssetCollection
-            fetchAssetCollection.enumerateAllAlbums(options: nil) { collection, _, stop in
-                if collection.localIdentifier == assetCollection.collection?.localIdentifier {
-                    assetCollection.collection = collection
-                    stop.initialize(to: true)
-                }
-            }
-            assetCollection.result = changeResult.fetchResultAfterChanges
-            assetCollection.count = changeResult.fetchResultAfterChanges.count
+        
+        if let changeResult: PHObjectChangeDetails = changeInstance.changeDetails(for: resultCollection),
+           let collection = changeResult.objectAfterChanges {
+            assetCollection.collection = collection
+            assetCollection.fetchResult()
             if assetCollection.count == 0 {
                 assetCollection.update(
                     albumName: .textManager.picker.albumList.emptyAlbumName.text,

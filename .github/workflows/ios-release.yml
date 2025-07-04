@@ -11,11 +11,11 @@ jobs:
     runs-on: macos-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2
 
-      - uses: subosito/flutter-action@v2
+      - uses: subosito/flutter-action@v1
         with:
-          flutter-version: '3.32.5'
+          flutter-version: '3.29.0'
           
 
       # 添加 Xcode 版本选择
@@ -25,7 +25,7 @@ jobs:
       - name: Setup Flutter Environment
         run: |
           flutter clean
-          flutter pub upgrade
+          flutter pub get
           
        # 清除 Xcode 缓存
       - name: Clean Xcode Cache
@@ -35,13 +35,13 @@ jobs:
           rm -rf ~/Library/Developer/Xcode/Archives
           rm -rf ~/Library/Developer/Xcode/Products
 
-      - name: Setup CocoaPods
-        run: |
-            cd ios
-            rm -rf Pods
-            rm -rf Podfile.lock
-            pod install --repo-update
-            cd ..
+#      - name: Setup CocoaPods
+#        run: |
+#            cd ios
+#            rm -rf Pods
+#            rm -rf Podfile.lock
+#            pod install --repo-update
+#            cd ..
 
     
 #       添加详细的环境信息调试步骤
@@ -110,14 +110,14 @@ jobs:
 #          done
 
    
-      - name: Upload to App Store using altool
-        env:
-          IPA_PATH: "build/ios/ipa/tianta.ipa"
-          APPLE_ID: "jsdpx5170@outlook.com"
-          APP_SPECIFIC_PASSWORD: "airs-lyxf-boib-dpml"
-        run: |
-          xcrun altool --upload-app -f "$IPA_PATH" \
-            -t ios \
-            -u "$APPLE_ID" \
-            -p "$APP_SPECIFIC_PASSWORD" \
-            --verbose
+#      - name: Upload to App Store using altool
+#        env:
+#          IPA_PATH: "build/ios/ipa/tianta.ipa"
+#          APPLE_ID: "jsdpx5170@outlook.com"
+#          APP_SPECIFIC_PASSWORD: "airs-lyxf-boib-dpml"
+#        run: |
+#          xcrun altool --upload-app -f "$IPA_PATH" \
+#            -t ios \
+#            -u "$APPLE_ID" \
+#            -p "$APP_SPECIFIC_PASSWORD" \
+#            --verbose

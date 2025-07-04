@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/Users/tmp/Desktop/flutter
-FLUTTER_APPLICATION_PATH=/Users/tmp/Desktop/tianta
+FLUTTER_ROOT=/Users/hemming/Flutter/flutter
+FLUTTER_APPLICATION_PATH=/Users/hemming/Documents/Work/WorkGit/tmm
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
