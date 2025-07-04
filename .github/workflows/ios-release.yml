@@ -44,13 +44,13 @@ jobs:
           rm -rf ~/Library/Developer/Xcode/iOS\ DeviceSupport
           rm -rf ~/Library/Developer/Xcode/Archives
           rm -rf ~/Library/Developer/Xcode/Products
-      - name: Setup CocoaPods
-        run: |
-            cd ios
-            rm -rf Pods
-            rm -rf Podfile.lock
-            pod install --repo-update
-            cd ..
+#      - name: Setup CocoaPods
+#        run: |
+#            cd ios
+#            rm -rf Pods
+#            rm -rf Podfile.lock
+#            pod install --repo-update
+#            cd ..
         
     
 #       添加详细的环境信息调试步骤
