@@ -12,6 +12,8 @@ class RunUserManager: NSObject {
 
     var aiList: [AICharacterInfoModel] = []
     
+    var isEnableNet = false
+    
     func loadAiListData() {
         guard let url = Bundle.main.url(forResource: "aiList", withExtension: "geojson"),
               let data = try? Data(contentsOf: url),

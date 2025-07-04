@@ -29,6 +29,7 @@ pod 'IQKeyboardManagerSwift'
 pod 'SmartCodable'
 pod 'SnapKit'
 
+pod 'ReachabilitySwift', '~> 5.2.4'
 
 pod 'ProgressHUD'
 

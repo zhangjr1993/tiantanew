@@ -1,6 +1,7 @@
 import UIKit
 import Flutter
 import AppTrackingTransparency
+import Reachability
 
 @main
 class AppDelegate: FlutterAppDelegate {
@@ -8,6 +9,7 @@ class AppDelegate: FlutterAppDelegate {
     
     // 网络监听
     var reachability: Reachability?
+    
     
     override func application(
         _ application: UIApplication,
@@ -45,7 +47,7 @@ class AppDelegate: FlutterAppDelegate {
     }
   
     
-    private func setupProgressHUD() -> Bool {
+    private func setupProgressHUD()  {
         ProgressHUD.fontBannerTitle = UIFont.systemFont(ofSize: 16, weight: .medium)
         ProgressHUD.fontBannerMessage = UIFont.systemFont(ofSize: 14, weight: .medium)
         ProgressHUD.colorBannerMessage = UIColor.hexStr("#FF6EC8").withAlphaComponent(0.85)
@@ -54,25 +56,25 @@ class AppDelegate: FlutterAppDelegate {
     
     private func setupHXConfig() {
         let config = HXPickerConfig()
-        config.basicConfig()
+        let _ = config.basicConfig()
     }
     
     private func setupNetReachability()  {
         reachability!.whenReachable = { reach in
             switch reach.connection {
             case .wifi, .cellular:
-                printLog(message: "Network reachable \(reach.connection)")
+                RunUserManager.shared.isEnableNet = false
             default:
-                printLog(message: "Network not reachable")
+                RunUserManager.shared.isEnableNet = true
             }
         }
         reachability!.whenUnreachable = { _ in
-            printLog(message: "Not reachable")
+            RunUserManager.shared.isEnableNet = false
         }
         do {
             try reachability!.startNotifier()
         } catch {
-            printLog(message: "Unable to start notifier")
+            print("not net")
         }
     }
     
