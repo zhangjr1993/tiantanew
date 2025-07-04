@@ -42,7 +42,7 @@ target 'Runner' do
   use_frameworks!
   use_modular_headers!
   base_pods
-  pod 'LooseCore',    :path => 'LocalPods/LooseCore'  # YYKit
+#  pod 'LooseCore',    :path => 'LocalPods/LooseCore'  # YYKit
 
   
   flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
@@ -56,18 +56,18 @@ post_install do |installer|
     end
     flutter_additional_ios_build_settings(target)
   end
-  bitcode_strip_path = `xcrun --find bitcode_strip`.chop!
-  def strip_bitcode_from_framework(bitcode_strip_path, framework_relative_path)
-    framework_path = File.join(Dir.pwd, framework_relative_path)
-    command = "#{bitcode_strip_path} #{framework_path} -r -o #{framework_path}"
-    puts "Stripping bitcode: #{command}"
-    system(command)
-  end
-  framework_paths = [
-    "/Pods/TXIMSDK_Plus_iOS_Bitcode/ImSDK_Plus.framework/ImSDK_Plus",
-  ]
-  framework_paths.each do |framework_relative_path|
-    strip_bitcode_from_framework(bitcode_strip_path, framework_relative_path)
-  end
+#  bitcode_strip_path = `xcrun --find bitcode_strip`.chop!
+#  def strip_bitcode_from_framework(bitcode_strip_path, framework_relative_path)
+#    framework_path = File.join(Dir.pwd, framework_relative_path)
+#    command = "#{bitcode_strip_path} #{framework_path} -r -o #{framework_path}"
+#    puts "Stripping bitcode: #{command}"
+#    system(command)
+#  end
+#  framework_paths = [
+#    "/Pods/TXIMSDK_Plus_iOS_Bitcode/ImSDK_Plus.framework/ImSDK_Plus",
+#  ]
+#  framework_paths.each do |framework_relative_path|
+#    strip_bitcode_from_framework(bitcode_strip_path, framework_relative_path)
+#  end
 
 end
