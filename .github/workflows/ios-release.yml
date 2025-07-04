@@ -3,7 +3,7 @@ name: Build and Distribute
 on:
   push:
     branches:
-      - main
+      - 1.2.0
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
 
       - uses: subosito/flutter-action@v1
         with:
-          flutter-version: '3.29.0'
+          flutter-version: '3.24.4'
           
 
       # 添加 Xcode 版本选择
